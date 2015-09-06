@@ -34,7 +34,8 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PACOTE MEO",[COLOR lawngreen] RTP INTERNACIONAL [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRASILEIROS",[COLOR lawngreen] BRASIL INTERNACIONAL [/COLOR][COLOR red] NEW[/COLOR]
-rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1 swfUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/mediaelement/flashmediaelement.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/wtv-embed.php?origem=webtv
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PACOTE MEO",[COLOR lawngreen] SIC HQ [/COLOR]
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
 
@@ -89,9 +90,6 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3
 #EXTINF:-1 tvg-id="" tvg-logo="Al Jazeera.png" group-title="PACOTE MEO",[COLOR lawngreen] ALJAZEERA (usa) [/COLOR][COLOR red] [/COLOR]
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Rede TV HD.png" group-title="PACOTE MEO",[COLOR lawngreen] REDE TV [/COLOR][COLOR red] NEW [/COLOR]
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="euronewss.jpg" group-title="PACOTE MEO",[COLOR lawngreen] EURONEWS [/COLOR]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 #EXTINF:-1 tvg-id="EuroNews" tvg-logo="euronewss.jpg" group-title="PACOTE MEO",[COLOR lawngreen] EURONEWS [/COLOR]
@@ -114,7 +112,7 @@ rtmp://31.220.2.56/pull/ playpath=barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q-&keyt=14
 
 #EXTINF:-1 tvg-id="caçaepesca" tvg-logo="cacapesca-v1.png" group-title="PACOTE MEO",[COLOR lawngreen] CAÇA & PESCA [/COLOR][COLOR red] TEST [/COLOR]
 http://4.31.30.159:9096
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="Caca e Pesca.png" group-title="PACOTE MEO",[COLOR lawngreen] CAZA & PESCA [/COLOR][COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="PACOTE MEO",[COLOR lawngreen] CAZA & PESCA [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.0.200/pull/ playpath=iberalia1212?keys=L-tMqiXY_FOiiG4_92OVEQ&keyt=1439951200 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PACOTE MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=1440251962 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
@@ -130,12 +128,20 @@ http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 http://tvdofuturo2.dyndns.tv:8000/live/lucia/lucia1/142.ts
 #EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC1 [/COLOR][COLOR red] TEST [/COLOR]
 http://satznt.mine.nu:7003/tvc1
+#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC1 (2opçao) [/COLOR][COLOR red] TEST [/COLOR]
+http://iptv-pt.no-ip.net:8000/live/ptbrvirtual.com/6JIUmSO8RU/24.m3u8
 #EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC2 [/COLOR][COLOR red] TEST [/COLOR]
 http://satznt.mine.nu:7001/tvc2
+#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC2 (2opçao) [/COLOR][COLOR red] TEST [/COLOR]
+http://iptv-pt.no-ip.net:8000/live/ptbrvirtual.com/6JIUmSO8RU/25.m3u8
+
 #EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC3 [/COLOR][COLOR red] TEST [/COLOR]
 http://satznt.mine.nu:7003/tvc3
+
 #EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC4 [/COLOR][COLOR red] TEST [/COLOR]
 http://satznt.mine.nu:7001/tvc4
+#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC4 (2opçao) [/COLOR][COLOR red] TEST [/COLOR]
+http://iptv-pt.no-ip.net:8000/live/ptbrvirtual.com/6JIUmSO8RU/24.m3u8
 
 #EXTINF:-1 tvg-id="canalpanda.pt" tvg-logo="canal_panda_pt.png" group-title="INFANTIL",[COLOR lawngreen] CANAL PANDA [/COLOR][COLOR red] TEST [/COLOR]
 http://tvdofuturo2.dyndns.tv:8000/live/lucia/lucia1/3.ts
@@ -209,7 +215,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="odisseia.pt" tvg-logo="odisseia-ver1.png" group-title="PACOTE MEO",[COLOR lawngreen] ODISSEIA PT [/COLOR][COLOR red] OFF [/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR gray91][B]ALTERNATIVOS PT MEO/NOS [/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR gray91][B]ALTERNATIVOS MEO | NOS[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="CBeebies.png" group-title="INFANTIL",[COLOR lawngreen] CBEEBIES (uk) [/COLOR]
@@ -328,7 +334,7 @@ http://tvdofuturo2.dyndns.tv:8000/live/lucia/lucia1/48.ts
 #EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 [/COLOR][COLOR red] ON [/COLOR]
 rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x/magellan
 
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1,2,SPORTV3 [/COLOR][COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen] BTV | SPORTV3 [/COLOR][COLOR red] ON [/COLOR]
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 
 #EXTINF:-1 tvg-logo="Eurosport 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]EUROSPORT 2 [/B][/I][/COLOR]
@@ -805,7 +811,7 @@ rtmp://srv6.zoeweb.tv/z821-live/stream2
 http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] TV BRASIL [/COLOR]
-http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1 swfUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/mediaelement/flashmediaelement.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/wtv-embed.php?origem=webtv
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] GAZETA TV [/COLOR]
 http://shflash.directradios.com:1935/gazeta3/stream/PAZ_Chega_de_Guerras.m3u8#megaIPTVArgentina
