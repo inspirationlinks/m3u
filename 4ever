@@ -58,8 +58,17 @@ http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PACOTE MEO",[COLOR lawngreen] TVI 24 [/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="tvi_ficcao_pt.png" group-title="PACOTE MEO",[COLOR lawngreen] TVI FICÇÃO [/COLOR][COLOR red] TEST [/COLOR]
+http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="PORTUGAL",[COLOR lawngreen]CMTV[/COLOR][COLOR red] TEST [/COLOR]
+http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/643.m3u8
+
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="a_bola_tv_pt.png" group-title="PACOTE MEO",[COLOR lawngreen] A BOLA TV [/COLOR]
 rtmp://31.220.0.199/privatestream/ playpath=bolatv362e941?keys=0XvGQZg1Vh8f7mVhcCyUDw&keyt=1439139624 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/ timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="a_bola_tv_pt.png" group-title="PACOTE MEO",[COLOR lawngreen] A BOLA TV [/COLOR][COLOR red] TEST [/COLOR]
+http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/804.m3u8
+
 #EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="PACOTE MEO",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="TPA" tvg-logo="tpa.png" group-title="PACOTE MEO",[COLOR lawngreen] TPA [/COLOR]
@@ -162,6 +171,18 @@ http://37.187.160.187:8000/live/ressler/skype/66.ts
 
 #EXTINF:-1 tvg-id="Hollywood HD" tvg-logo="Hollywood.png" group-title="PACOTE MEO",[COLOR lawngreen] HOLLYWOOD PT [/COLOR][COLOR red] TEST [/COLOR]
 http://satznt.mine.nu:7001/hlw#sthash.v0IIWbBy.dpuf
+
+#EXTINF:-1 tvg-id="AXN.pt" tvg-logo="AXN.png" group-title="PACOTE MEO",[COLOR lawngreen] AXN PT [/COLOR][COLOR red] TEST [/COLOR]
+http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/801.m3u8
+
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-logo="AXN Black.png" group-title="PACOTE MEO",[COLOR lawngreen] AXN BLACK PT [/COLOR][COLOR red] TEST [/COLOR]
+http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/802.m3u8
+
+#EXTINF:-1 tvg-id="fox.pt" tvg-logo="fox1.png" group-title="PACOTE MEO",[COLOR lawngreen] FOX [/COLOR][COLOR red] TEST [/COLOR]
+http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/799.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-logo="The History Channel.png" group-title="PACOTE MEO",[COLOR lawngreen] HISTÓRIA PT [/COLOR][COLOR red] TEST [/COLOR]
+http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/812.m3u8
 
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR gray91][B]ALTERNATIVOS MEO | NOS[/B][/COLOR]
 http://0.0.0.0:1234
@@ -296,7 +317,7 @@ http://tvdofuturo2.dyndns.tv:8000/live/lucia/lucia1/48.ts
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/live.m3u8
 
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen] BTV 2 [/COLOR][COLOR red] ON [/COLOR]
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/live.m3u8
+http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/644.m3u8
 
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen] BTV | SPORTV3 [/COLOR][COLOR red] ON [/COLOR]
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
