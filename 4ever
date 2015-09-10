@@ -195,6 +195,9 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="PACOTE MEO",[COLOR lawngreen] CBS DRAMA (uk)  [/COLOR][COLOR red] TEST [/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/67.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="CANAL-+-1-Plus-HD.png" group-title="PACOTE MEO",[COLOR lawngreen] CANAL+ PLUS HD (esp)  [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://31.220.2.54/pull/canalplus560?keys=74gxaWmo-p-pXKpwznD_cw&keyt=1441292502 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
 #EXTINF:-1 tvg-id="" tvg-logo="CANAL-+-1-Plus-HD.png" group-title="PACOTE MEO",[COLOR lawngreen] CANAL+ PLUS (esp)  [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.104/pull playpath=canalplus560?keys=zmXhkbh6tugBKxydzB7z0A&keyt=1439945594 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
