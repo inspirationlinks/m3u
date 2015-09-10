@@ -195,6 +195,15 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="PACOTE MEO",[COLOR lawngreen] CBS DRAMA (uk)  [/COLOR][COLOR red] TEST [/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/67.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="CANAL-+-1-Plus-HD.png" group-title="PACOTE MEO",[COLOR lawngreen] CANAL+ PLUS (esp)  [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://31.220.0.104/pull playpath=canalplus560?keys=zmXhkbh6tugBKxydzB7z0A&keyt=1439945594 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+
+#EXTINF:-1 tvg-id="" tvg-logo="CANAL-+-1-Plus-HD.png" group-title="PACOTE MEO",[COLOR lawngreen] CANAL+ PLUS (esp)  [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://31.220.2.56/pull playpath=canalplus560?keys=x8GYlJmTm_JrmqPkqXDV7g&keyt=1439954414 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+
+#EXTINF:-1 tvg-id="fox.pt" tvg-logo="fox1.png" group-title="PACOTE MEO",[COLOR lawngreen] FOX (esp) [/COLOR]
+rtmp://31.220.0.12/pull/fox823?keys=YoUE_s4TZ0I8QtQxha5UEg&keyt=1441294311 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
 #EXTINF:-1 tvg-id="fox.pt" tvg-logo="fox1.png" group-title="PACOTE MEO",[COLOR lawngreen] FOX (chile) [/COLOR]
 http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 
@@ -210,11 +219,17 @@ rtmp://31.220.0.72/pull/ playpath=axn951?keys=Qou7NfiyezmNTdMiIRZvww&keyt=144041
 #EXTINF:-1 tvg-id="AXN" tvg-logo="axn_global.png" group-title="PACOTE MEO",[COLOR lawngreen] AXN  (esp) [/COLOR][COLOR red] ON[/COLOR]
 rtmp://31.220.2.50/pull/ playpath=axn951?keys=didJ58px2GKWkGZkMZ5xVw&keyt=1440030439 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php
 
+#EXTINF:-1 tvg-id="AXN" tvg-logo="axn_global.png" group-title="PACOTE MEO",[COLOR lawngreen] AXN  (mex) [/COLOR][COLOR red] ON[/COLOR]
+rtmp://31.220.0.206/pull/axn951?keys=6cwRukbNWaQdq1zsik0yJw&keyt=1441294493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
 #EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="AXN White.png" group-title="PACOTE MEO",[COLOR lawngreen] AXN WHITE (mex) [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.0.155/pull/ playpath=axnwhite854?keys=rYPzlNuTR1iaz2WUPH_UBQ&keyt=1440832928 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php
 
 #EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="AXN White.png" group-title="PACOTE MEO",[COLOR lawngreen] AXN WHITE (mex) [/COLOR][COLOR red] ON [/COLOR]
 rtmp://149.255.39.2/pull/ playpath=axnwhite854?keys=i9geHHyZuJS-_jLsuy2iig&keyt=1440626891 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php
+
+#EXTINF:-1 tvg-id="AMC.pt" tvg-logo="AMC HD.png" group-title="PACOTE MEO",[COLOR lawngreen] AMC (esp) [/COLOR][COLOR red] ON [/COLOR]
+rtmp://31.220.0.66/pull/amc36?keys=j9zsxDMfpwqcQoWjr_sX5w&keyt=1441293516 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-1 tvg-id="" tvg-logo="E! HD.png" group-title="PACOTE MEO",[COLOR lawngreen] E! (mex) [/COLOR][COLOR red][/COLOR]
 http://201.161.59.6/e.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
@@ -291,17 +306,12 @@ http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1 [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://46.246.29.138:1935/stream/ playpath=NdTBo1519y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x/magellan
 
+
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HD [/COLOR][COLOR red]by Filipe Silva  [/COLOR]
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/2.ts
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HQ [/COLOR][COLOR red]by Filipe Silva  [/COLOR]
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/1.ts
-
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HD [/COLOR][COLOR red] by Filipe Silva [/COLOR]
-http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
-
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HQ [/COLOR][COLOR red] by Filipe Silva [/COLOR]
-http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
 
 #EXTINF:-1 tvg-id="SPORT.TV 2" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 2 [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://46.246.29.138:1935/stream/ playpath=0qZBo1519y0yBojb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x/magellan
@@ -327,8 +337,14 @@ rtmp://46.246.29.138:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR][COLOR red] TEST [/COLOR]
 http://tvdofuturo2.dyndns.tv:8000/live/lucia/lucia1/48.ts
 
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 [/COLOR][COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HD [/COLOR][COLOR red] by Filipe Silva [/COLOR]
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/live.m3u8
+
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HD [/COLOR][COLOR red] by Filipe Silva [/COLOR]
+http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
+
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HQ [/COLOR][COLOR red] by Filipe Silva [/COLOR]
+http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
 
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen] BTV 2 [/COLOR][COLOR red] BY Filipe Silva [/COLOR]
 http://satznt.mine.nu:7001/btv2
@@ -336,11 +352,11 @@ http://satznt.mine.nu:7001/btv2
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen] BTV | SPORTV3 [/COLOR][COLOR red] ON [/COLOR]
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL + FUTBOL HD [/COLOR][COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL+ FUTBOL HD [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.2.54/pull playpath=liga932?keys=Kng36KzwQ5vF7DRY2HDnHg&keyt=1440872780 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
-#EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL+ (esp) [/COLOR][COLOR red] ON [/COLOR]
-rtmp://31.220.0.204/pull/ playpath=liga932?keys=PR3n5MEvDYWSAA8Eu7ktMw&keyt=1440872660 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/ conn=S:OK timeout=15
+#EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL+ liga [/COLOR][COLOR red] ON [/COLOR]
+rtmp://80.82.64.248/pull playpath=liga258?keys=Wwzm48irpZOkMrHb8dCOXg&keyt=1440925388&keyt=1440925388 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
 #EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL + DEPORTES (esp) [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.86/pull playpath=deportes1114?keys=_7_1D_XTUuHGCMIoIxdpPw&keyt=1441419796 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
