@@ -355,6 +355,9 @@ http://satznt.mine.nu:7001/btv2
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen] BTV | SPORTV3 [/COLOR][COLOR red] ON [/COLOR]
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="digisport.png" group-title="DESPORTO",[COLOR lawngreen] DIGI SPORT 3 [/COLOR]
+rtmp://62.210.105.179:80/liverepeater playpath=132686 swfUrl=http://cdn.deltatv.pw/players.swf live=1 pageUrl=http://deltatv.pw/stream.php?id=132686&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+
 #EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL+ FUTBOL HD [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.2.54/pull playpath=liga932?keys=Kng36KzwQ5vF7DRY2HDnHg&keyt=1440872780 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
@@ -619,6 +622,9 @@ rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
 
 #EXTINF:-1 tvg-id="" tvg-logo="digisport.png" group-title="DESPORTO",[COLOR lawngreen] DIGI SPORT 3 [/COLOR]
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+
+#EXTINF:-1 tvg-id="" tvg-logo="digisport.png" group-title="DESPORTO",[COLOR lawngreen] DIGI SPORT 3 [/COLOR]
+rtmp://62.210.105.179:80/liverepeater playpath=132686 swfUrl=http://cdn.deltatv.pw/players.swf live=1 pageUrl=http://deltatv.pw/stream.php?id=132686&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="TV GAMES",[COLOR lawngreen] HITBOX GAME PC [/COLOR]
 http://api.hitbox.tv/player/hls/ectvlol.m3u8
