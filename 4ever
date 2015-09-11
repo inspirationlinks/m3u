@@ -340,14 +340,17 @@ rtmp://46.246.29.138:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR][COLOR red] TEST [/COLOR]
 http://tvdofuturo2.dyndns.tv:8000/live/lucia/lucia1/48.ts
 
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HD [/COLOR][COLOR red] TEST[/COLOR]
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HD [/COLOR][COLOR red] by Filipe Silva [/COLOR]
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/live.m3u8
 
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HD [/COLOR][COLOR red] TEST[/COLOR]
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HD [/COLOR][COLOR red] by Filipe Silva [/COLOR]
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
 
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HQ [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HQ [/COLOR][COLOR red] by Filipe Silva [/COLOR]
 http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
+
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 SD [/COLOR]
+rtmp://www1.iguide.to/iguide playpath=m5x7pyi1sqakdvt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31636&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen] BTV 2 [/COLOR][COLOR red] BY Filipe Silva [/COLOR]
 http://satznt.mine.nu:7001/btv2
@@ -355,7 +358,7 @@ http://satznt.mine.nu:7001/btv2
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen] BTV | SPORTV3 [/COLOR][COLOR red] ON [/COLOR]
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BT SPORT ESPN SD [/COLOR][COLOR red] LIGA NOS [/COLOR]
+#EXTINF:-1 tvg-id="BTV 2" tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen] BT SPORT [/COLOR][COLOR red] ON NA HORA DO JOGO [/COLOR]
 rtmp://www1.iguide.to/iguide playpath=m5x7pyi1sqakdvt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31636&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:-1 tvg-id="" tvg-logo="digisport.png" group-title="DESPORTO",[COLOR lawngreen] DIGI SPORT 3 [/COLOR][COLOR red] Liga NOS [/COLOR]
