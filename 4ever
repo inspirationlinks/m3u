@@ -169,7 +169,10 @@ http://82.135.224.134:80/udp/239.100.3.5:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR magenta][B]PEDIDOS[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="Eurosport.png" group-title="PEDIDOS",[COLOR lawngreen][I][B]EUROSPORT (alemao)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PEDIDOS",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
+rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+
+#EXTINF:-1 tvg-logo="Eurosport.png" group-title="PEDIDOS",[COLOR lawngreen]EUROSPORT (alemao)[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 
 #EXTINF:-1 tvg-id="" tvg-logo="Motors TV.png" group-title="PEDIDOS",[COLOR lawngreen] MOTORS TV [/COLOR]
@@ -190,11 +193,29 @@ rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=144
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.200/pull playpath=toros8586?keys=XO3IP5P3DL8Y7UsZqg7gLg&keyt=1441422358 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 HD (polaco)[/COLOR][COLOR red] NEW [/COLOR]
+http://77.76.140.251/prgr.m3u8
+
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 HD (polaco)[/COLOR]
+http://77.76.140.251/prgt.m3u8
+
 #EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen][I][B]CIELO [/B][/I][/COLOR] 
 http://tvservice.broke-it.net:8000/live/jacques/jacques/246.ts
 
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PEDIDOS",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
-rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen]CTH STADIUM [/COLOR][COLOR red] NEW [/COLOR]
+http://103.7.56.114/vit2/stadium1new.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 1 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV1
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 2 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS
+plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream&mode=1&name=SPORT TV2
+
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 3 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS
+plugin://program.plexus/?mode=1&url=acestream://b923cbc40e196a6cd5ebb89243a797a60c9b6992&mode=1&name=acestream&mode=1&name=SPORT TV3
+
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="Sport TV 5.png" group-title="PEDIDOS",[COLOR lawngreen] SPORT TV 5 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS
+plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV5
 
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][I][B] DESPORTO PREMIUM [/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -271,11 +292,8 @@ rtmp://www1.iguide.to/iguide playpath=m5x7pyi1sqakdvt swfUrl=http://www.iguide.t
 #EXTINF:-1 tvg-id="" tvg-logo="digisport.png" group-title="DESPORTO",[COLOR lawngreen] DIGI SPORT 3 [/COLOR][COLOR red] Liga NOS [/COLOR]
 rtmp://62.210.105.179:80/liverepeater playpath=132686 swfUrl=http://cdn.deltatv.pw/players.swf live=1 pageUrl=http://deltatv.pw/stream.php?id=132686&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL HD [/COLOR][COLOR red]OFF LIGA NOS [/COLOR]
+#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL HD [/COLOR][COLOR red]OFF [/COLOR]
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL SD [/COLOR][COLOR red]OFF LIGA NOS [/COLOR]
-http://zizo-rtmp.ddns.net:8000/live/Alexa/Alexa/1865.ts
 
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen] TELEKANAL [/COLOR][COLOR red] LIGA NOS [/COLOR]
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
@@ -300,12 +318,6 @@ rtmp://31.220.2.55/pull playpath=deportes2525?keys=CO63AzQ0xTVF4Uv_vwqOVg&keyt=1
 
 #EXTINF:-1 tvg-logo="" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR][COLOR red] NEW [/COLOR]
 http://lag1.tv-mobile.org/prgr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 HD (polaco)[/COLOR][COLOR red] NEW [/COLOR]
-http://77.76.140.251/prgr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 HD (polaco)[/COLOR][COLOR red] NEW [/COLOR]
-http://77.76.140.251/prgt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 1 (uk) [/COLOR]
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
@@ -505,14 +517,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DESPORTO",[COLOR gray91][B] | VER NO PLAYLOADER | [/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV1
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream&mode=1&name=SPORT TV2
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://b923cbc40e196a6cd5ebb89243a797a60c9b6992&mode=1&name=acestream&mode=1&name=SPORT TV3
 
 #EXTINF:-1 tvg-logo="Desenhos.png" group-title="INFANTIL",[COLOR gray91][I][B] INFANTIS [/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -628,6 +633,9 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
+#EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ SPORT (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
+http://teleclub.fr/ch02.ts
 
 #EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ SPORT (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
 http://88.141.4.217:9004/4
