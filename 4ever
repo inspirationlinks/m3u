@@ -194,6 +194,12 @@ http://151.80.96.108/origin02/amlst:equipe-21-hd/chunklist_w1460352961_b800000.m
 #EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen]CTH STADIUM [/COLOR][COLOR red] NEW [/COLOR]
 http://103.7.56.114/vit2/stadium1new.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="TSN 2 HD.png" group-title="PEDIDOS",[COLOR lawngreen],TSN 2 [/COLOR][COLOR red] NEW [/COLOR]
+http://37.187.248.101:8080/tsn2.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="TSN HD.png" group-title="PEDIDOS",[COLOR lawngreen],TSN 5 [/COLOR][COLOR red] NEW [/COLOR]
+http://37.187.248.101:8080/tsn5.stream/index.m3u8
+
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 1 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV1
 
