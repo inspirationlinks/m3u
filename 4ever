@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |16.28H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |18.00H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -152,11 +152,8 @@ http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="CBeebies.png" group-title="INFANTIL",[COLOR lawngreen] CBEEBIES (uk) [/COLOR]
 http://82.135.224.134:80/udp/239.100.3.5:1234
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR magenta][B]PEDIDOS[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR magenta][B]| PEDIDOS |[/B][/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PEDIDOS",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
-rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
 #EXTINF:-1 tvg-logo="Eurosport.png" group-title="PEDIDOS",[COLOR lawngreen]EUROSPORT (alemao)[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
@@ -167,8 +164,20 @@ mms://100automoto.tv/100livesport
 #EXTINF:-1 tvg-id="" tvg-logo="Sky Sports F1.png" group-title="PEDIDOS",[COLOR lawngreen] SKY F1 [/COLOR][COLOR red] TEST[/COLOR]
 http://80.82.78.165:1935/live/sssf1/live.m3u8
 
-#EXTINF:-1 tvg-logo="ntv_spor.png" group-title="PEDIDOS",[COLOR lawngreen]NOVA SPOR (uk)[/COLOR]
+#EXTINF:-1 tvg-logo="ntv_spor.png" group-title="PEDIDOS",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
 http://lag1.tv-mobile.org/prgp.m3u8
+
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR][COLOR red] NEW [/COLOR]
+http://77.76.140.251/prgr.m3u8
+
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub (bulgaro)[/COLOR][COLOR red] NEW [/COLOR]
+http://lag1.tv-mobile.org/prgp21.ts
+
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
+http://77.76.140.251/prgt.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PEDIDOS",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
+rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="PEDIDOS",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.0.200/pull/ playpath=iberalia1212?keys=L-tMqiXY_FOiiG4_92OVEQ&keyt=1439951200 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
@@ -178,15 +187,6 @@ rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=144
 
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.200/pull playpath=toros8586?keys=XO3IP5P3DL8Y7UsZqg7gLg&keyt=1441422358 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR][COLOR red] NEW [/COLOR]
-http://77.76.140.251/prgr.m3u8
-
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub (bulgaro)[/COLOR][COLOR red] NEW [/COLOR]
-http://lag1.tv-mobile.org/prgp21.ts
-
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
-http://77.76.140.251/prgt.m3u8
 
 #EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen][I][B]CIELO [/B][/I][/COLOR] 
 http://tvservice.broke-it.net:8000/live/jacques/jacques/246.ts
