@@ -179,10 +179,13 @@ rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=144
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.200/pull playpath=toros8586?keys=XO3IP5P3DL8Y7UsZqg7gLg&keyt=1441422358 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 HD (polaco)[/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR][COLOR red] NEW [/COLOR]
 http://77.76.140.251/prgr.m3u8
 
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 HD (polaco)[/COLOR]
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub (bulgaro)[/COLOR][COLOR red] NEW [/COLOR]
+http://lag1.tv-mobile.org/prgp21.ts
+
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
 http://77.76.140.251/prgt.m3u8
 
 #EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen][I][B]CIELO [/B][/I][/COLOR] 
@@ -194,10 +197,10 @@ http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=1
 #EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen]CTH STADIUM [/COLOR][COLOR red] NEW [/COLOR]
 http://103.7.56.114/vit2/stadium1new.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="TSN 2 HD.png" group-title="PEDIDOS",[COLOR lawngreen],TSN 2 [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="TSN 2 HD.png" group-title="PEDIDOS",[COLOR lawngreen]TSN 2 [/COLOR][COLOR red] NEW [/COLOR]
 http://37.187.248.101:8080/tsn2.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="TSN HD.png" group-title="PEDIDOS",[COLOR lawngreen],TSN 5 [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="TSN HD.png" group-title="PEDIDOS",[COLOR lawngreen]TSN 5 [/COLOR][COLOR red] NEW [/COLOR]
 http://37.187.248.101:8080/tsn5.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 1 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS[/COLOR]
@@ -407,9 +410,6 @@ http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Poccnr 24.png" group-title="DESPORTO",[COLOR lawngreen] Россия 24 (ru) [/COLOR]
-http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][I][B] FUTEBOL BRASILEIRO [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
@@ -497,22 +497,11 @@ http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
 #EXTINF:-1 tvg-logo="fight.png" group-title="FIGHT & WWE",[COLOR gray91][I][B] CANAIS FIGHT & WWE [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sports2.png" group-title="FIGHT & WWE",[COLOR lawngreen] FOX SPORT 2 [/COLOR][COLOR red] transmite fight [/COLOR]
-http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
-
 #EXTINF:-1 tvg-id="" tvg-logo="Fighter_Russia-TV.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="wwe.png" group-title="FIGHT & WWE",[COLOR lawngreen] wrestling [/COLOR]
 http://188.93.94.46:80/boets/index.m3u8?token=w_6_G-EKvoq8no6sIwq-rFJMvE5vTzWolZRi4YrAykMmyXkU5plSKUSoGsY2C5ZqjpkVbHlhfZgEvf-GQM1S3w?hpg_disco
-
-#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS ACESTREAM [/B][/I][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DESPORTO",[COLOR gray91][B] | VER NO PLAYLOADER | [/B][/COLOR]
-http://0.0.0.0:1234
-
-
 
 #EXTINF:-1 tvg-logo="Desenhos.png" group-title="INFANTIL",[COLOR gray91][I][B] INFANTIS [/B][/I][/COLOR]
 http://0.0.0.0:1234
