@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |18.00H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |18.30H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -146,12 +146,6 @@ http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_3_av-p.m3u8?sd=10&re
 #EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="discovery pt.png" group-title="PACOTE MEO",[COLOR lawngreen] DISCOVERY (esp) [/COLOR][COLOR red][/COLOR]
 rtmp://31.220.0.200/pull/ playpath=discovery397?keys=rLBVTZoY5M880y-XcGXKAQ&keyt=1439949863 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=discovery397&width=600&height=450
 
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="discovery pt.png" group-title="PACOTE MEO",[COLOR lawngreen] DISCOVERY (br) [/COLOR][COLOR red]ON[/COLOR]
-http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/discovery.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="CBeebies.png" group-title="INFANTIL",[COLOR lawngreen] CBEEBIES (uk) [/COLOR]
-http://82.135.224.134:80/udp/239.100.3.5:1234
-
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR magenta][B]| PEDIDOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -191,6 +185,9 @@ http://lag1.tv-mobile.org/prgp21.ts
 #EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
 http://77.76.140.251/prgt.m3u8
 
+#EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3 HD  (polaco)[/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/727.ts
+
 #EXTINF:-1 tvg-logo="LEquipe-21.png" group-title="PEDIDOS",[COLOR lawngreen]Lequipe-21 (fr)[/COLOR][COLOR red] NEW [/COLOR]
 http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21
 
@@ -211,6 +208,20 @@ plugin://program.plexus/?mode=1&url=acestream://b923cbc40e196a6cd5ebb89243a797a6
 
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="Sport TV 5.png" group-title="PEDIDOS",[COLOR lawngreen] SPORT TV 5 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV5
+
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR magenta][B]| TEMPORARIOS |[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Arena Sport 1 HD (HR)
+http://streamitv.dyndns.org:19001/live/rokko/rokko/2035.ts
+#EXTINF:-1,Arena Sport 2 HD (HR)
+http://streamitv.dyndns.org:19001/live/rokko/rokko/2034.ts
+#EXTINF:-1,Arena Sport 3 HD (HR)
+http://streamitv.dyndns.org:19001/live/rokko/rokko/2033.ts
+#EXTINF:-1,Arena Sport 4 HD (HR)
+http://streamitv.dyndns.org:19001/live/rokko/rokko/2032.ts
+#EXTINF:-1,Arena Sport 5 HD (HR)
+http://streamitv.dyndns.org:19001/live/rokko/rokko/2031.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][I][B] DESPORTO PREMIUM [/B][/I][/COLOR]
 http://0.0.0.0:1234
