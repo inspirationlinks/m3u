@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |15.45H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |16.15H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -191,16 +191,16 @@ http://tvservice.broke-it.net:8000/live/jacques/jacques/246.ts
 #EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen]CTH STADIUM [/COLOR][COLOR red] NEW [/COLOR]
 http://103.7.56.114/vit2/stadium1new.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 1 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 1 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV1
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 2 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 2 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream&mode=1&name=SPORT TV2
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 3 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3.png" group-title="PEDIDOS",[COLOR lawngreen] SPORTV 3 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://b923cbc40e196a6cd5ebb89243a797a60c9b6992&mode=1&name=acestream&mode=1&name=SPORT TV3
 
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="Sport TV 5.png" group-title="PEDIDOS",[COLOR lawngreen] SPORT TV 5 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="Sport TV 5.png" group-title="PEDIDOS",[COLOR lawngreen] SPORT TV 5 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV5
 
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][I][B] DESPORTO PREMIUM [/B][/I][/COLOR]
@@ -804,7 +804,7 @@ rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="MUSICA",[COLOR gray91][I][B] CANAIS DE MUSICA [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="afro_music_channel.png" group-title="MUSICA",[COLOR lawngreen] Ocko TV [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="ocko-tv_cz.gif" group-title="MUSICA",[COLOR lawngreen] Ocko TV [/COLOR][COLOR red] NEW [/COLOR]
 http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".png" group-title="MUSICA",[COLOR lawngreen] Africa Music [/COLOR]
