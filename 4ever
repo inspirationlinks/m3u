@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |18.30H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |23.30H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -305,6 +305,9 @@ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-logo="FSC.jpg" group-title="DESPORTO",[COLOR lawngreen]FSC (usa)[/COLOR][COLOR red] [/COLOR]
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="DESPORTO",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
+http://srv6.zoeweb.tv:1935/z433-live/stream/IGOR_RANGEL.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DESPORTO",[COLOR gray91][B] | LIGAS EUROPEIAS | [/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -419,25 +422,8 @@ http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][I][B] FUTEBOL BRASILEIRO [/B][/I][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="Premiere.igor" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV (br) [/COLOR]
-http://62.210.88.232:1935/liverepeat/201020/livestream.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-id="Premiere.igor" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] PREMIERE 1 (br) [/COLOR]
-http://62.210.88.208:1935/liverepeat/fut09/live.m3u8
-
-#EXTINF:-1 tvg-id="Premiere.igor" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV (br) [/COLOR]
-http://62.210.88.232:1935/liverepeat/fut01/livestream.m3u8?BRASILIPTV 
-
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="DESPORTO",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
-http://srv6.zoeweb.tv:1935/z433-live/stream/IGOR_RANGEL.m3u8
-
-
 #EXTINF:-1 tvg-logo="Turquia.jpg" group-title="DESPORTO",[COLOR gray91][I][B] SPORT TURCO [/B][/I][/COLOR]
 http://0.0.0.0:1234
-
 
 #EXTINF:-1 tvg-logo="Sports tv turkey.jpg" group-title="DESPORTO",[COLOR lawngreen]SPORTV (turco)[/COLOR]
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
@@ -472,17 +458,12 @@ http://iptv.latino-webtv.com/fox-sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
 http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT1 [/COLOR]
-http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
-
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sports2.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 2 (mex) [/COLOR]
-http://iptv.latino-webtv.com/fox-sports-2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sports2.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 2 (mex) [/COLOR]
 http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sports2.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 2 (chile) [/COLOR]
 http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1 tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS ESPN [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
@@ -509,7 +490,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="Fighter_Russia-TV.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="wwe.png" group-title="FIGHT & WWE",[COLOR lawngreen] wrestling [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="wwe.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://188.93.94.46:80/boets/index.m3u8?token=w_6_G-EKvoq8no6sIwq-rFJMvE5vTzWolZRi4YrAykMmyXkU5plSKUSoGsY2C5ZqjpkVbHlhfZgEvf-GQM1S3w?hpg_disco
 
 #EXTINF:-1 tvg-logo="Desenhos.png" group-title="INFANTIL",[COLOR gray91][I][B] INFANTIS [/B][/I][/COLOR]
@@ -627,17 +608,17 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
-#EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ SPORT (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
 http://teleclub.fr/ch02.ts
 
 #EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ SPORT (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
 http://88.141.4.217:9004/4
 
-#EXTINF:-1 tvg-id="" tvg-logo="Bein_sport.png" group-title="FRANÇA",[COLOR lawngreen] BEIN SPORT 1 (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
-rtmp://176.10.250.166:1935/tv/stream2
-
 #EXTINF:-1 tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL + (fr) [/COLOR]
 rtmp://176.10.250.166:1935/tv/stream3
+
+#EXTINF:-1 tvg-id="" tvg-logo="Bein_sport.png" group-title="FRANÇA",[COLOR lawngreen] BEIN SPORT 1 (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
+rtmp://176.10.250.166:1935/tv/stream2
 
 #EXTINF:-1 tvg-logo="Bein_sport.png" group-title="FRANÇA",[COLOR lawngreen] BEIN SPORT 4 (fr) [/COLOR]
 rtmp://176.10.250.166:1935/tv/stream4
