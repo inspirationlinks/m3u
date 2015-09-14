@@ -93,8 +93,17 @@ mms://tv.autohoje.com/mpltv
 #EXTINF:-1 tvg-id="" tvg-logo="Chef TV.png" group-title="BRASILEIROS",[COLOR lawngreen] CHEFE COZINHA [/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
+#EXTINF:-1 tvg-logo="Record RJ.png" group-title="BRASILEIROS",[COLOR lawngreen]TV RECORD[/COLOR]
+http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
+
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="euronewss.jpg" group-title="PACOTE MEO",[COLOR lawngreen] EURONEWS [/COLOR]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+
+#EXTINF:-1 tvg-logo="tv5 monde.png" group-title="FRANÇA",[COLOR lawngreen]TV 5 MONDE[/COLOR]
+http://pvr.tvip.ga/0234.m3u8|X-Forwarded-For=81.17.18.51
+
+#EXTINF:-1 tvg-logo="tv5 monde.png" group-title="FRANÇA",[COLOR lawngreen]TV 5 MONDE (europe)[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
 
 #EXTINF:-1 tvg-id="TVE 24h" tvg-logo="tve 24.png" group-title="PACOTE MEO",[COLOR lawngreen] TVE 24 [/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
@@ -172,8 +181,17 @@ http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Fo
 #EXTINF:-1 tvg-id="" tvg-logo="Motors TV.png" group-title="PEDIDOS",[COLOR lawngreen] MOTORS TV [/COLOR]
 mms://100automoto.tv/100livesport
 
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports F1.png" group-title="PEDIDOS",[COLOR lawngreen] SKY F1 [/COLOR][COLOR red] TEST[/COLOR]
-http://80.82.78.165:1935/live/sssf1/live.m3u8
+#EXTINF:-1 tvg-logo="Motorsport.png" group-title="DESPORTO",[COLOR lawngreen]MOTOSPORT (usa)[/COLOR]
+http://103.18.40.132:8080/
+
+#EXTINF:-1 tvg-logo="Motorsport.png" group-title="DESPORTO",[COLOR lawngreen]MOTOSPORT (usa)[/COLOR]
+http://motorsport.hopto.org:8081/
+
+#EXTINF:-1 tvg-logo="livesport_cars.png" group-title="DESPORTO",[COLOR lawngreen]LIVE SPORT[/B][/I][/COLOR]
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1 tvg-logo="BTN.png" group-title="PEDIDOS",[COLOR lawngreen]BTN HD (usa)[/COLOR]
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
 #EXTINF:-1 tvg-logo="nova_sport_bg.png" group-title="PEDIDOS",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
 http://lag1.tv-mobile.org/prgp.m3u8
@@ -685,6 +703,45 @@ rtmp://flash.midiaip.com.br/recordnewses/recordnewses
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] AMAZONA TV [/COLOR]
 http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
+
+#EXTINF:-0 Adult="true"tvg-id="" tvg-logo="usauk.jpg" group-title="UK and USA",[COLOR gray91][I][B] UK and USA  [/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="UK and USA",[COLOR lawngreen]BBC ONE[/COLOR]
+http://pvr.tvip.ga/0402.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="UK and USA",[COLOR lawngreen]BBC ONE[/COLOR]
+http://pvr.tvip.ga/0401.m3u8|X-Forwarded-For=81.17.18.52 
+#EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK and USA",[COLOR lawngreen]BBC TWO[/COLOR]
+http://pvr.tvip.ga/0403.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK and USA",[COLOR lawngreen]BBC TWO[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.3:1234 
+#EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK and USA",[COLOR lawngreen]BBC TWO[/COLOR]
+http://pvr.tvip.ga/0404.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="BBC THREE.png" group-title="UK and USA",[COLOR lawngreen]BBC THREE[/COLOR]
+http://pvr.tvip.ga/0406.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="BBC FOUR.png" group-title="UK and USA",[COLOR lawngreen]BBC FOUR[/COLOR]
+http://pvr.tvip.ga/0408.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="ITV1.png" group-title="UK and USA",[COLOR lawngreen]ITV[/COLOR]
+http://pvr.tvip.ga/0410.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="ITV1.png" group-title="UK and USA",[COLOR lawngreen]ITV[/COLOR]
+http://78.129.175.72/live/itv/itv.m3u8
+#EXTINF:-1 tvg-logo="ITV2.png" group-title="UK and USA",[COLOR lawngreen]ITV 2[/COLOR]
+http://pvr.tvip.ga/0411.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="ITV3.png" group-title="UK and USA",[COLOR lawngreen]ITV 3[/COLOR]
+http://pvr.tvip.ga/0412.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="ITV4.png" group-title="UK and USA",[COLOR lawngreen]ITV 4[/COLOR]
+http://pvr.tvip.ga/0413.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="Channel 4.png" group-title="UK and USA",[COLOR lawngreen]CHANNEL 4[/COLOR]
+http://pvr.tvip.ga/0414.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="Film4.png" group-title="UK and USA",[COLOR lawngreen]FILM4[/COLOR]
+http://pvr.tvip.ga/0415.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="Channel 5.png" group-title="UK and USA",[COLOR lawngreen]CHANNEL 5[/COLOR]
+http://pvr.tvip.ga/0416.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="" group-title="UK and USA",[COLOR lawngreen]4MORE[/COLOR]
+http://pvr.tvip.ga/0417.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="E4.png" group-title="UK and USA",[COLOR lawngreen]E4[/COLOR]
+http://pvr.tvip.ga/0418.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-logo="Channel 5.png" group-title="UK and USA",[COLOR lawngreen]CHANNEL 5[/COLOR]
 
 #EXTINF:-1 Adult="true"tvg-id="" tvg-logo="porn.gif" group-title="PORN XXX",[COLOR gray91][I][B] ADULTO (XXX) [/B][/I][/COLOR]
 http://0.0.0.0:1234
