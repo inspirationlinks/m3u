@@ -175,9 +175,6 @@ rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=144
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.200/pull playpath=toros8586?keys=XO3IP5P3DL8Y7UsZqg7gLg&keyt=1441422358 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
-#EXTINF:-1 tvg-logo="Eurosport.png" group-title="PEDIDOS",[COLOR lawngreen]EUROSPORT (alemao)[/COLOR]
-http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-
 #EXTINF:-1 tvg-id="" tvg-logo="Motors TV.png" group-title="PEDIDOS",[COLOR lawngreen] MOTORS TV [/COLOR]
 mms://100automoto.tv/100livesport
 
@@ -225,6 +222,9 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
 rtmp://31.220.0.134/pull playpath=eurosport1417?keys=iRlRfIzrG_kK-gKrxuwbNw&keyt=1439947981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+
+#EXTINF:-1 tvg-logo="ESP_GGS_RVB.png" group-title="PEDIDOS",[COLOR lawngreen]EUROSPORT (alemao)[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
 
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
@@ -723,8 +723,7 @@ http://pvr.tvip.ga/0406.m3u8|X-Forwarded-For=81.17.18.52
 http://pvr.tvip.ga/0408.m3u8|X-Forwarded-For=81.17.18.52
 #EXTINF:-1 tvg-logo="ITV1.png" group-title="UK and USA",[COLOR lawngreen]ITV[/COLOR]
 http://pvr.tvip.ga/0410.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="ITV1.png" group-title="UK and USA",[COLOR lawngreen]ITV[/COLOR]
-http://78.129.175.72/live/itv/itv.m3u8
+
 #EXTINF:-1 tvg-logo="ITV2.png" group-title="UK and USA",[COLOR lawngreen]ITV 2[/COLOR]
 http://pvr.tvip.ga/0411.m3u8|X-Forwarded-For=81.17.18.52
 #EXTINF:-1 tvg-logo="ITV3.png" group-title="UK and USA",[COLOR lawngreen]ITV 3[/COLOR]
