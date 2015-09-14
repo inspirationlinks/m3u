@@ -217,12 +217,6 @@ http://37.187.248.101:8080/tsn5.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR magenta][I][B] DESPORTO PREMIUM [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="eurosport hd.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/20150912T045539/playlist_1000/00003/playlist_1000_00166.ts
-
-#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="eurosport hd.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (uk) [/COLOR][COLOR red] test [/COLOR]
-http://80.82.78.165:1935/live/euro2/live.m3u8
-
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="rmfc.jpg" group-title="DESPORTO",[COLOR lawngreen] REAL MADRID [/COLOR]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
@@ -260,12 +254,6 @@ http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="DESPORTO",[COLOR lawngreen] BTV2 & SPORTTV3 [/COLOR]
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HD [/COLOR][COLOR red] ON[/COLOR][COLOR yellow] FICA OFF À NOITE [/COLOR]
-http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/4.ts
-
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV 1 HQ [/COLOR][COLOR red] ON[/COLOR][COLOR yellow] FICA OFF À NOITE [/COLOR]
-http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/3.ts
 
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen] BT SPORT|ESPN [/COLOR][COLOR red] ON[/COLOR][COLOR yellow] NA HORA DO JOGO [/COLOR]
 rtmp://www1.iguide.to/iguide playpath=m5x7pyi1sqakdvt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31636&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
