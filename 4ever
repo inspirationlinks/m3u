@@ -136,7 +136,7 @@ http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_3_av-p.m3u8?sd=10&re
 #EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="discovery pt.png" group-title="PACOTE MEO",[COLOR lawngreen] DISCOVERY (esp) [/COLOR][COLOR red][/COLOR]
 rtmp://31.220.0.200/pull/ playpath=discovery397?keys=rLBVTZoY5M880y-XcGXKAQ&keyt=1439949863 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=discovery397&width=600&height=450
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR magenta][B]| PEDIDOS & TEMPORARIOS|[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR magenta][B]| PEDIDOS & TEMPORARIOS|[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC1 [/COLOR][COLOR red] TEST [/COLOR]
@@ -168,9 +168,6 @@ rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=144
 
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.200/pull playpath=toros8586?keys=XO3IP5P3DL8Y7UsZqg7gLg&keyt=1441422358 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-
-#EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen][I][B]CIELO [/B][/I][/COLOR] 
-http://tvservice.broke-it.net:8000/live/jacques/jacques/246.ts
 
 #EXTINF:-1 tvg-logo="Eurosport.png" group-title="PEDIDOS",[COLOR lawngreen]EUROSPORT (alemao)[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
