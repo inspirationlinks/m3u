@@ -228,11 +228,8 @@ http://satznt.mine.nu:7002/sptv1#sthash.v0IIWbBy.dpuf
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1 [/COLOR][COLOR red] NEW [/COLOR]
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 2 [/COLOR][COLOR red] NEW [/COLOR]
-rtmp://46.246.29.138:1935/stream/ playpath=0qZBo1519y0yBojb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x/magellan
-
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 2 [/COLOR][COLOR red] TEST [/COLOR]
-http://satznt.mine.nu:7003/sptv2#sthash.v0IIWbBy.dpuf
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
 
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 3 [/COLOR][COLOR red] TEST[/COLOR]
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
