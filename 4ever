@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 13 SET |23.30H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 14 SET |12.03H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -42,8 +42,12 @@ http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PACOTE MEO",[COLOR lawngreen] SIC [/COLOR]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PACOTE MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
+
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PACOTE MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
+rtmp://31.220.2.51/privatestream/ playpath=sicnotcrl763?keys=Rg3AT2Jc-P3YJUkfBuHASQ&keyt=1441591482 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PACOTE MEO",[COLOR lawngreen] TVI HQ [/COLOR]
 http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
@@ -88,11 +92,6 @@ mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
 mms://tv.autohoje.com/mpltv
 #EXTINF:-1 tvg-id="" tvg-logo="Chef TV.png" group-title="BRASILEIROS",[COLOR lawngreen] CHEFE COZINHA [/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="TV Escola.png" group-title="BRASILEIROS",[COLOR lawngreen] TV ESCOLA [/COLOR]
-http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRASILEIROS",[COLOR lawngreen] RECORD TV [/COLOR]
-http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="euronewss.jpg" group-title="PACOTE MEO",[COLOR lawngreen] EURONEWS [/COLOR]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
@@ -173,14 +172,11 @@ mms://100automoto.tv/100livesport
 #EXTINF:-1 tvg-id="" tvg-logo="Sky Sports F1.png" group-title="PEDIDOS",[COLOR lawngreen] SKY F1 [/COLOR][COLOR red] TEST[/COLOR]
 http://80.82.78.165:1935/live/sssf1/live.m3u8
 
-#EXTINF:-1 tvg-logo="ntv_spor.png" group-title="PEDIDOS",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
+#EXTINF:-1 tvg-logo="nova_sport_bg.png" group-title="PEDIDOS",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
 http://lag1.tv-mobile.org/prgp.m3u8
 
 #EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR][COLOR red] NEW [/COLOR]
 http://77.76.140.251/prgr.m3u8
-
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub (bulgaro)[/COLOR][COLOR red] NEW [/COLOR]
-http://lag1.tv-mobile.org/prgp21.ts
 
 #EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
 http://77.76.140.251/prgt.m3u8
@@ -209,18 +205,6 @@ plugin://program.plexus/?mode=1&url=acestream://b923cbc40e196a6cd5ebb89243a797a6
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="Sport TV 5.png" group-title="PEDIDOS",[COLOR lawngreen] SPORT TV 5 (acestream) [/COLOR][COLOR yellow]VER NO PLAYLOADER | PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV5
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR magenta][B]| TEMPORARIOS |[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,Arena Sport 1 HD (HR)
-http://streamitv.dyndns.org:19001/live/rokko/rokko/2035.ts
-#EXTINF:-1,Arena Sport 2 HD (HR)
-http://streamitv.dyndns.org:19001/live/rokko/rokko/2034.ts
-#EXTINF:-1,Arena Sport 3 HD (HR)
-http://streamitv.dyndns.org:19001/live/rokko/rokko/2033.ts
-#EXTINF:-1,Arena Sport 4 HD (HR)
-http://streamitv.dyndns.org:19001/live/rokko/rokko/2032.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR magenta][I][B] DESPORTO PREMIUM [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
@@ -241,20 +225,8 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HD [/COLOR][COLOR red] [/COLOR]
 http://satznt.mine.nu:7002/sptv1#sthash.v0IIWbBy.dpuf
 
-#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1 [/COLOR]
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
-
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1 [/COLOR][COLOR red] NEW [/COLOR]
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1 [/COLOR][COLOR red] NEW [/COLOR]
-rtmp://46.246.29.138:1935/stream/ playpath=NdTBo1519y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x/magellan
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HD [/COLOR][COLOR red]ON[/COLOR][COLOR yellow] FICA OFF À NOITE [/COLOR]
-http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/2.ts
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HQ [/COLOR][COLOR red]ON[/COLOR][COLOR yellow] FICA OFF À NOITE [/COLOR]
-http://xuxaqueedeuva.is-saved.org:7777/live/pt/tp/1.ts
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 2 [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://46.246.29.138:1935/stream/ playpath=0qZBo1519y0yBojb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x/magellan
@@ -691,6 +663,12 @@ http://teleclub.fr/gloubi.mp4?sd=10&_Maghrebstar.com_rebase=on
 
 #EXTINF:-1 tvg-logo="br.jpg" group-title="BRASILEIROS",[COLOR gray91][I][B] CANAIS BRASILEIROS [/B][/I][/COLOR] 
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="TV Escola.png" group-title="BRASILEIROS",[COLOR lawngreen] TV ESCOLA [/COLOR]
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRASILEIROS",[COLOR lawngreen] RECORD TV [/COLOR]
+http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] OMELETE CINEMA [/COLOR]
 http://wowza1.videos.movile.com:8080/live/cinema_1.smil/livestream.m3u8?BRASILIPTV
