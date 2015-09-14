@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 14 SET |12.15H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 14 SET |20.15H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -147,6 +147,18 @@ rtmp://31.220.0.200/pull/ playpath=discovery397?keys=rLBVTZoY5M880y-XcGXKAQ&keyt
 
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ON.jpg",[COLOR magenta][B]| PEDIDOS |[/B][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC1 [/COLOR][COLOR red] TEST [/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/209.ts
+ 
+#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC2 [/COLOR][COLOR red] TEST [/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/210.ts
+ 
+#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC3 [/COLOR][COLOR red] TEST [/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/211.ts
+ 
+#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC4 [/COLOR][COLOR red] TEST [/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/212.ts
 
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PEDIDOS",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
 rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
