@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 14 SET |23.10H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 15 SET |12.15H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -210,6 +210,23 @@ http://37.187.248.101:8080/tsn2.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="TSN HD.png" group-title="PEDIDOS",[COLOR lawngreen]TSN 5 [/COLOR][COLOR red] NEW [/COLOR]
 http://37.187.248.101:8080/tsn5.stream/index.m3u8
+
+#EXTINF:-1, Diema Sport 2
+http://lag1.tv-mobile.org/prgt.m3u8
+#EXTINF:-1,NOVA Sport
+http://lag1.tv-mobile.org/prgp.m3u8
+#EXTINF:-1,Auto Motor Sport
+http://lag2.tv-mobile.org/prgu.m3u8
+#EXTINF:-1,DXTV Sport Latino
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:0,BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:0,BEIN USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:0,BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+#EXTINF:-1, REUTERS Livestream
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR magenta][I][B] DESPORTO PREMIUM [/B][/I][/COLOR]
 http://0.0.0.0:1234
