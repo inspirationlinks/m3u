@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 15 SET |12.15H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 15 SET |23.15H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -208,22 +208,16 @@ http://tvi.ddns.me:8000/live/rich/rich/727.ts
 #EXTINF:-1 tvg-logo="LEquipe-21.png" group-title="PEDIDOS",[COLOR lawngreen]Lequipe-21 (fr)[/COLOR][COLOR red] NEW [/COLOR]
 http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21
 
-#EXTINF:-1 tvg-logo="TSN 2 HD.png" group-title="PEDIDOS",[COLOR lawngreen]TSN 2 [/COLOR][COLOR red] NEW [/COLOR]
-http://37.187.248.101:8080/tsn2.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="TSN HD.png" group-title="PEDIDOS",[COLOR lawngreen]TSN 5 [/COLOR][COLOR red] NEW [/COLOR]
-http://37.187.248.101:8080/tsn5.stream/index.m3u8
-
-#EXTINF:-1, Diema Sport 2
+#EXTINF:-1,[COLOR lawngreen] Diema Sport 2[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
-#EXTINF:-1,NOVA Sport
+#EXTINF:-1,[COLOR lawngreen]NOVA Sport[/COLOR]
 http://lag1.tv-mobile.org/prgp.m3u8
-#EXTINF:-1,Auto Motor Sport
+#EXTINF:-1,[COLOR lawngreen]Auto Motor Sport[/COLOR]
 http://lag2.tv-mobile.org/prgu.m3u8
-#EXTINF:-1,DXTV Sport Latino
+#EXTINF:-1,[COLOR lawngreen]DXTV Sport Latino[/COLOR]
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 
-#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR magenta][I][B] DESPORTO PREMIUM [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR magenta][I][B] CANAIS EUROSPORT [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
@@ -240,6 +234,15 @@ http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Fo
 
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ger) [/COLOR]
 http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 1 (russo) [/COLOR]
+http://ow.ly/SdzP3
+
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (russo) [/COLOR]
+http://ow.ly/Sdzvd
+
+#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR magenta][I][B] DESPORTO PREMIUM [/B][/I][/COLOR]
+http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="rmfc.jpg" group-title="DESPORTO",[COLOR lawngreen] REAL MADRID [/COLOR]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
