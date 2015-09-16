@@ -47,6 +47,12 @@ rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://31.220.2.51/privatestream/ playpath=sicnotcrl763?keys=Rg3AT2Jc-P3YJUkfBuHASQ&keyt=1441591482 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
 
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="sic mulher.png" group-title="MEO",[COLOR lawngreen] SIC MULHER [/COLOR]
+rtmp://95.211.148.69/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE1IDg6NTM6NTIgUE0maGFzaF92YWx1ZT1WQWJJRTVVMDlsTVd3VHNJZWN0NUt3PT0mdmFsaWRtaW51dGVzPTU==/ playpath=19887537975352297889 swfUrl=http://pxstream.tv/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embed.php?file=sicmaria437r&width=600&height=450
+
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="sic mulher.png" group-title="MEO",[COLOR lawngreen] SIC RADICAL [/COLOR]
+rtmp://95.211.148.69/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE1IDk6MDU6NTggUE0maGFzaF92YWx1ZT1JeXpzeHFiK2UvV09IZTZSVVRMaG1BPT0mdmFsaWRtaW51dGVzPTU==/ playpath=13944932844798677485 swfUrl=https://www.scaleengine.com/embed/6.12/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embedrouter.php?file=sicradicaleofi&width=600&height=450
+
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI HQ [/COLOR]
 http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI [/COLOR]
@@ -245,7 +251,7 @@ rtmp://31.220.2.56/pull/ playpath=barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q-&keyt=14
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTTV AMÉRICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HD [/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen]SPORT TV1[/COLOR][COLOR red] [/COLOR]
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HD [/COLOR][COLOR red] [/COLOR]
