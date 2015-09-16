@@ -114,7 +114,8 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="CNN.png" group-title="MEO",[COLOR lawngreen] CNN LIVE [/COLOR]
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,828,528,264,.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Al Jazeera.png" group-title="PACOTE MEO",[COLOR lawngreen] ALJAZEERA (usa) [/COLOR][COLOR red][/COLOR]
+
+#EXTINF:-1 tvg-id="" tvg-logo="Al Jazeera.png" group-title="MEO",[COLOR lawngreen] ALJAZEERA (usa) [/COLOR][COLOR red][/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Al Jazeera.png" group-title="MEO",[COLOR lawngreen]Weather Channel US[/COLOR]
@@ -127,7 +128,7 @@ rtmp://95.67.8.43:1935/live/fashionhd
 #EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="MEO",[COLOR lawngreen] CBS Reality PT [/COLOR][COLOR red] TEST [/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/66.ts
 
-#EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="PACOTE MEO",[COLOR lawngreen] CBS DRAMA (uk)  [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="MEO",[COLOR lawngreen] CBS DRAMA (uk)  [/COLOR][COLOR red] TEST [/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/67.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="abc news.png" group-title="MEO",[COLOR lawngreen] ABC NEWS (uk) [/COLOR][COLOR red] ON [/COLOR]
@@ -136,16 +137,16 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,[COLOR lawngreen] REUTERS Livestream[/COLOR]
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="História" tvg-logo="The History Channel.png" group-title="PACOTE MEO",[COLOR lawngreen] HISTÓRIA (mex) [/COLOR]
+#EXTINF:-1 tvg-id="História" tvg-logo="The History Channel.png" group-title="MEO",[COLOR lawngreen] HISTÓRIA (mex) [/COLOR]
 http://201.161.59.7/history.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="natgeo.png" group-title="PACOTE MEO",[COLOR lawngreen] NAT GEO (esp) [/COLOR]
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="natgeo.png" group-title="MEO",[COLOR lawngreen] NAT GEO (esp) [/COLOR]
 rtmp://31.220.2.52/pull playpath=natgeo021?keys=EwEWKjKV0neWYO9YA-7EZg&keyt=1441422176 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="natgeo.png" group-title="PACOTE MEO",[COLOR lawngreen] NAT GEO (mex) [/COLOR]
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="natgeo.png" group-title="MEO",[COLOR lawngreen] NAT GEO (mex) [/COLOR]
 http://201.161.59.3/natgeo.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="natgeo.png" group-title="PACOTE MEO",[COLOR lawngreen] MEGA GEO (esp) [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="natgeo.png" group-title="MEO",[COLOR lawngreen] MEGA GEO (esp) [/COLOR][COLOR red] NEW [/COLOR]
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PEDIDOS",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
@@ -157,16 +158,16 @@ rtmp://31.220.0.200/pull/ playpath=discovery397?keys=rLBVTZoY5M880y-XcGXKAQ&keyt
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR magenta][B]| PEDIDOS & TEMPORARIOS|[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC1 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PEDIDOS",[COLOR lawngreen] TVC1 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/209.ts
  
-#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC2 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="PEDIDOS",[COLOR lawngreen] TVC2 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/210.ts
  
-#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC3 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PEDIDOS",[COLOR lawngreen] TVC3 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/211.ts
  
-#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PACOTE MEO",[COLOR lawngreen] TVC4 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PEDIDOS",[COLOR lawngreen] TVC4 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/212.ts
 
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR][COLOR red] TEST [/COLOR]
