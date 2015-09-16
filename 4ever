@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 16 SET |11.15H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 16 SET |23.30H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -47,10 +47,10 @@ rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://31.220.2.51/privatestream/ playpath=sicnotcrl763?keys=Rg3AT2Jc-P3YJUkfBuHASQ&keyt=1441591482 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
 
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="sic mulher.png" group-title="MEO",[COLOR lawngreen] SIC MULHER [/COLOR]
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="sic mulher.png" group-title="MEO",[COLOR lawngreen] SIC MULHER [/COLOR][COLOR red] IP Block  [/COLOR]
 rtmp://95.211.148.69/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE1IDg6NTM6NTIgUE0maGFzaF92YWx1ZT1WQWJJRTVVMDlsTVd3VHNJZWN0NUt3PT0mdmFsaWRtaW51dGVzPTU==/ playpath=19887537975352297889 swfUrl=http://pxstream.tv/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embed.php?file=sicmaria437r&width=600&height=450
 
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="sic mulher.png" group-title="MEO",[COLOR lawngreen] SIC RADICAL [/COLOR]
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="sic mulher.png" group-title="MEO",[COLOR lawngreen] SIC RADICAL [/COLOR][COLOR red] IP Block [/COLOR]
 rtmp://95.211.148.69/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE1IDk6MDU6NTggUE0maGFzaF92YWx1ZT1JeXpzeHFiK2UvV09IZTZSVVRMaG1BPT0mdmFsaWRtaW51dGVzPTU==/ playpath=13944932844798677485 swfUrl=https://www.scaleengine.com/embed/6.12/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embedrouter.php?file=sicradicaleofi&width=600&height=450
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI HQ [/COLOR]
@@ -702,45 +702,6 @@ http://tv.ut.cx/minimax.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR lawngreen] Gloubi (fr) [/COLOR]
 http://teleclub.fr/gloubi.mp4?sd=10&_Maghrebstar.com_rebase=on
-
-#EXTINF:-1 tvg-logo="br.jpg" group-title="BRASILEIROS",[COLOR gray91][I][B] CANAIS BRASILEIROS [/B][/I][/COLOR] 
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="TV Escola.png" group-title="BRASILEIROS",[COLOR lawngreen] TV ESCOLA [/COLOR]
-http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRASILEIROS",[COLOR lawngreen] RECORD TV [/COLOR]
-http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] OMELETE CINEMA [/COLOR]
-http://wowza1.videos.movile.com:8080/live/cinema_1.smil/livestream.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] REDE TV [/COLOR]
-rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] TV GLOBO [/COLOR]
-rtmp://srv6.zoeweb.tv/z821-live/stream2
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] RECORD TV [/COLOR]
-http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] TV BRASIL [/COLOR]
-rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1 swfUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/mediaelement/flashmediaelement.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/wtv-embed.php?origem=webtv
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] GAZETA TV [/COLOR]
-http://shflash.directradios.com:1935/gazeta3/stream/PAZ_Chega_de_Guerras.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] SBT [/COLOR]
-rtmp://192.99.46.182/pioneira-tv//pioneira-tv
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] NOVO TEMPO [/COLOR]
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] RECORD NEWS [/COLOR]
-rtmp://flash.midiaip.com.br/recordnewses/recordnewses
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRASILEIROS",[COLOR lawngreen] AMAZONA TV [/COLOR]
-http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
 
 #EXTINF:-0 Adult="true"tvg-id="" tvg-logo="usauk.jpg" group-title="UK and USA",[COLOR gray91][I][B] UK and USA  [/B][/I][/COLOR]
 http://0.0.0.0:1234
