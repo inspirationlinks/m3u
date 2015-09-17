@@ -10,17 +10,12 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="MEO",[COLOR lawngreen] RTP 1 [/COLOR][COLOR red]ON[/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="MEO",[COLOR lawngreen] RTP 1 [/COLOR]
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-
 #EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP 1.png" group-title="MEO",[COLOR lawngreen] RTP 1 [/COLOR]
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 
-#EXTINF:-1 tvg-id="RTP2" tvg-logo="RTP 2.png" group-title="MEO",[COLOR lawngreen] RTP 2 [/COLOR]
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="MEO",[COLOR lawngreen] RTP 2 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="MEO",[COLOR lawngreen] RTP 2 [/COLOR]
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
@@ -43,9 +38,6 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlis
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR] [COLOR red]ON [/COLOR]
 http://213.13.26.11:1935/live/sic/hasbahca.m3u8
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC HQ [/COLOR]
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
@@ -55,10 +47,9 @@ rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://31.220.2.51/privatestream/ playpath=sicnotcrl763?keys=Rg3AT2Jc-P3YJUkfBuHASQ&keyt=1441591482 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI HQ [/COLOR]
-http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI [/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI [/COLOR]
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
