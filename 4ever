@@ -432,6 +432,7 @@ http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u
 
 #EXTINF:-1  tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR cyan][B] CANAIS FOX SPORT [/B][/COLOR]
 http://0.0.0.0:1234
+
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
 http://iptv.latino-webtv.com/fox-sports.m3u8
 
@@ -450,19 +451,26 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (usa) [/COLOR]
 http://80.82.78.165:1935/live/espnus/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (esp) [/COLOR]
+http://201.161.59.3/espn.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (br) [/COLOR]
+http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN+.png" group-title="DESPORTO",[COLOR lawngreen] ESPN + (esp) [/COLOR]
 http://iptv.latino-webtv.com/espn-hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="espn_2_hd.png" group-title="DESPORTO",[COLOR lawngreen] ESPN 2 (esp) [/COLOR]
 http://iptv.latino-webtv.com/espn-2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="espn_2_hd.png" group-title="DESPORTO",[COLOR lawngreen] ESPN 2 (esp) [/COLOR]
+http://201.161.59.4/espn2.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-logo="espn_3_hd.png" group-title="DESPORTO",[COLOR lawngreen] ESPN 3 (esp) [/COLOR]
 http://iptv.latino-webtv.com/espn-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (esp) [/COLOR]
-http://201.161.59.3/espn.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (br) [/COLOR]
-http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="espn_3_hd.png" group-title="DESPORTO",[COLOR lawngreen] ESPN 3 (esp) [/COLOR]
+http://201.161.59.4/espn3.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
 
 #EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS BEIN SPORT [/B][/I][/COLOR]
 http://0.0.0.0:1234
