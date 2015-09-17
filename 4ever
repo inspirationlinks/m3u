@@ -246,6 +246,10 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTTV AMÉRICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen]SPORT TV1[/COLOR][COLOR red]NEW [/COLOR]
+rtmp://146.185.25.162:1935/stream/ playpath=NdTBo1519y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/magellan timeout=10
+#EXTINF
+
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen]SPORT TV1[/COLOR][COLOR red] [/COLOR]
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
 
@@ -283,7 +287,7 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 #EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV [/COLOR][COLOR red] TEST [/COLOR]
 rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen]BTV2[/COLOR][COLOR red]TEST[/COLOR]
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen]BTV2 [/COLOR][COLOR red]TEST[/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/213.ts
 
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV & SPORTV3 [/COLOR][COLOR red] ON [/COLOR]
