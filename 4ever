@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 16 SET |23.30H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 17 SET | 10.20H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -47,12 +47,6 @@ rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://31.220.2.51/privatestream/ playpath=sicnotcrl763?keys=Rg3AT2Jc-P3YJUkfBuHASQ&keyt=1441591482 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
 
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="sic mulher.png" group-title="MEO",[COLOR lawngreen] SIC MULHER [/COLOR][COLOR red] IP Block  [/COLOR]
-rtmp://95.211.148.69/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE1IDg6NTM6NTIgUE0maGFzaF92YWx1ZT1WQWJJRTVVMDlsTVd3VHNJZWN0NUt3PT0mdmFsaWRtaW51dGVzPTU==/ playpath=19887537975352297889 swfUrl=http://pxstream.tv/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embed.php?file=sicmaria437r&width=600&height=450
-
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="sic mulher.png" group-title="MEO",[COLOR lawngreen] SIC RADICAL [/COLOR][COLOR red] IP Block [/COLOR]
-rtmp://95.211.148.69/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE1IDk6MDU6NTggUE0maGFzaF92YWx1ZT1JeXpzeHFiK2UvV09IZTZSVVRMaG1BPT0mdmFsaWRtaW51dGVzPTU==/ playpath=13944932844798677485 swfUrl=https://www.scaleengine.com/embed/6.12/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embedrouter.php?file=sicradicaleofi&width=600&height=450
-
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI HQ [/COLOR]
 http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI [/COLOR]
@@ -66,7 +60,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="tvi_ficcao_pt.png" group-title="MEO",[COLOR lawngreen] TVI FICÇÃO [/COLOR][COLOR red] TEST [/COLOR]
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="MEO",[COLOR lawngreen]CMTV[/COLOR][COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="http://satznt.mine.nu:7003/tvc1.pt" tvg-logo="Correio Manha.png" group-title="MEO",[COLOR lawngreen]CMTV[/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
 
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR][COLOR red] TEST [/COLOR]
@@ -254,10 +248,10 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen]SPORT TV1[/COLOR][COLOR red] [/COLOR]
 http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HD [/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV1 HD [/COLOR][COLOR red]TEST[/COLOR]
 http://bit.ly/1FdW8mO
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1 [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/202.ts
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 2 [/COLOR][COLOR red] TEST [/COLOR]
@@ -269,8 +263,14 @@ http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="sport_tv4_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 4 [/COLOR]
 rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m550n505yb1140b201pd5339g505sp1140l5339on505h250oq550u6095ib1140b201pa791.o201pa791o201p&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2438444741354t2y234w2s2r2&adx=&stream=h564f4d4.a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y343z2z3q2b49434c4q2t26424n234n4q5e3h44494v213p4v2x4o4x585j3k5.b4u2r5m293j4j4t574l3v3a4j52406q5y334j4o234z3n244s2k5e4z2h5i533v2r213c4a4b4j5z2f5v2s2l523t24454c45444z223g5p2e4242434p2o234z3n204.&sooor=MTA=&str=is&ok=&cat=1&link=4&idom=www.gofeed2all.eu
 
-#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV [/COLOR][COLOR red] TEST [/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/207.ts
+
+#EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV [/COLOR][COLOR red] TEST [/COLOR]
 rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o
+
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen]BTV2[/COLOR][COLOR red]TEST[/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/213.ts
 
 #EXTINF:-1 tvg-id="BTV 2" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV & SPORTV3 [/COLOR][COLOR red] ON [/COLOR]
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
@@ -563,58 +563,6 @@ http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
 rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
-
-#EXTINF:-1,[COLOR gray91][I][B] FILMES INFANTIS [/B][/I][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,Aladdín 1
-http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4?start=0
-#EXTINF:-1,Aladdín 2
-http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4?start=0
-#EXTINF:-1,Aladdín y el rey de los ladrones
-http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4?start=0
-#EXTINF:-1,Alicia en el País de las Maravillas
-http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4?start=0
-#EXTINF:-1,Anastasia
-http://www.spruto.tv/get_file/5/717a259eabde324b660eaf07d3b56c7f/110000/110197/110197.mp4?start=0
-#EXTINF:-1,Blancanieves y los Siete Enanitos
-http://www.spruto.tv/get_file/1/3a864a8bc2a6f68742ddff892b6a8e1a/80000/80738/80738.mp4?start=0
-#EXTINF:-1,Enredados
-http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4?start=0
-#EXTINF:-1,Frozen: Una Aventura Congelada
-http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4?start=0
-#EXTINF:-1,La Bella Durmiente
-http://www.spruto.tv/get_file/1/5a1b0057367871e647217efa738e97be/80000/80736/80736.mp4?start=0
-#EXTINF:-1,La Cenicienta 1
-http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4?start=0
-#EXTINF:-1,La Cenicienta 2
-http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4?start=0
-#EXTINF:-1,La Cenicienta 3
-http://www.spruto.tv/get_file/5/e503c7667fd1552077a930cb476548b4/110000/110194/110194.mp4?start=0
-#EXTINF:-1,La Bella y la Bestia
-http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4?start=0
-#EXTINF:-1,La Bella y la Bestia 2
-http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/110192.mp4?start=0
-#EXTINF:-1,La Princesa Sofía: Йrase una vez una Princesa
-http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/110201.mp4?start=0
-#EXTINF:-1,La Princesa Sofнa: Un Palacio en el Agua
-http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.mp4?start=0
-#EXTINF:-1,La Princesa y el Sapo
-http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4?start=0
-#EXTINF:-1,La Sirenita 1
-http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4?start=0
-#EXTINF:-1,La Sirenita 2
-http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4?start=0
-#EXTINF:-1,La Sirenita 3
-http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4?start=0
-#EXTINF:-1,Mulán
-http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4?start=0
-#EXTINF:-1,Pocahontas 1
-http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4?start=0
-#EXTINF:-1,Pocahontas 2
-http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4?start=0
-#EXTINF:-1,Valiente
-http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4?start=0
 
 #EXTINF:-1 tvg-logo="fr.jpg" group-title="FRANÇA",[COLOR gray91][I][B] CANAIS FRANCESES [/B][/I][/COLOR]
 http://0.0.0.0:1234
