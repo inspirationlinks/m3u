@@ -4,7 +4,19 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR gray91][I][B] PACOTE BASICO MEO | NOS [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="TDT-PT.png" group-title="MEO",[COLOR gray91][B] CANAIS TDT [/B][/COLOR]
+http://0.0.0.1234
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png", [COLOR lawngreen][B]RTP1[/B][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png", [COLOR lawngreen][B]RTP2[/B][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" tvg-logo="SIC.png", [COLOR lawngreen][B]SIC[/B][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png", [COLOR lawngreen][B]TVI[/B][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR gray91][B]| PACOTE BASICO MEO |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="MEO",[COLOR lawngreen] RTP 1 [/COLOR][COLOR red]ON[/COLOR]
@@ -284,7 +296,9 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/229.ts
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 2 [/COLOR][COLOR red] TEST [/COLOR]
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
 
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 2 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/230.ts
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 2 [/COLOR][COLOR red] TEST [/COLOR]
