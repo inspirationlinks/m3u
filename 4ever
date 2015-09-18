@@ -7,11 +7,11 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="TDT-PT.png" group-title="MEO",[COLOR magenta][B]| CANAIS TDT |[/B][/COLOR]
 http://0.0.0.1234
 
-#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="rtp1.png",[COLOR lawngreen][B]RTP1[/B][/COLOR]
+#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="RTP 1.png",[COLOR lawngreen][B]RTP1[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="rtp2.png",[COLOR lawngreen][B]RTP2[/B][/COLOR]
+#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="RTP 2.png",[COLOR lawngreen][B]RTP2[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" tvg-logo="SIC Internacional.png",[COLOR lawngreen][B]SIC[/B][/COLOR]
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png",[COLOR lawngreen][B]SIC[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png",[COLOR lawngreen][B]TVI[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
