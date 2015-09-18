@@ -144,7 +144,7 @@ http://37.187.160.187:8000/live/ressler/skype/67.ts
 #EXTINF:-1 tvg-id="" tvg-logo="abc news.png" group-title="MEO",[COLOR lawngreen] ABC NEWS (uk)[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:-1,[COLOR lawngreen] REUTERS Livestream[/COLOR]
+#EXTINF:-1 tvg-logo="livestreaming.png",[COLOR lawngreen] REUTERS Livestream[/COLOR]
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="História" tvg-logo="The History Channel.png" group-title="MEO",[COLOR lawngreen] HISTÓRIA (mex) [/COLOR]
@@ -172,7 +172,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 rtmp://31.220.2.56/pull/ playpath=barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q-&keyt=1440155997 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/ conn=S:OK timeout=15
 
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR magenta][B]| CANAIS | HUGO R. |[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR magenta][B]| CANAIS | HUGO R. |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PEDIDOS",[COLOR lawngreen] TVC1 [/COLOR]
@@ -203,7 +203,7 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/208.ts
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR magenta][B]| CAÇA | PESCA & TOURADAS|[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR magenta][B]| CAÇA | PESCA & TOURADAS|[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="PEDIDOS",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
@@ -218,7 +218,7 @@ rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=144
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.200/pull playpath=toros8586?keys=XO3IP5P3DL8Y7UsZqg7gLg&keyt=1441422358 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR magenta][B]|DESPORTOS MOTORIZADOS|[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR magenta][B]|DESPORTOS MOTORIZADOS|[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Motors TV.png" group-title="PEDIDOS",[COLOR lawngreen] MOTORS TV [/COLOR]
@@ -239,13 +239,13 @@ http://lag2.tv-mobile.org/prgu.m3u8
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="Sport TV 5.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 5 [/COLOR]
 rtmp://198.144.153.145:443/flash playpath=21422?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=10
 
-#EXTINF:-1 tvg-logo="fight.png" group-title="FIGHT & WWE",[COLOR gray91][I][B] CANAIS FIGHT & WWE [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="FIGHT & WWE",[COLOR gray91][I][B] CANAIS FIGHT & WWE [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] THE FIGHT [/COLOR]
 http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Fighter_Russia-TV.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="wwe.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
