@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 18 SET |00.15H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 18 SET |10.45H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -7,13 +7,13 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="TDT-PT.png" group-title="MEO",[COLOR gray91][B] CANAIS TDT [/B][/COLOR]
 http://0.0.0.1234
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png", [COLOR lawngreen][B]RTP1[/B][/COLOR]
+#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="rtp1.png",[COLOR lawngreen][B]RTP1[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png", [COLOR lawngreen][B]RTP2[/B][/COLOR]
+#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="rtp2.png",[COLOR lawngreen][B]RTP2[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" tvg-logo="SIC.png", [COLOR lawngreen][B]SIC[/B][/COLOR]
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" tvg-logo="SIC Internacional.png",[COLOR lawngreen][B]SIC[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png", [COLOR lawngreen][B]TVI[/B][/COLOR]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png",[COLOR lawngreen][B]TVI[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR gray91][B]| PACOTE BASICO MEO |[/B][/COLOR]
