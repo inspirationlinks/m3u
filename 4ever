@@ -93,8 +93,7 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 rtmp://213.13.26.43/live playpath=etv_direto swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tvdesporto.com/economicotv.php timeout=15 conn=S:OK –live
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="MEO",[COLOR lawngreen] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
-#EXTINF:-1 tvg-id="tvciencia.pt" tvg-logo="tvci.png" group-title="MEO",[COLOR lawngreen] TV CIÊNCIA [/COLOR]
-mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
+
 #EXTINF:-1 tvg-id="AUTO HOJE" tvg-logo="autohoje.png" group-title="MEO",[COLOR lawngreen] AUTO HOJE TV [/COLOR]
 mms://tv.autohoje.com/mpltv
 
