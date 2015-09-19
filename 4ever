@@ -420,6 +420,12 @@ rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
 #EXTINF:-1 tvg-id="" tvg-logo="br.jpg" group-title="DESPORTO",[COLOR gray91][I][B] SPORTS BRASIL [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (br) [/COLOR]
+http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN LIVE (br) [/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut1022842/livestream.m3u8
+
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="DESPORTO",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
 http://srv6.zoeweb.tv:1935/z433-live/stream/IGOR_RANGEL.m3u8
 
@@ -517,36 +523,6 @@ http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sports2.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 2 (chile) [/COLOR]
 http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS ESPN [/B][/I][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (br) [/COLOR]
-http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN LIVE (br) [/COLOR]
-http://srvlon1.hostseven.org:1935/live/fut1022842/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (usa) [/COLOR]
-http://80.82.78.165:1935/live/espnus/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (esp) [/COLOR]
-http://201.161.59.3/espn.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN+.png" group-title="DESPORTO",[COLOR lawngreen] ESPN + (esp) [/COLOR]
-http://iptv.latino-webtv.com/espn-hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="espn_2_hd.png" group-title="DESPORTO",[COLOR lawngreen] ESPN 2 (esp) [/COLOR]
-http://iptv.latino-webtv.com/espn-2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="espn_2_hd.png" group-title="DESPORTO",[COLOR lawngreen] ESPN 2 (esp) [/COLOR]
-http://201.161.59.4/espn2.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
-
-#EXTINF:-1 tvg-id="" tvg-logo="espn_3_hd.png" group-title="DESPORTO",[COLOR lawngreen] ESPN 3 (esp) [/COLOR]
-http://iptv.latino-webtv.com/espn-3.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="espn_3_hd.png" group-title="DESPORTO",[COLOR lawngreen] ESPN 3 (esp) [/COLOR]
-http://201.161.59.4/espn3.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
 
 #EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS BEIN SPORT [/B][/I][/COLOR]
 http://0.0.0.0:1234
