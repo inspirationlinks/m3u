@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 19 SET |18.05H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 19 SET |18.30H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -270,6 +270,11 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 
 #EXTINF:-1 tvg-id="BTV 1" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/207.ts
+
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen]BTV[/B][/I][/COLOR]
+rtmp://209.95.44.182:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d6967g436sp4684l6967on284x4684ib4684b737pp4684l6967op4684l6967op4684l6967od6967g436sn436h989o&width=600&height=460&st=a49315n4w574x2s2f436q24693u504a4s446u4n4n4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=84q2n584b4m59464745434c4t2i5z2n2c4o4p3a3f4w21374f476w226d3j495e4h3r4r406p4y3x223a4n284a4a444x2s24464n2c4b3y4e3h44494v213p4v2x4o4x5a5g4q4v4s406m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=MTY=&str=is&ok=&cat=16&link=1&idom=/magellan
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR lawngreen]BTV 2[/B][/I][/COLOR]
+rtmp://173.193.195.149:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2618g379sp689l2618on413x689ib689b130pp689l2618op689l2618op689l2618od2618g379sn379h273o&width=600&height=460&st=1473e4n4w574x2s2f436q24693u5s44465i5h3i4q2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=546474n574c4t254n594r274w234b4n234m423a3f4w21374f476w226d3j41684v354e3v5s2y3x223a4n284a4a444x2s24464n23493b4e3h44494v213p4v2x4o4x526a44594f3v5m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=Nw==&str=is&ok=&cat=16&link=1&idom=/magellan
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][I][B] DESPORTO EUROPEIO & MUNDIAL [/B][/I][/COLOR]
 http://0.0.0.0:1234
