@@ -343,6 +343,18 @@ http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnne
 #EXTINF:-1 tvg-logo="FSC.jpg" group-title="DESPORTO",[COLOR lawngreen]FSC (usa)[/COLOR][COLOR red] [/COLOR]
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS NBCSN [/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
+http://tvenbcsn-i.akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102
+
+#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN GOLF [/COLOR][COLOR red] NEW [/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS EUROSPORT [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
@@ -356,6 +368,9 @@ rtmp://176.10.250.166:1935/tv/stream1
 
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
 rtmp://31.220.0.134/pull playpath=eurosport1417?keys=iRlRfIzrG_kK-gKrxuwbNw&keyt=1439947981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS SKY SPORTS [/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -375,17 +390,27 @@ rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky4 swfUrl=http://player.hdc
 #EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 5 (UK[/COLOR]
 rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS NBCSN [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png",[COLOR gray91][I][B] CANAIS ARENA SPORTS [/B][/I][/COLOR] 
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
-http://tvenbcsn-i.akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102
+#EXTINF:-1 tvg-logo="Arena.png",Arena 1
+http://62.141.36.40:8000/live/kajgana/kajgana/1.ts
+#EXTINF:-1,Arena 2
+http://62.141.36.40:8000/live/kajgana/kajgana/2.ts
+#EXTINF:-1,Arena 3
+http://62.141.36.40:8000/live/kajgana/kajgana/3.ts
+#EXTINF:-1,Arena 4
+http://62.141.36.40:8000/live/kajgana/kajgana/4.ts
 
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="inspiration.png",[COLOR gray91][I][B] CANAIS Astro Supersport [/B][/I][/COLOR] 
+http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN GOLF [/COLOR][COLOR red] NEW [/COLOR]
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,Astro Supersport 1
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcD EucGhw
+#EXTINF:-1,Astro Supersport 2
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcD IucGhw
+#EXTINF:-1,Astro Supersport 3
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcD MucGhw
 
 #EXTINF:-1,[COLOR gray91][I][B] CANAIS DIGI SPORTS [/B][/I][/COLOR] 
 http://0.0.0.0:1234
@@ -507,14 +532,17 @@ http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR gray91][I][B] CANAIS ESPN [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (br) [/COLOR]
+http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN LIVE (br) [/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut1022842/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (usa) [/COLOR]
 http://80.82.78.165:1935/live/espnus/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (esp) [/COLOR]
 http://201.161.59.3/espn.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="DESPORTO",[COLOR lawngreen] ESPN (br) [/COLOR]
-http://217.23.12.111/hls-live/livepkgrr/_definst_/liveevent/espn.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN+.png" group-title="DESPORTO",[COLOR lawngreen] ESPN + (esp) [/COLOR]
 http://iptv.latino-webtv.com/espn-hd.m3u8
