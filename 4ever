@@ -265,6 +265,9 @@ rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.t
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 [/COLOR][COLOR red][/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/231.ts
 
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="BRASILEIROS",[COLOR lawngreen] SPORTV 3 [/COLOR]
+rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
+
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5 [/COLOR][COLOR red][/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/206.ts
 
@@ -435,10 +438,6 @@ http://37.203.209.34:443/mobile/bob06/live.m3u8
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV 3.png" group-title="BRASILEIROS",[COLOR lawngreen] SPORTV 3 (br) [/COLOR]
 http://37.203.209.34:443/mobile/bob50/live.m3u8
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="BRASILEIROS",[COLOR lawngreen] SPORTV 3 [/COLOR]
-rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="russia.jpg" group-title="DESPORTO",[COLOR gray91][I][B] SPORTS RUSSOS [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
@@ -504,7 +503,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR2 (turco) [/COLOR]
 http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u
 
-#EXTINF:-1  tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR cyan][B] CANAIS FOX SPORT [/B][/COLOR]
+#EXTINF:-1  tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR gray91][B] CANAIS FOX SPORT [/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
