@@ -1,14 +1,23 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 19 SET |01.06H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 19 SET |11.50H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR green][B] NEW[/COLOR][COLOR red] CHANNELS[/B][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR red][B] NEW CHANNELS[/B][/COLOR]
 http://0.0.0.1234
 
-#EXTINF:-1,[COLOR lawngreen]AXN[/COLOR]
+#EXTINF:-1 tvg-logo="Fox HD.png",[COLOR lawngreen]FOX[/COLOR]
+http://37.203.209.34:443/mobile/flash29/live.m3u8
+
+#EXTINF:-1 tvg-logo="AXN HD.png",[COLOR lawngreen]AXN[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
+
+#EXTINF:-1 tvg-logo="Disney Jr.png",[COLOR lawngreen]DISNEY JUNIOR (br)[/COLOR]
+http://37.203.209.34:443/mobile/flash42/live.m3u8
+
+#EXTINF:-1, tvg-logo="Vhr.png",[COLOR lawngreen] VH1 Classic[/COLOR]
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="tvi_ficcao_pt.png" group-title="MEO",[COLOR lawngreen] TVI FICÇÃO [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/2718.ts
@@ -22,9 +31,23 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
 #EXTINF:-1 tvg-id="" tvg-logo="winsports.jpg" group-title="DESPORTO",[COLOR lawngreen] Win Sports (colombia) [/COLOR][COLOR red] NEW [/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="winsports.jpg" group-title="DESPORTO",[COLOR lawngreen] TODO DEPORTE (colombia) [/COLOR]
+http://162.212.176.68:1935/tododeportes/tododeportes/live.m3u8
+
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="DESPORTO",[COLOR lawngreen] E+I [/COLOR]
 http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
 
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="PFC.png" group-title="DESPORTO",[COLOR lawngreen] PFC (br) [/COLOR]
+http://37.203.209.34:443/mobile/bob07/live.m3u8
+
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV (br) [/COLOR]
+http://37.203.209.34:443/mobile/bob05/live.m3u8
+
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 (br) [/COLOR]
+http://37.203.209.34:443/mobile/bob06/live.m3u8
+
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 (br) [/COLOR]
+http://37.203.209.34:443/mobile/bob50/live.m3u8
 #EXTINF:-1,[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
 rtmp://secure.hdcast.org/justforvip/llive1
 
@@ -230,6 +253,8 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
  
 #EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PEDIDOS",[COLOR lawngreen] TVC3 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/211.ts
+
+#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PEDIDOS",[COLOR lawngreen] TVC3 [/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/211.ts
  
 #EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PEDIDOS",[COLOR lawngreen] TVC4 [/COLOR][COLOR red] TEST [/COLOR]
