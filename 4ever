@@ -316,16 +316,19 @@ http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=1
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
 rtmp://secure.hdcast.org/justforvip/llive1
 
+#EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema[/COLOR]
+http://lag1.tv-mobile.org/prgj.m3u8
+
 #EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR][COLOR red] NEW [/COLOR]
 http://lag1.tv-mobile.org/prgr.m3u8
 
-#EXTINF:-1,[COLOR lawngreen] SuperSport 2[/COLOR]
+#EXTINF:-1 tvg-logo="SuperSport+logo+2010+asteroid+3D.png",[COLOR lawngreen] SuperSport 2[/COLOR]
 http://tring-amd-live.tring.tv/out/u/86_101.m3u8
  
-#EXTINF:-1,[COLOR lawngreen] SuperSport 3[/COLOR]
+#EXTINF:-1 tvg-logo="SuperSport+logo+2010+asteroid+3D.png",[COLOR lawngreen] SuperSport 3[/COLOR]
 http://tring-amd-live.tring.tv/out/u/87_95.m3u8
 
 #EXTINF:-1,[COLOR lawngreen]DXTV Sport Latino[/COLOR]
@@ -334,13 +337,13 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:-1 tvg-id="" tvg-logo="winsports.jpg" group-title="DESPORTO",[COLOR lawngreen] Win Sports (colombia) [/COLOR][COLOR red] NEW [/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR][COLOR red] NEW [/COLOR]
 http://77.76.140.251/prgr.m3u8
 
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
 http://77.76.140.251/prgt.m3u8
 
-#EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3 HD  (polaco)[/COLOR]
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3 HD  (polaco)[/COLOR]
 http://tvi.ddns.me:8000/live/rich/rich/727.ts
 
 #EXTINF:-1 tvg-logo="BTN.png" group-title="PEDIDOS",[COLOR lawngreen]BTN HD (usa)[/COLOR]
@@ -376,6 +379,11 @@ rtmp://31.220.0.134/pull playpath=eurosport1417?keys=iRlRfIzrG_kK-gKrxuwbNw&keyt
 
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (bulgaro) [/COLOR]
+http://lag1.tv-mobile.org/prgs.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (bulgaro) [/COLOR]
+http://lag1.tv-mobile.org/prgt.m3u8
 
 #EXTINF:-1 tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SKY SPORTS |[/B][/COLOR]
 http://0.0.0.0:1234
