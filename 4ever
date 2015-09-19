@@ -285,8 +285,8 @@ rtmp://173.193.195.149:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][I][B] DESPORTO EUROPEIO & MUNDIAL [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="digisport.png" group-title="DESPORTO",[COLOR lawngreen] DIGI SPORT 3 [/COLOR][COLOR red] Liga NOS [/COLOR]
-rtmp://62.210.105.179:80/liverepeater playpath=132686 swfUrl=http://cdn.deltatv.pw/players.swf live=1 pageUrl=http://deltatv.pw/stream.php?id=132686&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-id="" tvg-logo="Bein_sport.png" group-title="DESPORTO",[COLOR lawngreen] bEIN ñ  (colombia) [/COLOR]
+http://162.212.176.68:1935/tododeportes/tododeportes/live.m3u8
 
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL HD [/COLOR][COLOR red]OFF [/COLOR]
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
@@ -298,9 +298,6 @@ http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="winsports.jpg" group-title="DESPORTO",[COLOR lawngreen] Win Sports (colombia) [/COLOR][COLOR red] NEW [/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="Bein_sport.png" group-title="DESPORTO",[COLOR lawngreen] bEIN ñ  (colombia) [/COLOR]
-http://162.212.176.68:1935/tododeportes/tododeportes/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL+ FUTBOL HD [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.2.54/pull playpath=liga932?keys=Kng36KzwQ5vF7DRY2HDnHg&keyt=1440872780 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
@@ -342,7 +339,6 @@ http://77.76.140.251/prgt.m3u8
 
 #EXTINF:-1 tvg-logo="Sportskool.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3 HD  (polaco)[/COLOR]
 http://tvi.ddns.me:8000/live/rich/rich/727.ts
-
 
 #EXTINF:-1 tvg-logo="BTN.png" group-title="PEDIDOS",[COLOR lawngreen]BTN HD (usa)[/COLOR]
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
