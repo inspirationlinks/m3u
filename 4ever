@@ -289,6 +289,8 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="Bein_sport.png" group-title="DESPORTO",[COLOR lawngreen] bEIN ñ (colombia)[/COLOR]
 http://162.212.176.68:1935/tododeportes/tododeportes/live.m3u8
 
+#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL HD [/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/516.ts
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL HD [/COLOR][COLOR red]OFF [/COLOR]
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
 
