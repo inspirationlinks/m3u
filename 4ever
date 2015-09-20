@@ -124,15 +124,15 @@ http://lag2.tv-mobile.org/prgd.m3u8
 http://37.203.209.34:443/mobile/flash42/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
 http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
 rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
 
 
 #EXTINF:-1, tvg-logo="Vhr.png",[COLOR lawngreen] VH1 Classic[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
-#EXTINF:-1, tvg-logo=".png",[COLOR lawngreen]Africa: FusionPlus TV[/COLOR]
+#EXTINF:-1, tvg-logo="FusionPlus.png",[COLOR lawngreen]Africa: FusionPlus TV[/COLOR]
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-
+#####################################
 #EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="MEO",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
