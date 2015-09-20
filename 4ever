@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 20 SET |12.40H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 20 SET |14.40H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -554,56 +554,23 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
 http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-logo="tom-and-jerry-logo.png" group-title="INFANTIL",[COLOR lawngreen] TOM AND JERRY [/COLOR]
-rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
+rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
 
-#EXTINF:-1 tvg-logo="Dragon Ball Z.png" group-title="INFANTIL",[COLOR lawngreen] Dragon Ball Z (br) [/COLOR]
-rtmp://208.53.180.218/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
-
-#EXTINF:-1 tvg-logo="Dragon Ball Z.png" group-title="INFANTIL",[COLOR lawngreen] Dragon Ball Z (esp) [/COLOR]
-rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
-
-#EXTINF:-1 tvg-logo="x-men.png" group-title="INFANTIL",[COLOR lawngreen] X-MEN (br) [/COLOR]
-rtmp://208.53.180.218/ctv playpath=xmen  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/xmen.html
-
-#EXTINF:-1 tvg-logo="picapau.png" group-title="INFANTIL",[COLOR lawngreen] PICAPAU (br) [/COLOR]
-rtmp://208.53.180.178/ctv playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/picapau.html/timeout=10
-
-#EXTINF:-1 tvg-id="" tvg-logo="simpson.png" group-title="INFANTIL",[COLOR lawngreen] SIMPSON (br) [/COLOR]
-rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html/timeout=10
-
-#EXTINF:-1 tvg-id="" tvg-logo="batman26.png" group-title="INFANTIL",[COLOR lawngreen] BATMAN (br) [/COLOR]
-rtmp://208.53.180.130/ctv playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/batman.html/timeout=10
-
-#EXTINF:-1 tvg-id="" tvg-logo="Flintstones.png" group-title="INFANTIL",[COLOR lawngreen] FLINTSTONES (br) [/COLOR]
-rtmp://208.53.180.242/ctv playpath=flinstones  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/flintstones.html
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] ANIME TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] ANIME TV (esp) [/COLOR]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
-
-#EXTINF:-1 tvg-id="" tvg-logo="Naruto.png" group-title="INFANTIL",[COLOR lawngreen] NARUTO (br) [/COLOR]
-http://62.210.83.154:8081/naruto/naruto/chunklist_w2073414386.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Zoomoo.png" group-title="INFANTIL",[COLOR lawngreen] ZOOMOO [/COLOR]
 http://wowza1.videos.movile.com:1935/live/infantil_1.smil/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (peru) [/COLOR]
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] RAXA TV (esp) [/COLOR]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
-
-#EXTINF:-1 tvg-id="" tvg-logo="Cartoonito.png" group-title="INFANTIL",[COLOR lawngreen] CARTOONITO (esp) [/COLOR]
-http://81.92.105.134:5555/pl.m3u8?channel=512&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 
 #EXTINF:-1 tvg-id="" tvg-logo="Cartoon Network UK.png" group-title="INFANTIL",[COLOR lawngreen] Cartoon Network [/COLOR]
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] 123 SESAME STREET [/COLOR]
 http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
-rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1 tvg-logo="fr.jpg" group-title="FRANÇA",[COLOR gray91][I][B] CANAIS FRANCESES [/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -977,3 +944,35 @@ http://stream.radio.com.pt:9496/stream
  
 #EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Douro Nacional [/COLOR]
 http://94.23.76.235:9996/;
+
+#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="MUSICA",[COLOR gray91][I][B] CANAIS DE MUSICA [/B][/I][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="MUSICA",[COLOR gray91][I][B]| VER NO "Playlist Loader" |[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="logo1.png",[COLOR green]SPORT TV1[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV1
+#EXTINF:-1,[COLOR green]SPORT TV1[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59&mode=1&name=acestream&mode=1&name=SPORT TV1
+#EXTINF:-1,[COLOR green]SPORT TV2[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream&mode=1&name=SPORT TV2
+#EXTINF:-1,[COLOR green]SPORT TV2[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream&mode=1&name=SPORT TV2
+#EXTINF:-1,[COLOR green]SPORT TV3[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://cf8ff2d9d89f482de9127591c5781216d60368ae&mode=1&name=acestream&mode=1&name=SPORT TV3
+#EXTINF:-1,[COLOR green]SPORT TV3[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream&mode=1&name=SPORT TV3
+#EXTINF:-1,[COLOR green]SPORT TV4[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV4
+#EXTINF:-1,[COLOR green]SPORT TV4[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://d2a63635273232fc7710bb28c8775d18179c4038&mode=1&name=acestream&mode=1&name=SPORT TV4
+#EXTINF:-1,[COLOR green]SPORT TV5[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad&mode=1&name=acestream&mode=1&name=SPORT TV5
+#EXTINF:-1,[COLOR green]SPORT TV5[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV5
+#EXTINF:-1,[COLOR green]SPORT Teste[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT teste
+#EXTINF:-1,[COLOR green]sky 1 UK teste[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream&mode=1&name=Sky1UK teste
+#EXTINF:-1,[COLOR green]sky 1 DE teste[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://4c1892087557c93e612fb0896fd4a341753700a0&mode=1&name=acestream&mode=1&name=bundesliga1
