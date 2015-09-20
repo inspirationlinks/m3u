@@ -112,8 +112,15 @@ http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
 http://37.203.209.34:443/mobile/flash29/live.m3u8
 #EXTINF:-1 tvg-logo="AXN HD.png",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
-#EXTINF:-1 tvg-logo="Disney Jr.png",[COLOR lawngreen]DISNEY JUNIOR (br)[/COLOR]
+
+#EXTINF:-1 tvg-logo="Disney Jr.png",[COLOR lawngreen]DISNEY JUNIOR &  (br)[/COLOR]
 http://37.203.209.34:443/mobile/flash42/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
+http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
+rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
+
+
 #EXTINF:-1, tvg-logo="Vhr.png",[COLOR lawngreen] VH1 Classic[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
 
@@ -550,12 +557,6 @@ http://103.7.56.114/vit2/stadium1new.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="Desenhos.png" group-title="INFANTIL",[COLOR gray91][I][B] INFANTIS [/B][/I][/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
-http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
-rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] ANIME TV (esp) [/COLOR]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
