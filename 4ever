@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 20 SET |14.40H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B] UPDATE: 20 SET |17.50H [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -327,6 +327,12 @@ rtmp://secure.hdcast.org/justforvip/llive1
 
 #EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
+
+#EXTINF:-1 tvg-logo="Sky Sports 2.png",[COLOR lawngreen]Sky Sports 1 UK [/COLOR][COLOR red]NEW|20/09/15[/COLOR]
+http://vurl.com/n5mRW
+
+#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]İdman TV (Azerbaijan)[/COLOR][COLOR red] NEW|20/09/15[/COLOR]
+http://149.255.152.70:80/idman/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR]
 http://lag1.tv-mobile.org/prgr.m3u8
