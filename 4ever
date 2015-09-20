@@ -108,6 +108,13 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="Record RJ.png" group-title="BRASILEIROS",[COLOR lawngreen]TV RECORD[/COLOR]
 http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="fox_movies_pt.png" group-title="MEO",[COLOR lawngreen] FOX MOVIES PT[/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/1647.ts
+#EXTINF:-1 tvg-id="" tvg-logo="axn1.png" group-title="MEO",[COLOR lawngreen] AXN PT [/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/1653.ts
+#EXTINF:-1 tvg-id="" tvg-logo="AXN White.png" group-title="MEO",[COLOR lawngreen] AXN WHITE PT[/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/2712.ts
+
 #EXTINF:-1 tvg-logo="Fox HD.png",[COLOR lawngreen]FOX (br)[/COLOR]
 http://37.203.209.34:443/mobile/flash29/live.m3u8
 #EXTINF:-1 tvg-logo="AXN HD.png",[COLOR lawngreen]AXN (usa)[/COLOR]
@@ -123,6 +130,8 @@ rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.
 
 #EXTINF:-1, tvg-logo="Vhr.png",[COLOR lawngreen] VH1 Classic[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1, tvg-logo=".png",[COLOR lawngreen]Africa: FusionPlus TV[/COLOR]
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 
 #EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="MEO",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
