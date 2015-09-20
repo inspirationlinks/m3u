@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B]| UPDATE: 20 SET |22.30H |[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 20 SET |22.30H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -699,17 +699,11 @@ http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 #EXTINF:-1 tvg-logo="ocko-tv_cz.gif" group-title="MUSICA",[COLOR lawngreen] Ocko TV [/COLOR][COLOR red] NEW [/COLOR]
 http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png" group-title="MUSICA",[COLOR lawngreen] Africa Music [/COLOR]
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="virgin_radio_tv.png" group-title="MUSICA",[COLOR lawngreen] TV VIRGIN RADIO [/COLOR][COLOR red] NEW [/COLOR]
 http://wow01.105.net/live/virgin1/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="MYX.jpg" group-title="MUSICA",[COLOR lawngreen] First Music Channel [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://rtmp.one.by/SD/1muz
-
-#EXTINF:-1 tvg-id="" tvg-logo="Ibiza-on-TV.jpg" group-title="MUSICA",[COLOR lawngreen] IBIZAON TV [/COLOR]
-rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000 
 
 #EXTINF:-1 tvg-id="" tvg-logo="hayatm.jpg" group-title="MUSICA",[COLOR lawngreen] BEST MUSIC [/COLOR]
 rtmp://stream.smcloud.net/live2/best/best_720p
