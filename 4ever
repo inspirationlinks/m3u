@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B]═════ UPDATE: 20 SET |22.30H ═════[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][I][B]| UPDATE: 20 SET |22.30H |[/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -16,7 +16,7 @@ http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png",[COLOR lawngreen][B]TVI[/B][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR gray91][B]═════ PACOTE BASICO MEO ═════[/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR gray91][B]| PACOTE BASICO MEO |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="MEO",[COLOR lawngreen] RTP 1 [/COLOR]
@@ -156,7 +156,7 @@ rtmp://31.220.2.56/pull/ playpath=barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q-&keyt=14
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR][COLOR red]TEST[/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/208.ts
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR gray91][B]═════ TVCINES ═════[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR gray91][B]| TVCINES |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PEDIDOS",[COLOR lawngreen] TVC1 [/COLOR][COLOR red]HUGO R.[/COLOR]
@@ -180,7 +180,7 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 #EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PEDIDOS",[COLOR lawngreen] TVC4 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/212.ts
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]═════ CAÇA PESCA & TOURADAS ═════[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| CAÇA PESCA & TOURADAS |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="PEDIDOS",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
@@ -195,7 +195,7 @@ rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=144
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.200/pull playpath=toros8586?keys=XO3IP5P3DL8Y7UsZqg7gLg&keyt=1441422358 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="FIGHT & WWE",[COLOR gray91][B]═════ CANAIS FIGHT & WWE ═════[/B][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="FIGHT & WWE",[COLOR gray91][B]| CANAIS FIGHT & WWE |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] THE FIGHT [/COLOR]
@@ -307,14 +307,8 @@ rtmp://secure.hdcast.org/justforvip/llive1
 #EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
 
-#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]SOS SPORT[/COLOR][COLOR red]NEW|20/09/15[/COLOR]
+#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]SOS SPORT[/COLOR][COLOR red] NEW[/COLOR]
 http://178.253.194.71:1935/liveloworigin/sos.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="Sky Sports 2.png",[COLOR lawngreen]Sky Sports 1 UK [/COLOR][COLOR red]NEW|20/09/15[/COLOR]
-http://vurl.com/n5mRW
-
-#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]İdman TV (Azerbaijan)[/COLOR][COLOR red] NEW|20/09/15[/COLOR]
-http://149.255.152.70:80/idman/index.m3u8
 
 #EXTINF:-1 tvg-logo=".jpg" ,[COLOR lawngreen]Al Nahar Sport[/COLOR]
 http://38.99.146.36:7777/AlNaharSport_HD.m3u8
@@ -343,8 +337,6 @@ http://77.76.140.251/prgr.m3u8
 http://77.76.140.251/prgs.m3u8
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
 http://77.76.140.251/prgt.m3u8
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3 HD  (polaco)[/COLOR]
-http://tvi.ddns.me:8000/live/rich/rich/727.ts
 
 #EXTINF:-1 tvg-logo="BTN.png" group-title="PEDIDOS",[COLOR lawngreen]BTN HD (usa)[/COLOR]
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
@@ -403,18 +395,6 @@ rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky4 swfUrl=http://player.hdc
 #EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 5 (uk)[/COLOR]
 rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 tvg-logo="inspiration.png",[COLOR gray91][B]| CANAIS ARENA SPORTS |[/B][/COLOR] 
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="Arena.png",[COLOR lawngreen]Arena 1[/COLOR] 
-http://62.141.36.40:8000/live/kajgana/kajgana/1.ts
-#EXTINF:-1 tvg-logo="Arena.png",[COLOR lawngreen]Arena 2[/COLOR] 
-http://62.141.36.40:8000/live/kajgana/kajgana/2.ts
-#EXTINF:-1 tvg-logo="Arena.png",[COLOR lawngreen]Arena 3[/COLOR] 
-http://62.141.36.40:8000/live/kajgana/kajgana/3.ts
-#EXTINF:-1 tvg-logo="Arena.png",[COLOR lawngreen]Arena 4[/COLOR] 
-http://62.141.36.40:8000/live/kajgana/kajgana/4.ts
-
 #EXTINF:-1,[COLOR gray91][B]| CANAIS DIGI SPORTS |[/B][/COLOR] 
 http://0.0.0.0:1234
 
@@ -456,11 +436,8 @@ http://193.194.107.10:4022/udp/225.1.3.103:4001
 #EXTINF:1 logo="Sport TV 3.png",[COLOR lawngreen]Футбол 2[/COLOR]
 http://193.194.107.10:4022/udp/225.1.3.102:4001
 
-#EXTINF:-1 tvg-logo="nova_sport_bg.png" group-title="PEDIDOS",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
+#EXTINF:-1 tvg-logo="nova_sport_bg.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
 http://lag1.tv-mobile.org/prgp.m3u8
-
-#EXTINF:-1 tvg-logo="ntv_plus_sport_plus.png" group-title="DESPORTO",[COLOR lawngreen]NTV SPORT (rus)[/COLOR]
-http://pstv.krasmix.ru/tv/sport/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="viasat-sport.png" group-title="DESPORTO",[COLOR lawngreen]VIASAT SPORT (rus)[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
@@ -545,9 +522,6 @@ http://lihattv.toh.info/jhos/beib2_5/-/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 3 (uk) [/COLOR]
 http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="cielo-tv.png" group-title="PEDIDOS",[COLOR lawngreen]CTH STADIUM [/COLOR][COLOR red] NEW [/COLOR]
-http://103.7.56.114/vit2/stadium1new.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="Desenhos.png" group-title="INFANTIL",[COLOR gray91][I][B] INFANTIS [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
@@ -592,18 +566,6 @@ http://162.212.176.83:8080/map-africableroku.stream.m3u8
 
 #EXTINF:-1 tvg-logo="encyclo.png" group-title="FRANÇA",[COLOR lawngreen] ENCYCLO (fr) [/COLOR]
 http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="France_2_logo.png" group-title="FRANÇA",[COLOR lawngreen] FRANCE 2 [/COLOR][COLOR red] NEW [/COLOR]
-http://pvr.tvip.ga/0204.m3u8|X-Forwarded-For=81.17.18.51
- 
-#EXTINF:-1 tvg-logo="France_3_logo.png" group-title="FRANÇA",[COLOR lawngreen] FRANCE 3 [/COLOR][COLOR red] NEW [/COLOR]
-http://pvr.tvip.ga/0205.m3u8|X-Forwarded-For=81.17.18.51
- 
-#EXTINF:-1 tvg-logo="France4.png" group-title="FRANÇA",[COLOR lawngreen] FRANCE 4 [/COLOR][COLOR red] NEW [/COLOR]
-http://pvr.tvip.ga/0221.m3u8|X-Forwarded-For=81.17.18.51
-
-#EXTINF:-1 tvg-logo="Cartoon Network.png" group-title="FRANÇA",[COLOR lawngreen] CARTOON NETWORK [/COLOR][COLOR red] NEW [/COLOR]
-http://pvr.tvip.ga/0239.m3u8|X-Forwarded-For=81.17.18.51
  
 #EXTINF:-1 tvg-logo="Euronews.png" group-title="FRANÇA",[COLOR lawngreen] EURONEWS [/COLOR][COLOR red] NEW [/COLOR]
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
@@ -656,40 +618,7 @@ http://teleclub.fr/gloubi.mp4?sd=10&_Maghrebstar.com_rebase=on
 #EXTINF:-0 Adult="true"tvg-id="" tvg-logo="usauk.jpg" group-title="UK and USA",[COLOR gray91][I][B] UK and USA  [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="BBC One.png" group-title="UK and USA",[COLOR lawngreen]BBC ONE[/COLOR]
-http://pvr.tvip.ga/0402.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="BBC One.png" group-title="UK and USA",[COLOR lawngreen]BBC ONE[/COLOR]
-http://pvr.tvip.ga/0401.m3u8|X-Forwarded-For=81.17.18.52 
-#EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK and USA",[COLOR lawngreen]BBC TWO[/COLOR]
-http://pvr.tvip.ga/0403.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK and USA",[COLOR lawngreen]BBC TWO[/COLOR]
-http://82.135.224.134:80/udp/239.100.3.3:1234 
-#EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK and USA",[COLOR lawngreen]BBC TWO[/COLOR]
-http://pvr.tvip.ga/0404.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="BBC THREE.png" group-title="UK and USA",[COLOR lawngreen]BBC THREE[/COLOR]
-http://pvr.tvip.ga/0406.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="BBC FOUR.png" group-title="UK and USA",[COLOR lawngreen]BBC FOUR[/COLOR]
-http://pvr.tvip.ga/0408.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="ITV1.png" group-title="UK and USA",[COLOR lawngreen]ITV[/COLOR]
-http://pvr.tvip.ga/0410.m3u8|X-Forwarded-For=81.17.18.52
-
-#EXTINF:-1 tvg-logo="ITV2.png" group-title="UK and USA",[COLOR lawngreen]ITV 2[/COLOR]
-http://pvr.tvip.ga/0411.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="ITV3.png" group-title="UK and USA",[COLOR lawngreen]ITV 3[/COLOR]
-http://pvr.tvip.ga/0412.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="ITV4.png" group-title="UK and USA",[COLOR lawngreen]ITV 4[/COLOR]
-http://pvr.tvip.ga/0413.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="Channel 4.png" group-title="UK and USA",[COLOR lawngreen]CHANNEL 4[/COLOR]
-http://pvr.tvip.ga/0414.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="Film4.png" group-title="UK and USA",[COLOR lawngreen]FILM4[/COLOR]
-http://pvr.tvip.ga/0415.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="Channel 5.png" group-title="UK and USA",[COLOR lawngreen]CHANNEL 5[/COLOR]
-http://pvr.tvip.ga/0416.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="" group-title="UK and USA",[COLOR lawngreen]4MORE[/COLOR]
-http://pvr.tvip.ga/0417.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="E4.png" group-title="UK and USA",[COLOR lawngreen]E4[/COLOR]
-http://pvr.tvip.ga/0418.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-logo="Channel 5.png" group-title="UK and USA",[COLOR lawngreen]CHANNEL 5[/COLOR]
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="UK and USA",[COLOR lawngreen]BREVEMENTE[/COLOR]
 
 #EXTINF:-1 Adult="true"tvg-id="" tvg-logo="porn.gif" group-title="PORN XXX",[COLOR gray91][I][B] ADULTO (XXX) [/B][/I][/COLOR]
 http://0.0.0.0:1234
