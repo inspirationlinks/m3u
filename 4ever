@@ -106,7 +106,7 @@ http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbra
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title="BRASILEIROS",[COLOR lawngreen] Tv Gazeta [/COLOR][COLOR red] NEW[/COLOR]
 http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
-#EXTINF:-1 tvg-logo="Record RJ.png" group-title="BRASILEIROS",[COLOR lawngreen]TV RECORD[/COLOR]
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record RJ.png" group-title="BRASILEIROS",[COLOR lawngreen]TV RECORD[/COLOR]
 http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="fox_movies_pt.png" group-title="MEO",[COLOR lawngreen] FOX MOVIES PT[/COLOR]
@@ -120,21 +120,18 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 http://37.203.209.34:443/mobile/flash29/live.m3u8
 #EXTINF:-1 tvg-logo="AXN HD.png",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
-
-#EXTINF:-1 tvg-logo="Disney Jr.png",[COLOR lawngreen]DISNEY JUNIOR &  (br)[/COLOR]
-http://37.203.209.34:443/mobile/flash42/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
 http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
 rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
 
-#EXTINF:-1 tvg-logo="cielo.jpg",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red]NEW[/COLOR]
+#EXTINF:-1 tvg-logo="cielo.jpg",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red] NEW[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red]NEW[/COLOR]
+#EXTINF:-1 tvg-logo=".png",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red] NEW[/COLOR]
 http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
 
-#EXTINF:-1 tvg-logo=".png",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red]NEW[/COLOR]
+#EXTINF:-1 tvg-logo=".png",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
 rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 
 #EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="MEO",[COLOR lawngreen] rTVE [/COLOR]
@@ -380,7 +377,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
+#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
@@ -388,7 +385,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 rtmp://176.10.250.166:1935/tv/stream1
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
 rtmp://31.220.0.134/pull playpath=eurosport1417?keys=iRlRfIzrG_kK-gKrxuwbNw&keyt=1439947981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://server9.balkantvmedia.com:8080/EUROSPORT_2SR?u=user329:p=jAiMJONu
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
