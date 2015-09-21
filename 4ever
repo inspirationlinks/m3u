@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 20 SET |22.30H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 21 SET |10.05H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -142,9 +142,16 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="France 24 (F)" tvg-logo="france24.png" group-title="FRANÇA",[COLOR lawngreen] FRANCE 24 [/COLOR]
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PEDIDOS",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
+#EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="MEO",[COLOR lawngreen] CBS Reality (uk)[/COLOR]
+http://37.187.160.187:8000/live/ressler/skype/66.ts
+#EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="MEO",[COLOR lawngreen] CBS DRAMA (uk)[/COLOR]
+http://37.187.160.187:8000/live/ressler/skype/67.ts
+#EXTINF:-1 tvg-id="" tvg-logo="abc news.png" group-title="MEO",[COLOR lawngreen] ABC NEWS (uk)[/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
 rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PEDIDOS",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
 http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="rmfc.jpg" group-title="DESPORTO",[COLOR lawngreen] REAL MADRID [/COLOR]
@@ -615,10 +622,41 @@ http://tv.ut.cx/minimax.mp4
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR lawngreen] Gloubi (fr) [/COLOR]
 http://teleclub.fr/gloubi.mp4?sd=10&_Maghrebstar.com_rebase=on
 
-#EXTINF:-0 Adult="true"tvg-id="" tvg-logo="usauk.jpg" group-title="UK and USA",[COLOR gray91][I][B] UK and USA  [/B][/I][/COLOR]
+#EXTINF:-0 Adult="true"tvg-id="" tvg-logo="usauk.jpg" group-title="HISPÂNICOS",[COLOR gray91][B]| CANAIS HISPÂNICOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="BBC One.png" group-title="UK and USA",[COLOR lawngreen]BREVEMENTE[/COLOR]
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] TVE [/COLOR]
+http://31.220.41.111:80/LiveEdgeTesting/TVELASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] ANTENA3 [/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] TV GALIZIA [/COLOR]
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] TELE SUR [/COLOR]
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8?
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] ANDALUCIA [/COLOR]
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8?
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] TV MARBELLA [/COLOR]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/chunklist.m3u8#sthash.XII1ct8X.dpuf
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] LA SEXTA [/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+ 
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] HUELVA COSTA [/COLOR][COLOR red][B] test [/B][/COLOR]
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] MEGA [/COLOR]
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS [/COLOR]
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] AMERICA TV (per) [/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] TVP (arg) [/COLOR]
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] TVP1 [/COLOR]
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] CDN SPORTS (mex) [/COLOR]
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="HISPÂNICOS",[COLOR lawngreen] TELE ANTILLHAS [/COLOR]
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
 
 #EXTINF:-1 Adult="true"tvg-id="" tvg-logo="porn.gif" group-title="PORN XXX",[COLOR gray91][I][B] ADULTO (XXX) [/B][/I][/COLOR]
 http://0.0.0.0:1234
