@@ -100,11 +100,12 @@ rtmp://213.13.26.43/live playpath=etv_direto swfUrl=http://imgs.sapo.pt/sapovide
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="MEO",[COLOR lawngreen] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
 
-#EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRASILEIROS",[COLOR lawngreen] BRASIL INTERNACIONAL [/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRASILEIROS",[COLOR lawngreen] BRASIL INTERNACIONAL [/COLOR]
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Chef TV.png" group-title="BRASILEIROS",[COLOR lawngreen] CHEFE COZINHA [/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-
+#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title="BRASILEIROS",[COLOR lawngreen] Tv Gazeta [/COLOR][COLOR red] NEW[/COLOR]
+http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
 #EXTINF:-1 tvg-logo="Record RJ.png" group-title="BRASILEIROS",[COLOR lawngreen]TV RECORD[/COLOR]
 http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
 
@@ -126,6 +127,15 @@ http://37.203.209.34:443/mobile/flash42/live.m3u8
 http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
 rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
+
+#EXTINF:-1 tvg-logo="cielo.jpg",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red]NEW[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red]NEW[/COLOR]
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+
+#EXTINF:-1 tvg-logo=".png",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red]NEW[/COLOR]
+rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 
 #EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="MEO",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
@@ -637,7 +647,9 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="tve 24.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVE 24 [/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="Canal4.jpg" group-title="HISPÂNICOS",[COLOR lawngreen]Cuatro[/COLOR]
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_12@168472/index_0_av-b.m3u8?sd=10&rebase=on 
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_12@168472/index_0_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="Canal4.jpg" group-title="HISPÂNICOS",[COLOR lawngreen]Cuatro[/COLOR]
+http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
 #EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
 #EXTINF:-1 tvg-logo="euronewss.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] EURONEWS [/COLOR]
