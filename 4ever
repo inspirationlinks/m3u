@@ -116,22 +116,22 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 #EXTINF:-1 tvg-id="" tvg-logo="AXN White.png" group-title="MEO",[COLOR lawngreen] AXN WHITE PT[/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/2712.ts
 
-#EXTINF:-1 tvg-logo="Fox HD.png",[COLOR lawngreen]FOX (br)[/COLOR]
+#EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (br)[/COLOR]
 http://37.203.209.34:443/mobile/flash29/live.m3u8
-#EXTINF:-1 tvg-logo="AXN HD.png",[COLOR lawngreen]AXN (usa)[/COLOR]
+#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
 http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
 rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
 
-#EXTINF:-1 tvg-logo="cielo.jpg",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo="cielo.jpg" group-title="MEO",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red] NEW[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red] NEW[/COLOR]
 http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
 
-#EXTINF:-1 tvg-logo=".png",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
 rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 
 #EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="MEO",[COLOR lawngreen] rTVE [/COLOR]
@@ -175,43 +175,46 @@ rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
 http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 
+#EXTINF:-1, NAT GEO Wild teste
+rtp://@239.0.0.89:8208
+
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR gray91][B]| TVCINES |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PEDIDOS",[COLOR lawngreen] TVC1 [/COLOR][COLOR red]HUGO R.[/COLOR]
+#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="MEO",[COLOR lawngreen] TVC1 [/COLOR][COLOR red]HUGO R.[/COLOR]
 rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_ONE/TVCINE_ONE.sdp
 
-#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PEDIDOS",[COLOR lawngreen] TVC1 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="MEO",[COLOR lawngreen] TVC1 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/209.ts
 
-#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="PEDIDOS",[COLOR lawngreen] TVC2 [/COLOR][COLOR red]HUGO R.[/COLOR]
+#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="MEO",[COLOR lawngreen] TVC2 [/COLOR][COLOR red]HUGO R.[/COLOR]
 rtmp://area61.better-than.tv:1935/ANYTV_USR_TVCINE_TWO/TVCINE_TWO.sdp
  
-#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="PEDIDOS",[COLOR lawngreen] TVC2 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="MEO",[COLOR lawngreen] TVC2 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/210.ts
  
-#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PEDIDOS",[COLOR lawngreen] TVC3 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="MEO",[COLOR lawngreen] TVC3 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/211.ts
 
-#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PEDIDOS",[COLOR lawngreen] TVC3 [/COLOR]
+#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="MEO",[COLOR lawngreen] TVC3 [/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/211.ts
  
-#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PEDIDOS",[COLOR lawngreen] TVC4 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="MEO",[COLOR lawngreen] TVC4 [/COLOR][COLOR red] TEST [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/212.ts
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| CAÇA PESCA & TOURADAS |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| CAÇA PESCA & TOURADAS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="PEDIDOS",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.0.200/pull/ playpath=iberalia1212?keys=L-tMqiXY_FOiiG4_92OVEQ&keyt=1439951200 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
 
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="PEDIDOS",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.0.32/pull/ playpath=iberalia1212?keys=pFlxESGZHfQqtyUN9sqmdA&keyt=1440160902 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
 
-#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] ON [/COLOR]
 rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=1440251962 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
 
-#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PEDIDOS",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://31.220.0.200/pull playpath=toros8586?keys=XO3IP5P3DL8Y7UsZqg7gLg&keyt=1441422358 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
 
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="FIGHT & WWE",[COLOR gray91][B]| CANAIS FIGHT & WWE |[/B][/COLOR]
@@ -223,13 +226,13 @@ http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="wwe.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://188.93.94.46:80/boets/index.m3u8?token=w_6_G-EKvoq8no6sIwq-rFJMvE5vTzWolZRi4YrAykMmyXkU5plSKUSoGsY2C5ZqjpkVbHlhfZgEvf-GQM1S3w?hpg_disco
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| DESPORTOS MOTORIZADOS |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| DESPORTOS MOTORIZADOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="Motors TV.png" group-title="PEDIDOS",[COLOR lawngreen] MOTORS TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Motors TV.png" group-title="DESPORTO",[COLOR lawngreen] MOTORS TV [/COLOR]
 mms://100automoto.tv/100livesport
 
 #EXTINF:-1 tvg-logo="Motorsport.png" group-title="DESPORTO",[COLOR lawngreen]MOTOSPORT (usa)[/COLOR]
@@ -244,7 +247,7 @@ mms://100automoto.tv/100livesport
 #EXTINF:-1,[COLOR lawngreen]Auto Motor Sport[/COLOR]
 http://lag2.tv-mobile.org/prgu.m3u8
 
-#EXTINF:-1 tvg-id="AUTO HOJE" tvg-logo="autohoje.png" group-title="MEO",[COLOR lawngreen] AUTO HOJE TV [/COLOR]
+#EXTINF:-1 tvg-id="AUTO HOJE" tvg-logo="autohoje.png" group-title="DESPORTO",[COLOR lawngreen] AUTO HOJE TV [/COLOR]
 mms://tv.autohoje.com/mpltv
 
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| SPORTV TV & BENFICA TV |[/B][/COLOR]
@@ -267,7 +270,7 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
 rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="BRASILEIROS",[COLOR lawngreen] SPORTV 3 [/COLOR]
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 [/COLOR]
 rtmp://area61.better-than.tv:1935/ANYTV_USR_SPORTTV3/SPORTTV3.sdp
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 [/COLOR][COLOR red][/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/231.ts
@@ -317,7 +320,7 @@ rtmp://31.220.2.55/pull playpath=deportes2525?keys=CO63AzQ0xTVF4Uv_vwqOVg&keyt=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL + (fr) [/COLOR]
 rtmp://176.10.250.166:1935/tv/stream4
-#EXTINF:-1 tvg-logo="LEquipe-21.png" group-title="PEDIDOS",[COLOR lawngreen]Lequipe-21 (fr)[/COLOR]
+#EXTINF:-1 tvg-logo="LEquipe-21.png" group-title="DESPORTO",[COLOR lawngreen]Lequipe-21 (fr)[/COLOR]
 http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21
 
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
@@ -350,17 +353,15 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:-1 tvg-id="" tvg-logo="winsports.jpg" group-title="DESPORTO",[COLOR lawngreen] Win Sports (colombia) [/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR]
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR]
 http://77.76.140.251/prgr.m3u8
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 2 (polaco)[/COLOR]
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 2 (polaco)[/COLOR]
 http://77.76.140.251/prgs.m3u8
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="PEDIDOS",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
 http://77.76.140.251/prgt.m3u8
 
-#EXTINF:-1 tvg-logo="BTN.png" group-title="PEDIDOS",[COLOR lawngreen]BTN HD (usa)[/COLOR]
+#EXTINF:-1 tvg-logo="BTN.png" group-title="DESPORTO",[COLOR lawngreen]BTN HD (usa)[/COLOR]
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1 tvg-logo="FSC.jpg" group-title="DESPORTO",[COLOR lawngreen]FSC (usa)[/COLOR][COLOR red] [/COLOR]
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS NBCSN |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -644,8 +645,6 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="tve 24.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVE 24 [/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="Canal4.jpg" group-title="HISPÂNICOS",[COLOR lawngreen]Cuatro[/COLOR]
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_12@168472/index_0_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="Canal4.jpg" group-title="HISPÂNICOS",[COLOR lawngreen]Cuatro[/COLOR]
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
 #EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
@@ -679,11 +678,11 @@ http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/pla
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR lawngreen]Azteca Noticias[/COLOR]
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,[COLOR lawngreen]Canal 10 - España[/COLOR]
+#EXTINF:-1,[COLOR lawngreen]Canal 10[/COLOR]
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1,[COLOR lawngreen]Granada 7 TV - España[/COLOR]
+#EXTINF:-1,[COLOR lawngreen]Granada 7 TV[/COLOR]
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
-#EXTINF:-1,[COLOR lawngreen]Información TV - España[/COLOR]
+#EXTINF:-1,[COLOR lawngreen]Información TV[/COLOR]
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
 #EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] AMERICA TV (per) [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
