@@ -2,7 +2,7 @@
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 21 SET | 16.42H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 21 SET | 16.45H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -777,10 +777,10 @@ rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="MUSICA",[COLOR gray91][I][B] CANAIS DE MUSICA [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1, tvg-logo="Vhr.png" group-title="MUSICA", [COLOR lawngreen] VH1 Classic[/COLOR]
+#EXTINF:-1 tvg-logo="Vhr.png" group-title="MUSICA", [COLOR lawngreen] VH1 Classic[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
 
-#EXTINF:-1, tvg-logo="FusionPlus.png" group-title="MUSICA", [COLOR lawngreen]Africa: FusionPlus TV[/COLOR]
+#EXTINF:-1 tvg-logo="FusionPlus.png" group-title="MUSICA", [COLOR lawngreen]Africa: FusionPlus TV[/COLOR]
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 
 #EXTINF:-1 tvg-logo="ocko-tv_cz.gif" group-title="MUSICA",[COLOR lawngreen] Ocko TV [/COLOR][COLOR red] NEW [/COLOR]
