@@ -129,23 +129,10 @@ http://lag2.tv-mobile.org/prgd.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="Cartoon Network UK.png" group-title="MEO",[COLOR lawngreen]Cartoon Network (usa)[/COLOR][COLOR red] NEW[/COLOR]
-http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="Baby First.png" group-title="MEO",[COLOR lawngreen]Baby TV(br)[/COLOR][COLOR red] NEW[/COLOR]
-http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
-http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
-rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
-#EXTINF:-1 tvg-id="" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
-http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="" tvg-logo="Nick Jr.png" group-title="INFANTIL",[COLOR lawngreen] Nick Jr. (usa) [/COLOR]
-http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
-
-#############################################################################################
-
 #EXTINF:-1 tvg-logo="cielo.jpg" group-title="MEO",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red] NEW[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1 tvg-logo="cielo.jpg" group-title="MEO",[COLOR lawngreen] Sky Tg24 (it) [/COLOR][COLOR red] NEW[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red] NEW[/COLOR]
 http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
@@ -180,6 +167,19 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 
 #EXTINF:-1 tvg-id="" tvg-logo="barca_tv.png" group-title="DESPORTO",[COLOR lawngreen] BARCA TV [/COLOR]
 rtmp://31.220.2.56/pull/ playpath=barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q-&keyt=1440155997 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/ conn=S:OK timeout=15
+
+#############################################################################################
+
+#EXTINF:-1 tvg-logo="Cartoon Network UK.png" group-title="MEO",[COLOR lawngreen]Cartoon Network (usa)[/COLOR][COLOR red] NEW[/COLOR]
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="Baby First.png" group-title="MEO",[COLOR lawngreen]Baby TV(br)[/COLOR][COLOR red] NEW[/COLOR]
+http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
+http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (usa) [/COLOR]
+rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=kicnick&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
+#EXTINF:-1 tvg-id="" tvg-logo="Nick Jr.png" group-title="INFANTIL",[COLOR lawngreen] Nick Jr. (usa) [/COLOR]
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
 
 #############################################################################################
 
@@ -694,6 +694,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="TVe.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:-1 tvg-logo="TVe.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="tve2.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE 2 [/COLOR]
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="tve 24.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVE 24 [/COLOR]
