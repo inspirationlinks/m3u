@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 21 SET |10.05H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 21 SET |12.05H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -149,11 +149,6 @@ http://37.187.160.187:8000/live/ressler/skype/67.ts
 #EXTINF:-1 tvg-id="" tvg-logo="abc news.png" group-title="MEO",[COLOR lawngreen] ABC NEWS (uk)[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
-rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
-http://38.99.146.36:7777/ADNatGeo_HD.m3u8
-
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="rmfc.jpg" group-title="DESPORTO",[COLOR lawngreen] REAL MADRID [/COLOR]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
@@ -162,6 +157,16 @@ rtmp://31.220.2.56/pull/ playpath=barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q-&keyt=14
 
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR][COLOR red]TEST[/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/208.ts
+
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR gray91][B]| CHANNELS NAT GEO WILD |[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD [/COLOR]
+http://lag2.tv-mobile.org/prgg.m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (esp) [/COLOR]
+rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt;=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
+http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR gray91][B]| TVCINES |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -367,22 +372,20 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
 rtmp://176.10.250.166:1935/tv/stream1
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
 rtmp://31.220.0.134/pull playpath=eurosport1417?keys=iRlRfIzrG_kK-gKrxuwbNw&keyt=1439947981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://server9.balkantvmedia.com:8080/EUROSPORT_2SR?u=user329:p=jAiMJONu
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (bulgaro) [/COLOR]
 http://lag1.tv-mobile.org/prgs.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (bulgaro) [/COLOR]
+http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_EUROSPORT2/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SKY SPORTS |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -633,6 +636,8 @@ http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="tve 24.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVE 24 [/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
 #EXTINF:-1 tvg-logo="euronewss.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] EURONEWS [/COLOR]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1 tvg-logo="antena3.png" group-title="HISPÂNICOS",[COLOR lawngreen] ANTENA3 HD [/COLOR]
