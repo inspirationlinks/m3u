@@ -112,12 +112,6 @@ http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 #EXTINF:-1 tvg-logo="cielo.jpg" group-title="MEO",[COLOR lawngreen] Sky Tg24 (it) [/COLOR][COLOR red] NEW[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red] NEW[/COLOR]
-http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-
-#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
-rtmp://46.4.25.213/live-ann7/ann7-mid.stream
-
 #EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="MEO",[COLOR lawngreen]Weather Channel US[/COLOR]
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
@@ -1075,6 +1069,16 @@ http://tring-amd-live.tring.tv/out/u/89_87.m3u8
 http://tring-amd-live.tring.tv/out/u/86_101.m3u8
 #EXTINF:-1,SuperSport 3
 http://tring-amd-live.tring.tv/out/u/87_95.m3u8
+#EXTINF:-1,Tring World
+http://tring-amd-live.tring.tv/out/u/74_156.m3u8
+#EXTINF:-1,Tring Planet
+http://tring-amd-live.tring.tv/out/u/75_153.m3u8
+#EXTINF:-1,Tring History
+http://tring-amd-live.tring.tv/out/u/76_150.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red] NEW[/COLOR]
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
+rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 
 #############################################################################################
 #############################################################################################
