@@ -181,6 +181,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="Cartoon Network UK.png" group-title="INFANTIL",[COLOR lawngreen] Cartoon Network [/COLOR]
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Cartoon Network UK.png" group-title="INFANTIL",[COLOR lawngreen] karusel (ru) [/COLOR]
+http://4BA9EBDB07C05883@5.159.96.170:8000/karusel
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] 123 SESAME STREET [/COLOR]
 http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
@@ -364,8 +366,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,BARCA TV
 rtmp://31.220.2.56/pull/ playpath=barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q-&keyt=1440155997 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/ conn=S:OK timeout=15
-#EXTINF:-1,sport (test)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+
 #############################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| DESPORTO EUROPEIO & MUNDIAL |[/B][/COLOR]
@@ -548,21 +549,17 @@ http://193.194.107.10:4022/udp/225.1.3.102:4001
 
 #EXTINF:-1 tvg-logo="nova_sport_bg.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
 http://lag1.tv-mobile.org/prgp.m3u8
-
 #EXTINF:-1 tvg-logo="viasat-sport.png" group-title="DESPORTO",[COLOR lawngreen]VIASAT SPORT (rus)[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="Viasat_Sport_Baltic_logo.png" group-title="DESPORTO",[COLOR lawngreen]VIASAT SPORT Baltic (rus)[/COLOR]
 http://88.118.131.29/vsb.m3u8
 
+#EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt 1 (rus) [/COLOR][COLOR red] NEW[/COLOR]
+http://4BA9EBDB07C05883@5.159.96.170:8000/sport
 #EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt 1 (rus) [/COLOR]
 http://4BA9EBDB07C05883@5.159.96.170:8000/sport1
-
-#EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt 1 (rus) [/COLOR]
-http://hls.cn.ru/streaming/sport1/16/tvrec/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="CNOPT2.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTS 2 (rus) [/COLOR]
-http://91.193.124.5:8000/sport2
+#EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt 2 (rus) [/COLOR][COLOR red] NEW[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport
 
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 1 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
