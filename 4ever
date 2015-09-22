@@ -140,6 +140,9 @@ http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3
 #EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
 rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 
+#EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="MEO",[COLOR lawngreen]Weather Channel US[/COLOR]
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
 #EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="MEO",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
