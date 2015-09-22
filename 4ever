@@ -406,7 +406,10 @@ rtmp://secure.hdcast.org/justforvip/llive1
 #EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
 
-#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]SOS SPORT[/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]Idman Sport (AZE)[/COLOR][COLOR red] NEW[/COLOR]
+http://149.255.152.70/idman/index.m3u8
+
+#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]SOS SPORT[/COLOR]
 http://178.253.194.71:1935/liveloworigin/sos.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".jpg" ,[COLOR lawngreen]Al Nahar Sport[/COLOR]
