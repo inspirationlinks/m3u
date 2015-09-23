@@ -962,6 +962,28 @@ http://teleclub.fr/musicbox.mp4?sd=10&_Maghrebstar.com_rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="sportime.png" group-title="MUSICA",[COLOR lawngreen] SPORT TIME MUSIC [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 
+#############################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="MEO",[COLOR gray91][B]|Experimentais e testes |[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,RTSH Sport
+http://tring-amd-live.tring.tv/out/u/89_87.m3u8
+#EXTINF:-1,SuperSport 2
+http://tring-amd-live.tring.tv/out/u/86_101.m3u8
+#EXTINF:-1,SuperSport 3
+http://tring-amd-live.tring.tv/out/u/87_95.m3u8
+#EXTINF:-1,Tring World
+http://tring-amd-live.tring.tv/out/u/74_156.m3u8
+#EXTINF:-1,Tring Planet
+http://tring-amd-live.tring.tv/out/u/75_153.m3u8
+#EXTINF:-1,Tring History
+http://tring-amd-live.tring.tv/out/u/76_150.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red] NEW[/COLOR]
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
+rtmp://46.4.25.213/live-ann7/ann7-mid.stream
+
 
 #############################################################################################
 
@@ -1070,28 +1092,6 @@ http://stream.radio.com.pt:9496/stream
  
 #EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Douro Nacional [/COLOR]
 http://94.23.76.235:9996/;
-
-#############################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png",[COLOR gray91][B]|Experimentais e testes |[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,RTSH Sport
-http://tring-amd-live.tring.tv/out/u/89_87.m3u8
-#EXTINF:-1,SuperSport 2
-http://tring-amd-live.tring.tv/out/u/86_101.m3u8
-#EXTINF:-1,SuperSport 3
-http://tring-amd-live.tring.tv/out/u/87_95.m3u8
-#EXTINF:-1,Tring World
-http://tring-amd-live.tring.tv/out/u/74_156.m3u8
-#EXTINF:-1,Tring Planet
-http://tring-amd-live.tring.tv/out/u/75_153.m3u8
-#EXTINF:-1,Tring History
-http://tring-amd-live.tring.tv/out/u/76_150.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] TV AFRICA[/COLOR][COLOR red] NEW[/COLOR]
-http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
-rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 
 #############################################################################################
 #############################################################################################
