@@ -94,7 +94,7 @@ rtmp://213.13.26.43/live playpath=etv_direto swfUrl=http://imgs.sapo.pt/sapovide
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="MEO",[COLOR lawngreen] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
 
-#EXTINF:-1 tvg-id=".pt" tvg-logo=".png" group-title="MEO",[COLOR lawngreen] cozinha [/COLOR]
+#EXTINF:-1 tvg-id=".pt" tvg-logo=".png" group-title="MEO",[COLOR lawngreen] Canal Cocina (esp) [/COLOR]
 rtmp://31.220.0.187/pull playpath=cocina8989?keys=QSNumxvsf1poJXdy1srO3A&keyt=1440004106 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="MEO",[COLOR lawngreen]Weather Channel (usa)[/COLOR]
@@ -146,9 +146,53 @@ http://lag1.tv-mobile.org/prgl.m3u8
 #EXTINF:-1 tvg-logo="Fox Crime HD.png" group-title="MEO",[COLOR lawngreen]FOX (bulgaro)[/COLOR]
 http://lag1.tv-mobile.org/prgn.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| CHANNELS HISTORIA|[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA HD (it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/61.ts
+#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
+rtmp://31.220.0.72/pull/ playpath=historia655?keys=Wqyr8Y6L-43kHPTZbH1oBQ&keyt=1441799336 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
+
+#EXTINF:-1,[COLOR lawngreen]Tring World[/COLOR]
+http://tring-amd-live.tring.tv/out/u/74_156.m3u8
+#EXTINF:-1,[COLOR lawngreen]Tring Planet[/COLOR]
+http://tring-amd-live.tring.tv/out/u/75_153.m3u8
+#EXTINF:-1,[COLOR lawngreen]Tring History[/COLOR]
+http://tring-amd-live.tring.tv/out/u/76_150.m3u8
+
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="Desenhos.png" group-title="INFANTIL",[COLOR gray91][B]| CHANNELS INFANTIS |[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| CHANNELS NAT GEO & DISCOVERY |[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (esp) [/COLOR]
+rtmp://31.220.2.56/pull playpath=discovery397?keys=XgMg-N0ZzOtzDcwPM_KFiA&keyt=1440003967 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY HD (it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/56.ts
+
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO HD (esp) [/COLOR]
+rtmp://31.220.2.52/pull playpath=natgeo021?keys=9mR3wJNoU74cd3HHa3XhtQ&keyt=1440004056 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO HD(it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/57.ts
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD (esp) [/COLOR]
+rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=natgeowild333&width=600&height=450
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO (chileno) [/COLOR]
+http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/62.ts
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD (usa) [/COLOR]
+http://lag2.tv-mobile.org/prgg.m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD [/COLOR]
+http://lag2.tv-mobile.org/prgg.m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
+http://38.99.146.36:7777/ADNatGeo_HD.m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Discovery Science.png" group-title="MEO",[COLOR lawngreen] Science & Vie TV (fr) [/COLOR]
+rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
+
+#############################################################################################
+
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="INFANTIL",[COLOR gray91][B]| CHANNELS INFANTIS |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY jr HD (it) [/COLOR]
@@ -185,55 +229,10 @@ rtmp://stream.hdcast.me/goLive playpath=kicnick_ksjteig2 swfUrl=http://p.jwpcdn.
 http://4BA9EBDB07C05883@5.159.96.170:8000/karusel
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] 123 SESAME STREET [/COLOR]
 http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
-#############################################################################################
-
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR gray91][B]| CHANNELS HISTORIA|[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA HD (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/61.ts
-#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
-rtmp://31.220.0.72/pull/ playpath=historia655?keys=Wqyr8Y6L-43kHPTZbH1oBQ&keyt=1441799336 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
-
-#EXTINF:-1,[COLOR lawngreen]Tring World[/COLOR]
-http://tring-amd-live.tring.tv/out/u/74_156.m3u8
-#EXTINF:-1,[COLOR lawngreen]Tring Planet[/COLOR]
-http://tring-amd-live.tring.tv/out/u/75_153.m3u8
-#EXTINF:-1,[COLOR lawngreen]Tring History[/COLOR]
-http://tring-amd-live.tring.tv/out/u/76_150.m3u8
-#############################################################################################
-
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR gray91][B]| CHANNELS NAT GEO & DISCOVERY |[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (esp) [/COLOR]
-rtmp://31.220.2.56/pull playpath=discovery397?keys=XgMg-N0ZzOtzDcwPM_KFiA&keyt=1440003967 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY HD (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/56.ts
-
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO HD (esp) [/COLOR]
-rtmp://31.220.2.52/pull playpath=natgeo021?keys=9mR3wJNoU74cd3HHa3XhtQ&keyt=1440004056 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO HD(it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/57.ts
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD (esp) [/COLOR]
-rtmp://31.220.2.54/pull playpath=natgeowild333?keys=y1VifXZRXDe48r5tKmPDwQ&keyt=1439953188 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=natgeowild333&width=600&height=450
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO (chileno) [/COLOR]
-http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/62.ts
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD (usa) [/COLOR]
-http://lag2.tv-mobile.org/prgg.m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD [/COLOR]
-http://lag2.tv-mobile.org/prgg.m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
-http://38.99.146.36:7777/ADNatGeo_HD.m3u8
-
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Discovery Science.png" group-title="MEO",[COLOR lawngreen] Science & Vie TV (fr) [/COLOR]
-rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="fixe.gif",[COLOR gray91][B]| TVCINES |[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| TVCINES |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="MEO",[COLOR lawngreen] TVC1 [/COLOR][COLOR red]HUGO R.[/COLOR]
@@ -487,7 +486,7 @@ rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky5 swfUrl=http://player.hdc
 
 #############################################################################################
 
-#EXTINF:-1,[COLOR gray91][B]| CANAIS + SPORTS |[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS + SPORTS |[/B][/COLOR] 
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen] CANAL+ FUTBOL HD [/COLOR]
@@ -503,7 +502,7 @@ rtmp://176.10.250.166:1935/tv/stream4
 
 #############################################################################################
 
-#EXTINF:-1,[COLOR gray91][B]| CANAIS DIGI SPORTS |[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="digisport.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS DIGI SPORTS |[/B][/COLOR] 
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="digisport.png" group-title="DESPORTO",[COLOR lawngreen] DIGI SPORT 1 [/COLOR]
@@ -517,7 +516,7 @@ rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
 
 #############################################################################################
 
-#EXTINF:-1,[COLOR gray91][B]| CANAIS SPORT KLUB |[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SPORT KLUB |[/B][/COLOR] 
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR]
@@ -529,7 +528,7 @@ http://77.76.140.251/prgt.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS BEIN SPORT |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS BEIN SPORT |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 1 (uk) [/COLOR]
@@ -785,7 +784,7 @@ http://teleclub.fr/gloubi.mp4?sd=10&_Maghrebstar.com_rebase=on
 #############################################################################################
 
 
-#EXTINF:-1  tvg-logo="spanish.jpg" group-title="HISPÂNICOS",[COLOR gray91][B]| CANAIS HISPÂNICOS |[/B][/COLOR]
+#EXTINF:-1  tvg-logo="hispani.jpg" group-title="HISPÂNICOS",[COLOR gray91][B]| CANAIS HISPÂNICOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="TVe.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
@@ -828,10 +827,14 @@ http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 #EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS [/COLOR]
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
 #EXTINF:1 tvg-logo="#EXTINF:1 tvg-logo="canalplus_es_accion.png" group-title="HISPÂNICOS",[COLOR lawngreen]Canal+ cine[/COLOR]
 rtmp://31.220.0.186/pull playpath=dcine561?keys=HtGiK58C5oapllXcFq8sAA&keyt=1440250826 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:1 tvg-logo="#EXTINF:1 tvg-logo="canalplus_es_accion.png" group-title="HISPÂNICOS",[COLOR lawngreen]Canal+ Acción[/COLOR]
 rtmp://80.82.78.75/pull/ playpath=accion4142?keys=CbBqXAHeEYc_kfrYaVCOOA&keyt=1442180234 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=accion4142&width=770&height=410
+#EXTINF:1 tvg-logo="#EXTINF:1 tvg-logo="canalplus_es_accion.png" group-title="HISPÂNICOS",[COLOR lawngreen]Canal+ Acción[/COLOR]
+rtmp://31.220.0.196/pull playpath=ci777?keys=9eyLLJEQIIARa6nl2a-9FQ&keyt=1441374253 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=ci777&width=600&height=450
+
 #EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR lawngreen]Azteca Noticias[/COLOR]
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,[COLOR lawngreen]Canal 10[/COLOR]
