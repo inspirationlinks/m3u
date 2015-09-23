@@ -2,7 +2,7 @@
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 22 SET | 16.10H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 23 SET | 01.29H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -350,6 +350,10 @@ rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=htt
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5 [/COLOR][COLOR red][/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/206.ts
 
+
+#############################################################################################
+
+
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR][COLOR red]TEST[/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/208.ts
 
@@ -680,7 +684,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="BTN.png" group-title="DESPORTO",[COLOR lawngreen]BTN HD (usa)[/COLOR]
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
+
 #############################################################################################
+
 
 #EXTINF:-1 tvg-logo="fr.jpg" group-title="FRANÇA",[COLOR gray91][I][B] CANAIS FRANCESES [/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -756,7 +762,9 @@ http://tv.ut.cx/minimax.mp4
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR lawngreen] Gloubi (fr) [/COLOR]
 http://teleclub.fr/gloubi.mp4?sd=10&_Maghrebstar.com_rebase=on
 
+
 #############################################################################################
+
 
 #EXTINF:-1  tvg-logo="spanish.jpg" group-title="HISPÂNICOS",[COLOR gray91][B]| CANAIS HISPÂNICOS |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -820,7 +828,9 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELE ANTILLHAS [/COLOR]
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
 
+
 #############################################################################################
+
 
 #EXTINF:-1 Adult="true"tvg-id="" tvg-logo="porn.gif" group-title="PORN XXX",[COLOR gray91][I][B] ADULTO (XXX) [/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -873,7 +883,9 @@ http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] JAPAO HOT [/COLOR]
 rtmp://edge2.everyon.tv/etv2/pld1008
 
+
 #############################################################################################
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="MUSICA",[COLOR gray91][I][B] CANAIS DE MUSICA [/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -950,7 +962,9 @@ http://teleclub.fr/musicbox.mp4?sd=10&_Maghrebstar.com_rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="sportime.png" group-title="MUSICA",[COLOR lawngreen] SPORT TIME MUSIC [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 
+
 #############################################################################################
+
 
 #EXTINF:-1 radio="true" tvg-logo="ptuga.png" group-title="RADIOS",[COLOR gray91][I][B] RADIOS [/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -1057,10 +1071,12 @@ http://stream.radio.com.pt:9496/stream
 #EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Douro Nacional [/COLOR]
 http://94.23.76.235:9996/;
 
+
 #############################################################################################
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="ACESTREAM",[COLOR gray91][B]|experimentais e testes |[/B][/COLOR]
+
+#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png",[COLOR gray91][B]|experimentais e testes |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,RTSH Sport
@@ -1080,8 +1096,10 @@ http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3
 #EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen] ANN7 SOUTH AFRICA[/COLOR][COLOR red] NEW[/COLOR]
 rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 
+
 #############################################################################################
 #############################################################################################
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="ACESTREAM",[COLOR gray91][B]| CANAIS ACESTREAM PLEXUS |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -1234,5 +1252,29 @@ plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFh
 plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10362.acelive&mode=1&name=acestream&mode=1&name=VIASAT SPORT BALTIC
 #EXTINF:-1 group-title="ACESTREAM",BRAZZERS
 plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/540_reg.acelive&mode=1&name=acestream&mode=1&name=BRAZEERS
+#EXTINF:-1 group-title="ACESTREAM",Candy
+plugin://program.plexus/?mode=1&url=acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff&mode=1&name=acestream&mode=1&name=Candy
+#EXTINF:-1 group-title="ACESTREAM",CentoXCento TV
+plugin://program.plexus/?mode=1&url=acestream://2195d93dfb44e0510395e57a478e1fc03868a681&mode=1&name=acestream&mode=1&name=CentoXCento TV
+#EXTINF:-1 group-title="ACESTREAM",Exotica TV
+plugin://program.plexus/?mode=1&url=acestream://9b133af8cd553f813acc688a2c36160c20fd5a89&mode=1&name=acestream&mode=1&name=Exotica TV
 #EXTINF:-1 group-title="ACESTREAM",HUSTLER HD
 plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/789.acelive&mode=1&name=acestream&mode=1&name=HUSTLER HD
+#EXTINF:-1 group-title="ACESTREAM",Nuart TV
+plugin://program.plexus/?mode=1&url=acestream://b0790abc695b152d32cf97acf9eb459e2f06adfa&mode=1&name=acestream&mode=1&name=Nuart TV
+#EXTINF:-1 group-title="ACESTREAM",O-la-la
+plugin://program.plexus/?mode=1&url=acestream://4573ec2f46f3b81463f2c765842037252366a28e&mode=1&name=acestream&mode=1&name=O-la-la
+#EXTINF:-1 group-title="ACESTREAM",Pink O TV
+plugin://program.plexus/?mode=1&url=acestream://5e4be75d8b12b028b5c967ec528778093d168f42&mode=1&name=acestream&mode=1&name=Pink O TV
+#EXTINF:-1 group-title="ACESTREAM",Playboy TV
+plugin://program.plexus/?mode=1&url=acestream://6584f286414369bc80d98ae602ff12c3d89a21b2&mode=1&name=acestream&mode=1&name=Playboy TV
+#EXTINF:-1 group-title="ACESTREAM",SCT
+plugin://program.plexus/?mode=1&url=acestream://b706eeb9626a731b56886fa6a7ef0cd1c74c012f&mode=1&name=acestream&mode=1&name=SCT
+#EXTINF:-1 group-title="ACESTREAM",Satisfaction HD
+plugin://program.plexus/?mode=1&url=acestream://4d288d9ca5f4e120d5b9d58b7acdadc5d1001894&mode=1&name=acestream&mode=1&name=Satisfaction HD
+#EXTINF:-1 group-title="ACESTREAM",Sextosenso
+plugin://program.plexus/?mode=1&url=acestream://12dd4d15b81eff712ffc97f3190caf5030a81d89&mode=1&name=acestream&mode=1&name=Sextosenso
+#EXTINF:-1 group-title="ACESTREAM",TGirls TV
+plugin://program.plexus/?mode=1&url=acestream://66369a4384fd8802f7ad48108997c8f548b5cb5b&mode=1&name=acestream&mode=1&name=TGirls TV
+#EXTINF:-1 group-title="ACESTREAM",XXL
+plugin://program.plexus/?mode=1&url=acestream://6fc1b0669bc3b9e02e07c2c85772d31540df5027&mode=1&name=acestream&mode=1&name=XXL
