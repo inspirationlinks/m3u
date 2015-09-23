@@ -36,7 +36,6 @@ http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="MEO",[COLOR lawngreen] RTP 2 [/COLOR]
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
-
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="RTPAfrica.png" group-title="MEO",[COLOR lawngreen] RTP ÁFRICA [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="RTPMemoria.png" group-title="MEO",[COLOR lawngreen] RTP MEMÓRIA [/COLOR]
@@ -49,7 +48,6 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/pl
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="MEO",[COLOR lawngreen] RTP INTERNACIONAL [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
 http://213.13.26.11:1935/live/sic/hasbahca.m3u8
@@ -104,19 +102,18 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| INFORMAÇÃO INTERNACIONAL |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="MEO",[COLOR lawngreen] rTVE [/COLOR]
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="euronewss.jpg" group-title="MEO",[COLOR lawngreen] EURONEWS [/COLOR]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
-
-#EXTINF:-1 tvg-logo="tv5 monde.png" group-title="FRANÇA",[COLOR lawngreen]TV 5 MONDE (europe)[/COLOR]
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-
+#EXTINF:-1 tvg-id="TVEi" tvg-logo="TVe.png" group-title="MEO",[COLOR lawngreen] rTVE [/COLOR]
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="TVE 24h" tvg-logo="tve 24.png" group-title="MEO",[COLOR lawngreen] TVE 24 [/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="tv5 monde.png" group-title="FRANÇA",[COLOR lawngreen]TV 5 MONDE (europe)[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
 #EXTINF:-1 tvg-id="France 24 (F)" tvg-logo="france24.png" group-title="FRANÇA",[COLOR lawngreen] FRANCE 24 [/COLOR]
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="TVE 24h" tvg-logo="n24_de.png" group-title="MEO",[COLOR lawngreen] N 24 (ger) [/COLOR]
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="MEO",[COLOR lawngreen] CBS Reality (uk)[/COLOR]
 http://37.187.160.187:8000/live/ressler/skype/66.ts
