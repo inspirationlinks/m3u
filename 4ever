@@ -168,29 +168,6 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| INFORMAÇÃO INTERNACIONAL |[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="euronewss.jpg" group-title="MEO",[COLOR lawngreen] EURONEWS [/COLOR]
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
-#EXTINF:-1 tvg-id="TVE 24h" tvg-logo="tve 24.png" group-title="MEO",[COLOR lawngreen] TVE 24 [/COLOR]
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="tv5 monde.png" group-title="FRANÇA",[COLOR lawngreen]TV 5 MONDE (europe)[/COLOR]
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1 tvg-id="France 24 (F)" tvg-logo="france24.png" group-title="FRANÇA",[COLOR lawngreen] FRANCE 24 [/COLOR]
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="TVE 24h" tvg-logo="n24_de.png" group-title="MEO",[COLOR lawngreen] N 24 (ger) [/COLOR]
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream1.m3u8
-
-#EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="MEO",[COLOR lawngreen] CBS Reality (uk)[/COLOR]
-http://37.187.160.187:8000/live/ressler/skype/66.ts
-#EXTINF:-1 tvg-id="CBS Reality" tvg-logo="CBS USA.png" group-title="MEO",[COLOR lawngreen] CBS DRAMA (uk)[/COLOR]
-http://37.187.160.187:8000/live/ressler/skype/67.ts
-#EXTINF:-1 tvg-id="" tvg-logo="abc news.png" group-title="MEO",[COLOR lawngreen] ABC NEWS (uk)[/COLOR]
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#############################################################################################
-
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| CHANNELS GASTRONOMICOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -698,39 +675,39 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/73.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="brasil-italia.jpg" group-title="DESPORTO",[COLOR gray91][B]| CHANNELS ITALIANOS & BRASILEIROS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="RAI 1.png" group-title="PORTUGAL",[COLOR lawngreen] RAI 1 [/COLOR]
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="RAI 1.png" group-title="BRA&IT",[COLOR lawngreen] RAI 1 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 2.png" group-title="PORTUGAL",[COLOR lawngreen] RAI 2 [/COLOR]
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 2.png" group-title="BRA&IT",[COLOR lawngreen] RAI 2 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 3.png" group-title="PORTUGAL",[COLOR lawngreen] RAI 3 [/COLOR]
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 3.png" group-title="BRA&IT",[COLOR lawngreen] RAI 3 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai News.png" group-title="PORTUGAL",[COLOR lawngreen] RAI 24 [/COLOR]
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai News.png" group-title="BRA&IT",[COLOR lawngreen] RAI 24 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8
-#EXTINF:-1 tvg-logo="cielo.jpg" group-title="MEO",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red] NEW[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
-#EXTINF:-1 group-title=INSPIRATIONLINKS,[COLOR lawngreen] Cielo (it)[/COLOR]
+#EXTINF:-1 group-title=group-title="BRA&IT",[COLOR lawngreen] Cielo (it)[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="cielo.jpg" group-title="MEO",[COLOR lawngreen] Sky Tg24 (it) [/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR lawngreen] Sky Tg24 (it) [/COLOR][COLOR red] NEW[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRASIL",[COLOR lawngreen] BRASIL INTERNACIONAL [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRA&IT",[COLOR lawngreen] BRASIL INTERNACIONAL [/COLOR]
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
-#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title="BRASIL",[COLOR lawngreen] Tv Gazeta [/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title="BRA&IT",[COLOR lawngreen] Tv Gazeta [/COLOR][COLOR red] NEW[/COLOR]
 http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record RJ.png" group-title="BRASIL",[COLOR lawngreen]TV RECORD[/COLOR]
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD[/COLOR]
 http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
 
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRASIL",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
 http://srv6.zoeweb.tv:1935/z433-live/stream/IGOR_RANGEL.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRASI",[COLOR lawngreen] E+I [/COLOR]
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] E+I [/COLOR]
 http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="PFC.png" group-title="BRASIL",[COLOR lawngreen] PFC (br) [/COLOR]
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="PFC.png" group-title="BRA&IT",[COLOR lawngreen] PFC (br) [/COLOR]
 http://37.203.209.34:443/mobile/bob07/live.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV.png" group-title="BRASIL",[COLOR lawngreen] SPORTV (br) [/COLOR]
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen] SPORTV (br) [/COLOR]
 http://37.203.209.34:443/mobile/bob05/live.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV 2.png" group-title="BRASIL",[COLOR lawngreen] SPORTV 2 (br) [/COLOR]
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen] SPORTV 2 (br) [/COLOR]
 http://37.203.209.34:443/mobile/bob06/live.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV 3.png" group-title="BRASIL",[COLOR lawngreen] SPORTV 3 (br) [/COLOR]
+#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV 3.png" group-title="BRA&IT",[COLOR lawngreen] SPORTV 3 (br) [/COLOR]
 http://37.203.209.34:443/mobile/bob50/live.m3u8
 
 #############################################################################################
