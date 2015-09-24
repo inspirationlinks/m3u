@@ -377,8 +377,9 @@ http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet
 http://tv3.noip.me/stream/LYMYFN5I/159.m3u8
 #EXTINF:1 logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/142.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] NTV [/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/112.m3u8
+#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
+http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
+
 #EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN (esp)[/COLOR]
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR]
@@ -386,8 +387,7 @@ http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR]
 http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
-http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
+
 #EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD (uk)[/COLOR]
 http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
 #EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS 1 (2 opc) [/COLOR]
@@ -814,6 +814,7 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
 #EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="euronewss.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] EURONEWS [/COLOR]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1 tvg-logo="antena3.png" group-title="HISPÂNICOS",[COLOR lawngreen] ANTENA3 HD [/COLOR]
