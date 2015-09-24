@@ -367,50 +367,24 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
 http://tvenbcsn-i.akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102
 
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
-http://77.76.140.251/prgt.m3u8
-#EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
-http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
-#EXTINF:-1 tvg-logo="sport-max.png" group-title="DESPORTO",[COLOR lawngreen]SPORTMAX  (uk)[/COLOR]
-http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
-#EXTINF:1 logo="futbol_ua_1.png",[COLOR lawngreen]Футбол 1[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/159.m3u8
-#EXTINF:1 logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/142.m3u8
-#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
-http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
-
-#EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN (esp)[/COLOR]
-http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR]
-http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR]
-http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD (uk)[/COLOR]
-http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS 1 (2 opc) [/COLOR]
-rtmp://89.248.169.35/live playpath=wskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450
-#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 2 (2 opc)[/COLOR]
-rtmp://89.248.169.35/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
-#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 3 (2 opc)[/COLOR]
-rtmp://80.82.65.162/live playpath=wskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys3&vw=600&vh=450
-#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 4 (2 opc)[/COLOR]
-rtmp://89.248.169.50/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450
-
-#EXTINF:-1,[COLOR lawngreen] Sky Sports 5[/COLOR]
-http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
-
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL[/COLOR][COLOR red] LIGA NOS [/COLOR]
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
+http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
+
+#EXTINF:-1 tvg-logo="sport-max.png" group-title="DESPORTO",[COLOR lawngreen]SPORTMAX  (uk)[/COLOR]
+http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
+http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
 
 #EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR magenta][B]| CHANNELS CLUBS |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR magenta][B]| CHANNELS Futbol CLUBS |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,CHAMPIONS LEAGUE
@@ -474,12 +448,6 @@ http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
 #EXTINF:-1 tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SKY & FOX SPORTS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD (uk) [/COLOR][COLOR red] NEW [/COLOR]
-http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
-
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 HD (it)[/COLOR][COLOR red] NEW[/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/37.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
 http://iptv.latino-webtv.com/fox-sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT (esp)[/COLOR]
@@ -489,30 +457,52 @@ http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sports2.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT PLUS (chile) [/COLOR]
 http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8
 
+#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD (uk) [/COLOR][COLOR red] NEW [/COLOR]
+http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
+#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 HD (it)[/COLOR][COLOR red] NEW[/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/37.ts
 #EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS 1 (uk) [/COLOR][COLOR red]  [/COLOR]
 rtmpe://134.19.185.220:1935/livedge playpath=sskys1 swfUrl=http://player.hdcast.org/_.swf pageurl=http://www.hdcast.org/embedlive4.php?u=sskys1&vw=640&vh=400&domain=www.streamhd.eu token=Fo5_n0w?U.rA6l3-70w47ch timeout=5
-
 #EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 2 (uk)[/COLOR]
 rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky2 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
-
 #EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 3 (uk)[/COLOR]
 rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky3 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 4 (uk)[/COLOR]
 rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky4 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
-
-
 #EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 5 (uk)[/COLOR]
 rtmpe://134.19.185.220:1935/livedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
 
+#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD (uk)[/COLOR]
+http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
+#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS 1 (2 opc) [/COLOR]
+rtmp://89.248.169.35/live playpath=wskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450
+#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 2 (2 opc)[/COLOR]
+rtmp://89.248.169.35/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
+#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 3 (2 opc)[/COLOR]
+rtmp://80.82.65.162/live playpath=wskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys3&vw=600&vh=450
+#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 4 (2 opc)[/COLOR]
+rtmp://89.248.169.50/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450
+#EXTINF:-1,[COLOR lawngreen] Sky Sports 5[/COLOR]
+http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
+
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SPORT KLUB |[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SPORT KLUB & ESPN|[/B][/COLOR] 
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR]
 http://77.76.140.251/prgr.m3u8
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 2 (polaco)[/COLOR]
 http://77.76.140.251/prgs.m3u8
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
+http://77.76.140.251/prgt.m3u8
+
+#EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN (esp)[/COLOR]
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR]
+http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR]
+http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
 
@@ -550,11 +540,14 @@ http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="russia.jpg" group-title="DESPORTO",[COLOR gray91][B]| SPORTS RUSSOS & BULGAROS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:1 logo="futbol_ua_1.png",[COLOR lawngreen]Футбол 1[/COLOR]
+#EXTINF:1 logo="futbol_ua_1.jpg",[COLOR lawngreen]Футбол 1[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/130.m3u8
-
-#EXTINF:1 logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
+#EXTINF:1 logo="futbol_ua_2.jpg",[COLOR lawngreen]Футбол 2[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/191.m3u8
+#EXTINF:1 logo="futbol_ua_1.jpg",[COLOR lawngreen]Футбол 1[/COLOR]
+http://tv3.noip.me/stream/LYMYFN5I/159.m3u8
+#EXTINF:1 logo="futbol_ua_2.jpg",[COLOR lawngreen]Футбол 2[/COLOR]
+http://tv3.noip.me/stream/LYMYFN5I/142.m3u8
 
 #EXTINF:1 logo="ntv_plus_nash_futbol.png",[COLOR lawngreen] NTV[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/166.m3u8
