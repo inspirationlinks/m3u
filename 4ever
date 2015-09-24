@@ -2,26 +2,10 @@
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 24 SET | 12.00H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 24 SET | 13.00H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR red][B] CANAIS ON | TEST | OFF[/B][/COLOR]
 http://0.0.0.0:1234
-
-#############################################################################################
-
-#EXTINF:-1 tvg-logo="TDT-PT.png" group-title="MEO",[COLOR gray91][B]| TDT[/COLOR][COLOR red] OFF[/COLOR] DE MOMENTO |[/B]
-http://0.0.0.1234
-
-#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="RTP 1.png",[COLOR lawngreen][B]RTP1[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="RTP 2.png",[COLOR lawngreen][B]RTP2[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png",[COLOR lawngreen][B]SIC[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png",[COLOR lawngreen][B]SIC NOTICIAS[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/smil:sicnoticias.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png",[COLOR lawngreen][B]TVI[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 
 #############################################################################################
 
@@ -190,7 +174,7 @@ rtmp://31.220.0.187/pull playpath=cocina8989?keys=QSNumxvsf1poJXdy1srO3A&keyt=14
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| CHANNELS AXN & FOX |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| CHANNELS AXN & FOX & SYFY & FX |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
@@ -198,6 +182,18 @@ http://lag2.tv-mobile.org/prgd.m3u8
 
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN SCI HD (it)[/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/27.ts
+#EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (esp)[/COLOR]
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="Fox Life HD.png" group-title="MEO",[COLOR lawngreen]FOX LIFE (esp)[/COLOR]
+http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="SYFY HD.png" group-title="MEO",[COLOR lawngreen]SYFY (esp)[/COLOR]
+http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="FXX HD.png" group-title="MEO",[COLOR lawngreen]FX(esp)[/COLOR]
+http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="Warner.png" group-title="MEO",[COLOR lawngreen]FX(esp)[/COLOR]
+http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+
+#############################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| CHANNELS HISTORIA |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -245,6 +241,8 @@ http://0.0.0.0:1234
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/2714.ts
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY CHANNEL PT [/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/2714.ts
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR]
+http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] 123 SESAME STREET [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/76.m3u8
