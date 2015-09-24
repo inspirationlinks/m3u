@@ -382,6 +382,8 @@ http://tvenbcsn-i.akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarde
 http://tv3.noip.me/stream/LYMYFN5I/159.m3u8
 #EXTINF:1 logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/142.m3u8
+#EXTINF:1,test
+http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN (esp)[/COLOR]
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
@@ -810,6 +812,9 @@ http://0.0.0.0:1234
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="TVe.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="TVe.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
+http://hlslive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+
 #EXTINF:-1 tvg-logo="tve2.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE 2 [/COLOR]
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="tve 24.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVE 24 [/COLOR]
