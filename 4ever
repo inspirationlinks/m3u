@@ -155,7 +155,7 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| CHANNELS GASTRONOMICOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="Chef TV.png" group-title="BRASIL",[COLOR lawngreen] CHEFE COZINHA [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Chef TV.png" group-title="BRA&IT",[COLOR lawngreen] CHEFE COZINHA [/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="MEO",[COLOR lawngreen] Food Network HD (usa) [/COLOR]
@@ -190,8 +190,10 @@ http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="FXX HD.png" group-title="MEO",[COLOR lawngreen]FX(esp)[/COLOR]
 http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="Warner.png" group-title="MEO",[COLOR lawngreen]FX(esp)[/COLOR]
+#EXTINF:-1 tvg-logo="Warner.png" group-title="MEO",[COLOR lawngreen]WARNER (esp)[/COLOR]
 http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="E! HD.png" group-title="MEO",[COLOR lawngreen]E! (esp)[/COLOR]
+http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
 
@@ -243,6 +245,10 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/2714.ts
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR]
 http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (esp) [/COLOR]
+http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Cartoon Network UK.png" group-title="INFANTIL",[COLOR lawngreen] Cartoon Network (esp) [/COLOR]
+http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="INFANTIL",[COLOR lawngreen] 123 SESAME STREET [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/76.m3u8
