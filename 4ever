@@ -180,8 +180,6 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
 
-#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN SCI HD (it)[/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/27.ts
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (esp)[/COLOR]
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Fox Life HD.png" group-title="MEO",[COLOR lawngreen]FOX LIFE (esp)[/COLOR]
@@ -200,9 +198,6 @@ http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| CHANNELS HISTORIA |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA HD (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/61.ts
-
 #EXTINF:-1,[COLOR lawngreen]Tring World[/COLOR]
 http://tring-amd-live.tring.tv/out/u/74_156.m3u8
 #EXTINF:-1,[COLOR lawngreen]Tring History[/COLOR]
@@ -216,11 +211,6 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="Animal Planet HD.png" group-title="MEO",[COLOR lawngreen] ANIMAL PLANET (ru) [/COLOR]
 http://j.mp/ZCH_C03_ANIMALPLANET_sly
 
-#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY HD (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/56.ts
-
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO HD(it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/57.ts
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO (chileno) [/COLOR]
 http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (it) [/COLOR]
