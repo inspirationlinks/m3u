@@ -282,15 +282,6 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CACCIA (it) [/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/46.ts
 
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
-rtmp://31.220.0.200/pull/ playpath=iberalia1212?keys=L-tMqiXY_FOiiG4_92OVEQ&keyt=1439951200 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
-
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red] ON [/COLOR]
-rtmp://31.220.0.32/pull/ playpath=iberalia1212?keys=pFlxESGZHfQqtyUN9sqmdA&keyt=1440160902 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
-
-#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] ON [/COLOR]
-rtmp://31.220.2.55/pull/ playpath=toros8586?keys=DMSVvefkxow0W93R0YkwjQ&keyt=1440251962 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
-
 #############################################################################################
 
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="FIGHT & WWE",[COLOR gray91][B]| CANAIS FIGHT & WWE |[/B][/COLOR]
@@ -376,14 +367,18 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
 http://tvenbcsn-i.akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102
 
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
+http://77.76.140.251/prgt.m3u8
+#EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
+http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
+#EXTINF:-1 tvg-logo="sport-max.png" group-title="DESPORTO",[COLOR lawngreen]SPORTMAX  (uk)[/COLOR]
+http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
 #EXTINF:1 logo="futbol_ua_1.png",[COLOR lawngreen]Футбол 1[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/159.m3u8
 #EXTINF:1 logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/142.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] NTV [/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/112.m3u8
-
 #EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN (esp)[/COLOR]
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR]
@@ -406,9 +401,6 @@ rtmp://89.248.169.50/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/j
 
 #EXTINF:-1,[COLOR lawngreen] Sky Sports 5[/COLOR]
 http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
-
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3  (polaco)[/COLOR]
-http://77.76.140.251/prgt.m3u8
 
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL[/COLOR][COLOR red] LIGA NOS [/COLOR]
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
@@ -471,9 +463,12 @@ http://tv3.noip.me/stream/LYMYFN5I/192.m3u8
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (bulgaro) [/COLOR]
 http://lag1.tv-mobile.org/prgs.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (bulgaro) [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2  [/COLOR]
 http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_EUROSPORT2/variant.m3u8?version=2
-
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2  [/COLOR]
+http://213.81.153.241/live001/channel014_p5.stream/DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2  [/COLOR]
+http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
 #############################################################################################
 
 #EXTINF:-1 tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SKY & FOX SPORTS |[/B][/COLOR]
