@@ -302,8 +302,6 @@ http://tv3.noip.me/stream/LYMYFN5I/154.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] THE FIGHT [/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/188.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] THE FIGHT [/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/112.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] THE FIGHT [/COLOR]
 http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
@@ -382,14 +380,15 @@ http://tvenbcsn-i.akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarde
 http://tv3.noip.me/stream/LYMYFN5I/159.m3u8
 #EXTINF:1 logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/142.m3u8
-#EXTINF:1,test
-http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] NTV [/COLOR]
+http://tv3.noip.me/stream/LYMYFN5I/112.m3u8
 
 #EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN (esp)[/COLOR]
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR]
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR]
+#EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR]
 http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
@@ -482,14 +481,6 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD (uk) [/COLOR][COLOR red] NEW [/COLOR]
 http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
-
-#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD (it)[/COLOR][COLOR red] NEW[/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/30.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY CALCIO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/34.ts
-#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS 24 HD (it)[/COLOR][COLOR red] NEW[/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/48.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 HD (it)[/COLOR][COLOR red] NEW[/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/37.ts
@@ -652,6 +643,11 @@ http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
 rtmp://secure.hdcast.org/justforvip/llive1
+
+#EXTINF:-1,SuperSport 2
+http://tring-amd-live.tring.tv/out/u/86_101.m3u8
+#EXTINF:-1,SuperSport 3
+http://tring-amd-live.tring.tv/out/u/87_95.m3u8
 
 #EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]Idman Sport (AZE)[/COLOR][COLOR red] NEW[/COLOR]
 http://149.255.152.70/idman/index.m3u8
@@ -1031,18 +1027,6 @@ http://teleclub.fr/musicbox.mp4?sd=10&_Maghrebstar.com_rebase=on
 
 #EXTINF:-1 tvg-id="" tvg-logo="sportime.png" group-title="MUSICA",[COLOR lawngreen] SPORT TIME MUSIC [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-
-#############################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="MEO",[COLOR gray91][B]|Experimentais e testes |[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,RTSH Sport
-http://tring-amd-live.tring.tv/out/u/89_87.m3u8
-#EXTINF:-1,SuperSport 2
-http://tring-amd-live.tring.tv/out/u/86_101.m3u8
-#EXTINF:-1,SuperSport 3
-http://tring-amd-live.tring.tv/out/u/87_95.m3u8
 
 #############################################################################################
 
