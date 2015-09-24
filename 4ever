@@ -227,13 +227,9 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="Historia.pt" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA HD (it) [/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/61.ts
-#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
-rtmp://31.220.0.72/pull/ playpath=historia655?keys=Wqyr8Y6L-43kHPTZbH1oBQ&keyt=1441799336 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://files.leton.tv/player timeout=15
 
 #EXTINF:-1,[COLOR lawngreen]Tring World[/COLOR]
 http://tring-amd-live.tring.tv/out/u/74_156.m3u8
-#EXTINF:-1,[COLOR lawngreen]Tring Planet[/COLOR]
-http://tring-amd-live.tring.tv/out/u/75_153.m3u8
 #EXTINF:-1,[COLOR lawngreen]Tring History[/COLOR]
 http://tring-amd-live.tring.tv/out/u/76_150.m3u8
 
@@ -256,12 +252,12 @@ http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/62.ts
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD (usa) [/COLOR]
 http://lag2.tv-mobile.org/prgg.m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD [/COLOR]
-http://lag2.tv-mobile.org/prgg.m3u8
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
 http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Discovery Science.png" group-title="MEO",[COLOR lawngreen] Science & Vie TV (fr) [/COLOR]
 rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
+#EXTINF:-1,[COLOR lawngreen]Tring Planet[/COLOR]
+http://tring-amd-live.tring.tv/out/u/75_153.m3u8
 
 #############################################################################################
 
@@ -352,7 +348,7 @@ http://188.93.94.46:80/boets/index.m3u8?token=w_6_G-EKvoq8no6sIwq-rFJMvE5vTzWolZ
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| DESPORTOS MOTORIZADOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] NASCAR [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="nascar.jpg" group-title="DESPORTO",[COLOR lawngreen] NASCAR [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
 
 #EXTINF:-1,[COLOR lawngreen] Hot Rod Garage[/COLOR]
@@ -378,7 +374,7 @@ mms://tv.autohoje.com/mpltv
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]|[COLOR gray91]LIVE[/COLOR] JOGOS LIGA SAGRES |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]|[COLOR red]LIVE[/COLOR] JOGOS LIGA SAGRES |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR lawngreen] BTV [/COLOR][COLOR red] [/COLOR]
@@ -411,12 +407,9 @@ http://tvenbcsn-i.akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarde
 
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
 http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
-#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD 2 opc (it)[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD (uk)[/COLOR]
 http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
-#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD 2 opc (it)[/COLOR]
-http://edge.ultracast.me:1935/live/sky38GYsO/playlist.m3u8?Token
-#EXTINF:-1 tvg-id="" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORTS HD 2 opc (it)[/COLOR]
-http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
+
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
 http://edge.ultracast.me:1935/live/btespndtMzx/playlist.m3u8?Token
 
