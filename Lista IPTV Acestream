@@ -1,149 +1,209 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ACESTREAM",SPORT TV 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10480.acelive&mode=1&name=acestream&mode=1&name=SPORT TV 1
-#EXTINF:-1 group-title="ACESTREAM",SPORT TV 2
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10481.acelive&mode=1&name=acestream&mode=1&name=SPORT TV 2
-#EXTINF:-1 group-title="ACESTREAM",SPORT TV 3
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10482.acelive&mode=1&name=acestream&mode=1&name=SPORT TV 3
-#EXTINF:-1 group-title="ACESTREAM",SPORT TV 4
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10483.acelive&mode=1&name=acestream&mode=1&name=SPORT TV 4
-#EXTINF:-1 group-title="ACESTREAM",SPORT TV 5
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10484.acelive&mode=1&name=acestream&mode=1&name=SPORT TV 5
-#EXTINF:-1 group-title="ACESTREAM",ARENA SPORT 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11644.acelive&mode=1&name=acestream&mode=1&name=ARENA SPORT 1
-#EXTINF:-1 group-title="ACESTREAM",ARENA SPORT 2
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12838.acelive&mode=1&name=acestream&mode=1&name=ARENA SPORT 2
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 1
-plugin://program.plexus/?mode=1&url=acestream://ddb663867ee6e6f37e9543e49030712e1821e690/&mode=1&name=acestream&mode=1&name=ARENAVISION 1
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 2
+#EXTINF:0,SPORT TV 1
+plugin://program.plexus/?mode=1&url=acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59&mode=1&name=acestream&mode=1&name=SPORT TV 1
+#EXTINF:0,SPORT TV 2
+plugin://program.plexus/?mode=1&url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream&mode=1&name=SPORT TV 2
+#EXTINF:0,SPORT TV 3
+plugin://program.plexus/?mode=1&url=acestream://b923cbc40e196a6cd5ebb89243a797a60c9b6992&mode=1&name=acestream&mode=1&name=SPORT TV 3
+#EXTINF:0,SPORT TV 4
+plugin://program.plexus/?mode=1&url=acestream://d2a63635273232fc7710bb28c8775d18179c4038&mode=1&name=acestream&mode=1&name=SPORT TV 4
+#EXTINF:0,SPORT TV 5
+plugin://program.plexus/?mode=1&url=acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad&mode=1&name=acestream&mode=1&name=SPORT TV 5
+#EXTINF:0,BENFICA TV 1
+plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
+#EXTINF:0,BENFICA TV 2
+plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+
+#EXTINF:0,ARENA SPORT 1
+plugin://program.plexus/?mode=1&url=acestream://b645fe042866dbf89c8ee03d7e64bc801fb0ef0d&mode=1&name=acestream&mode=1&name=ARENA SPORT 1
+#EXTINF:0,ARENA SPORT 2
+plugin://program.plexus/?mode=1&url=acestream://3cae225c84c4f4235f761ed659a61309d4afd21a&mode=1&name=acestream&mode=1&name=ARENA SPORT 2
+#EXTINF:0,ARENAVISION 1
+plugin://program.plexus/?mode=1&url=acestream://ddb663867ee6e6f37e9543e49030712e1821e690&mode=1&name=acestream&mode=1&name=ARENAVISION 1
+#EXTINF:0,ARENAVISION 2
 plugin://program.plexus/?mode=1&url=acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5&mode=1&name=acestream&mode=1&name=ARENAVISION 2
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 3
+#EXTINF:0,ARENAVISION 3
 plugin://program.plexus/?mode=1&url=acestream://974a62f8f737d84adf1a78c2ea41f219858ad3ac&mode=1&name=acestream&mode=1&name=ARENAVISION 3
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 4
+#EXTINF:0,ARENAVISION 4
 plugin://program.plexus/?mode=1&url=acestream://3220c8ea68d7e7f684a801f8cfa1db1745bb9e4f&mode=1&name=acestream&mode=1&name=ARENAVISION 4
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 5
+#EXTINF:0,ARENAVISION 5
 plugin://program.plexus/?mode=1&url=acestream://98517e47bd1d2cbccf8a155ce441939afed11de7&mode=1&name=acestream&mode=1&name=ARENAVISION 5
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 6
+#EXTINF:0,ARENAVISION 6
 plugin://program.plexus/?mode=1&url=acestream://a649e982c6b91bc783b3779ffd03ad6a3be7c696&mode=1&name=acestream&mode=1&name=ARENAVISION 6
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 7
+#EXTINF:0,ARENAVISION 7
 plugin://program.plexus/?mode=1&url=acestream://230340fd667c6c63dd85a944ef930f553f9c3b43&mode=1&name=acestream&mode=1&name=ARENAVISION 7
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 8
+#EXTINF:0,ARENAVISION 8
 plugin://program.plexus/?mode=1&url=acestream://5b05834daab7f3882645e3871b88eb6c0b74ca1c&mode=1&name=acestream&mode=1&name=ARENAVISION 8
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 9
+#EXTINF:0,ARENAVISION 9
 plugin://program.plexus/?mode=1&url=acestream://3e3f649ffd85942dbfe1d0523c58b510b26c8d09&mode=1&name=acestream&mode=1&name=ARENAVISION 9
-#EXTINF:-1 group-title="ACESTREAM",ARENAVISION 10
+#EXTINF:0,ARENAVISION 10
 plugin://program.plexus/?mode=1&url=acestream://484f2847fcc055116f8df0ce91f3291bfc2fc8e6&mode=1&name=acestream&mode=1&name=ARENAVISION 10
-#EXTINF:-1 group-title="ACESTREAM",BBC ONE
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11208.acelive&mode=1&name=acestream&mode=1&name=BBC ONE
-#EXTINF:-1 group-title="ACESTREAM",BBC TWO
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12816.acelive&mode=1&name=acestream&mode=1&name=BBC TWO
-#EXTINF:-1 group-title="ACESTREAM",BBC WORLD NEWS
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/334_all.acelive&mode=1&name=acestream&mode=1&name=BBC WORLD NEWS
-#EXTINF:-1 group-title="ACESTREAM",BLOOMBERG
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/50_all.acelive&mode=1&name=acestream&mode=1&name=BLOOMBERG
-#EXTINF:-1 group-title="ACESTREAM",BT SPORT 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10634.acelive&mode=1&name=acestream&mode=1&name=BT SPORT 1
-#EXTINF:-1 group-title="ACESTREAM",BT SPORT 2
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9220.acelive&mode=1&name=acestream&mode=1&name=BT SPORT 2
-#EXTINF:-1 group-title="ACESTREAM",C MORE TENNIS
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10188.acelive&mode=1&name=acestream&mode=1&name=C MORE TENNIS
-#EXTINF:-1 group-title="ACESTREAM",CANAL PLUS LIGA
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9387.acelive&mode=1&name=acestream&mode=1&name=CANAL PLUS LIGA
-#EXTINF:-1 group-title="ACESTREAM",CNN
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/51_all.acelive&mode=1&name=acestream&mode=1&name=CNN
-#EXTINF:-1 group-title="ACESTREAM",DISCOVERY CHANNEL HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/613_reg.acelive&mode=1&name=acestream&mode=1&name=DISCOVERY CHANNEL HD
-#EXTINF:-1 group-title="ACESTREAM",DISCOVERY SCIENCE
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/99_reg.acelive&mode=1&name=acestream&mode=1&name=DISCOVERY SCIENCE
-#EXTINF:-1 group-title="ACESTREAM",ESPN 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12931.acelive&mode=1&name=acestream&mode=1&name=ESPN 1
-#EXTINF:-1 group-title="ACESTREAM",ESPN 2
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12932.acelive&mode=1&name=acestream&mode=1&name=ESPN 2
-#EXTINF:-1 group-title="ACESTREAM",EUROSPORT 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12747.acelive&mode=1&name=acestream&mode=1&name=EUROSPORT 1
-#EXTINF:-1 group-title="ACESTREAM",EUROSPORT 1 HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/172_reg.acelive&mode=1&name=acestream&mode=1&name=EUROSPORT 1 HD
-#EXTINF:-1 group-title="ACESTREAM",EUROSPORT 2
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12748.acelive&mode=1&name=acestream&mode=1&name=EUROSPORT 2
-#EXTINF:-1 group-title="ACESTREAM",EUROSPORT 2 HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11160.acelive&mode=1&name=acestream&mode=1&name=EUROSPORT 2 HD
-#EXTINF:-1 group-title="ACESTREAM",EXTREME SPORTS
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/8_all.acelive&mode=1&name=acestream&mode=1&name=EXTREME SPORTS
-#EXTINF:-1 group-title="ACESTREAM",FASHION BOX HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12159.acelive&mode=1&name=acestream&mode=1&name=FASHION BOX HD
-#EXTINF:-1 group-title="ACESTREAM",FIGHT BOX HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12691.acelive&mode=1&name=acestream&mode=1&name=FIGHT BOX HD
-#EXTINF:-1 group-title="ACESTREAM",FOOD NETWORK HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10940.acelive&mode=1&name=acestream&mode=1&name=FOOD NETWORK HD
-#EXTINF:-1 group-title="ACESTREAM",FOX HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12792.acelive&mode=1&name=acestream&mode=1&name=FOX HD
-#EXTINF:-1 group-title="ACESTREAM",FOX LIFE HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11826.acelive&mode=1&name=acestream&mode=1&name=FOX LIFE HD
-#EXTINF:-1 group-title="ACESTREAM",FUTBOL 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9079.acelive&mode=1&name=acestream&mode=1&name=FUTBOL 1
-#EXTINF:-1 group-title="ACESTREAM",FUTBOL 2 HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9251.acelive&mode=1&name=acestream&mode=1&name=FUTBOL 2 HD
-#EXTINF:-1 group-title="ACESTREAM",MOTORS TV
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/1483.acelive&mode=1&name=acestream&mode=1&name=MOTORS TV
-#EXTINF:-1 group-title="ACESTREAM",MOVISTAR F1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11642.acelive&mode=1&name=acestream&mode=1&name=MOVISTAR F1
-#EXTINF:-1 group-title="ACESTREAM",MTV HITS
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/462_all.acelive&mode=1&name=acestream&mode=1&name=MTV HITS
-#EXTINF:-1 group-title="ACESTREAM",MTV ROCKS
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/493_all.acelive&mode=1&name=acestream&mode=1&name=MTV ROCKS
-#EXTINF:-1 group-title="ACESTREAM",MUSIC
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/838_all.acelive&mode=1&name=acestream&mode=1&name=MUSIC
-#EXTINF:-1 group-title="ACESTREAM",NATIONAL GEOGRAPHIC HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/169_reg.acelive&mode=1&name=acestream&mode=1&name=NATIONAL GEOGRAPHIC HD
-#EXTINF:-1 group-title="ACESTREAM",NTV+ Football 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/UllnR2FWakFyOEJrdS9FU0pBR2x5enZXMkhueWR5WU5zVUJYTXgxaERBRTZaTkdEUGRZWWZ6RVdvb0ZoQnF3MXU4a2dzblY3eStnTXBMU3hZM0hJNHc9PQ/cdn/39_reg.acelive&mode=1&name=acestream&mode=1&name=NTV+ Football 1
-#EXTINF:-1 group-title="ACESTREAM",NTV+ Football 2
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/UllnR2FWakFyOEJrdS9FU0pBR2x5enZXMkhueWR5WU5zVUJYTXgxaERBRTZaTkdEUGRZWWZ6RVdvb0ZoQnF3MXU4a2dzblY3eStnTXBMU3hZM0hJNHc9PQ/cdn/552_reg.acelive&mode=1&name=acestream&mode=1&name=NTV+ Football 2
-#EXTINF:-1 group-title="ACESTREAM",NTV+ Football 2 HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/UllnR2FWakFyOEJrdS9FU0pBR2x5enZXMkhueWR5WU5zVUJYTXgxaERBRTZaTkdEUGRZWWZ6RVdvb0ZoQnF3MXU4a2dzblY3eStnTXBMU3hZM0hJNHc9PQ/cdn/611_reg.acelive&mode=1&name=acestream&mode=1&name=NTV+ Football 2 HD
-#EXTINF:-1 group-title="ACESTREAM",NTV+ Football 3
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/UllnR2FWakFyOEJrdS9FU0pBR2x5enZXMkhueWR5WU5zVUJYTXgxaERBRTZaTkdEUGRZWWZ6RVdvb0ZoQnF3MXU4a2dzblY3eStnTXBMU3hZM0hJNHc9PQ/cdn/701_reg.acelive&mode=1&name=acestream&mode=1&name=NTV+ Football 3
-#EXTINF:-1 group-title="ACESTREAM",NTV+ Football 3 HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/UllnR2FWakFyOEJrdS9FU0pBR2x5enZXMkhueWR5WU5zVUJYTXgxaERBRTZaTkdEUGRZWWZ6RVdvb0ZoQnF3MXU4a2dzblY3eStnTXBMU3hZM0hJNHc9PQ/cdn/646_reg.acelive&mode=1&name=acestream&mode=1&name=NTV+ Football 3 HD
-#EXTINF:-1 group-title="ACESTREAM",NTVPLUS FUTBOL 1 HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/625_reg.acelive&mode=1&name=acestream&mode=1&name=NTVPLUS FUTBOL 1 HD
-#EXTINF:-1 group-title="ACESTREAM",POLSAT SPORT HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9685.acelive&mode=1&name=acestream&mode=1&name=POLSAT SPORT HD
-#EXTINF:-1 group-title="ACESTREAM",POLSAT SPORT NEWS
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12817.acelive&mode=1&name=acestream&mode=1&name=POLSAT SPORT NEWS
-#EXTINF:-1 group-title="ACESTREAM",PREMIER SPORTS
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/6972.acelive&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
-#EXTINF:-1 group-title="ACESTREAM",SKY SPORTS 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10351.acelive&mode=1&name=acestream&mode=1&name=SKY SPORTS 1
-#EXTINF:-1 group-title="ACESTREAM",SKY SPORTS 2
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12738.acelive&mode=1&name=acestream&mode=1&name=SKY SPORTS 2
-#EXTINF:-1 group-title="ACESTREAM",SKY SPORTS 3
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/6909.acelive&mode=1&name=acestream&mode=1&name=SKY SPORTS 3
-#EXTINF:-1 group-title="ACESTREAM",SKY SPORTS 4
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12739.acelive&mode=1&name=acestream&mode=1&name=SKY SPORTS 4
-#EXTINF:-1 group-title="ACESTREAM",SKY SPORTS 5
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10285.acelive&mode=1&name=acestream&mode=1&name=SKY SPORTS 5
-#EXTINF:-1 group-title="ACESTREAM",SKY SPORTS F1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9299.acelive&mode=1&name=acestream&mode=1&name=SKY SPORTS F1
-#EXTINF:-1 group-title="ACESTREAM",SPORT 1
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/526_reg.acelive&mode=1&name=acestream&mode=1&name=SPORT 1
-#EXTINF:-1 group-title="ACESTREAM",SPORT 1 CZ
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10729.acelive&mode=1&name=acestream&mode=1&name=SPORT 1 CZ
-#EXTINF:-1 group-title="ACESTREAM",SPORT 2 CZ
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10873.acelive&mode=1&name=acestream&mode=1&name=SPORT 2 CZ
-#EXTINF:-1 group-title="ACESTREAM",SPORT 2 HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/1381.acelive&mode=1&name=acestream&mode=1&name=SPORT 2 HD
-#EXTINF:-1 group-title="ACESTREAM",SPORTMANIA
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10361.acelive&mode=1&name=acestream&mode=1&name=SPORTMANIA
-#EXTINF:-1 group-title="ACESTREAM",SUPER TENNIS HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9217.acelive&mode=1&name=acestream&mode=1&name=SUPER TENNIS HD
-#EXTINF:-1 group-title="ACESTREAM",TELEDEPORTE
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11139.acelive&mode=1&name=acestream&mode=1&name=TELEDEPORTE
-#EXTINF:-1 group-title="ACESTREAM",VIASAT HOCKEY
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10048.acelive&mode=1&name=acestream&mode=1&name=VIASAT HOCKEY
-#EXTINF:-1 group-title="ACESTREAM",VIASAT SPORT BALTIC
-#EXTINF:0,Brazzers
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/cdn/540_reg.acelive&mode=1&name=acestream&mode=1&name=BRAZZERS
-#EXTINF:0,HUSTLER HD
-plugin://program.plexus/?mode=1&url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/789.acelive&mode=1&name=acestream&mode=1&name=HUSTLER HD
+#EXTINF:0,BBC ONE
+plugin://program.plexus/?mode=1&url=acestream://6efb0e89c5322d6aa05176d3c277ba9e9d2189e3&mode=1&name=acestream&mode=1&name=BBC ONE
+#EXTINF:0,BBC TWO
+plugin://program.plexus/?mode=1&url=acestream://25e9e953af00fcfe73cbadfc29b618d85f0db2c7&mode=1&name=acestream&mode=1&name=BBC TWO
+#EXTINF:0,BBC WORLD NEWS
+plugin://program.plexus/?mode=1&url=acestream://653f6a234e5b2f8d95c057eb0045a9e1691c45d7&mode=1&name=acestream&mode=1&name=BBC WORLD NEWS
+#EXTINF:0,BEIN SPORTS 3 HD FRANCE
+plugin://program.plexus/?mode=1&url=acestream://7d7261067924099c96c9b5e149a31f835908fff0&mode=1&name=acestream&mode=1&name=BEIN SPORTS 3 HD FRANCE
+#EXTINF:0,BLOOMBERG
+plugin://program.plexus/?mode=1&url=acestream://d120571b8fa97c69a62fb44cf5a15dc450bb8abc&mode=1&name=acestream&mode=1&name=BLOOMBERG
+#EXTINF:0,BT SPORT 1
+plugin://program.plexus/?mode=1&url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&mode=1&name=acestream&mode=1&name=BT SPORT 1
+#EXTINF:0,BT SPORT 2
+plugin://program.plexus/?mode=1&url=acestream://553471b270891712541fc2fe4794f46279e2384d&mode=1&name=acestream&mode=1&name=BT SPORT 2
+#EXTINF:0,BT SPORT ESPN
+plugin://program.plexus/?mode=1&url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream&mode=1&name=BT SPORT ESPN
+#EXTINF:0,C MORE TENNIS
+plugin://program.plexus/?mode=1&url=acestream://dc82c4d0b1a0aec6029cafe8ea330e80b0292e4c&mode=1&name=acestream&mode=1&name=C MORE TENNIS
+#EXTINF:0,CANAL+ DESPORTES
+plugin://program.plexus/?mode=1&url=acestream://a994a04ff801f11872fc1e89258d53c5601ccfbd&mode=1&name=acestream&mode=1&name=CANAL+ DESPORTES
+#EXTINF:0,CANAL+ DESPORTES 2
+plugin://program.plexus/?mode=1&url=acestream://7a3408bafc83d13ec6ecd8dcbc1d0511d4032963&mode=1&name=acestream&mode=1&name=CANAL+ DESPORTES 2
+#EXTINF:0,CANAL+ FUTBOL
+plugin://program.plexus/?mode=1&url=acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852&mode=1&name=acestream&mode=1&name=CANAL+ FUTBOL
+#EXTINF:0,CANAL+ LIGA
+plugin://program.plexus/?mode=1&url=acestream://da01482344b8ea93c8388d4d708b0d27db8774b4&mode=1&name=acestream&mode=1&name=CANAL+ LIGA
+#EXTINF:0,CANAL+ LIGA 2
+plugin://program.plexus/?mode=1&url=acestream://d7586f582a41990286d438894bfe67dd0f961b18&mode=1&name=acestream&mode=1&name=CANAL+ LIGA 2
+#EXTINF:0,CANAL+ SPORT FRANCE HD
+plugin://program.plexus/?mode=1&url=acestream://0be05e6112cb98a1799105f6c3e4348914a39080&mode=1&name=acestream&mode=1&name=CANAL+ SPORT FRANCE HD
+#EXTINF:0,CANAL+ SPORT HD
+plugin://program.plexus/?mode=1&url=acestream://07fb7d0131663a5daef420fd75acb5731b1c6585&mode=1&name=acestream&mode=1&name=CANAL+ SPORT HD
+#EXTINF:0,CNN
+plugin://program.plexus/?mode=1&url=acestream://a7553f38fe013e1d0a4a2921fe0b0e4aded7e25f&mode=1&name=acestream&mode=1&name=CNN
+#EXTINF:0,DIEMA SPORT HD
+plugin://program.plexus/?mode=1&url=acestream://10dde1b905d2aadd1c8683379740233f91f41d1d&mode=1&name=acestream&mode=1&name=DIEMA SPORT HD
+#EXTINF:0,DIGI SPORT 1
+plugin://program.plexus/?mode=1&url=acestream://7525fc778e3f751b430d4cf626e187268e67a1d5&mode=1&name=acestream&mode=1&name=DIGI SPORT 1
+#EXTINF:0,DIGI SPORT 2
+plugin://program.plexus/?mode=1&url=acestream://843675d1c8f68003732db7d73557155dafc5ba03&mode=1&name=acestream&mode=1&name=DIGI SPORT 2
+#EXTINF:0,DISCOVERY CHANNEL HD
+plugin://program.plexus/?mode=1&url=acestream://ec55ab91a4abb53292ebcdfdbecc80fabc7ecccd&mode=1&name=acestream&mode=1&name=DISCOVERY CHANNEL HD
+#EXTINF:0,DISCOVERY SCIENCE
+plugin://program.plexus/?mode=1&url=acestream://343091aef7f5a9557fa0e5e11fae30c50700c474&mode=1&name=acestream&mode=1&name=DISCOVERY SCIENCE
+#EXTINF:0,ESPN 1
+plugin://program.plexus/?mode=1&url=acestream://46e1153bc7a25228f502df3cbcbc88a24a4f99d0&mode=1&name=acestream&mode=1&name=ESPN 1
+#EXTINF:0,ESPN 2
+plugin://program.plexus/?mode=1&url=acestream://b675e49fae3ed789f97f287a86ab7b1f16eaabcc&mode=1&name=acestream&mode=1&name=ESPN 2
+#EXTINF:0,EUROSPORT 1
+plugin://program.plexus/?mode=1&url=acestream://e023777eb7583e6a573fc7e36dfe550745331b49&mode=1&name=acestream&mode=1&name=EUROSPORT 1
+#EXTINF:0,EUROSPORT 1 HD
+plugin://program.plexus/?mode=1&url=acestream://102c4a7e304871c9471df1bfeda348566d4d6322&mode=1&name=acestream&mode=1&name=EUROSPORT 1 HD
+#EXTINF:0,EUROSPORT 2
+plugin://program.plexus/?mode=1&url=acestream://35cc8a8c526ed08a05d6c6f534d9d7437035fd6f&mode=1&name=acestream&mode=1&name=EUROSPORT 2
+#EXTINF:0,EUROSPORT 2 HD
+plugin://program.plexus/?mode=1&url=acestream://c0f56cebd553bd935b3453bd8a3b72d4366c3df6&mode=1&name=acestream&mode=1&name=EUROSPORT 2 HD
+#EXTINF:0,EUROSPORT 2 NORTH-EAST
+plugin://program.plexus/?mode=1&url=acestream://4b71476f6930076f6e474a520c206fdfd6c33b20&mode=1&name=acestream&mode=1&name=EUROSPORT 2 NORTH-EAST
+#EXTINF:0,EUROSPORT 2 NORTH-EAST HD 
+plugin://program.plexus/?mode=1&url=acestream://9ab089645c4fc0845594c063b3f372e842c806a0&mode=1&name=acestream&mode=1&name=EUROSPORT 2 NORTH-EAST HD
+#EXTINF:0,EXTREME SPORTS
+plugin://program.plexus/?mode=1&url=acestream://c612272dbce5420cdefa2e97425b696a60610447&mode=1&name=acestream&mode=1&name=EXTREME SPORTS
+#EXTINF:0,FASHION BOX HD
+plugin://program.plexus/?mode=1&url=acestream://9d9a38bee23df4bc79de348f53edb38ef94632e4&mode=1&name=acestream&mode=1&name=FASHION BOX HD
+#EXTINF:0,FIGHT BOX HD
+plugin://program.plexus/?mode=1&url=acestream://e26d61526b439e376dcd6b3c7bc17b5dce34d65e&mode=1&name=acestream&mode=1&name=FIGHT BOX HD
+#EXTINF:0,FOOD NETWORK HD
+plugin://program.plexus/?mode=1&url=acestream://d21fb6f1f4eea1721d7fd89a3fbd564299279aab&mode=1&name=acestream&mode=1&name=FOOD NETWORK HD
+#EXTINF:0,FOX HD
+plugin://program.plexus/?mode=1&url=acestream://37427870ac38330ff01bc80b2cb6d0fd28afaff8&mode=1&name=acestream&mode=1&name=FOX HD
+#EXTINF:0,FOX LIFE HD
+plugin://program.plexus/?mode=1&url=acestream://a626f4c7f6d6ed828941e9aa9cae7bc21733702f&mode=1&name=acestream&mode=1&name=FOX LIFE HD
+#EXTINF:0,FUTBOL 1
+plugin://program.plexus/?mode=1&url=acestream://24b2e33593c6425bb66a1237e2e967ca51d197c6&mode=1&name=acestream&mode=1&name=FUTBOL 1
+#EXTINF:0,FUTBOL 2 HD
+plugin://program.plexus/?mode=1&url=acestream://d440101d2eb0ebdfc245cfc4757587eed1169653&mode=1&name=acestream&mode=1&name=FUTBOL 2 HD
+#EXTINF:0,MOTORS TV
+plugin://program.plexus/?mode=1&url=acestream://3e8d43d648d29abf6d10575ac3facded18488190&mode=1&name=acestream&mode=1&name=MOTORS TV
+#EXTINF:0,MOTORSPORT 
+plugin://program.plexus/?mode=1&url=acestream://78e3496e60eb6531f1335639f84b28d712874ae3&mode=1&name=acestream&mode=1&name=MOTORSPORT
+#EXTINF:0,MOVISTAR F1
+plugin://program.plexus/?mode=1&url=acestream://9f5ffaecd6957cc1f4cd2ed91386419e623c04f6&mode=1&name=acestream&mode=1&name=MOVISTAR F1
+#EXTINF:0,MOVISTAR MOTO GP
+plugin://program.plexus/?mode=1&url=acestream://7c01784bfeba11565fce3626e155da1fcdb45976&mode=1&name=acestream&mode=1&name=MOVISTAR MOTO GP
+#EXTINF:0,MTV HITS
+plugin://program.plexus/?mode=1&url=acestream://0735776d281d43e2e5ec7564ae054f1bd96d13bc&mode=1&name=acestream&mode=1&name=MTV HITS
+#EXTINF:0,MTV ROCKS
+plugin://program.plexus/?mode=1&url=acestream://10b3ab7b1e7f136ab48e6ecfcf7ae34a5999c2f0&mode=1&name=acestream&mode=1&name=MTV ROCKS
+#EXTINF:0,MUSIC
+plugin://program.plexus/?mode=1&url=acestream://c92a9b24d96c6dc9a8e88e2de4fa126edd3ed7c3&mode=1&name=acestream&mode=1&name=MUSIC
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+plugin://program.plexus/?mode=1&url=acestream://03fce0dfc5c17cdf5e2f4b1711fb9849929be213&mode=1&name=acestream&mode=1&name=NATIONAL GEOGRAPHIC HD
+#EXTINF:0,NBA TV
+plugin://program.plexus/?mode=1&url=acestream://3462fdb26e872914ecc30572f3d06d391dbb16a9&mode=1&name=acestream&mode=1&name=NBA TV
+#EXTINF:0,NOVA SPORT
+plugin://program.plexus/?mode=1&url=acestream://2dd6f07b0f6b600ee0ced7e9e8af352939b0d2e9&mode=1&name=acestream&mode=1&name=NOVA SPORT
+#EXTINF:0,NOVA SPORT BG
+plugin://program.plexus/?mode=1&url=acestream://7437157eccc3c23fef405bf277e0d635329428cf&mode=1&name=acestream&mode=1&name=NOVA SPORT BG
+#EXTINF:0,NSPORT+ HD
+plugin://program.plexus/?mode=1&url=acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9&mode=1&name=acestream&mode=1&name=NSPORT+ HD
+#EXTINF:0,NTV+ FOOTBALL 1
+plugin://program.plexus/?mode=1&url=acestream://4ada28841b9a6e77a3f1f8fd093b6f9c6cb9ee1e&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 1
+#EXTINF:0,NTV+ FUTBOL 1 HD
+plugin://program.plexus/?mode=1&url=acestream://5efb318d89ca6cc2bb3fd63994273082d6d7d5a5&mode=1&name=acestream&mode=1&name=NTV+ FUTBOL 1 HD
+#EXTINF:0,NTV+ FOOTBALL 2
+plugin://program.plexus/?mode=1&url=acestream://0157fa9dbe76774531f639cdb5a65f78b30532e5&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 2
+#EXTINF:0,NTV+ FOOTBALL 2 HD
+plugin://program.plexus/?mode=1&url=acestream://4e9b24432608cf8e9f6a71d202430cf3cffa2f41&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 2 HD
+#EXTINF:0,NTV+ FOOTBALL 3
+plugin://program.plexus/?mode=1&url=acestream://436426922fffeb08c06b4227042785d5c7d93735&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 3
+#EXTINF:0,NTV+ FOOTBALL 3 HD
+plugin://program.plexus/?mode=1&url=acestream://b85f8e2dc02b039dc958724810614405d989dbd4&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 3 HD
+#EXTINF:0,POLSAT SPORT EXTRA HD
+plugin://program.plexus/?mode=1&url=acestream://ed20cc93e89e6b232ee9e515b7cdeed57fd773b5&mode=1&name=acestream&mode=1&name=POLSAT SPORT EXTRA HD
+#EXTINF:0,POLSAT SPORT HD
+plugin://program.plexus/?mode=1&url=acestream://efffc8024effa9696a67ef93b967fb31664d67f4&mode=1&name=acestream&mode=1&name=POLSAT SPORT HD
+#EXTINF:0,POLSAT SPORT NEWS
+plugin://program.plexus/?mode=1&url=acestream://e3be8b6bf5439c7600319ccf782b612d5f4c450e&mode=1&name=acestream&mode=1&name=POLSAT SPORT NEWS
+#EXTINF:0,PREMIER SPORTS
+plugin://program.plexus/?mode=1&url=acestream://16466b42bfd48309ea0418bb77dcfb80ac6e90ee&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
+#EXTINF:0,SETANTA SPORTS + EURASIA HD
+plugin://program.plexus/?mode=1&url=acestream://4f341d4014b588016bdc636b906b880af6a26e63&mode=1&name=acestream&mode=1&name=SETANTA SPORTS + EURASIA HD
+#EXTINF:0,SETANTA SPORTS + HD
+plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream&mode=1&name=SETANTA SPORTS + HD
+#EXTINF:0,SKY BUNDESLIGA 1
+plugin://program.plexus/?mode=1&url=acestream://4c1892087557c93e612fb0896fd4a341753700a0&mode=1&name=acestream&mode=1&name=SKY BUNDESLIGA 1
+#EXTINF:0,SKY SPORT HD 1
+plugin://program.plexus/?mode=1&url=acestream://f5ad291930308ed2125b164e6c48c2f0ec404325&mode=1&name=acestream&mode=1&name=SKY SPORT HD 1
+#EXTINF:0,SKY SPORTS 1
+plugin://program.plexus/?mode=1&url=acestream://3dec27f191922f42f6ff91a0f1641d15cba80d5e&mode=1&name=acestream&mode=1&name=SKY SPORTS 1
+#EXTINF:0,SKY SPORTS 2
+plugin://program.plexus/?mode=1&url=acestream://9435a603b27813c91af7bedca56d09859dae1751&mode=1&name=acestream&mode=1&name=SKY SPORTS 2
+#EXTINF:0,SKY SPORTS 3
+plugin://program.plexus/?mode=1&url=acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55&mode=1&name=acestream&mode=1&name=SKY SPORTS 3
+#EXTINF:0,SKY SPORTS 4
+plugin://program.plexus/?mode=1&url=acestream://98021702106c7d6df60dcf0921ca5223dd22109f&mode=1&name=acestream&mode=1&name=SKY SPORTS 4
+#EXTINF:0,SKY SPORTS 5
+plugin://program.plexus/?mode=1&url=acestream://47eeb48b1ad7039ca55bf2917adfb5a1de8f7de6&mode=1&name=acestream&mode=1&name=SKY SPORTS 5
+#EXTINF:0,SKY SPORTS F1
+plugin://program.plexus/?mode=1&url=acestream://2eb1213b1fac44657589abe75ef690fdec04ca9b&mode=1&name=acestream&mode=1&name=SKY SPORTS F1
+#EXTINF:0,SKY SPORTS F1 HD
+plugin://program.plexus/?mode=1&url=acestream://77892d93c38311c60ae827c9ec13afc9d2c402c9&mode=1&name=acestream&mode=1&name=SKY SPORTS F1 HD
+#EXTINF:0,SPORT 1 DE
+plugin://program.plexus/?mode=1&url=acestream://0589bc6406c57b6646f4958ea479aac6921ec0b0&mode=1&name=acestream&mode=1&name=SPORT 1 DE
+#EXTINF:0,SPORT 1 CZ
+plugin://program.plexus/?mode=1&url=acestream://565fdf3c5b32c20b68ef404caf184dff245e809f&mode=1&name=acestream&mode=1&name=SPORT 1 CZ
+#EXTINF:0,SPORT 2 CZ
+plugin://program.plexus/?mode=1&url=acestream://dcf625e66752563f04f2977e4673e6988978851a&mode=1&name=acestream&mode=1&name=SPORT 2 CZ
+#EXTINF:0,SPORT 2 DE HD
+plugin://program.plexus/?mode=1&url=acestream://98447e85da7aacd8f43a33edb7e41cc250c8a031&mode=1&name=acestream&mode=1&name=SPORT 2 DE HD
+#EXTINF:0,SPORTMANIA
+plugin://program.plexus/?mode=1&url=acestream://49087edf62ebd59739a1a71ab47a2389c8f632df&mode=1&name=acestream&mode=1&name=SPORTMANIA
+#EXTINF:0,SUPER TENNIS HD
+plugin://program.plexus/?mode=1&url=acestream://bb5c904f9e68035bdb5b4654a6b171600e62a0b0&mode=1&name=acestream&mode=1&name=SUPER TENNIS HD
+#EXTINF:0,TELEDEPORTE
+plugin://program.plexus/?mode=1&url=acestream://c3ac9481ac78317ef4880d822fb44c0a3b858f0e&mode=1&name=acestream&mode=1&name=TELEDEPORTE
+#EXTINF:0,VIASAT HOCKEY
+plugin://program.plexus/?mode=1&url=acestream://b5ce7e00ec6e0b6076827720bbeb6ea36054bd19&mode=1&name=acestream&mode=1&name=VIASAT HOCKEY
+#EXTINF:0,VIASAT MOTOR
+plugin://program.plexus/?mode=1&url=acestream://b70983ba89591f00e2602a35e957a2d856a6d58c&mode=1&name=acestream&mode=1&name=VIASAT MOTOR
+#EXTINF:0,VIASAT SPORT
+plugin://program.plexus/?mode=1&url=acestream://f1ad35176050dfb899bd8065cc44754c4ae7b175&mode=1&name=acestream&mode=1&name=VIASAT SPORT
+#EXTINF:0,VIASAT SPORT BALTIC
+plugin://program.plexus/?mode=1&url=acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10&mode=1&name=acestream&mode=1&name=VIASAT SPORT BALTIC
+#EXTINF:0,VIASAT SPORT HD
+plugin://program.plexus/?mode=1&url=acestream://fa00f2699740e21983b9cbf630aa86d19108eba9&mode=1&name=acestream&mode=1&name=VIASAT SPORT HD
+#EXTINF:0,VIASAT SPORT SVERIGE
+plugin://program.plexus/?mode=1&url=acestream://ac7db4c644c21ca9d72c6724fcb206883a87fbbd&mode=1&name=acestream&mode=1&name=VIASAT SPORT SVERIGE
