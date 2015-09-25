@@ -386,7 +386,7 @@ http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
 http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
 
-#EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2[/COLOR]
+#EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2 (bulgaro)[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
 
 #############################################################################################
@@ -428,7 +428,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
@@ -437,19 +437,18 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
 rtmp://176.10.250.166:1935/tv/stream1
-
 #EXTINF:-1 tvg-id="eurosport2.pt" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/192.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (bulgaro) [/COLOR]
-http://lag1.tv-mobile.org/prgs.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2  [/COLOR]
 http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (bulgaro) [/COLOR]
+http://lag1.tv-mobile.org/prgs.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR gray91][B]| SKY & FOX SPORTS |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| SKY & FOX SPORTS |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
@@ -490,7 +489,7 @@ http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SPORT KLUB & ESPN|[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SPORT KLUB & ESPN|[/B][/COLOR] 
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR]
@@ -509,7 +508,7 @@ http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS BEIN SPORT |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS BEIN SPORT |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (esp) [/COLOR]
@@ -868,7 +867,7 @@ http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="ptuga.png" group-title="MUSICA",[COLOR gray91][I][B] CANAIS DE MUSICA [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B] CANAIS DE MUSICA [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="Vhr.png" group-title="MUSICA", [COLOR lawngreen] VH1 Classic[/COLOR]
