@@ -286,6 +286,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] ON [/COLOR]
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/137239
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo=".jpg" group-title="MEO",[COLOR lawngreen] Fish Channel (usa) [/COLOR]
+http://bit.do/bkUgo
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo=".jpg" group-title="MEO",[COLOR lawngreen] World Fishing Network (usa) [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CACCIA (it) [/COLOR]
@@ -385,6 +387,18 @@ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
 http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 1  (polaco)[/COLOR][COLOR red] TEST [/COLOR]
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130750
+#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2  (polaco)[/COLOR][COLOR red] TEST [/COLOR]
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130750
+#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 3  (polaco)[/COLOR][COLOR red] TEST [/COLOR]
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130752
+#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 4  (polaco)[/COLOR][COLOR red] TEST [/COLOR]
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753
+#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 5  (polaco)[/COLOR][COLOR red] TEST [/COLOR]
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130754
+
 
 #EXTINF:-1 tvg-logo="ring.png" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR]
 http://lag1.tv-mobile.org/prgr.m3u8
