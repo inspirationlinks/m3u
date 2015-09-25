@@ -2,7 +2,7 @@
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 25 SET | 10.20H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 25 SET | 15.10H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEMP | OFF[/B][/COLOR]
 http://0.0.0.0:1234
@@ -289,6 +289,8 @@ http://0.0.0.0:1234
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CACCIA (it) [/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/46.ts
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo=".jpg" group-title="MEO",[COLOR lawngreen] PESCA (it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/47.ts
 
 #############################################################################################
 
@@ -318,7 +320,10 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="nascar.jpg" group-title="DESPORTO",[COLOR lawngreen] NASCAR [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 HD (it)[/COLOR][COLOR red] NEW[/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/36.ts
+#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/31.ts
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/37.ts
 
@@ -379,6 +384,9 @@ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
 http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
+
+#EXTINF:-1 tvg-logo="ring.png" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR]
+http://lag1.tv-mobile.org/prgr.m3u8
 
 #EXTINF:-1 tvg-logo="sport-max.png" group-title="DESPORTO",[COLOR lawngreen]SPORTMAX  (uk)[/COLOR]
 http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
@@ -647,9 +655,6 @@ http://178.253.194.71:1935/liveloworigin/sos.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".jpg" ,[COLOR lawngreen]Al Nahar Sport[/COLOR]
 http://38.99.146.36:7777/AlNaharSport_HD.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR]
-http://lag1.tv-mobile.org/prgr.m3u8
 
 #EXTINF:-1 tvg-logo="SuperSport+logo+2010+asteroid+3D.png",[COLOR lawngreen] SuperSport 2[/COLOR]
 http://tring-amd-live.tring.tv/out/u/86_101.m3u8
