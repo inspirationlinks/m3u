@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 26 SET | 14.30H |[/B][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEMP | OFF[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #############################################################################################
@@ -53,10 +53,11 @@ http://213.13.26.11:1935/live/sicnoticias/hasbahca.m3u8
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="SICMulher.png" group-title="MEO",[COLOR lawngreen] SIC MULHER [/COLOR]
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="SICMulher.png" group-title="MEO",[COLOR lawngreen] SIC MULHER [/COLOR][COLOR red] OFF[/COLOR]
 http://ipsat.dvrdns.org:8000/live/jose7/gago7/913.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="sic_radical.png" group-title="MEO",[COLOR lawngreen] SIC RADICAL [/COLOR]
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="sic_radical.png" group-title="MEO",[COLOR lawngreen] SIC RADICAL [/COLOR][COLOR red] OFF[/COLOR]
 http://ipsat.dvrdns.org:8000/live/jose7/gago7/914.m3u8
+
 #EXTINF:-1 tvg-id="TVI" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI [/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI [/COLOR]
@@ -87,6 +88,8 @@ rtmp://213.13.26.43/live playpath=etv_direto swfUrl=http://imgs.sapo.pt/sapovide
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="MEO",[COLOR lawngreen] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
 
+#EXTINF:-1 tvg-id="" tvg-logo="Record.png" group-title="MEO",[COLOR lawngreen]TV RECORD[/COLOR]
+http://srv6.zoeweb.tv:1935/z821-live/stream2/chunklist_w1200576333.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fashion.png" group-title="MEO",[COLOR lawngreen]FASHION[/COLOR]
 rtmp://95.67.8.43:1935/live/fashionhd
 #EXTINF:-1 tvg-id="" tvg-logo="CCTV-5.png" group-title="MEO",[COLOR lawngreen]CCTV4[/COLOR]
@@ -110,6 +113,8 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 #EXTINF:-1 tvg-id="" tvg-logo="Benfica TV 2.png" group-title="MEO",[COLOR lawngreen] BTV2 & GLOBO [COLOR red]TEMP[/COLOR][/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/213.ts
 
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 [/COLOR][COLOR red] TEST [/COLOR]
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/229.ts
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/230.ts
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
@@ -193,6 +198,8 @@ http://lag2.tv-mobile.org/prgd.m3u8
 
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (esp)[/COLOR]
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX HQ (esp)[/COLOR]
+http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Fox Life HD.png" group-title="MEO",[COLOR lawngreen]FOX LIFE (esp)[/COLOR]
 http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="SYFY HD.png" group-title="MEO",[COLOR lawngreen]SYFY (esp)[/COLOR]
@@ -369,7 +376,7 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 
 #EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1[/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/202.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 [/COLOR][COLOR red] TEST [/COLOR]
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/229.ts
 #EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1 [/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
@@ -624,43 +631,6 @@ rtmp://217.174.227.20/webtv/ch004_sd
 
 #EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR2 (turco) [/COLOR]
 http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u
-
-#############################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| DESPORTO EUROPEIO & MUNDIAL |[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL HD [/COLOR][COLOR red]TEST[/COLOR]
-http://skyiptv.ddns.net:8000/live/batman/batman/516.ts
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL HD [/COLOR][COLOR red]OFF [/COLOR]
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-logo="sport-max.png" group-title="DESPORTO",[COLOR lawngreen]SPORTMAX  (uk)[/COLOR]
-http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
-
-#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]Idman Sport (AZE)[/COLOR][COLOR red] NEW[/COLOR]
-http://149.255.152.70/idman/index.m3u8
-
-#EXTINF:-1 tvg-logo=".jpg",[COLOR lawngreen]SOS SPORT[/COLOR]
-http://178.253.194.71:1935/liveloworigin/sos.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=".jpg" ,[COLOR lawngreen]Al Nahar Sport[/COLOR]
-http://38.99.146.36:7777/AlNaharSport_HD.m3u8
-
-#EXTINF:-1,[COLOR lawngreen]TDN[/COLOR]
-http://209.133.208.178:1935/app/max21a222s-channel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="DXTV.jpg",[COLOR lawngreen]DXTV Sport Latino[/COLOR]
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-
-#EXTINF:-1 tvg-id="" tvg-logo="winsports.jpg" group-title="DESPORTO",[COLOR lawngreen] Win Sports (colombia) [/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="BTN.png" group-title="DESPORTO",[COLOR lawngreen]BTN HD (usa)[/COLOR]
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:-1 tvg-logo="BTN.png" group-title="DESPORTO",[COLOR lawngreen] HOQUEI (usa)[/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/73.m3u8
 
 #############################################################################################
 
