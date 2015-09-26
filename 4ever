@@ -727,17 +727,11 @@ http://37.203.209.34:443/mobile/bob07/live.m3u8
 #EXTINF:-1 tvg-logo="fr.jpg" group-title="FRANÇA",[COLOR gray91][I][B] CANAIS FRANCESES [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR lawngreen] 5(fr) [/COLOR]
-http://stream-full.selfip.com:8000/live/sport4/sport4/13.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
 #EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
 http://teleclub.fr/ch02.ts
-
-#EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ SPORT (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
-http://88.141.4.217:9004/4
 
 #EXTINF:-1 tvg-logo="LEquipe-21.png" group-title="DESPORTO",[COLOR lawngreen]Lequipe-21 (fr)[/COLOR]
 http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21
@@ -1070,19 +1064,3 @@ http://94.23.76.235:9996/;
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CANAIS DE TESTES | [/B][/I][/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1,sportv2
-http://digiteletv.iptvpremium.eu:8000/…/iptvpremium.…/239.ts
-
-#EXTINF:-1,SKAI
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
-#EXTINF:-1,STAR
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
-#EXTINF:-1,NERIT
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
-#EXTINF:-1,ALPHA
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
-#EXTINF:-1,ANT1
-rtmp://area61.better-than.tv:1935/ANYTV_USR_ANT1/ANT1.sdp
-#EXTINF:-1,MEGA
-rtmp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
