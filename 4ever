@@ -226,6 +226,8 @@ http://j.mp/ZCH_C03_ANIMALPLANET_sly
 
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO (chileno) [/COLOR]
 http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO (fr) [/COLOR]
+http://stream-full.selfip.com:8000/live/sport4/sport4/38..ts
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD (usa) [/COLOR]
 http://lag2.tv-mobile.org/prgg.m3u8
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
@@ -285,6 +287,8 @@ http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/71.ts
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| CAÇA PESCA & TOURADAS |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="" tvg-logo="xtreme tv.png" group-title="MEO",[COLOR lawngreen] XTREME IMPACTS (usa) [/COLOR]
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] OFF [/COLOR]
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/137239
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] Fish Channel (usa) [/COLOR]
@@ -543,6 +547,13 @@ rtmp://176.10.250.166:1935/tv playpath=stream4 swfUrl=http://stream-in.com/playe
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (usa) [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
+http://stream-full.selfip.com:8000/live/sport4/sport4/34.ts
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
+http://stream-full.selfip.com:8000/live/sport4/sport4/33.ts
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
+
 #############################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="russia.jpg" group-title="DESPORTO",[COLOR gray91][B]| SPORTS RUSSOS & BULGAROS |[/B][/COLOR]
@@ -676,7 +687,10 @@ http://37.203.209.34:443/mobile/bob07/live.m3u8
 #EXTINF:-1 tvg-logo="fr.jpg" group-title="FRANÇA",[COLOR gray91][I][B] CANAIS FRANCESES [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR lawngreen] 5(fr) [/COLOR]
+http://stream-full.selfip.com:8000/live/sport4/sport4/13.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
 #EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
@@ -1011,3 +1025,21 @@ http://stream.radio.com.pt:9496/stream
  
 #EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Douro Nacional [/COLOR]
 http://94.23.76.235:9996/;
+
+#############################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CANAIS DE TESTES | [/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,SKAI
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
+#EXTINF:-1,STAR
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
+#EXTINF:-1,NERIT
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
+#EXTINF:-1,ALPHA
+rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
+#EXTINF:-1,ANT1
+rtmp://area61.better-than.tv:1935/ANYTV_USR_ANT1/ANT1.sdp
+#EXTINF:-1,MEGA
+rtmp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
