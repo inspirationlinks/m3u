@@ -116,8 +116,6 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/229.ts
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/230.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 [/COLOR][COLOR red][/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/204.ts
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="Sport TV 4.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 [/COLOR][COLOR red][/COLOR]
@@ -186,7 +184,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| A QUINTA [COLOR red] BREVEMENTE |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR gray91][B]| A QUINTA [COLOR red] BREVEMENTE |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #############################################################################################
@@ -218,12 +216,17 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1[/COLOR]
-http://0.0.0.0:1234
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 (2 opc)[/COLOR]
+rtmp://50.97.82.51:1935/stream/ playpath=NdTBo1519y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7675g814sp3588l7675on648x3588ib3588b817pp3588l7675op3588l7675op3588l7675od7675g814sn814h873o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y3x223a4n284a4a444x2s24464n2x47435e3h44494v213p4v2x4o4x5j504a4g3k4l5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTg=&str=is&ok=&cat=16&link=1&idom=/magellan
 #EXTINF:-1 tvg-id="SPORT.TV 2" tvg-logo="SPORT TV 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2[/COLOR]
-http://0.0.0.0:1234
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-id="SPORT.TV 3" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3[/COLOR]
 rtmp://209.95.46.115:1935/stream/ playpath=jJyBo1519y0yBo7ol7yTf.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460&st=n5f376n4w574x2s2f436q24693u533h4r5b4v4s364s2x2b4f444y26403q2a4v2q2v2&adx=&stream=24y2c4k584o55464b454r2k5x2c4e4n2p5u4v4a3f4w21374f476w226d3j4c4l4g4y2s45584y3x223a4n284a4a444x2s24464n2p5h346e3h44494v213p4v2x4o4x5d4n4p523t455m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=MQ==&str=is&ok=&cat=16&link=3&idom=/magellan
-
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV3 & BTV2[/COLOR]
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #############################################################################################
 
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| CHANNELS GASTRONOMICOS |[/B][/COLOR]
