@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 27 SET | 22.10H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 28 SET | 00.50H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -423,6 +423,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="nascar.jpg" group-title="DESPORTO",[COLOR lawngreen] NASCAR [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 (uk)[/COLOR][COLOR red] NEW[/COLOR]
 http://195.154.226.186:1935/livep/vskysf1lsh/playlist.m3u8
 
@@ -572,6 +573,9 @@ rtmp://80.82.65.162/live playpath=wskys3 swfUrl=http://www.yocast.tv/myplayer/jw
 #EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title="DESPORTO",[COLOR lawngreen]SKY SPORTS 4 (2 opc)[/COLOR]
 rtmp://89.248.169.50/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450
 
+#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT (it) [/COLOR]
+http://tring-amd-live.tring.tv/out/u/84_107.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
 http://iptv.latino-webtv.com/fox-sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT (esp)[/COLOR]
@@ -713,6 +717,8 @@ http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 rtmp://217.174.227.20/webtv/ch004_sd
 #EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR2 (turco) [/COLOR]
 http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u
+#EXTINF:-1, karadeniz
+rtmp://50.7.129.202/karadeniztv/karadeniz2
 
 #############################################################################################
 
@@ -855,13 +861,6 @@ http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/pla
 #EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS [/COLOR]
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
-#EXTINF:1 tvg-logo="#EXTINF:1 tvg-logo="canalplus_es_accion.png" group-title="HISPÂNICOS",[COLOR lawngreen]Canal+ cine[/COLOR]
-rtmp://31.220.0.186/pull playpath=dcine561?keys=HtGiK58C5oapllXcFq8sAA&keyt=1440250826 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:1 tvg-logo="#EXTINF:1 tvg-logo="canalplus_es_accion.png" group-title="HISPÂNICOS",[COLOR lawngreen]Canal+ Acción[/COLOR]
-rtmp://80.82.78.75/pull/ playpath=accion4142?keys=CbBqXAHeEYc_kfrYaVCOOA&keyt=1442180234 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=accion4142&width=770&height=410
-#EXTINF:1 tvg-logo="#EXTINF:1 tvg-logo="canalplus_es_accion.png" group-title="HISPÂNICOS",[COLOR lawngreen]Canal+ Acción[/COLOR]
-rtmp://31.220.0.196/pull playpath=ci777?keys=9eyLLJEQIIARa6nl2a-9FQ&keyt=1441374253 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=ci777&width=600&height=450
-
 #EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR lawngreen]Azteca Noticias[/COLOR]
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,[COLOR lawngreen]Canal 10[/COLOR]
@@ -885,6 +884,11 @@ http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B] CANAIS DE MUSICA [/B][/I][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="M20.gif" group-title="MUSICA", [COLOR lawngreen] M2O [/COLOR][COLOR red] NEW [/COLOR]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="mimusica.png" group-title="MUSICA", [COLOR lawngreen] MIMUSICA[/COLOR][COLOR red] NEW [/COLOR]
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="MTV Music.png" group-title="MUSICA", [COLOR lawngreen] MTV [/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/147.m3u8
@@ -1075,8 +1079,21 @@ http://94.23.76.235:9996/;
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CANAIS DE TESTES | [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 , BEIN SPORTS 1 HD
+http://tvi.ddns.me:8000/live/dhoha/benomrane/186.m3u8
+#EXTINF:-1 , BEIN SPORTS 2 HD
+http://tvi.ddns.me:8000/live/dhoha/benomrane/187.m3u8
+#EXTINF:-1 , BEIN SPORTS 3 HD
+http://tvi.ddns.me:8000/live/dhoha/benomrane/188.m3u8
+#EXTINF:-1 , BEIN SPORTS 4 HD
+http://tvi.ddns.me:8000/live/dhoha/benomrane/189.m3u8
+#EXTINF:-1 , BEIN SPORTS 5 HD
+http://tvi.ddns.me:8000/live/dhoha/benomrane/190.m3u8
+#EXTINF:-1, SKY sports
+http://tring-amd-live.tring.tv/out/u/84_107.m3u8
+
 #EXTINF:-1, beIN Sports 8
 http://edge.ultracast.me:1935/live/8beinZCPNK/playlist.m3u8?Token
 
-#EXTINF:-1,TV RECORD
-rtmp://217.23.13.189/online playpath=record swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/89.php?file=record&width=480&height=370
+#EXTINF:-1, idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
