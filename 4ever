@@ -1,14 +1,14 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 27 SET | 14.30H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 27 SET | 17.20H |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR gray91][B]| CANAIS TEMPORARIOS [COLOR red]TEMP[/COLOR] |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR yellow][B]| CANAIS TEMPORARIOS [COLOR red]TEMP[/COLOR] |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="MEO",[COLOR lawngreen] RTP 1 [/COLOR]
@@ -215,6 +215,17 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #############################################################################################
 
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-logo="SPORT TV 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3[/COLOR]
+rtmp://209.95.46.115:1935/stream/ playpath=jJyBo1519y0yBo7ol7yTf.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460&st=n5f376n4w574x2s2f436q24693u533h4r5b4v4s364s2x2b4f444y26403q2a4v2q2v2&adx=&stream=24y2c4k584o55464b454r2k5x2c4e4n2p5u4v4a3f4w21374f476w226d3j4c4l4g4y2s45584y3x223a4n284a4a444x2s24464n2p5h346e3h44494v213p4v2x4o4x5d4n4p523t455m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=MQ==&str=is&ok=&cat=16&link=3&idom=/magellan
+
+#############################################################################################
+
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| CHANNELS GASTRONOMICOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -277,6 +288,24 @@ rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
 
 #############################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| CAÇA PESCA & TOURADAS |[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] PESCA SUBMARINA [/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] OFF [/COLOR]
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/137239
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] Fish Channel (usa) [/COLOR]
+http://bit.do/bkUgo
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] World Fishing Network (usa) [/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] CACCIA (it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/46.ts
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] PESCA (it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/47.ts
+
+#############################################################################################
+
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="INFANTIL",[COLOR gray91][B]| CHANNELS INFANTIS |[/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -296,7 +325,7 @@ http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY jr (br) [/COLOR]
 http://bit.ly/IPTVGlobal-disneyjr
-#EXTINF:-1 tvg-logo="Baby First.png" group-title="MEO",[COLOR lawngreen]Baby TV(br)[/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo="Baby First.png" group-title="MEO",[COLOR lawngreen]Baby TV (br)[/COLOR][COLOR red] NEW[/COLOR]
 http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Disney XD.png" group-title="INFANTIL",[COLOR lawngreen] Disney XD (esp) [/COLOR][COLOR red][/COLOR]
 http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
@@ -304,7 +333,7 @@ http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aa
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/89.m3u8
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Cartoon Network UK.png" group-title="INFANTIL",[COLOR lawngreen] Cartoon Network (esp) [/COLOR]
 http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Cartoon Network UK.png" group-title="INFANTIL",[COLOR lawngreen] Cartoon Network [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Cartoon Network UK.png" group-title="INFANTIL",[COLOR lawngreen] Cartoon Network (usa) [/COLOR]
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="Cartoon Network UK.png" group-title="MEO",[COLOR lawngreen]Cartoon Network (usa)[/COLOR][COLOR red][/COLOR]
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
@@ -319,26 +348,6 @@ http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/71.ts
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| CAÇA PESCA & TOURADAS |[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] PESCA SUBMARINA [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="xtreme tv.png" group-title="MEO",[COLOR lawngreen] XTREME IMPACTS (usa) [/COLOR]
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] OFF [/COLOR]
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/137239
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] Fish Channel (usa) [/COLOR]
-http://bit.do/bkUgo
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] World Fishing Network (usa) [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] CACCIA (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/46.ts
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] PESCA (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/47.ts
-
-#############################################################################################
-
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]|[COLOR red]LIVE[/COLOR] JOGOS LIGA SAGRES |[/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -348,6 +357,8 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlis
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1[/COLOR]
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
 #EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1[/COLOR]
 http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/202.ts
 #EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORT TV 1[/COLOR]
@@ -415,6 +426,9 @@ http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://188.93.94.46:80/boets/index.m3u8?token=w_6_G-EKvoq8no6sIwq-rFJMvE5vTzWolZRi4YrAykMmyXkU5plSKUSoGsY2C5ZqjpkVbHlhfZgEvf-GQM1S3w?hpg_disco
+
+#EXTINF:-1 tvg-id="" tvg-logo="xtreme tv.png" group-title="MEO",[COLOR lawngreen] XTREME IMPACTS (usa) [/COLOR]
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 
 #############################################################################################
 
