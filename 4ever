@@ -124,6 +124,16 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/206.ts
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5 [/COLOR]
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/213.ts
+#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 HD (it)[/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/36.ts
+#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/31.ts
+#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/37.ts
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] CACCIA (it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/46.ts
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] PESCA (it) [/COLOR]
+http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/47.ts
 
 #############################################################################################
 
@@ -302,10 +312,6 @@ rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/137239
 http://bit.do/bkUgo
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] World Fishing Network (usa) [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] CACCIA (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/46.ts
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] PESCA (it) [/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/47.ts
 
 #############################################################################################
 
@@ -396,15 +402,9 @@ http://77.76.140.251/prgt.m3u8
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
-rtmp://secure.hdcast.org/justforvip/llive1
-#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
 http://edge.ultracast.me:1935/live/btespndtMzx/playlist.m3u8?Token
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
 http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
-#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport 1[/COLOR]
-http://195.154.226.186:1935/livep/btsports1lsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport 2[/COLOR]
-http://195.154.226.186:1935/livep/btsports2lsh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Sky Sports 1.png",[COLOR lawngreen] Sky Sports 1[/COLOR]
 http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
@@ -425,12 +425,6 @@ http://0.0.0.0:1234
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 (uk)[/COLOR][COLOR red] NEW[/COLOR]
 http://195.154.226.186:1935/livep/vskysf1lsh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 HD (it)[/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/36.ts
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/31.ts
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/37.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT & RANCING [/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/188.m3u8
@@ -622,14 +616,19 @@ http://209.133.208.178:1935/app/max7a226s-channel/playlist.m3u8
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 2 (uk) [/COLOR]
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 1 (uk) [/COLOR]
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 2 (uk) [/COLOR]
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 3 (uk) [/COLOR]
+http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (usa) [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
 http://stream-full.selfip.com:8000/live/sport4/sport4/34.ts
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
 http://stream-full.selfip.com:8000/live/sport4/sport4/33.ts
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] bEIN 1 (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
 rtmp://176.10.250.166:1935/tv playpath=stream4 swfUrl=http://stream-in.com/player/strobe-1.6-sec.swf pageUrl=http://stream-in.com/player/foot4.php/  timeout=15 conn=S:OK –live
 
