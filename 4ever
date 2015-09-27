@@ -1075,5 +1075,8 @@ http://94.23.76.235:9996/;
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CANAIS DE TESTES | [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="Record.png" group-title="MEO",[COLOR lawngreen]TV RECORD[/COLOR]
+#EXTINF:-1, beIN Sports 8
+http://edge.ultracast.me:1935/live/8beinZCPNK/playlist.m3u8?Token
+
+#EXTINF:-1,TV RECORD
 rtmp://217.23.13.189/online playpath=record swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/89.php?file=record&width=480&height=370
