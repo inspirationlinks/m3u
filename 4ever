@@ -302,7 +302,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] [/COLOR]
 rtmp://31.220.40.40/pull/torspls?keys=3q2643NooM2n9yzvRoOXlg&keyt=1443235374 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red][/COLOR]
-rtmp://31.220.0.103/pull/playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+rtmp://31.220.40.40/pull/iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] Fish Channel (usa) [/COLOR]
 http://bit.do/bkUgo
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] World Fishing Network (usa) [/COLOR]
@@ -452,8 +452,6 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] UFC [/COLOR]
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] BOX [/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/154.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] THE FIGHT [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
 
@@ -515,8 +513,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
 rtmp://176.10.250.166:1935/tv/stream1
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/192.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2  [/COLOR]
