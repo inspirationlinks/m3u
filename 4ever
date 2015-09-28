@@ -173,6 +173,9 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis
 http://213.13.26.11:1935/live/sic/inspiration.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR][COLOR red]NEW[/COLOR]
+rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
@@ -201,6 +204,9 @@ http://0.0.0.0:1234
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="MEO",[COLOR lawngreen] TCV iNTERNACIONAL [/COLOR]
 rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/v.ideojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24 timeout=10
+#EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="MEO",[COLOR lawngreen] TCV NEWS [COLOR red][/COLOR]NEW[/COLOR]
+rtmp://77.92.76.135:1935/tvcnews/ playpath=livestream swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf live=1 pageUrl=http://www.africawebtv.com/tvc-news-nigeria/
+
 #EXTINF:-1 tvg-id="Económico TV" tvg-logo="E'tv.png" group-title="MEO",[COLOR lawngreen] ECONOMICO TV [/COLOR]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="E'tv.png" group-title="MEO",[COLOR lawngreen] ECONOMICO TV [/COLOR]
@@ -279,6 +285,8 @@ http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD (usa) [/COLOR]
 http://lag2.tv-mobile.org/prgg.m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD (russo) [/COLOR]
+http://j.mp/ZCH_C03_NATGEOWILDHD_sly
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
 http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Discovery Science.png" group-title="MEO",[COLOR lawngreen] Science & Vie TV (fr) [/COLOR]
@@ -310,6 +318,8 @@ http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="Baby First.png" group-title="MEO",[COLOR lawngreen]Baby TV (br)[/COLOR]
 http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
 
+#EXTINF:-1,[COLOR lawngreen] TA TE TI CARICATURAS [/COLOR][COLOR red]NEW[/COLOR]
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="Zoomoo.png" group-title="INFANTIL",[COLOR lawngreen] ZOOMOO (esp)[/COLOR]
 http://wowza1.videos.movile.com:1935/live/infantil_1.smil/livestream.m3u8
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="Nickelodeon US.png" group-title="INFANTIL",[COLOR lawngreen] NICKELODEON (esp) [/COLOR]
@@ -809,6 +819,11 @@ http://hlslive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="24h TVe.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVE 24 [/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="Travel Cannel HD.png" group-title="HISPÂNICOS",[COLOR lawngreen] TRAVEL TV [/COLOR][COLOR red]NEW[/COLOR]
+rtmp://87.106.219.140/live/myStream_2
+
+#EXTINF:-1,[COLOR lawngreen]TV Mas[/COLOR]
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="Canal4.jpg" group-title="HISPÂNICOS",[COLOR lawngreen]Cuatro[/COLOR]
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
 #EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
@@ -842,6 +857,8 @@ http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 #EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS [/COLOR]
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL UNO (colombiano) [/COLOR]
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
 #EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR lawngreen]Azteca Noticias[/COLOR]
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,[COLOR lawngreen]Canal 10[/COLOR]
@@ -875,8 +892,12 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="MTV Music.png" group-title="MUSICA", [COLOR lawngreen] MTV [/COLOR]
 http://176.9.55.94:1935/edge/43_135_live/chunklist_w1742369379.m3u8
+#EXTINF:-1 tvg-logo="MTV Music.png" group-title="MUSICA", [COLOR lawngreen] MTV [/COLOR]
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MTVDANCE/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="Vhr.png" group-title="MUSICA", [COLOR lawngreen] VH1 Classic[/COLOR]
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="MCM Top.png" group-title="MUSICA", [COLOR lawngreen] MCM[/COLOR]
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-logo="FusionPlus.png" group-title="MUSICA", [COLOR lawngreen]Africa: FusionPlus TV[/COLOR]
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
@@ -1078,3 +1099,9 @@ http://edge.ultracast.me:1935/live/8beinZCPNK/playlist.m3u8?Token
 
 #EXTINF:-1, idman tv Az
 http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1,Jurnal Tv 720P
+rtmp://87.248.160.8:80/edge/mp4:jurnaltv.stream_720p
+#EXTINF:-1,Science & Vie Tv 720P
+rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
+#EXTINF:-1,Animaux 720P
+rtmp://87.248.160.8:80/edge/mp4:animaux.stream_720p
