@@ -1,14 +1,14 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE: 28 SET | 00.50H |[/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 28 SET | 00.50H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR gray91][B]| CANAIS TEMPORARIOS [COLOR red]TEMP[/COLOR] |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR yellow][B]| CANAIS[/COLOR][COLOR gray91] TEMPORARIOS [/COLOR][COLOR red]TEMP[/COLOR] |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="MEO",[COLOR lawngreen] RTP 1 [/COLOR]
@@ -19,7 +19,7 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/227.ts
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/227.ts
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png",[COLOR lawngreen][B]TVI[/B][/COLOR][COLOR red] TEMP[/COLOR]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png",[COLOR lawngreen][B]TVI[/B][/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/228.ts
 
 #EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="SICMulher.png" group-title="MEO",[COLOR lawngreen] SIC MULHER [/COLOR]
@@ -126,9 +126,9 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/213.ts
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 HD (it)[/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/36.ts
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/31.ts
-#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT MOTO HD (it)[/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/37.ts
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="caccia.jpg" group-title="MEO",[COLOR lawngreen] CACCIA (it) [/COLOR]
 http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/46.ts
@@ -139,7 +139,7 @@ http://tring-amd-live.tring.tv/out/u/84_107.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR yellow][B]| PACOTE CANAIS FIXOS |[COLOR red]| MEO |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR yellow][B]PACOTE[/COLOR] CANAIS [COLOR gray91]FIXOS [/COLOR][COLOR red]| MEO [/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="MEO",[COLOR lawngreen] RTP 1 [/COLOR]
