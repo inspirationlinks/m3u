@@ -164,11 +164,11 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/pl
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
-http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+http://213.13.26.11:1935/live/sic/inspiration.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
-http://213.13.26.11:1935/live/sicnoticias/hasbahca.m3u8
+http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
@@ -212,30 +212,6 @@ http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/cctv4/as/live/cctv4_4.m3u8
 http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="MEO",[COLOR lawngreen]Weather Channel (usa)[/COLOR]
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#############################################################################################
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1[/COLOR]
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 (2 opc)[/COLOR]
-rtmp://50.97.82.51:1935/stream/ playpath=NdTBo1519y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7675g814sp3588l7675on648x3588ib3588b817pp3588l7675op3588l7675op3588l7675od7675g814sn814h873o&width=600&height=460
-#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-logo="SPORT TV 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2[/COLOR]
-rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3[/COLOR]
-rtmp://209.95.46.115:1935/stream/ playpath=jJyBo1519y0yBo7ol7yTf.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
-#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV3 & BTV2[/COLOR]
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4[/COLOR]
-rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460
-#EXTINF:-1 tvg-id="" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV[/COLOR]
-rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460
-#EXTINF:-1 tvg-id="" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV2[/COLOR]
-rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d318g307sp7582l318on881x7582ib7582b586pp7582l318op7582l318op7582l318od318g307sn307h116o&width=600&height=460
-
 
 #############################################################################################
 
