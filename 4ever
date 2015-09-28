@@ -145,22 +145,6 @@ http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/71.ts
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="TDT-PT.png" group-title="MEO",[COLOR gray91][B]| CANAIS TDT[/COLOR][COLOR red] ON [/B][/COLOR] 
-http://0.0.0.1234
- 
-#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="RTP 1.png",[COLOR lawngreen][B]RTP1[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="RTP 2.png",[COLOR lawngreen][B]RTP2[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png",[COLOR lawngreen][B]SIC[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png",[COLOR lawngreen][B]SIC NOTICIAS[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/smil:sicnoticias.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png",[COLOR lawngreen][B]TVI[/B][/COLOR]
-http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-
-#############################################################################################
-
 #EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR yellow][B]PACOTE [COLOR gray91]CANAIS FIXOS [/COLOR][COLOR red]| MEO [/B][/COLOR]
 http://0.0.0.0:1234
 
