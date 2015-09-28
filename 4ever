@@ -433,13 +433,8 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 (uk)[/COLOR][COLOR red] NEW[/COLOR]
 http://195.154.226.186:1935/livep/vskysf1lsh/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT & RANCING [/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/188.m3u8
-
 #EXTINF:-1,[COLOR lawngreen] ABTO[/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/95.m3u8
-#EXTINF:-1,[COLOR lawngreen] Hot Rod Garage[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/186.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="motors-tv-channel.png" group-title="DESPORTO",[COLOR lawngreen] MOTORS TV [/COLOR]
 mms://100automoto.tv/100livesport
@@ -478,9 +473,6 @@ http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://188.93.94.46:80/boets/index.m3u8?token=w_6_G-EKvoq8no6sIwq-rFJMvE5vTzWolZRi4YrAykMmyXkU5plSKUSoGsY2C5ZqjpkVbHlhfZgEvf-GQM1S3w?hpg_disco
-
-#EXTINF:-1 tvg-id="" tvg-logo="xtreme tv.png" group-title="MEO",[COLOR lawngreen] XTREME IMPACTS (usa) [/COLOR]
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 
 #############################################################################################
 
@@ -605,9 +597,6 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (esp) [/COLOR]
 http://bein-es-us-nex.fubotv.com.a.prod.fastly.net/UT-Origin/ngrp:BeInSports_ES_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Bein_sport.png" group-title="DESPORTO",[COLOR lawngreen] bEIN 1 HD (fr)[/COLOR]
-http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/chunklist.m3u8?wowzasessionid=1124649939
-
 #EXTINF:-1 tvg-id="" tvg-logo="Bein_sport.png" group-title="DESPORTO",[COLOR lawngreen] bEIN ñ (colombia)[/COLOR]
 http://162.212.176.68:1935/tododeportes/tododeportes/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Bein_sport.png" group-title="DESPORTO",[COLOR lawngreen] bEIN ñ[/COLOR]
@@ -617,21 +606,9 @@ http://209.133.208.178:1935/app/max7a226s-channel/playlist.m3u8
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 2 (uk) [/COLOR]
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 1 (uk) [/COLOR]
-http://lihattv.toh.info/jhos/beib1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 2 (uk) [/COLOR]
-http://lihattv.toh.info/jhos/beib2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 3 (uk) [/COLOR]
-http://lihattv.toh.info/jhos/beib3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (usa) [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
-http://stream-full.selfip.com:8000/live/sport4/sport4/34.ts
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT (fr) [/COLOR]
-http://stream-full.selfip.com:8000/live/sport4/sport4/33.ts
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] bEIN 1 (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
-rtmp://176.10.250.166:1935/tv playpath=stream4 swfUrl=http://stream-in.com/player/strobe-1.6-sec.swf pageUrl=http://stream-in.com/player/foot4.php/  timeout=15 conn=S:OK –live
 
 #############################################################################################
 
@@ -639,69 +616,37 @@ rtmp://176.10.250.166:1935/tv playpath=stream4 swfUrl=http://stream-in.com/playe
 http://0.0.0.0:1234
 
 #EXTINF:1 tvg-logo="futbol_ua_1.png",[COLOR lawngreen]Футбол 1[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/130.m3u8
-#EXTINF:1 tvg-logo="futbol_ua_1.png",[COLOR lawngreen]Футбол 1[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/159.m3u8
-#EXTINF:1 tvg-logo="futbol_ua_1.png",[COLOR lawngreen]Футбол 1[/COLOR]
 http://193.194.107.10:4022/udp/225.1.3.103:4001
 #EXTINF:1 tvg-logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
 http://193.194.107.10:4022/udp/225.1.3.102:4001
-#EXTINF:1 tvg-logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/191.m3u8
-#EXTINF:1 tvg-logo="futbol_ua_2.png",[COLOR lawngreen]Футбол 2[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/142.m3u8
 
-#EXTINF:-1 tvg-logo="viasat-sport.png" group-title="DESPORTO",[COLOR lawngreen]VIASAT SPORT (rus)[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/102.m3u8
 #EXTINF:-1 tvg-logo="viasat-sport.png" group-title="DESPORTO",[COLOR lawngreen]VIASAT SPORT (rus)[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 
 #EXTINF:1 tvg-logo="ntv_plus_nash_futbol.png",[COLOR lawngreen] NTV[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/166.m3u8
-#EXTINF:1 tvg-logo="ntv_plus_nash_futbol.png",[COLOR lawngreen] NTV[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/143.m3u8
-#EXTINF:1 tvg-logo="ntv_plus_nash_futbol.png",[COLOR lawngreen] NTV[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/141.m3u8
-#EXTINF:1 tvg-logo="ntv_plus_nash_futbol.png",[COLOR lawngreen] NTV[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
-#EXTINF:1 tvg-logo="ntv_plus_futbol3.png",[COLOR lawngreen]NTV 3 (ru)[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/185.m3u8
-
 
 #EXTINF:-1 tvg-logo="nova_sport_bg.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
 http://tv3.noip.me/stream/LYMYFN5I/193.m3u8
 
-#EXTINF:-1 tvg-logo="nova_sport_bg.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPOR (ru)[/COLOR]
-http://lag1.tv-mobile.org/prgp.m3u8
 #EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
 http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]channel ???  (ru)[/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/178.m3u8
 #EXTINF:-1 tvg-logo="ring.png" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR]
 http://lag1.tv-mobile.org/prgr.m3u8
-
 #EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2 (bulgaro)[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
-
 #EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt (rus) [/COLOR][COLOR red] NEW[/COLOR]
 http://4BA9EBDB07C05883@5.159.96.170:8000/sport
 #EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt (rus) [/COLOR][COLOR red] NEW[/COLOR]
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt 1 (rus) [/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/163.m3u8
-
-#EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt 1 (rus) [/COLOR]
 http://4BA9EBDB07C05883@5.159.96.170:8000/sport1
-
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 1 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия (ru) [/COLOR]
-http://tv3.noip.me/stream/LYMYFN5I/137.m3u8
 
 #############################################################################################
 
