@@ -315,7 +315,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="pescasubmarina.jpg" group-title="MEO",[COLOR lawngreen] PESCA SUBMARINA [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] [/COLOR]
-rtmp://31.220.40.40/pull/torspls?keys=3q2643NooM2n9yzvRoOXlg&keyt=1443235374 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+rtmp://31.220.40.40/pull playpath=torspls?keys=3q2643NooM2n9yzvRoOXlg&keyt=1443235374 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red][/COLOR]
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="FishTV.png" group-title="MEO",[COLOR lawngreen] Fish Channel (usa) [/COLOR]
