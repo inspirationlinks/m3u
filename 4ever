@@ -265,6 +265,10 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/12.ch
+#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
+http://iptv15.zapto.org:8000/live/freefi/2015/674.ts
 #EXTINF:-1 tvg-logo="odisseia_pt.png" group-title="MEO",[COLOR lawngreen] ODISSEIA (esp)[/COLOR]
 http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/8.ch
 #EXTINF:-1 tvg-logo="canalplus_es_dcine.png" group-title="MEO",[COLOR lawngreen] CANAL+ SERIES EXTRA (esp)[/COLOR]
@@ -416,6 +420,10 @@ http://77.76.140.251/prgt.m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 
+#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
+rtmp://204.45.157.74/flash playpath=17004?MTQ0MzU2Mzc4NjswNTNlNGIzNjBmMzgxZjc0YTA4OTgxMGQ4MGJjYTAzNg== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://www3.sawlive.tv/embed/watch/QzY2ZlNzBkMGYzNDkwMjRmYzg2MmM5MzA_/bGFnbnVzMjE6ZjUyZDQ1NDdlYmM2NGY3ODU3ZGYxNDhhNDA2N2QzMzM6OGE4YjY2OD
+#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD (2 opc)[/COLOR]
+rtmp://50.7.28.82/flash playpath=19644?MTQ0MzU2Mzk2Njs1MjUyYjg5MDk5YzE2ZjJiMjNmZmVhMTdlMmJjZmUzNw== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://www3.sawlive.tv/embed/watch/ZiNTUyYmIwMjBlNWJjNDJhYTVlZTczMw__/bGFnbmNhYTpiMTc3MjJlNGFiZjMwZGE4MWYyOWQzZmUwNjJhYWI3MzpjMmEzNDU2ZD
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
 http://edge.ultracast.me:1935/live/btespndtMzx/playlist.m3u8?Token
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
@@ -1074,3 +1082,6 @@ http://94.23.76.235:9996/;
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CANAIS DE TESTES | [/B][/I][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1,ABOLA TV
+http://kuku.dyndns.tv:8000/live/fernando/fernando/30.ts
