@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 29 SET | 12.20H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 29 SET | 13.30H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -418,6 +418,17 @@ http://77.76.140.251/prgt.m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 1 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130750 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130750&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 3 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130752 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130752&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 4 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130753 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 5 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130754 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130754&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
 http://edge.ultracast.me:1935/live/btespndtMzx/playlist.m3u8?Token
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
@@ -584,7 +595,7 @@ http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS SPORT KLUB & ESPN|[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| SPORT KLUB[COLOR yellow] &[/COLOR] Silk |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR]
@@ -596,6 +607,15 @@ http://77.76.140.251/prgs.m3u8
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR]
 http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-logo="silk sport 1.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT [/COLOR]
+http://188.93.94.133/silk_football/index.m3u8
+#EXTINF:-1 tvg-logo="silk sport 2.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 2 [/COLOR]
+http://188.93.94.133/silk_sport2/index.m3u8
+#EXTINF:-1 tvg-logo="silk sport 3.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 3[/COLOR]
+http://188.93.94.133/silk_sport/index.m3u8
+#EXTINF:-1 tvg-logo="silk sport 4.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 4[/COLOR]
+http://188.93.94.133/silk_sport4/index.m3u8
 
 #############################################################################################
 
@@ -691,12 +711,14 @@ http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae
 http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
 #EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai News.png" group-title="BRA&IT",[COLOR lawngreen] RAI 24 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8
-#EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR lawngreen] Cielo (it) [/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR lawngreen] Cielo (it) [/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 #EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR lawngreen] Cielo (it)[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="SKY TG24.png" group-title="BRA&IT",[COLOR lawngreen] Sky Tg24 (it) [/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo="SKY TG24.png" group-title="BRA&IT",[COLOR lawngreen] Sky Tg24 (it) [/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="telearena.jpg" group-title="BRA&IT",[COLOR lawngreen] TELE ARENA (it) [/COLOR][COLOR red] NEW[/COLOR]
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
 #############################################################################################
 
