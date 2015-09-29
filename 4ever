@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 29 SET | 22.20H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 29 SET | 22.50H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -265,6 +265,10 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="odisseia_pt.png" group-title="MEO",[COLOR lawngreen] ODISSEIA (esp)[/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/8.ch
+#EXTINF:-1 tvg-logo="canalplus_es_dcine.png" group-title="MEO",[COLOR lawngreen] CANAL+ SERIES EXTRA (esp)[/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/6.ch
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (esp)[/COLOR]
@@ -287,6 +291,8 @@ http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| NAT GEO [COLOR yellow]&[/COLOR] DISCOVERY |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO (esp) [/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/9.ch
 #EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (usa) [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (russo) [/COLOR]
@@ -314,12 +320,12 @@ rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| CAÇA PESCA [COLOR yellow]&[/COLOR] TOURADAS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="pescasubmarina.jpg" group-title="MEO",[COLOR lawngreen] PESCA SUBMARINA [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="MEO",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red] [/COLOR]
 rtmp://31.220.40.40/pull playpath=torspls?keys=3q2643NooM2n9yzvRoOXlg&keyt=1443235374 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red][/COLOR]
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA HD [/COLOR][COLOR red][/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/15.ch
 
 #############################################################################################
 
@@ -427,8 +433,10 @@ http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| DESPORTOS MOTORIZADOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="nascar.jpg" group-title="DESPORTO",[COLOR lawngreen] NASCAR [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=".jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR MOTO GP [/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/13.ch
+#EXTINF:-1 tvg-id="" tvg-logo=".jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 [/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/14.ch
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Sport.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT F1 (uk)[/COLOR][COLOR red] NEW[/COLOR]
 http://195.154.226.186:1935/livep/vskysf1lsh/playlist.m3u8
@@ -525,6 +533,10 @@ rtmp://62.210.105.146:80/liverepeater playpath=130754 swfUrl=http://cdn.goodcast
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/23.ch
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (esp) [/COLOR]
+http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/24.ch
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
@@ -688,6 +700,8 @@ rtmp://217.174.227.20/webtv/ch004_sd
 http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u
 #EXTINF:-1, [COLOR lawngreen]karadeniz[/COLOR]
 rtmp://50.7.129.202/karadeniztv/karadeniz2
+#EXTINF:-, [COLOR lawngreen]TRT 1 HD [/COLOR][COLOR red]NEW[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
 #############################################################################################
 
