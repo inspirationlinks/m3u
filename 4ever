@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 29 SET | 13.30H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 29 SET | 22.20H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -222,7 +222,7 @@ http://0.0.0.0:1234
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="MEO",[COLOR lawngreen] TCV iNTERNACIONAL [/COLOR]
 rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/v.ideojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24 timeout=10
-#EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="MEO",[COLOR lawngreen] TCV NEWS [COLOR red][/COLOR]NEW[/COLOR]
+#EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="MEO",[COLOR lawngreen] TCV NEWS [/COLOR]
 rtmp://77.92.76.135:1935/tvcnews/ playpath=livestream swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf live=1 pageUrl=http://www.africawebtv.com/tvc-news-nigeria/
 
 #EXTINF:-1 tvg-id="Económico TV" tvg-logo="E'tv.png" group-title="MEO",[COLOR lawngreen] ECONOMICO TV [/COLOR]
@@ -253,16 +253,10 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| CHANNELS GASTRONOMICOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="" tvg-logo="24 Kitchen.png" group-title="MEO",[COLOR lawngreen] 24 KITCHEN [/COLOR]
+http://balkanstream.com/stream/24kitchen/hospa042/f95de998
 #EXTINF:-1 tvg-id="" tvg-logo="Chef TV.png" group-title="BRA&IT",[COLOR lawngreen] CHEFE COZINHA [/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="MEO",[COLOR lawngreen] Food Network HD (usa) [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/53.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="MEO",[COLOR lawngreen] COOKING CHANNEL HD (usa) [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/226.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="epicmealtime.png" group-title="MEO",[COLOR lawngreen] Epic Meal Time (usa) [/COLOR]
-http://bit.do/bkUUd
-#EXTINF:-1 tvg-id="" tvg-logo="epicmealtime.png" group-title="MEO",[COLOR lawngreen] Epic Meal Time (usa) [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/43.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="MEO",[COLOR lawngreen] Food China [/COLOR]
 rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
 
@@ -416,17 +410,6 @@ http://77.76.140.251/prgt.m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 1 ()[/COLOR][COLOR red] NEW [/COLOR]
-rtmp://62.210.105.146:80/liverepeater playpath=130750 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130750&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
-rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 3 ()[/COLOR][COLOR red] NEW [/COLOR]
-rtmp://62.210.105.146:80/liverepeater playpath=130752 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130752&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 4 ()[/COLOR][COLOR red] NEW [/COLOR]
-rtmp://62.210.105.146:80/liverepeater playpath=130753 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 5 ()[/COLOR][COLOR red] NEW [/COLOR]
-rtmp://62.210.105.146:80/liverepeater playpath=130754 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130754&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport/ESPN HD[/COLOR]
 http://edge.ultracast.me:1935/live/btespndtMzx/playlist.m3u8?Token
 #EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
@@ -519,12 +502,23 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS NBCSN |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS NBCSN[COLOR yellow]&[/COLOR] AREN |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN GOLF [/COLOR]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 1 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130750 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130750&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 3 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130752 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130752&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 4 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130753 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 5 ()[/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130754 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130754&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #############################################################################################
 
@@ -546,7 +540,7 @@ http://lag1.tv-mobile.org/prgs.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CHANNELS [COLOR red]SKY SPORTS[/COLOR] |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CHANNELS SKY SPORTS |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen]SkySport 1[/COLOR]
@@ -670,6 +664,8 @@ http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
+#EXTINF:-1, idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
 
 #############################################################################################
 
@@ -1064,28 +1060,3 @@ http://94.23.76.235:9996/;
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CANAIS DE TESTES | [/B][/I][/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1 , BEIN SPORTS 1 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/186.m3u8
-#EXTINF:-1 , BEIN SPORTS 2 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/187.m3u8
-#EXTINF:-1 , BEIN SPORTS 3 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/188.m3u8
-#EXTINF:-1 , BEIN SPORTS 4 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/189.m3u8
-#EXTINF:-1 , BEIN SPORTS 5 HD
-http://tvi.ddns.me:8000/live/dhoha/benomrane/190.m3u8
-#EXTINF:-1, SKY sports
-http://tring-amd-live.tring.tv/out/u/84_107.m3u8
-
-#EXTINF:-1, beIN Sports 8
-http://edge.ultracast.me:1935/live/8beinZCPNK/playlist.m3u8?Token
-
-#EXTINF:-1, idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1,Jurnal Tv 720P
-rtmp://87.248.160.8:80/edge/mp4:jurnaltv.stream_720p
-#EXTINF:-1,Science & Vie Tv 720P
-rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
-#EXTINF:-1,Animaux 720P
-rtmp://87.248.160.8:80/edge/mp4:animaux.stream_720p
