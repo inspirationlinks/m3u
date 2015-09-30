@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 30 SET | 11.10H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 30 SET | 12.10H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -230,10 +230,10 @@ rtmp://77.92.76.135:1935/tvcnews/ playpath=livestream swfUrl=http://tv.filmover.
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="MEO",[COLOR lawngreen] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
-#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PACOTE MEO",[COLOR lawngreen] CAPELINHA DE FÁTIMA [/COLOR][COLOR red]LIVE[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="MEO",[COLOR lawngreen] CAPELINHA DE FÁTIMA [/COLOR][COLOR red]LIVE[/COLOR]
 rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
 
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="PACOTE MEO",[COLOR lawngreen] AGUEDA TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="MEO",[COLOR lawngreen] AGUEDA TV [/COLOR]
 http://agueda.tv:1756/stream.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="MEO",[COLOR lawngreen]TV GLOBO[/COLOR]
