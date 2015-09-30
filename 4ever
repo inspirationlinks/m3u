@@ -184,6 +184,8 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/pl
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp_informacao.png" group-title="MEO",[COLOR lawngreen] RTP INFORMAÇÃO [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR][COLOR red]NEW[/COLOR]
+http://213.13.26.11:1935/live/sic/chunklist_w975161472.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
 http://213.13.26.11:1935/live/sic/inspiration.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
