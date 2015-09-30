@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 29 SET | 22.50H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 30 SET | 11.10H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -34,6 +34,13 @@ http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/819.m3u8
 http://ipsat.dvrdns.org:8000/live/jose7/gago7/886.m3u8
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="porto_canal.png" group-title="MEO",[COLOR lawngreen] PORTO CANAL [/COLOR]
 http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/2706.ts
+
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR]
+http://kuku.dyndns.tv:8000/live/fernando/fernando/31.ts
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="a_bola_tv_pt.png" group-title="MEO",[COLOR lawngreen] A BOLA TV [/COLOR]
+http://kuku.dyndns.tv:8000/live/fernando/fernando/44.ts
+#EXTINF:-1 tvg-id="" tvg-logo="CNBC.png" group-title="",[COLOR lawngreen]CNBC[/COLOR]
+http://kuku.dyndns.tv:8000/live/fernando/fernando/39.ts
 
 #############################################################################################
 
@@ -205,15 +212,6 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR]
-http://kuku.dyndns.tv:8000/live/fernando/fernando/31.ts
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="a_bola_tv_pt.png" group-title="MEO",[COLOR lawngreen] A BOLA TV [/COLOR]
-http://kuku.dyndns.tv:8000/live/fernando/fernando/44.ts
-#EXTINF:-1 tvg-id="" tvg-logo="CNBC.png" group-title="",[COLOR lawngreen]CNBC[/COLOR]
-http://kuku.dyndns.tv:8000/live/fernando/fernando/39.ts
-
-#############################################################################################
-
 #EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR gray91][B]| A QUINTA |[COLOR red] BREVEMENTE [/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -228,8 +226,6 @@ rtmp://77.92.76.135:1935/tvcnews/ playpath=livestream swfUrl=http://tv.filmover.
 
 #EXTINF:-1 tvg-id="Económico TV" tvg-logo="E'tv.png" group-title="MEO",[COLOR lawngreen] ECONOMICO TV [/COLOR]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="E'tv.png" group-title="MEO",[COLOR lawngreen] ECONOMICO TV [/COLOR]
-rtmp://213.13.26.43/live playpath=etv_direto swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tvdesporto.com/economicotv.php timeout=15 conn=S:OK –live
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="MEO",[COLOR lawngreen] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
 #EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PACOTE MEO",[COLOR lawngreen] CAPELINHA DE FÁTIMA [/COLOR][COLOR red]LIVE[/COLOR]
@@ -268,14 +264,14 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
 http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/12.ch
-#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
+#EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White (esp)[/COLOR]
 http://iptv15.zapto.org:8000/live/freefi/2015/674.ts
+#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
+http://lag2.tv-mobile.org/prgd.m3u8
 #EXTINF:-1 tvg-logo="odisseia_pt.png" group-title="MEO",[COLOR lawngreen] ODISSEIA (esp)[/COLOR]
 http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/8.ch
 #EXTINF:-1 tvg-logo="canalplus_es_dcine.png" group-title="MEO",[COLOR lawngreen] CANAL+ SERIES EXTRA (esp)[/COLOR]
 http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/6.ch
-#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
-http://lag2.tv-mobile.org/prgd.m3u8
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (esp)[/COLOR]
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX HQ (esp)[/COLOR]
@@ -1078,6 +1074,77 @@ http://stream.radio.com.pt:9496/stream
  
 #EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Douro Nacional [/COLOR]
 http://94.23.76.235:9996/;
+
+#############################################################################################
+
+#EXTM3U
+#EXTINF:-1 Adult="true"tvg-id="" tvg-logo="porn.gif" group-title="PORN XXX",[COLOR gray91][I][B] ADULTO (XXX) [/B][/I][/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC [/COLOR]
+http://178.253.194.68:1935/liveloworigin/pinkerotic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC 2 [/COLOR]
+http://178.253.194.68:1935/liveloworigin/pinkerotic2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC 3 [/COLOR]
+http://178.253.194.68:1935/liveloworigin/pinkerotic3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC 4 [/COLOR]
+http://178.253.194.68:1935/liveloworigin/pinkerotic4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC 5 [/COLOR]
+http://178.253.194.68:1935/liveloworigin/pinkerotic5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC 6 [/COLOR]
+http://178.253.194.68:1935/liveloworigin/pinkerotic6.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC 7 [/COLOR]
+http://178.253.194.68:1935/liveloworigin/pinkerotic7.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC 8 [/COLOR]
+http://178.253.194.68:1935/liveloworigin/pinkerotic8.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] BRAZZERS EUROPE [/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] PRIVATE [/COLOR]
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] PRIVATE [/COLOR]
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] bsx24 [/COLOR]
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] PASSI XXX [/COLOR]
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] ADULT TOP PREMIUM [/COLOR]
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] ADULT 1 [/COLOR]
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] OLAOLA [/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] JASMIN CHANNEL [/COLOR]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] BELLA CLUB [/COLOR]
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EVT 2 [/COLOR]
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] Bollywood Bikini TV [/COLOR]
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] HOT 100 [/COLOR]
+http://46.249.213.93/iPhone/broadcast/hot100-iphone.3gp/hot100-iphone.3gp-mr143k.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] HOT SHOTS [/COLOR]
+http://46.249.213.93/iPhone/broadcast/hotshots-iphone.3gp/hotshots-iphone.3gp-mr142k.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] LIVE CAM [/COLOR]
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] JAPAO HOT [/COLOR]
+rtmp://edge2.everyon.tv/etv2/pld1008
 
 #############################################################################################
 
