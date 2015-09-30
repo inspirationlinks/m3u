@@ -37,6 +37,8 @@ http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@g
 
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR]
 http://kuku.dyndns.tv:8000/live/fernando/fernando/31.ts
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/498.ts
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="a_bola_tv_pt.png" group-title="MEO",[COLOR lawngreen] A BOLA TV [/COLOR]
 http://kuku.dyndns.tv:8000/live/fernando/fernando/44.ts
 #EXTINF:-1 tvg-id="" tvg-logo="CNBC.png" group-title="",[COLOR lawngreen]CNBC[/COLOR]
@@ -147,7 +149,7 @@ http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/71.ts
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="TDT-PT.png" group-title="MEO",[COLOR gray91][B]| TDT [COLOR red] ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="TDT-PT.png" group-title="MEO",[COLOR gray91][B]| TDT |[/B][/COLOR]
 http://0.0.0.1234
 
 #EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="RTP 1.png",[COLOR lawngreen][B]RTP1[/B][/COLOR]
@@ -425,7 +427,11 @@ http://77.76.140.251/prgt.m3u8
 
 #EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
 rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
+http://195.154.226.186:1935/livepp/arhd2lsh/playlist.m3u8
 
+#EXTINF:-1,[COLOR lawngreen]bTV Action Bulgaria[/COLOR]
+http://lag1.tv-mobile.org/prge.m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 
@@ -532,16 +538,10 @@ rtmp://62.210.105.146:80/liverepeater playpath=130754 swfUrl=http://cdn.goodcast
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
-http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/23.ch
-#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (esp) [/COLOR]
-http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/24.ch
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
-rtmp://176.10.250.166:1935/tv/stream1
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2  [/COLOR]
@@ -814,6 +814,8 @@ http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 #EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS [/COLOR]
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS (2 opc)[/COLOR]
+http://195.55.74.224/rtpa/tv-iphone/stream.m3u8?GKID=d482077c5ec111e5bb2000163ea2c744
 #EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL UNO (colombiano) [/COLOR]
 http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
 #EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR lawngreen]Azteca Noticias[/COLOR]
@@ -1106,3 +1108,6 @@ rtmp://edge2.everyon.tv/etv2/pld1008
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CANAIS DE TESTES | [/B][/I][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1,[COLOR lawngreen]ERT 1 HD Greece[/COLOR]
+http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
