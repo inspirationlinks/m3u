@@ -245,6 +245,12 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
 http://0.0.0.0:1234
 
+
+#EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO Zone (usa)[/COLOR]
+http://alturl.com/w623g
+#EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO Zone (esp)[/COLOR]
+http://alturl.com/8s7dc
+
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
 http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/12.ch
 #EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White (esp)[/COLOR]
@@ -425,18 +431,10 @@ http://lag1.tv-mobile.org/prge.m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-logo="BT Sport 1.png",[COLOR lawngreen]BT Sport HD[/COLOR]
-rtmp://204.45.157.74/flash playpath=17004?MTQ0MzU2Mzc4NjswNTNlNGIzNjBmMzgxZjc0YTA4OTgxMGQ4MGJjYTAzNg== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://www3.sawlive.tv/embed/watch/QzY2ZlNzBkMGYzNDkwMjRmYzg2MmM5MzA_/bGFnbnVzMjE6ZjUyZDQ1NDdlYmM2NGY3ODU3ZGYxNDhhNDA2N2QzMzM6OGE4YjY2OD
-
 #############################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| DESPORTOS MOTORIZADOS |[/B][/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo=".jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR MOTO GP [/COLOR]
-http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/13.ch
-#EXTINF:-1 tvg-id="" tvg-logo=".jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 [/COLOR]
-http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/14.ch
 
 #EXTINF:-1,[COLOR lawngreen] ABTO[/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/95.m3u8
@@ -615,9 +613,8 @@ http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
 http://lag1.tv-mobile.org/prgr.m3u8
 #EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2 (bulgaro)[/COLOR]
 http://lag1.tv-mobile.org/prgt.m3u8
-#EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt (rus) [/COLOR][COLOR red] NEW[/COLOR]
-http://4BA9EBDB07C05883@5.159.96.170:8000/sport
-#EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt (rus) [/COLOR][COLOR red] NEW[/COLOR]
+
+#EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt (rus) [/COLOR]
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt 1 (rus) [/COLOR]
 http://4BA9EBDB07C05883@5.159.96.170:8000/sport1
@@ -625,10 +622,8 @@ http://4BA9EBDB07C05883@5.159.96.170:8000/sport1
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия (ru) [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
-#EXTINF:-1, idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
 
 #############################################################################################
 
@@ -641,14 +636,17 @@ http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
 #EXTINF:-1 tvg-logo="ntv_spor.png" group-title="DESPORTO",[COLOR lawngreen]NTV SPOR (turco)[/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="n-tv.png" group-title="DESPORTO",[COLOR lawngreen] NTV SPOR (turco) [/COLOR]
+#EXTINF:-1 tvg-logo="ntv_spor.png" group-title="DESPORTO",[COLOR lawngreen]NTV SPOR (turco)[/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURK-BURSASPOR TV (turco) [/COLOR]
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURKEM SPOR (turco) [/COLOR]
-rtmp://217.174.227.20/webtv/ch004_sd
 #EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR2 (turco) [/COLOR]
 http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURKEM SPOR (turco) [/COLOR]
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURKEM SPOR (turco) [/COLOR]
+http://tv.online.tm/hls/ch004_md/index.m3u8
+
 #EXTINF:-1, [COLOR lawngreen]karadeniz[/COLOR]
 rtmp://50.7.129.202/karadeniztv/karadeniz2
 #EXTINF:-, [COLOR lawngreen]TRT 1 HD [/COLOR][COLOR red]NEW[/COLOR]
@@ -669,14 +667,11 @@ http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b
 http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8
 #EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR lawngreen] Cielo (it) [/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
-#EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR lawngreen] Cielo (it)[/COLOR]
-http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="SKY TG24.png" group-title="BRA&IT",[COLOR lawngreen] Sky Tg24 (it) [/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 tvg-logo="telearena.jpg" group-title="BRA&IT",[COLOR lawngreen] TELE ARENA (it) [/COLOR][COLOR red] NEW[/COLOR]
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-
-#EXTINF:-1,Rete Sport 8
+#EXTINF:-1 tvg-logo=".png" group-title="BRA&IT",[COLOR lawngreen]Rete Sport 8[/COLOR]
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
 #############################################################################################
@@ -826,6 +821,16 @@ http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELE ANTILLHAS [/COLOR]
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
+
+#############################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CHANNELS GREECE | [/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[COLOR lawngreen]ERT 1 HD Greece[/COLOR]
+http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
+#EXTINF:-1,[COLOR lawngreen]NERIT PLUS (greece)[/COLOR]
+http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
 
 #############################################################################################
 
@@ -1099,7 +1104,5 @@ rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="MUSICA",[COLOR gray91][I][B]| CANAIS DE TESTES | [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR lawngreen]ERT 1 HD Greece[/COLOR]
-http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 #EXTINF:-1,[COLOR lawngreen]test[/COLOR]
 rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
