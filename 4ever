@@ -328,7 +328,7 @@ http://motorsport.hopto.org:8081/
 #EXTINF:-1 tvg-logo="livesport_cars.png" group-title="DESPORTO",[COLOR lawngreen]LIVE SPORT[/COLOR]
 mms://100automoto.tv/100livesport
 
-#EXTINF:-1,[COLOR lawngreen]Auto Motor Sport[/COLOR]
+#EXTINF:-1 tvg-logo="Auto_motor_sport_channel_logo.png" group-title="DESPORTO",[COLOR lawngreen]Auto Motor Sport[/COLOR]
 http://lag2.tv-mobile.org/prgu.m3u8
 
 #EXTINF:-1 tvg-id="AUTO HOJE" tvg-logo="autohoje.png" group-title="DESPORTO",[COLOR lawngreen] AUTO HOJE TV [/COLOR]
@@ -505,8 +505,12 @@ http://lag1.tv-mobile.org/prgr.m3u8
 http://lag1.tv-mobile.org/prgt.m3u8
 #EXTINF:-1,[COLOR lawngreen]bTV Action (Bulgaria)[/COLOR]
 http://lag1.tv-mobile.org/prge.m3u8
+
 #EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
 http://lag1.tv-mobile.org/prgp.m3u8
+
+#EXTINF:-1,[COLOR lawngreen]FILM BOX (Bulgaria)[/COLOR]
+http://lag1.tv-mobile.org/prgw.m3u8
 
 #############################################################################################
 
