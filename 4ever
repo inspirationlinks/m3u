@@ -114,6 +114,8 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO 6 (usa)[/COLOR]
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO (br)[/COLOR]
+http://37.203.209.34:443/mobile/flash20/live.m3u8
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO Zone (usa)[/COLOR]
 http://alturl.com/w623g
 
