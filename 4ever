@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 2 Outubro | 13.00H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 2 Outubro | 22.10H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -112,6 +112,9 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="NBC NY.png" group-title="MEO",[COLOR lawngreen]NBC (usa)[/COLOR]
+http://192.99.147.19:5808/nbchdguys/index.m3u8
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO 6 (usa)[/COLOR]
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO (br)[/COLOR]
@@ -128,10 +131,6 @@ http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/12.ch
 http://iptv15.zapto.org:8000/live/freefi/2015/674.ts
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
-#EXTINF:-1 tvg-logo="odisseia_pt.png" group-title="MEO",[COLOR lawngreen] ODISSEIA (esp)[/COLOR]
-http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/8.ch
-#EXTINF:-1 tvg-logo="canalplus_es_dcine.png" group-title="MEO",[COLOR lawngreen] CANAL+ SERIES EXTRA (esp)[/COLOR]
-http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/6.ch
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (esp)[/COLOR]
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX HQ (esp)[/COLOR]
@@ -200,6 +199,13 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/144.m3u8
 
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="INFANTIL",[COLOR gray91][B]| INFANTIS CHANNELS |[/B][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] infantil (br) [/COLOR][COLOR red]NEW[/COLOR]
+http://62.210.83.154:8081/papaleguas/papaleguas/playlist.m3u8?INSPIRATIONLINKS
+#EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] perna longa (br) [/COLOR][COLOR red]NEW[/COLOR]
+http://62.210.88.233:8081/turmadopernalonga/turmadopernalonga/playlist.m3u8?INSPIRATIONLINKS
+#EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] FOX KIDS (br) [/COLOR][COLOR red]NEW[/COLOR]
+http://62.210.83.152:8081/xmen/xmen/playlist.m3u8?INSPIRATIONLINKS
 
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY jr (br) [/COLOR]
 http://bit.ly/IPTVGlobal-disneyjr
@@ -284,6 +290,8 @@ http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL (2 opc)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="silk sport 2.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 2 [/COLOR][COLOR red] LIGA PT [/COLOR]
+http://188.93.94.133/silk_sport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 (polaco)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://77.76.140.251/prgt.m3u8
@@ -293,7 +301,12 @@ rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast
 #EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
 http://195.154.226.186:1935/livepp/arhd2lsh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] LIGA PT [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV.png",[COLOR lawngreen]SPOR TV (br)[/COLOR][COLOR red] [/COLOR]
+http://62.210.88.233:1935/liverepeat/201020/IPTVGLOBAL.m3u8
+
+#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] [/COLOR]
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
@@ -367,7 +380,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS NBCSN[COLOR yellow]&[/COLOR] AREN |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS NBCSN [COLOR yellow]&[/COLOR] AREN |[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
@@ -430,8 +443,7 @@ http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-logo="silk sport 1.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT [/COLOR]
 http://188.93.94.133/silk_football/index.m3u8
-#EXTINF:-1 tvg-logo="silk sport 2.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 2 [/COLOR]
-http://188.93.94.133/silk_sport2/index.m3u8
+
 #EXTINF:-1 tvg-logo="silk sport 3.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 3[/COLOR]
 http://188.93.94.133/silk_sport/index.m3u8
 #EXTINF:-1 tvg-logo="silk sport 4.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 4[/COLOR]
@@ -630,6 +642,9 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="Travel Cannel HD.png" group-title="HISPÂNICOS",[COLOR lawngreen] TRAVEL TV [/COLOR][COLOR red]NEW[/COLOR]
 rtmp://87.106.219.140/live/myStream_2
+
+#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] AZTECA INTERNACIONAL (mexico) [/COLOR]
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
 #EXTINF:-1,[COLOR lawngreen]TV Mas[/COLOR]
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
