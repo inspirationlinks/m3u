@@ -81,7 +81,7 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 rtsp://www.canal.parlamento.pt/Live
 #EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="MEO",[COLOR lawngreen] CAPELINHA DE FÁTIMA [/COLOR][COLOR red]LIVE[/COLOR]
 rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="MEO",[COLOR lawngreen] AGUEDA TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="TVAgueda.png" group-title="MEO",[COLOR lawngreen] AGUEDA TV [/COLOR]
 http://agueda.tv:1756/stream.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="MEO",[COLOR lawngreen]Weather Channel (usa)[/COLOR]
@@ -94,32 +94,42 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="24 Kitchen.png" group-title="MEO",[COLOR lawngreen] CANAL COCINA [/COLOR]
 rtmp://31.220.0.155/pull playpath=cocinerita?keys=y7RuHdXWVQIlzQbmhQybSw&keyt=1443155385 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="" tvg-logo="24 Kitchen.png" group-title="MEO",[COLOR lawngreen] 24 KITCHEN [/COLOR]
-http://balkanstream.com/stream/24kitchen/hospa042/f95de998
 #EXTINF:-1 tvg-id="" tvg-logo="Chef TV.png" group-title="BRA&IT",[COLOR lawngreen] CHEFE COZINHA [/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="24 Kitchen.png" group-title="MEO",[COLOR lawngreen] 24 KITCHEN [/COLOR]
+http://balkanstream.com/stream/24kitchen/hospa042/f95de998
 #EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="MEO",[COLOR lawngreen] Food China [/COLOR]
 rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]| AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]|HBO[COLOR yellow] &[/COLOR] AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="NBC NY.png" group-title="MEO",[COLOR lawngreen]NBC (usa)[/COLOR]
-http://192.99.147.19:5808/nbchdguys/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="English Club.png" group-title="MEO",[COLOR lawngreen] English Club tv (usa) [/COLOR]
+http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Canal Hollywood.png" group-title="MEO",[COLOR lawngreen]HOLLYWOOD[/COLOR]
+rtmp://31.220.2.54/pull/235hollywood?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="" tvg-logo="TCM.png" group-title="MEO",[COLOR lawngreen]TCM[/COLOR]
+rtmp://31.220.0.155/pull/tmc78?keys=X4WEmd60ZomKVXcZA8D93g&keyt=1443272315 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-logo="AMC HD.png" group-title="MEO",[COLOR lawngreen]AMC (esp)[/COLOR]
+rtmp://31.220.0.196/pull/ammc?keys=yYInylptb2_w3ouIcIa-9g&keyt=1443272274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO 6 (usa)[/COLOR]
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO (br)[/COLOR]
 http://37.203.209.34:443/mobile/flash20/live.m3u8
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO Zone (usa)[/COLOR]
 http://alturl.com/w623g
-
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO Zone (esp)[/COLOR]
 http://alturl.com/8s7dc
 
+#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
+rtmp://31.220.2.51/pull playpath=axn9?keys=P-kdgTH5kjLQlZv2zYyFiQ&keyt=1443153343 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White (esp)[/COLOR]
-http://iptv15.zapto.org:8000/live/freefi/2015/674.ts
+rtmp://80.82.78.75/pull playpath=axnw6?keys=VoBG1MkbCmMPPySYNkB3Uw&keyt=1443154022 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White 2 (esp)[/COLOR]
+rtmp://31.220.40.40/pull playpath=axnw6?keys=_HOZ-Hwr5arL7wRdno1zQg&keyt=1443609027 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (ro)[/COLOR]
@@ -134,12 +144,6 @@ http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="FXX HD.png" group-title="MEO",[COLOR lawngreen]FX (esp)[/COLOR]
 http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Canal Hollywood.png" group-title="MEO",[COLOR lawngreen]HOLLYWOOD[/COLOR]
-rtmp://31.220.2.54/pull/235hollywood?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="" tvg-logo="TCM.png" group-title="MEO",[COLOR lawngreen]TCM[/COLOR]
-rtmp://31.220.0.155/pull/tmc78?keys=X4WEmd60ZomKVXcZA8D93g&keyt=1443272315 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-logo="AMC HD.png" group-title="MEO",[COLOR lawngreen]AMC (esp)[/COLOR]
-rtmp://31.220.0.196/pull/ammc?keys=yYInylptb2_w3ouIcIa-9g&keyt=1443272274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-logo="Warner.png" group-title="MEO",[COLOR lawngreen]WARNER (esp)[/COLOR]
 http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="E! HD.png" group-title="MEO",[COLOR lawngreen]E! (esp)[/COLOR]
@@ -150,16 +154,12 @@ http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| NAT GEO [COLOR yellow]&[/COLOR] DISCOVERY |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="English Club.png" group-title="MEO",[COLOR lawngreen] English Club tv (usa) [/COLOR]
-http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (usa) [/COLOR]
 http://hlsl.orion.rs:1935/liveloworigin/discovery.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (usa) [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (bulgaria) [/COLOR]
+http://lag2.tv-mobile.org/prgh.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (russo) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/discovery/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (russo) [/COLOR]
-http://213.81.153.241/live001/channel034_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (russo) [/COLOR]
 http://213.81.153.241/live001/channel054_p5.stream/DVR.m3u8
 
@@ -183,8 +183,8 @@ http://lag2.tv-mobile.org/prgg.m3u8
 http://j.mp/ZCH_C03_NATGEOWILDHD_sly
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="MEO",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
 http://38.99.146.36:7777/ADNatGeo_HD.m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Discovery Science.png" group-title="MEO",[COLOR lawngreen] Science & Vie TV (fr) [/COLOR]
-rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Discovery Science.png" group-title="MEO",[COLOR lawngreen] Science & Vie TV (uk&bul) [/COLOR]
+http://lag2.tv-mobile.org/prgi.m3u8
 
 ##############################################################################################
 
@@ -293,6 +293,9 @@ rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=h
 http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL (2 opc)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="NBC NY.png" group-title="MEO",[COLOR lawngreen]NBC (usa)[/COLOR][COLOR red] transmite jogos [/COLOR]
+http://192.99.147.19:5808/nbchdguys/index.m3u8
 
 #EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen]BT SPORTS 1 (uk)[/COLOR]
 http://alturl.com/pizzo
@@ -1196,8 +1199,3 @@ http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/206.ts
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5 [/COLOR]
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/213.ts
-
-#############################################################################################
-
-#EXTINF:-1 tvg-id=".pt" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] test[/COLOR]
-http://213.81.153.241/live001/channel040_p5.stream/DVR.m3u8
