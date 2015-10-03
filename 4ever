@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 2 Outubro | 22.10H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 3 Outubro | 13.25H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -36,6 +36,8 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/pl
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp_informacao.png" group-title="MEO",[COLOR lawngreen] RTP INFORMAÇÃO [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
+http://213.13.26.11:1935/live/sic/magellan.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR][COLOR red][/COLOR]
 http://213.13.26.11:1935/live/sic/chunklist.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
@@ -72,8 +74,6 @@ http://0.0.0.0:1234
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="MEO",[COLOR lawngreen] TCV iNTERNACIONAL [/COLOR]
 rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/v.ideojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24 timeout=10
-#EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="MEO",[COLOR lawngreen] TCV NEWS [/COLOR]
-rtmp://77.92.76.135:1935/tvcnews/ playpath=livestream swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf live=1 pageUrl=http://www.africawebtv.com/tvc-news-nigeria/
 
 #EXTINF:-1 tvg-id="Económico TV" tvg-logo="E'tv.png" group-title="MEO",[COLOR lawngreen] ECONOMICO TV [/COLOR]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
@@ -81,18 +81,9 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 rtsp://www.canal.parlamento.pt/Live
 #EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="MEO",[COLOR lawngreen] CAPELINHA DE FÁTIMA [/COLOR][COLOR red]LIVE[/COLOR]
 rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
-
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="MEO",[COLOR lawngreen] AGUEDA TV [/COLOR]
 http://agueda.tv:1756/stream.flv
 
-#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="MEO",[COLOR lawngreen]TV GLOBO[/COLOR]
-http://62.210.83.180:1935/liverepeat/101010/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="MEO",[COLOR lawngreen]TV GLOBO (2 opc)[/COLOR]
-http://srvlon1.hostseven.org:1935/live/101010/livestream.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="MEO",[COLOR lawngreen]TV RECORD[/COLOR]
-http://srv6.zoeweb.tv:1935/z821-live/stream2/chunklist_w1200576333.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="MEO",[COLOR lawngreen]TV RECORD (2 opc)[/COLOR]
-rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record 
 #EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="MEO",[COLOR lawngreen]Weather Channel (usa)[/COLOR]
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
@@ -127,8 +118,6 @@ http://alturl.com/w623g
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO Zone (esp)[/COLOR]
 http://alturl.com/8s7dc
 
-#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
-http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/12.ch
 #EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White (esp)[/COLOR]
 http://iptv15.zapto.org:8000/live/freefi/2015/674.ts
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
@@ -284,6 +273,8 @@ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to
 rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4 (2 opc)[/COLOR]
 rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m550n505yb1140b201pd5339g505sp1140l5339on505h250oq550u6095ib1140b201pa791.o201pa791o201p&width=600&height=460
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5[/COLOR]
+rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d6157g430sp6639l6157on686x6639ib6639b16pp6639l6157op6639l6157op6639l6157od6157g430sn430h610o&width=600&height=460
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460
@@ -298,11 +289,19 @@ http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL (2 opc)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="silk sport 1.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT [/COLOR]
+http://188.93.94.133/silk_football/index.m3u8
 #EXTINF:-1 tvg-logo="silk sport 2.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 2 [/COLOR][COLOR red] LIGA PT [/COLOR]
 http://188.93.94.133/silk_sport2/index.m3u8
-
+#EXTINF:-1 tvg-logo="silk sport 3.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 3[/COLOR][COLOR red] LIGA PT [/COLOR]
+http://188.93.94.133/silk_sport/index.m3u8
+#EXTINF:-1 tvg-logo="silk sport 4.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 4[/COLOR]
+http://188.93.94.133/silk_sport4/index.m3u8
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 (polaco)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://77.76.140.251/prgt.m3u8
+
+#EXTINF:-1 tvg-logo="SUPER SPORT 1.png" group-title="DESPORTO",[COLOR lawngreen]Super Sport 1[/COLOR][COLOR red] NEW [/COLOR]
+http://81.7.13.162/hls/ss1/index.m3u8
 
 #EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
 rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
@@ -429,6 +428,13 @@ http://lag1.tv-mobile.org/prgs.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CHANNELS FOX [COLOR yellow]&[/COLOR]SKY SPORTS |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 3.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 3[/COLOR]
+http://alturl.com/potqg
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 4.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 4[/COLOR]
+http://alturl.com/bpmt5
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 5.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 5[/COLOR]
+http://alturl.com/zistr
+
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
 http://iptv.latino-webtv.com/fox-sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT (esp)[/COLOR]
@@ -452,14 +458,6 @@ http://77.76.140.251/prgs.m3u8
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR]
 http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-logo="silk sport 1.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT [/COLOR]
-http://188.93.94.133/silk_football/index.m3u8
-
-#EXTINF:-1 tvg-logo="silk sport 3.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 3[/COLOR]
-http://188.93.94.133/silk_sport/index.m3u8
-#EXTINF:-1 tvg-logo="silk sport 4.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 4[/COLOR]
-http://188.93.94.133/silk_sport4/index.m3u8
 
 #############################################################################################
 
@@ -573,14 +571,28 @@ http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
 #############################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]TV GLOBO[/COLOR]
+http://62.210.83.180:1935/liverepeat/101010/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]TV GLOBO (2 opc)[/COLOR]
+http://srvlon1.hostseven.org:1935/live/101010/livestream.m3u8
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD[/COLOR]
+http://srv6.zoeweb.tv:1935/z821-live/stream2/chunklist_w1200576333.m3u8
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD (2 opc)[/COLOR]
+rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record 
 #EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRA&IT",[COLOR lawngreen] BRASIL INTERNACIONAL [/COLOR]
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 #EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record News.png" group-title="BRA&IT",[COLOR lawngreen] RECORD NEWS [/COLOR]
 http://37.203.209.34:443/mobile/bob39/live.m3u8
-#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title="BRA&IT",[COLOR lawngreen] Tv Gazeta [/COLOR][COLOR red] NEW[/COLOR]
+#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title="BRA&IT",[COLOR lawngreen] Tv Gazeta [/COLOR]
 http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
 #EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD[/COLOR]
 http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Globo HD.png" group-title="BRA&IT",[COLOR lawngreen]Minas Gerais[/COLOR][COLOR red] NEW[/COLOR]
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1 tvg-id="" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD PE[/COLOR][COLOR red] NEW[/COLOR]
+rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
+
+#############################################################################################
 
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
 http://srv6.zoeweb.tv:1935/z433-live/stream/IGOR_RANGEL.m3u8
