@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 3 Outubro | 13.25H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 3 Outubro | 16.00H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -303,9 +303,9 @@ http://77.76.140.251/prgt.m3u8
 #EXTINF:-1 tvg-logo="SUPER SPORT 1.png" group-title="DESPORTO",[COLOR lawngreen]Super Sport 1[/COLOR][COLOR red] NEW [/COLOR]
 http://81.7.13.162/hls/ss1/index.m3u8
 
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 ()[/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red] NEW [/COLOR]
 http://195.154.226.186:1935/livepp/arhd2lsh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="SporTV.png",[COLOR lawngreen]SPOR TV (br)[/COLOR][COLOR red] [/COLOR]
@@ -407,6 +407,17 @@ rtmp://62.210.105.146:80/liverepeater playpath=130753 swfUrl=http://cdn.goodcast
 #EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 5 ()[/COLOR][COLOR red] NEW [/COLOR]
 rtmp://62.210.105.146:80/liverepeater playpath=130754 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130754&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
 
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 1 (2 opc) [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://195.154.216.55:80/liverepeater playpath=130750 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 (2 opc) [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://195.154.216.55:80/liverepeater playpath=130751 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 3 (2 opc) [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://195.154.216.55:80/liverepeater playpath=130752 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 4 (2 opc) [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://195.154.216.55:80/liverepeater playpath=130753 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 5 (2 opc) [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://195.154.216.55:80/liverepeater playpath=130754 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130754&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+
 #############################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
@@ -506,6 +517,9 @@ http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
 http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
+
+#EXTINF:-1 tvg-logo="digit_alb_supersport2.png" group-title="DESPORTO",[COLOR lawngreen]DIGI SPORT 2  (ro)[/COLOR]
+rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="ring.png" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR]
 http://lag1.tv-mobile.org/prgr.m3u8
