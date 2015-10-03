@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 3 Outubro | 20.00H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 3 Outubro | 23.40H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -313,11 +313,6 @@ rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast
 #EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red] NEW [/COLOR]
 http://195.154.226.186:1935/livepp/arhd2lsh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="SporTV.png",[COLOR lawngreen]SPOR TV (br)[/COLOR][COLOR red] [/COLOR]
-http://62.210.88.233:1935/liverepeat/201020/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV.png",[COLOR lawngreen]SPOR TV (br)[/COLOR][COLOR red] [/COLOR]
-http://62.210.88.232:1935/liverepeat/201020/llivestream.m3u8?INSPIRATION_LINKS
-
 #EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] [/COLOR]
@@ -357,7 +352,7 @@ mms://tv.autohoje.com/mpltv
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="FIGHT & WWE",[COLOR gray91][B]| CANAIS FIGHT[COLOR yellow] &[/COLOR] WWE |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] UFC [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Premiere Combate.png" group-title="FIGHT & WWE",[COLOR lawngreen] UFC COMBATE[/COLOR]
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] THE FIGHT [/COLOR]
@@ -628,6 +623,10 @@ http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]TV GLOBO[/COLOR]
 http://62.210.83.180:1935/liverepeat/101010/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]GLOBO JR[/COLOR]
+http://37.203.209.34:443/mobile/bob15/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]GLOBO SP[/COLOR]
+http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]TV GLOBO (2 opc)[/COLOR]
 http://srvlon1.hostseven.org:1935/live/101010/livestream.m3u8
 #EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]BLOBO[/COLOR]
@@ -653,6 +652,20 @@ rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
 
 #############################################################################################
 
+#EXTINF:-1 tvg-logo="SporTV.png",[COLOR lawngreen]SPOR TV 1 (br)[/COLOR][COLOR red] [/COLOR]
+http://62.210.88.233:1935/liverepeat/201020/IPTVGLOBAL.m3u8
+#EXTINF:-1 tvg-logo="SporTV.png",[COLOR lawngreen]SPOR TV 1 (2 opc)[/COLOR][COLOR red] [/COLOR]
+http://37.203.209.34:443/mobile/bob05/IPTVGLOBAL.m3u8
+#EXTINF:-1 tvg-logo="SporTV 2.png",[COLOR lawngreen]SPOR TV 2 (br)[/COLOR][COLOR red] [/COLOR]
+http://37.203.209.34:443/mobile/bob06/IPTVGLOBAL.m3u8
+#EXTINF:-1 tvg-logo="SporTV 2.png",[COLOR lawngreen]SPOR TV 2 (br)[/COLOR][COLOR red] [/COLOR]
+http://37.203.209.34:443/mobile/bob06/live.m3u8
+#EXTINF:-1 tvg-logo="SporTV 3.png",[COLOR lawngreen]SPOR TV 3 (br)[/COLOR][COLOR red] [/COLOR]
+http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
+#EXTINF:-1 tvg-logo="Premier Sports.png",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
+http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
+#EXTINF:-1 tvg-logo="Premier Sports.png",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
+http://37.203.209.34:443/mobile/bob07sd/playlist.m3u8
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
 http://srv6.zoeweb.tv:1935/z433-live/stream/IGOR_RANGEL.m3u8
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] E+I [/COLOR]
