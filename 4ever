@@ -296,9 +296,6 @@ http://alturl.com/i9gja
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 (polaco)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://77.76.140.251/prgt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR][COLOR red] bundesliga [/COLOR]
-http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
-
 #EXTINF:-1 tvg-logo="silk sport 1.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT [/COLOR]
 http://188.93.94.133/silk_football/index.m3u8
 #EXTINF:-1 tvg-logo="silk sport 2.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 2 [/COLOR][COLOR red] LIGA PT [/COLOR]
@@ -333,8 +330,10 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 [/COLOR]
 rtmp://31.220.0.206/pull/form1145?keys=CEEpsAyNohpF03XfwT97tw&keyt=1443272493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (2 opc)[/COLOR]
 rtmp://31.220.0.60/pull playpath=motgepe?keys=T_GlBeh64egubkLdJLsqNw&keyt=1443235028 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (3 opc) [/COLOR]
+rtmp://80.82.64.248/pull playpath=motgepe?keys=UqV6CLnq9p2P4VOq2VXm5A&keyt=1443803534 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 
 #EXTINF:-1 tvg-id="" tvg-logo="motors-tv-channel.jpg" group-title="DESPORTO",[COLOR lawngreen] MOTORS TV [/COLOR]
 mms://100automoto.tv/100livesport
@@ -440,6 +439,8 @@ http://0.0.0.0:1234
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR][COLOR red] bundesliga [/COLOR]
+http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2  [/COLOR]
@@ -501,10 +502,12 @@ http://77.76.140.251/prgs.m3u8
 #EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]F+ (polaco)[/COLOR]
 http://77.76.140.251/prge.m3u8
 
-#EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN (esp)[/COLOR]
-http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN 1 (esp)[/COLOR]
+http://201.161.59.3/espn.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR]
+http://201.161.59.4/espn2.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR]
-http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
+http://201.161.59.4/espn3.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
 
