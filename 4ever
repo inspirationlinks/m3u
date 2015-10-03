@@ -198,21 +198,12 @@ http://bit.ly/Toros_TV
 
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red][/COLOR]
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red]TEMP[/COLOR]
-http://bit.ly/CaçaPesca
-#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red]TEMP[/COLOR]
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA [/COLOR][COLOR red]TEMP[/COLOR]
 http://kuku.dyndns.tv:8000/live/fernando/fernando/144.m3u8
 #############################################################################################
 
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="INFANTIL",[COLOR gray91][B]| INFANTIS CHANNELS |[/B][/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] infantil (br) [/COLOR][COLOR red]NEW[/COLOR]
-http://62.210.83.154:8081/papaleguas/papaleguas/playlist.m3u8?INSPIRATIONLINKS
-#EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] perna longa (br) [/COLOR][COLOR red]NEW[/COLOR]
-http://62.210.88.233:8081/turmadopernalonga/turmadopernalonga/playlist.m3u8?INSPIRATIONLINKS
-#EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] FOX KIDS (br) [/COLOR][COLOR red]NEW[/COLOR]
-http://62.210.83.152:8081/xmen/xmen/playlist.m3u8?INSPIRATIONLINKS
 
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY jr (br) [/COLOR]
 http://bit.ly/IPTVGlobal-disneyjr
@@ -340,11 +331,13 @@ http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| DESPORTOS MOTORIZADOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports F1.png" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 [/COLOR]
 rtmp://31.220.0.206/pull/form1145?keys=CEEpsAyNohpF03XfwT97tw&keyt=1443272493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 [/COLOR]
+rtmp://31.220.0.60/pull playpath=motgepe?keys=T_GlBeh64egubkLdJLsqNw&keyt=1443235028 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+
 #EXTINF:-1 tvg-id="" tvg-logo="motors-tv-channel.jpg" group-title="DESPORTO",[COLOR lawngreen] MOTORS TV [/COLOR]
 mms://100automoto.tv/100livesport
-
 #EXTINF:-1 tvg-logo="Motorsport.png" group-title="DESPORTO",[COLOR lawngreen]MOTOSPORT (usa)[/COLOR]
 http://103.18.40.132:8080/
 
