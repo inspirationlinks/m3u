@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 4 Outubro | 11.30H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 4 Outubro | 14.30H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -296,12 +296,35 @@ rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=h
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="MEO",[COLOR lawngreen] BTV2[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d318g307sp7582l318on881x7582ib7582b586pp7582l318op7582l318op7582l318od318g307sn307h116o&width=600&height=460
 
-#############################################################################################
-
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL (2 opc)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+
+#############################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES [COLOR yellow]RECENTES [/COLOR] ADICIONADOS |[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 2 (fr) [/COLOR]
+http://178.33.88.129:888/udp/239.102.0.21:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
+http://199.180.114.174:8000/foxs.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 2 [/COLOR]
+http://199.180.114.174:8000/foxs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 3 [/COLOR]
+http://199.180.114.174:8000/foxs3.m3u8
+
+#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
+http://199.180.114.174:8000/espn.m3u8
+#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR][COLOR red] [/COLOR]
+http://199.180.114.174:8000/espn3.m3u8
+
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 1 (br)[/COLOR][COLOR red] [/COLOR]
+http://95.211.186.215:8081/loadbalance/slv0/playlist.m3u8
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 1 (br)[/COLOR][COLOR red] [/COLOR]
+http://62.210.88.233:1935/liverepeat/201020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen]CANAL + FUTBOL (esp)[/COLOR]
 rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
@@ -312,11 +335,6 @@ rtmp://31.220.0.72/pull playpath=liga258?keys=scP3bTn_Hbt8eGnBSSp_RA&keyt=144323
 http://alturl.com/pizzo
 #EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen]BT SPORTS 2 (uk)[/COLOR]
 http://alturl.com/i9gja
-
-#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
-http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] [/COLOR]
-http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
 
@@ -516,6 +534,12 @@ http://188.93.94.133/silk_sport/index.m3u8
 #EXTINF:-1 tvg-logo="silk sport 4.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 4[/COLOR]
 http://188.93.94.133/silk_sport4/index.m3u8
 
+#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (br)[/COLOR][COLOR red] [/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut12/livestream.m3u8
+#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] [/COLOR]
+http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN 1 (esp)[/COLOR]
 http://201.161.59.3/espn.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR]
@@ -691,6 +715,8 @@ http://37.203.209.34:443/mobile/bob06/live.m3u8
 http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
+#EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut02/livestream.m3u8
 #EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob07sd/playlist.m3u8
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
@@ -701,6 +727,8 @@ http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
 http://37.203.209.34:443/mobile/bob05/live.m3u8
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="PFC.png" group-title="BRA&IT",[COLOR lawngreen] PFC (br) [/COLOR]
 http://37.203.209.34:443/mobile/bob07/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="BRA&IT",[COLOR lawngreen] VASCO TV FUT (br) [/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut1022842/livestream.m3u
 
 #############################################################################################
 
