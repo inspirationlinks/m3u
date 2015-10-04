@@ -36,6 +36,8 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/pl
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp_informacao.png" group-title="MEO",[COLOR lawngreen] RTP INFORMAÇÃO [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC temp [/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/426.ts
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
 http://213.13.26.11:1935/live/sic/magellan.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR][COLOR red][/COLOR]
@@ -52,7 +54,8 @@ http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
-
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic kids.png" group-title="MEO",[COLOR lawngreen] SIC K (TEMP)[/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/425.ts
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="tvi_pt.png" group-title="MEO",[COLOR lawngreen] TVI [/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
@@ -106,6 +109,8 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]|HBO[COLOR yellow] &[/COLOR] AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="" tvg-logo="CNBC.png" group-title="MEO",[COLOR lawngreen] CNBC (usa) [/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="English Club.png" group-title="MEO",[COLOR lawngreen] English Club tv (usa) [/COLOR]
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Canal Hollywood.png" group-title="MEO",[COLOR lawngreen]HOLLYWOOD[/COLOR]
@@ -142,6 +147,7 @@ http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m
 http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="SYFY HD.png" group-title="MEO",[COLOR lawngreen]SYFY (esp)[/COLOR]
 http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1 tvg-logo="FXX HD.png" group-title="MEO",[COLOR lawngreen]FX (esp)[/COLOR]
 http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Warner.png" group-title="MEO",[COLOR lawngreen]WARNER (esp)[/COLOR]
@@ -153,6 +159,9 @@ http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| NAT GEO [COLOR yellow]&[/COLOR] DISCOVERY |[/B][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
+http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (usa) [/COLOR]
 http://hlsl.orion.rs:1935/liveloworigin/discovery.stream/playlist.m3u8
@@ -636,7 +645,8 @@ http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_iptvlivre.
 http://srv6.zoeweb.tv:1935/z821-live/stream2/chunklist_w1200576333.m3u8
 #EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD (2 opc)[/COLOR]
 rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record 
-
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="TV Escola.png" group-title="BRA&IT",[COLOR lawngreen]TV ESCOLA[/COLOR]
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRA&IT",[COLOR lawngreen] BRASIL INTERNACIONAL [/COLOR]
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 #EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record News.png" group-title="BRA&IT",[COLOR lawngreen] RECORD NEWS [/COLOR]
@@ -652,19 +662,19 @@ rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="SporTV.png",[COLOR lawngreen]SPOR TV 1 (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 1 (br)[/COLOR][COLOR red] [/COLOR]
 http://62.210.88.233:1935/liverepeat/201020/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV.png",[COLOR lawngreen]SPOR TV 1 (2 opc)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 1 (2 opc)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob05/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV 2.png",[COLOR lawngreen]SPOR TV 2 (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 2 (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob06/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV 2.png",[COLOR lawngreen]SPOR TV 2 (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 2 (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob06/live.m3u8
-#EXTINF:-1 tvg-logo="SporTV 3.png",[COLOR lawngreen]SPOR TV 3 (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV 3.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 3 (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="Premier Sports.png",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="Premier Sports.png",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob07sd/playlist.m3u8
 #EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
 http://srv6.zoeweb.tv:1935/z433-live/stream/IGOR_RANGEL.m3u8
@@ -1114,8 +1124,9 @@ http://ipsat.dvrdns.org:8000/live/jose7/gago7/886.m3u8
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="porto_canal.png" group-title="MEO",[COLOR lawngreen] PORTO CANAL [/COLOR]
 http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/2706.ts
 
+
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR]
-http://kuku.dyndns.tv:8000/live/fernando/fernando/31.ts
+http://skyiptv.ddns.net:8000/live/batman/batman/436.ts
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR]
 http://tvi.ddns.me:8000/live/rich/rich/498.ts
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="a_bola_tv_pt.png" group-title="MEO",[COLOR lawngreen] A BOLA TV [/COLOR]
@@ -1125,6 +1136,8 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/39.ts
 
 #############################################################################################
 
+#EXTINF:-1 tvg-logo="SYFY HD.png" group-title="MEO",[COLOR lawngreen]SYFY PT[/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/423.ts
 #EXTINF:-1 tvg-id="" tvg-logo="Fox Movies HD.png" group-title="MEO",[COLOR lawngreen]FOX MOVIE[/COLOR]
 http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/1647.ts
 #EXTINF:-1 tvg-id="" tvg-logo="AMC HD.png" group-title="MEO",[COLOR lawngreen]AMC[/COLOR]
@@ -1150,31 +1163,31 @@ http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardos
 #############################################################################################
 
 #EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="MEO",[COLOR lawngreen] TVC1 [/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/421.ts
+#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="MEO",[COLOR lawngreen] TVC1 [/COLOR]
 http://kuku.dyndns.tv:8000/live/fernando/fernando/88.ts
-#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="MEO",[COLOR lawngreen] TVC1 [/COLOR]
-http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/209.ts
-#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="MEO",[COLOR lawngreen] TVC1 [/COLOR]
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/209.ts
 
 #EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="MEO",[COLOR lawngreen] TVC2 [/COLOR]
-http://kuku.dyndns.tv:8000/live/fernando/fernando/89.ts
+http://skyiptv.ddns.net:8000/live/batman/batman/420.ts
 #EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="MEO",[COLOR lawngreen] TVC2 [/COLOR]
-http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/210.ts
+http://kuku.dyndns.tv:8000/live/fernando/fernando/89.ts
 #EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="MEO",[COLOR lawngreen] TVC2 [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/2711.ts
 
 #EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="MEO",[COLOR lawngreen] TVC3 [/COLOR]
-http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/211.ts 
+http://skyiptv.ddns.net:8000/live/batman/batman/419.ts
 #EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="MEO",[COLOR lawngreen] TVC3 | FX [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/211.ts
 
+#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="MEO",[COLOR lawngreen] TVC4 [/COLOR] 
+http://skyiptv.ddns.net:8000/live/batman/batman/418.ts 
 #EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="MEO",[COLOR lawngreen] TVC4 [/COLOR]
 http://kuku.dyndns.tv:8000/live/fernando/fernando/92.ts
-#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="MEO",[COLOR lawngreen] TVC4 [/COLOR] 
-http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/212.ts 
 
 #EXTINF:-1 tvg-id="TVC 4" tvg-logo="tvcine5.jpg" group-title="MEO",[COLOR lawngreen] TVC5 [/COLOR]
 http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/2920.ts
+#EXTINF:-1 tvg-id="TVC 4" tvg-logo="tvcine5.jpg" group-title="MEO",[COLOR lawngreen] CINE MUNDO [/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/507.ts
 
 #############################################################################################
 
@@ -1193,9 +1206,9 @@ http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@g
 #############################################################################################
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 [/COLOR]
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/229.ts
+http://skyiptv.ddns.net:8000/live/batman/batman/413.ts
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
-http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/230.ts
+http://skyiptv.ddns.net:8000/live/batman/batman/415.ts
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 [/COLOR][COLOR red][/COLOR]
 http://62.210.248.96:11000/live/adrianocardoso-jp@hotmail.com_port/adrianocardoso-jp@hotmail.com_port/204.ts
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3 [/COLOR][COLOR red][/COLOR]
