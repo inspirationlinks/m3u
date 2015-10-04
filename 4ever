@@ -157,6 +157,12 @@ http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="E! HD.png" group-title="MEO",[COLOR lawngreen]E! (esp)[/COLOR]
 http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen]DHE (esp)[/COLOR]
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="MEO",[COLOR lawngreen]MULTI PREMIERE (esp)[/COLOR]
+http://201.161.59.7/multipremiere.isml/manifest(format=m3u8-aapl).m3u8
+
+
 
 #############################################################################################
 
@@ -297,18 +303,15 @@ http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL (2 opc)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen]CANAL + FUTBOL (esp)[/COLOR]
+rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen]CANAL + FUTBOL 2 (esp)[/COLOR]
+rtmp://31.220.0.72/pull playpath=liga258?keys=scP3bTn_Hbt8eGnBSSp_RA&keyt=1443235984 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+
 #EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen]BT SPORTS 1 (uk)[/COLOR]
 http://alturl.com/pizzo
 #EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen]BT SPORTS 2 (uk)[/COLOR]
 http://alturl.com/i9gja
-
-#EXTINF:-1 tvg-logo="SUPER SPORT 1.png" group-title="DESPORTO",[COLOR lawngreen]Super Sport 1[/COLOR][COLOR red] NEW [/COLOR]
-http://81.7.13.162/hls/ss1/index.m3u8
-
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red] NEW [/COLOR]
-rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red] NEW [/COLOR]
-http://195.154.226.186:1935/livepp/arhd2lsh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
@@ -422,6 +425,11 @@ rtmp://195.154.216.55:80/liverepeater playpath=130753 swfUrl=http://cdn.deltatv.
 #EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 5 (2 opc) [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://195.154.216.55:80/liverepeater playpath=130754 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130754&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
 
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red] NEW [/COLOR]
+rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red] NEW [/COLOR]
+http://195.154.226.186:1935/livepp/arhd2lsh/playlist.m3u8
+
 #############################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
@@ -495,6 +503,9 @@ http://77.76.140.251/prgr.m3u8
 http://77.76.140.251/prgs.m3u8
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 (polaco)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://77.76.140.251/prgt.m3u8
+
+#EXTINF:-1 tvg-logo="SUPER SPORT 1.png" group-title="DESPORTO",[COLOR lawngreen]Super Sport 1[/COLOR][COLOR red] NEW [/COLOR]
+http://81.7.13.162/hls/ss1/index.m3u8
 
 #EXTINF:-1 tvg-logo="silk sport 1.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT [/COLOR]
 http://188.93.94.133/silk_football/index.m3u8
@@ -594,10 +605,10 @@ http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
 #EXTINF:-1 tvg-logo="ntv_spor.png" group-title="DESPORTO",[COLOR lawngreen]NTV SPOR (turco)[/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1 tvg-logo="ntv_spor.png" group-title="DESPORTO",[COLOR lawngreen]NTV SPOR (turco)[/COLOR]
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURK-BURSASPOR TV (turco) [/COLOR]
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR (turco)[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR2 (turco) [/COLOR]
 http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURKEM SPOR (turco) [/COLOR]
@@ -631,6 +642,8 @@ http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo=".png" group-title="BRA&IT",[COLOR lawngreen]Rete Sport 8[/COLOR]
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="BRA&IT",[COLOR lawngreen]CANAL DIECE[/COLOR]
+rtmp://176.31.226.78/ch10live/stream1.sdp
 
 #############################################################################################
 
@@ -696,8 +709,10 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ (fr) [/COLOR][COLOR red][/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL+ (fr) [/COLOR]
 http://teleclub.fr/ch02.ts
+#EXTINF:-1 tvg-id="canal+.pt" tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL SPORT(fr) [/COLOR]
+rtmp://176.10.250.166:1935/tv/stream3
 #EXTINF:-1 tvg-logo="LEquipe-21.png" group-title="DESPORTO",[COLOR lawngreen]Lequipe-21 (fr)[/COLOR]
 http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-logo="canal+.png" group-title="FRANÇA",[COLOR lawngreen] CANAL + (fr) [/COLOR]
@@ -746,6 +761,14 @@ http://teleclub.fr/gloubi.mp4?sd=10&_Maghrebstar.com_rebase=on
 #EXTINF:-1  tvg-logo="hispani.jpg" group-title="HISPÂNICOS",[COLOR gray91][B]| CANAIS HISPÂNICOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="canalplus_es_dcine.png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL CINE[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="De_pelicula.png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL PELICULAS[/COLOR]
+http://201.161.59.7/depelicula.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="Paramount.png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL PARAMOUNT[/COLOR]
+http://201.161.59.7/paramount.isml/manifest(format=m3u8-aapl).m3u8
+
+
 #EXTINF:-1 tvg-logo="tve1_es.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="tve1_es.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
@@ -756,11 +779,14 @@ http://hlslive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 #EXTINF:-1 tvg-logo="24h TVe.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVE 24 [/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
 #EXTINF:-1 tvg-logo="Travel Cannel HD.png" group-title="HISPÂNICOS",[COLOR lawngreen] TRAVEL TV [/COLOR][COLOR red]NEW[/COLOR]
 rtmp://87.106.219.140/live/myStream_2
 
 #EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] AZTECA INTERNACIONAL (mexico) [/COLOR]
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo="canal-de-las-estrellas.png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL DE LAS ESTRELAS (mexico) [/COLOR]
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 
 #EXTINF:-1,[COLOR lawngreen]TV Mas[/COLOR]
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
@@ -799,6 +825,9 @@ http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/pla
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS (2 opc)[/COLOR]
 http://195.55.74.224/rtpa/tv-iphone/stream.m3u8?GKID=d482077c5ec111e5bb2000163ea2c744
+#EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] SUPER CANAL 3[/COLOR]
+http://72.46.226.61/live01/canal31/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL UNO (colombiano) [/COLOR]
 http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
 #EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR lawngreen]Azteca Noticias[/COLOR]
@@ -1032,6 +1061,8 @@ http://94.23.76.235:9996/;
 #EXTINF:-1 Adult="true"tvg-id="" tvg-logo="porn.gif" group-title="PORN XXX",[COLOR gray91][I][B] ADULTO (XXX) [/B][/I][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] SCT [/COLOR]
+rtmp://31.220.0.66/pull playpath=xxx1?keys=w20u-coQrP_XNoVjiU1pxw&keyt=1443233037 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] ???[/COLOR]
 http://188.165.220.116:8081/live2/36/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EROTIC [/COLOR]
