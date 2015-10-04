@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 3 Outubro | 23.40H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 4 Outubro | 11.30H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -109,6 +109,8 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]|HBO[COLOR yellow] &[/COLOR] AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="NBC NY.png" group-title="MEO",[COLOR lawngreen]NBC (usa)[/COLOR][COLOR red] transmite jogos [/COLOR]
+http://192.99.147.19:5808/nbchdguys/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="CNBC.png" group-title="MEO",[COLOR lawngreen] CNBC (usa) [/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="English Club.png" group-title="MEO",[COLOR lawngreen] English Club tv (usa) [/COLOR]
@@ -131,23 +133,24 @@ http://alturl.com/8s7dc
 
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
 rtmp://31.220.2.51/pull playpath=axn9?keys=P-kdgTH5kjLQlZv2zYyFiQ&keyt=1443153343 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White (esp)[/COLOR]
-rtmp://80.82.78.75/pull playpath=axnw6?keys=VoBG1MkbCmMPPySYNkB3Uw&keyt=1443154022 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White 2 (esp)[/COLOR]
-rtmp://31.220.40.40/pull playpath=axnw6?keys=_HOZ-Hwr5arL7wRdno1zQg&keyt=1443609027 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
 #EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen]AXN (ro)[/COLOR]
 http://213.81.153.241/live001/channel046_p5.stream/DVR.m3u8
+#EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White (esp)[/COLOR]
+rtmp://80.82.78.75/pull playpath=axnw6?keys=VoBG1MkbCmMPPySYNkB3Uw&keyt=1443154022 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White 2 (esp)[/COLOR]
+rtmp://31.220.40.40/pull playpath=axnw6?keys=_HOZ-Hwr5arL7wRdno1zQg&keyt=1443609027 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (esp)[/COLOR]
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX HQ (esp)[/COLOR]
 http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Fox Life HD.png" group-title="MEO",[COLOR lawngreen]FOX LIFE (esp)[/COLOR]
 http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1 tvg-logo="SYFY HD.png" group-title="MEO",[COLOR lawngreen]SYFY (esp)[/COLOR]
 http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
-
 #EXTINF:-1 tvg-logo="FXX HD.png" group-title="MEO",[COLOR lawngreen]FX (esp)[/COLOR]
 http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Warner.png" group-title="MEO",[COLOR lawngreen]WARNER (esp)[/COLOR]
@@ -157,7 +160,7 @@ http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| NAT GEO [COLOR yellow]&[/COLOR] DISCOVERY |[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| HISTORIA [COLOR yellow]&[/COLOR] NAT GEO [COLOR yellow]&[/COLOR] DISCOVERY |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
@@ -294,25 +297,10 @@ http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL (2 opc)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="NBC NY.png" group-title="MEO",[COLOR lawngreen]NBC (usa)[/COLOR][COLOR red] transmite jogos [/COLOR]
-http://192.99.147.19:5808/nbchdguys/index.m3u8
-
 #EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen]BT SPORTS 1 (uk)[/COLOR]
 http://alturl.com/pizzo
 #EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen]BT SPORTS 2 (uk)[/COLOR]
 http://alturl.com/i9gja
-
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 (polaco)[/COLOR][COLOR red] LIGA PT [/COLOR]
-http://77.76.140.251/prgt.m3u8
-
-#EXTINF:-1 tvg-logo="silk sport 1.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT [/COLOR]
-http://188.93.94.133/silk_football/index.m3u8
-#EXTINF:-1 tvg-logo="silk sport 2.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 2 [/COLOR][COLOR red] LIGA PT [/COLOR]
-http://188.93.94.133/silk_sport2/index.m3u8
-#EXTINF:-1 tvg-logo="silk sport 3.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 3[/COLOR][COLOR red] LIGA PT [/COLOR]
-http://188.93.94.133/silk_sport/index.m3u8
-#EXTINF:-1 tvg-logo="silk sport 4.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 4[/COLOR]
-http://188.93.94.133/silk_sport4/index.m3u8
 
 #EXTINF:-1 tvg-logo="SUPER SPORT 1.png" group-title="DESPORTO",[COLOR lawngreen]Super Sport 1[/COLOR][COLOR red] NEW [/COLOR]
 http://81.7.13.162/hls/ss1/index.m3u8
@@ -499,12 +487,23 @@ http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| SPORT KLUB[COLOR yellow] &[/COLOR] Silk[COLOR yellow] &[/COLOR] ESPN |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]F+ (polaco)[/COLOR]
+http://77.76.140.251/prge.m3u8
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 1 (polaco)[/COLOR]
 http://77.76.140.251/prgr.m3u8
 #EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 2 (polaco)[/COLOR]
 http://77.76.140.251/prgs.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]F+ (polaco)[/COLOR]
-http://77.76.140.251/prge.m3u8
+#EXTINF:-1 tvg-logo="SportKlub.png" group-title="DESPORTO",[COLOR lawngreen]Sport Klub 3 (polaco)[/COLOR][COLOR red] LIGA PT [/COLOR]
+http://77.76.140.251/prgt.m3u8
+
+#EXTINF:-1 tvg-logo="silk sport 1.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT [/COLOR]
+http://188.93.94.133/silk_football/index.m3u8
+#EXTINF:-1 tvg-logo="silk sport 2.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 2 [/COLOR][COLOR red] LIGA PT [/COLOR]
+http://188.93.94.133/silk_sport2/index.m3u8
+#EXTINF:-1 tvg-logo="silk sport 3.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 3[/COLOR][COLOR red] LIGA PT [/COLOR]
+http://188.93.94.133/silk_sport/index.m3u8
+#EXTINF:-1 tvg-logo="silk sport 4.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 4[/COLOR]
+http://188.93.94.133/silk_sport4/index.m3u8
 
 #EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR lawngreen]ESPN 1 (esp)[/COLOR]
 http://201.161.59.3/espn.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
@@ -512,6 +511,24 @@ http://201.161.59.3/espn.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m
 http://201.161.59.4/espn2.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="espn_3_hd.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR]
 http://201.161.59.4/espn3.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
+
+#############################################################################################
+
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| NOVA SPORT[COLOR yellow] & [/COLOR] DIGI [COLOR yellow] & [/COLOR] DIEMA |[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
+http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
+#EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (RU)[/COLOR]
+http://lag1.tv-mobile.org/prgp.m3u8
+
+#EXTINF:-1 tvg-logo="digit_alb_supersport1.png" group-title="DESPORTO",[COLOR lawngreen]DIGI SPORT 1  (ro)[/COLOR]
+http://213.81.153.241/live001/channel026_p5.stream/DVR.m3u8
+#EXTINF:-1 tvg-logo="digit_alb_supersport2.png" group-title="DESPORTO",[COLOR lawngreen]DIGI SPORT 2  (ro)[/COLOR]
+rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2 (bulgaro)[/COLOR]
+http://lag1.tv-mobile.org/prgt.m3u8
 
 #############################################################################################
 
@@ -558,24 +575,11 @@ http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (polaco)[/COLOR]
-http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
-#EXTINF:-1 tvg-logo="Nova_sport_logo.png" group-title="DESPORTO",[COLOR lawngreen]NOVA SPORT 1  (RU)[/COLOR]
-http://lag1.tv-mobile.org/prgp.m3u8
-
-#EXTINF:-1 tvg-logo="digit_alb_supersport1.png" group-title="DESPORTO",[COLOR lawngreen]DIGI SPORT 1  (ro)[/COLOR]
-http://213.81.153.241/live001/channel026_p5.stream/DVR.m3u8
-#EXTINF:-1 tvg-logo="digit_alb_supersport2.png" group-title="DESPORTO",[COLOR lawngreen]DIGI SPORT 2  (ro)[/COLOR]
-rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
-
 #EXTINF:-1 tvg-logo="ring.png" group-title="DESPORTO",[COLOR lawngreen]RING (bul)[/COLOR]
 http://lag1.tv-mobile.org/prgr.m3u8
-#EXTINF:-1 tvg-logo="Diema_Sport_2.jpg",[COLOR lawngreen]Diema Sport 2 (bulgaro)[/COLOR]
-http://lag1.tv-mobile.org/prgt.m3u8
+
 #EXTINF:-1,[COLOR lawngreen]bTV Action (Bulgaria)[/COLOR]
 http://lag1.tv-mobile.org/prge.m3u8
-
-
 #EXTINF:-1,[COLOR lawngreen]FILM BOX (Bulgaria)[/COLOR]
 http://lag1.tv-mobile.org/prgw.m3u8
 
