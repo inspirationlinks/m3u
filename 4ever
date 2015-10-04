@@ -308,6 +308,17 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 2 (fr) [/COLOR]
 http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:-1 tvg-id="" tvg-logo="CANAL-PLUS-SPORT.png" group-title="DESPORTO",[COLOR lawngreen] canal+ sport (fr) [/COLOR]
+http://178.33.88.129:888/udp/239.102.0.55:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] PREMIERE LIVE (uk)  [/COLOR]
+http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (uk)  [/COLOR]
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1[/COLOR]
+rtmp://37.49.228.129/live playpath=ss1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1skys&vw=620&vh=490
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
 http://199.180.114.174:8000/foxs.m3u8
@@ -455,6 +466,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR][COLOR red] bundesliga [/COLOR]
