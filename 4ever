@@ -65,18 +65,14 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="MEO",[COLOR lawngreen] TVI 24 [/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-
-#############################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR gray91][B]| A QUINTA |[COLOR red] BREVEMENTE [/B][/COLOR]
-http://0.0.0.0:1234
-
-#############################################################################################
+#EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR lawngreen][B]| A QUINTA |[COLOR red] ON [/B][/COLOR]
+rtmp://37.72.171.94:80/pub playpath=dlyFrtrRxgmfcVtBEMCQ  swfUrl=http://www.castto.me/_.swf  pageUrl=http://static.castto.me/embed.php?channel=600820037&vw=620&vh=380 token=#ed%h0#w@1
 
 #EXTINF:-1 tvg-id="TPA" tvg-logo="tpa.png" group-title="MEO",[COLOR lawngreen] TPA [/COLOR]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="MEO",[COLOR lawngreen] TCV iNTERNACIONAL [/COLOR]
 rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/v.ideojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24 timeout=10
+rtmp://213.13.26.43/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24
 
 #EXTINF:-1 tvg-id="Económico TV" tvg-logo="E'tv.png" group-title="MEO",[COLOR lawngreen] ECONOMICO TV [/COLOR]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
@@ -270,8 +266,6 @@ http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1[/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 (2 opc)[/COLOR]
-rtmp://50.97.82.51:1935/stream/ playpath=NdTBo1519y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7675g814sp3588l7675on648x3588ib3588b817pp3588l7675op3588l7675op3588l7675od7675g814sn814h873o&width=600&height=460
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 (3 opc)[/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2[/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
