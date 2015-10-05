@@ -38,7 +38,7 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/pl
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp_informacao.png" group-title="MEO",[COLOR lawngreen] RTP INFORMAÇÃO [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC temp [/COLOR]
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR][COLOR red]TEMP[/COLOR]
 http://skyiptv.ddns.net:8000/live/batman/batman/426.ts
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR]
 http://213.13.26.11:1935/live/sic/magellan.m3u8
@@ -54,8 +54,8 @@ rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/
 http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
-rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="MEO",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR][COLOR red] TEMP [/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/424.ts
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic kids.png" group-title="MEO",[COLOR lawngreen] SIC K [/COLOR][COLOR red] TEMP [/COLOR]
 http://skyiptv.ddns.net:8000/live/batman/batman/425.ts
 
@@ -125,6 +125,8 @@ rtmp://31.220.0.155/pull/tmc78?keys=X4WEmd60ZomKVXcZA8D93g&keyt=1443272315 swfUr
 #EXTINF:-1 tvg-logo="AMC HD.png" group-title="MEO",[COLOR lawngreen]AMC (esp)[/COLOR]
 rtmp://31.220.0.196/pull/ammc?keys=yYInylptb2_w3ouIcIa-9g&keyt=1443272274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
+#EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO HD (ru)[/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/512.ts
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO 6 (usa)[/COLOR]
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="MEO",[COLOR lawngreen]HBO (br)[/COLOR]
@@ -141,6 +143,8 @@ rtmp://80.82.78.75/pull playpath=axnw6?keys=VoBG1MkbCmMPPySYNkB3Uw&keyt=14431540
 #EXTINF:-1 tvg-logo="AXN White HD.png" group-title="MEO",[COLOR lawngreen] AXN White 2 (esp)[/COLOR]
 rtmp://31.220.40.40/pull playpath=axnw6?keys=_HOZ-Hwr5arL7wRdno1zQg&keyt=1443609027 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 
+#EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX PT[/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/434.ts
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX (esp)[/COLOR]
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="MEO",[COLOR lawngreen]FOX HQ (esp)[/COLOR]
@@ -178,6 +182,8 @@ http://3.hls.bolshoe.tv/1/streaming/discovery/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="odisseia_pt.png" group-title="MEO",[COLOR lawngreen] ODISSEIA (russo) [/COLOR]
 http://213.81.153.241/live001/channel054_p5.stream/DVR.m3u8
 
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO PT [/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/431.ts
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO (esp) [/COLOR]
 rtmp://31.220.0.201/pull/ playpath=natgeo36?keys=FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=770&height=410
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="MEO",[COLOR lawngreen] NAT GEO (chileno) [/COLOR]
@@ -196,6 +202,8 @@ http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Animal Planet HD.png" group-title="MEO",[COLOR lawngreen] ANIMAL PLANET (usa) [/COLOR]
 http://sall1.homelinux.net:80/live?channelId=76&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
+#EXTINF:-1 tvg-id="" tvg-logo="Animal Planet HD.png" group-title="MEO",[COLOR lawngreen] ANIMAL PLANET (ru) [/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/animalplanet/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Animal Planet HD.png" group-title="MEO",[COLOR lawngreen] ANIMAL PLANET (ru) [/COLOR]
 http://server4.balkantvmedia.com:8080/Animal_Planet?u=user80:p=3sMi6l66
 #EXTINF:-1 tvg-id="" tvg-logo="Animal Planet HD.png" group-title="MEO",[COLOR lawngreen] ANIMAL PLANET (ro) [/COLOR]
@@ -219,6 +227,9 @@ http://kuku.dyndns.tv:8000/live/fernando/fernando/144.m3u8
 
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="INFANTIL",[COLOR gray91][B]| INFANTIS CHANNELS |[/B][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="canal_panda_pt.png" group-title="MEO",[COLOR lawngreen]PANDA PT[/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/438.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY jr (br) [/COLOR]
 http://bit.ly/IPTVGlobal-disneyjr
@@ -318,6 +329,10 @@ http://bit.do/bmAQ5
 
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES [COLOR yellow]| Adicionados Recentemente |[/B][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] ????? [/COLOR]
+http://iptv15.zapto.org:8000/live/freefi/2015/759.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] PREMIERE LIVE (uk)  [/COLOR]
 http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
@@ -1183,8 +1198,7 @@ http://skyiptv.ddns.net:8000/live/batman/batman/423.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="MEO",[COLOR lawngreen]BIGGS[/COLOR]
 http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/2711.ts
-#EXTINF:-1 tvg-id="" tvg-logo="canal_panda_pt.png" group-title="MEO",[COLOR lawngreen]PANDA[/COLOR]
-http://62.210.248.96:11000/live/sergiompimentel@gmail.com_port/sergiompimentel@gmail.com_port/2713.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY CHANNEL PT [/COLOR]
 http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/2714.ts
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY CHANNEL PT [/COLOR]
@@ -1205,7 +1219,7 @@ http://skyiptv.ddns.net:8000/live/batman/batman/419.ts
 http://skyiptv.ddns.net:8000/live/batman/batman/418.ts 
 
 #EXTINF:-1 tvg-id="TVC 4" tvg-logo="tvcine5.jpg" group-title="MEO",[COLOR lawngreen] CINE MUNDO [/COLOR]
-http://tvi.ddns.me:8000/live/rich/rich/507.ts
+http://skyiptv.ddns.net:8000/live/batman/batman/443.ts
 
 #############################################################################################
 
