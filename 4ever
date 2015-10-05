@@ -8,6 +8,40 @@ http://0.0.0.0:1234
 
 #############################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES [COLOR yellow]| ADICIONADOS RECENTEMENTE |[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="TNT.png" group-title="MEO",[COLOR lawngreen] TNT (esp) [/COLOR]
+rtmp://31.220.40.40/pull/ playpath=tnt369?keys=MxK8Lb10jNtqXOS5FrPSQg&keyt=1443557895 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="Boing.png" group-title="MEO",[COLOR lawngreen] BOING (esp) [/COLOR]
+rtmp://31.220.0.201/pull/boing82?keys=FeUox0XPbF1bwFBhq05DxQ&keyt=1443275984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY CHANNEL (esp) [/COLOR]
+rtmp://31.220.0.134/pull/disney521?keys=WbrNnixlJKD0LoVIFrngWg&keyt=1443276051 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
+#EXTINF:-1 tvg-id="" tvg-logo="PANDA1.png" group-title="INFANTIL",[COLOR lawngreen] PANDA (esp) [/COLOR]
+rtmp://31.220.40.61/pull/panda51?keys=dfE8J-bE1Qyyr5tAHFJBmg&keyt=1443276254 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
+#EXTINF:-1 tvg-id="" tvg-logo="NBA TV HD.png" group-title="DESPORTO",[COLOR lawngreen] NBA LIVE [/COLOR]
+http://nbalive-lh.akamaihd.net/i/nbastarters_1@73441/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] ????? [/COLOR]
+http://iptv15.zapto.org:8000/live/freefi/2015/759.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] PREMIERE LIVE (uk)  [/COLOR]
+http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1[/COLOR]
+rtmp://37.49.228.129/live playpath=ss1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1skys&vw=620&vh=490
+
+#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
+http://199.180.114.174:8000/foxs.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 2 [/COLOR]
+http://199.180.114.174:8000/foxs2.m3u8
+
+#############################################################################################
+
 #EXTINF:-1 tvg-logo="tuga.png" group-title="MEO",[COLOR yellow][B]PACOTE [COLOR gray91]CANAIS FIXOS [/COLOR][COLOR red]| MEO [/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -222,7 +256,9 @@ http://bit.ly/Toros_TV
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red][/COLOR]
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA [/COLOR][COLOR red]TEMP[/COLOR]
-http://kuku.dyndns.tv:8000/live/fernando/fernando/144.m3u8
+rtmp://31.220.2.53/pull/iberalias?keys=hv7wHG2MMNq2OII1R2UKhw&keyt=1443276773 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="MEO",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red][/COLOR]
+rtmp://31.220.40.62/pull/iberalias?keys=0_JhiusUyr5k9omnOAPRog&keyt=1443470275 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
 #############################################################################################
 
 #EXTINF:-1 tvg-logo="inspiration.png" group-title="INFANTIL",[COLOR gray91][B]| INFANTIS CHANNELS |[/B][/COLOR]
@@ -327,31 +363,11 @@ http://bit.do/bmAQ5
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES [COLOR yellow]| Adicionados Recentemente |[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="NBA TV HD.png" group-title="DESPORTO",[COLOR lawngreen] NBA LIVE [/COLOR]
-http://nbalive-lh.akamaihd.net/i/nbastarters_1@73441/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] ????? [/COLOR]
-http://iptv15.zapto.org:8000/live/freefi/2015/759.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] PREMIERE LIVE (uk)  [/COLOR]
-http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1[/COLOR]
-rtmp://37.49.228.129/live playpath=ss1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1skys&vw=620&vh=490
-
-#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
-http://199.180.114.174:8000/foxs.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 2 [/COLOR]
-http://199.180.114.174:8000/foxs2.m3u8
-
-#############################################################################################
-
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| DESPORTOS MOTORIZADOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] NASCAR TEMP [/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (1) [/COLOR]
 rtmp://31.220.0.206/pull/form1145?keys=CEEpsAyNohpF03XfwT97tw&keyt=1443272493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (2)[/COLOR]
@@ -413,6 +429,8 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
 #EXTINF:-1,REAL MADRID
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,BARÇA FC
+rtmp://31.220.0.60/pull/barztv?keys=mz6aE7FBE7QDUQOpasmIZQ&keyt=1443273209 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1,SEVILLA FC
 http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/index_700_av-p.m3u8
 #EXTINF:-1,LEVANTE FC
@@ -620,6 +638,8 @@ http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 http://4BA9EBDB07C05883@5.159.96.170:8000/sport1
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 1 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия (ru) [/COLOR]
+http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
@@ -836,6 +856,9 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="Canal4.jpg" group-title="HISPÂNICOS",[COLOR lawngreen]Cuatro[/COLOR]
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
+
+#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
+rtmp://31.220.0.139/pull/telecincoin?keys=PVIVrGKFxbvBF7lXVXsR7w&keyt=1443471107 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
 
