@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 5 Outubro | 15.10H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 5 Outubro | 22.10H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -413,6 +413,10 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
 #EXTINF:-1,REAL MADRID
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/index_700_av-p.m3u8
+#EXTINF:-1,LEVANTE FC
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/chunklist_w665847162.m3u8
 
 #############################################################################################
 
@@ -770,6 +774,7 @@ http://109.172.11.85:1234/udp/224.0.42.6:5000
 http://tv.ut.cx/cinetoile.mp4
 #EXTINF:-1 tvg-logo="m6.png" group-title="FRANÇA",[COLOR lawngreen] M6 [/COLOR][COLOR red] [/COLOR]
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_1256.m3u8
+
 #EXTINF:-1 tvg-logo="club1.png" group-title="FRANÇA",[COLOR lawngreen] CLUB 1 [/COLOR][COLOR red] [/COLOR]
 http://teleclub.fr/club1.mp4?sd=10&_Maghrebstar.com_rebase=on
 #EXTINF:-1 tvg-logo="tva_quebec.png" group-title="FRANÇA",[COLOR lawngreen] TVA [/COLOR]
@@ -840,8 +845,10 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1 tvg-logo="antena3.png" group-title="HISPÂNICOS",[COLOR lawngreen] ANTENA3 SD[/COLOR]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="Television de Galicia.png" group-title="HISPÂNICOS",[COLOR lawngreen] TV GALIZIA [/COLOR]
+#EXTINF:-1 tvg-logo="Television de Galicia.png" group-title="HISPÂNICOS",[COLOR lawngreen] TV GALIZIA 1[/COLOR]
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="Television de Galicia.png" group-title="HISPÂNICOS",[COLOR lawngreen] TV GALIZIA 2[/COLOR]
+http://media3.crtvg.es/live/tvga/chunklist_w164960213.m3u8
 #EXTINF:-1 tvg-logo="Telesur.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELE SUR [/COLOR]
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
 #EXTINF:-1 tvg-logo="andalucia.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] ANDALUCIA [/COLOR]
@@ -854,6 +861,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1 tvg-logo="13TV logo 2012.png" group-title="HISPÂNICOS",[COLOR lawngreen] 13 TV [/COLOR]
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1 tvg-logo="tg7.png" group-title="HISPÂNICOS",[COLOR lawngreen] TG7 [/COLOR]
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/.m3u8
 #EXTINF:-1 tvg-logo="huelvatv.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] HUELVA COSTA [/COLOR][COLOR red][B][/B][/COLOR]
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
 #EXTINF:-1 tvg-logo="MegaTV.png" group-title="HISPÂNICOS",[COLOR lawngreen] MEGA [/COLOR]
@@ -866,7 +875,8 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 http://195.55.74.224/rtpa/tv-iphone/stream.m3u8?GKID=d482077c5ec111e5bb2000163ea2c744
 #EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] SUPER CANAL 3[/COLOR]
 http://72.46.226.61/live01/canal31/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="catalunya.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] TV3 24 [/COLOR]
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8
 #EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL UNO (colombiano) [/COLOR]
 http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
 #EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR lawngreen]Azteca Noticias[/COLOR]
