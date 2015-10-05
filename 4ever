@@ -285,7 +285,7 @@ rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV (2opc)[/COLOR]
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV& SPORTV3[/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="MEO",[COLOR lawngreen] BTV2[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d318g307sp7582l318on881x7582ib7582b586pp7582l318op7582l318op7582l318od318g307sn307h116o&width=600&height=460
@@ -295,24 +295,27 @@ http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL (2 opc)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL HD [/COLOR][COLOR red]ON[/COLOR]
+http://bit.do/bmAQ5
+
+#EXTINF:-1 tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen]CANAL + FUTBOL 2 (esp)[/COLOR]
+rtmp://31.220.0.72/pull playpath=liga258?keys=scP3bTn_Hbt8eGnBSSp_RA&keyt=1443235984 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV (br)[/COLOR][COLOR red] [/COLOR]
+http://95.211.186.215:8081/loadbalance/slv0/playlist.m3u8
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV (2 opç)[/COLOR][COLOR red] [/COLOR]
+http://62.210.88.233:1935/liverepeat/201020/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen]F+ (polaco)[/COLOR][COLOR red] LIGA PT [/COLOR]
 http://77.76.140.251/prge.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES [COLOR yellow]RECENTES [/COLOR] ADICIONADOS |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES [COLOR yellow]| Adicionados Recentemente |[/B][/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] BEIN SPORT 2 (fr) [/COLOR]
-http://178.33.88.129:888/udp/239.102.0.21:1234
-#EXTINF:-1 tvg-id="" tvg-logo="CANAL-PLUS-SPORT.png" group-title="DESPORTO",[COLOR lawngreen] canal+ sport (fr) [/COLOR]
-http://178.33.88.129:888/udp/239.102.0.55:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] PREMIERE LIVE (uk)  [/COLOR]
 http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (uk)  [/COLOR]
-http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1[/COLOR]
 rtmp://37.49.228.129/live playpath=ss1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1skys&vw=620&vh=490
@@ -321,39 +324,20 @@ rtmp://37.49.228.129/live playpath=ss1skys swfUrl=http://www.yocast.tv/myplayer/
 http://199.180.114.174:8000/foxs.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 2 [/COLOR]
 http://199.180.114.174:8000/foxs2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT 3 [/COLOR]
-http://199.180.114.174:8000/foxs3.m3u8
-
-#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
-http://199.180.114.174:8000/espn.m3u8
-#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR][COLOR red] [/COLOR]
-http://199.180.114.174:8000/espn3.m3u8
-
-#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 1 (br)[/COLOR][COLOR red] [/COLOR]
-http://95.211.186.215:8081/loadbalance/slv0/playlist.m3u8
-#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 1 (br)[/COLOR][COLOR red] [/COLOR]
-http://62.210.88.233:1935/liverepeat/201020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen]CANAL + FUTBOL (esp)[/COLOR]
 rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-logo="Canal+-Futbol-HD.png" group-title="DESPORTO",[COLOR lawngreen]CANAL + FUTBOL 2 (esp)[/COLOR]
-rtmp://31.220.0.72/pull playpath=liga258?keys=scP3bTn_Hbt8eGnBSSp_RA&keyt=1443235984 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-
-#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen]BT SPORTS 1 (uk)[/COLOR]
-http://alturl.com/pizzo
-#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="DESPORTO",[COLOR lawngreen]BT SPORTS 2 (uk)[/COLOR]
-http://alturl.com/i9gja
 
 #############################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png",[COLOR gray91][B]| DESPORTOS MOTORIZADOS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (1) [/COLOR]
 rtmp://31.220.0.206/pull/form1145?keys=CEEpsAyNohpF03XfwT97tw&keyt=1443272493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (2 opc)[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (2)[/COLOR]
 rtmp://31.220.0.60/pull playpath=motgepe?keys=T_GlBeh64egubkLdJLsqNw&keyt=1443235028 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (3 opc) [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="moviestar.jpg" group-title="DESPORTO",[COLOR lawngreen] MOVISTAR F1 (3) [/COLOR]
 rtmp://80.82.64.248/pull playpath=motgepe?keys=UqV6CLnq9p2P4VOq2VXm5A&keyt=1443803534 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 
 #EXTINF:-1 tvg-id="" tvg-logo="motors-tv-channel.jpg" group-title="DESPORTO",[COLOR lawngreen] MOTORS TV [/COLOR]
@@ -375,7 +359,7 @@ mms://tv.autohoje.com/mpltv
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="FIGHT & WWE",[COLOR gray91][B]| CANAIS FIGHT[COLOR yellow] &[/COLOR] WWE |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="FIGHT & WWE",[COLOR gray91][B]| CANAIS FIGHT[COLOR yellow] &[/COLOR] WWE[COLOR yellow] & [/COLOR]UFC |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Premiere Combate.png" group-title="FIGHT & WWE",[COLOR lawngreen] UFC COMBATE[/COLOR]
@@ -395,19 +379,11 @@ http://188.93.94.46:80/boets/index.m3u8?token=w_6_G-EKvoq8no6sIwq-rFJMvE5vTzWolZ
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR yellow][B]| CHANNELS Futbol CLUBS |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR yellow][B]| CHANNELS FUTBOL CLUBS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,CHAMPIONS LEAGUE
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
 #EXTINF:-1,SPORTS FR
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/120.m3u8
-#EXTINF:-1,JUVENTUS
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/42.ts
-#EXTINF:-1,LAZIO
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/44.ts
-#EXTINF:-1,ROMA
-http://proffiptv.mine.nu:15003/live/tguzoutba1/vnuig7hlvt/45.ts
 #EXTINF:-1,MAN CITY TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
 #EXTINF:-1,CHELSEA TV
@@ -424,8 +400,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS NBCSN [COLOR yellow]&[/COLOR] ARENA |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
-http://tvenbcsn-i.akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN HD [/COLOR]
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="NBCSN.png" group-title="DESPORTO",[COLOR lawngreen] NBCSN GOLF [/COLOR]
@@ -463,17 +437,19 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (bulgaro) [/COLOR]
+http://lag1.tv-mobile.org/prgs.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (uk)  [/COLOR]
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR][COLOR red] bundesliga [/COLOR]
 http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Euro Sport 2.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT 2  [/COLOR]
 http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_EUROSPORT2/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (bulgaro) [/COLOR]
-http://lag1.tv-mobile.org/prgs.m3u8
 
 #############################################################################################
 
@@ -541,8 +517,17 @@ http://188.93.94.133/silk_sport/index.m3u8
 #EXTINF:-1 tvg-logo="silk sport 4.png" group-title="DESPORTO",[COLOR lawngreen]SILK SPORT 4[/COLOR]
 http://188.93.94.133/silk_sport4/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
+http://199.180.114.174:8000/espn.m3u8
+#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] [/COLOR]
+http://199.180.114.174:8000/espn2.m3u8
+#EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN 3 (esp)[/COLOR][COLOR red] [/COLOR]
+http://199.180.114.174:8000/espn3.m3u8
+
 #EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (br)[/COLOR][COLOR red] [/COLOR]
 http://srvlon1.hostseven.org:1935/live/fut12/livestream.m3u8
+
 #EXTINF:-1 tvg-logo="ESPN UK.png",[COLOR lawngreen]ESPN (esp)[/COLOR][COLOR red] [/COLOR]
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="ESPN2 USA.png",[COLOR lawngreen]ESPN 2 (esp)[/COLOR][COLOR red] [/COLOR]
