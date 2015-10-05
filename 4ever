@@ -20,7 +20,7 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlis
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="MEO",[COLOR lawngreen] RTP 2 [/COLOR]
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]| RTP3 |[COLOR red] ON [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]|[/B] RTP3 [B]|[/B] [COLOR red] ON [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
 
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="MEO",[COLOR lawngreen] RTP INTERNACIONAL [/COLOR]
@@ -66,9 +66,9 @@ http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="MEO",[COLOR lawngreen] TVI 24 [/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR lawngreen][B]| A QUINTA |[COLOR red]OFF [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR lawngreen][B]|[/B]  A QUINTA [B]|[/B] [COLOR red]OFF [/B][/COLOR]
 rtmp://37.72.171.94:80/pub playpath=dlyFrtrRxgmfcVtBEMCQ  swfUrl=http://www.castto.me/_.swf  pageUrl=http://static.castto.me/embed.php?channel=600820037&vw=620&vh=380 token=#ed%h0#w@1
-#EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR lawngreen][B]| A QUINTA |[COLOR red] OFF [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR lawngreen][B]|[/B]  A QUINTA [B]|[/B] [COLOR red] ON [/B][/COLOR]
 rtmp://62.210.82.241:1935/liverepeat playpath=TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf  pageUrl=http://direct-stream.biz/embednews.php?channel=600820037&vw=620&vh=380 token=#ed%h0#w@1
 #EXTINF:-1 tvg-id="TPA" tvg-logo="tpa.png" group-title="MEO",[COLOR lawngreen] TPA [/COLOR]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
