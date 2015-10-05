@@ -20,9 +20,11 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlis
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="MEO",[COLOR lawngreen] RTP 2 [/COLOR]
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]|[/B] RTP3 [B]|[/B] [COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]|[/B] RTP3 [B]|[/B] [COLOR red] [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]|[/B] RTP3 [B]|[/B] [COLOR red]  [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]|[/B] RTP3 [B]|[/B] [COLOR red] ON [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]|[/B] RTP3 [B]|[/B] [COLOR red] [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="MEO",[COLOR lawngreen] RTP INTERNACIONAL [/COLOR]
@@ -35,8 +37,6 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playl
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="RTP Acores.png" group-title="MEO",[COLOR lawngreen] RTP AÇORES [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp_informacao.png" group-title="MEO",[COLOR lawngreen] RTP INFORMAÇÃO [/COLOR]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="MEO",[COLOR lawngreen] SIC [/COLOR][COLOR red]TEMP[/COLOR]
 http://skyiptv.ddns.net:8000/live/batman/batman/426.ts
