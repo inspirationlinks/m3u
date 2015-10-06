@@ -360,8 +360,6 @@ rtmp://31.220.0.72/pull playpath=liga258?keys=scP3bTn_Hbt8eGnBSSp_RA&keyt=144323
 
 #EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV (br)[/COLOR][COLOR red] [/COLOR]
 http://95.211.186.215:8081/loadbalance/slv0/playlist.m3u8
-#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV (2 opç)[/COLOR][COLOR red] [/COLOR]
-http://62.210.88.233:1935/liverepeat/201020/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1.nl" tvg-logo="sport 1 voetbal.png" group-title="DESPORTO",[COLOR lawngreen] SPORT1 VOETBAL [/COLOR][COLOR red]OFF[/COLOR]
 http://bit.do/bmAQ5
@@ -746,15 +744,17 @@ rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 1 (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV 1 (br)[/COLOR][COLOR red] [/COLOR]
 http://62.210.88.233:1935/liverepeat/201020/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 1 (2 opc)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORVT 1 (2v)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob05/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 2 (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV (3v)[/COLOR][COLOR red] [/COLOR]
+http://live-cdn.direct-stream.org:1935/liverepeat/201020/IPTVGLOBAL.m3u8
+#EXTINF:-1 tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV 2 (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob06/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 2 (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV 2 (2v)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob06/live.m3u8
-#EXTINF:-1 tvg-logo="SporTV 3.png" group-title="BRA&IT",[COLOR lawngreen]SPOR TV 3 (br)[/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="SporTV 3.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV 3 (3v)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
