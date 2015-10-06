@@ -9,6 +9,9 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES|[COLOR yellow]| RECENTEMENTE AD |[/B] [/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="AXN HD.png" group-title="MEO",[COLOR lawngreen] AXN (esp)[/COLOR]
+http://192.240.113.42:1935/live/canal019.stream/playlist.m3u8?username=.agustin&password=123
+
 #EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
 rtmp://31.220.40.59/pull/historia45?keys=R5pF6_3vyWNC4NjQnEgCaQ&keyt=1443276633 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
