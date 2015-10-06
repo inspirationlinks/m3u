@@ -1,13 +1,19 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 6 Outubro | 15.20H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 6 Outubro | 16.00H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 
 #############################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES|[COLOR yellow]| RECENTEMENTE AD |[/B] [/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
+rtmp://31.220.40.59/pull/historia45?keys=R5pF6_3vyWNC4NjQnEgCaQ&keyt=1443276633 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="MEO",[COLOR lawngreen] DISCOVERY (esp) [/COLOR]
+rtmp://31.220.0.72/pull/discovery1?keys=UpzcvgzQkK4hKxE2bG4hpg&keyt=1443276407 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV[/COLOR]
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
@@ -145,7 +151,7 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 
 #############################################################################################
 
-#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]|HBO[COLOR yellow] &[/COLOR] AXN[COLOR yellow] &[/COLOR] FOX [COLOR yellow]&[/COLOR] SYFY [COLOR yellow]&[/COLOR] FX |[/B][/COLOR]
+#EXTINF:-1 tvg-logo="inspiration.png" group-title="MEO",[COLOR gray91][B]|CANAIS[COLOR yellow] || [/COLOR] FILMES[COLOR yellow] || [/COLOR] SERIES |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="NBC NY.png" group-title="MEO",[COLOR lawngreen]NBC (usa)[/COLOR][COLOR red] transmite jogos [/COLOR]
@@ -203,7 +209,7 @@ http://201.161.59.7/multipremiere.isml/manifest(format=m3u8-aapl).m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| HISTORIA [COLOR yellow]&[/COLOR] NAT GEO [COLOR yellow]&[/COLOR] DISCOVERY |[/B][/COLOR]
+#EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR gray91][B]| DOCUMENTARIOS [COLOR yellow]||[/COLOR] NATUREZA [COLOR yellow]&[/COLOR] CIENCIA |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="MEO",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
