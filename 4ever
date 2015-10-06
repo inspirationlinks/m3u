@@ -1,15 +1,23 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 5 Outubro | 22.10H |[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 6 Outubro | 12.10H |[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="jerrymoz.wordpress.com" tvg-logo="ptuga.png",[COLOR yellow][B]LEGENDA:[/B][/COLOR][COLOR gray91][B] CANAIS[/COLOR][COLOR red] ON | TEST | TEMP | OFF |[/B][/COLOR]
 http://0.0.0.0:1234
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES [COLOR yellow]| ADICIONADOS RECENTEMENTE |[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="LigaNos.png" group-title="DESPORTO",[COLOR gray91][B]| NOVIDADES|[/B] [COLOR yellow]| RECENTEMENTE AD |[/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV[/COLOR]
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="MEO",[COLOR lawngreen] FOOD NETWORK (ru) [/COLOR]
+http://j.mp/ZCH_C05_FOOD_sly
+#EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="MEO",[COLOR lawngreen] FOOD NETWORK () [/COLOR]
+rtsp://54.255.155.24:1935/Live/_definst_/901901901150150250901601250901550450D139_W_50.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="TNT.png" group-title="MEO",[COLOR lawngreen] TNT (esp) [/COLOR]
 rtmp://31.220.40.40/pull/ playpath=tnt369?keys=MxK8Lb10jNtqXOS5FrPSQg&keyt=1443557895 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv
@@ -26,14 +34,8 @@ rtmp://31.220.40.61/pull/panda51?keys=dfE8J-bE1Qyyr5tAHFJBmg&keyt=1443276254 swf
 #EXTINF:-1 tvg-id="" tvg-logo="NBA TV HD.png" group-title="DESPORTO",[COLOR lawngreen] NBA LIVE [/COLOR]
 http://nbalive-lh.akamaihd.net/i/nbastarters_1@73441/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] ????? [/COLOR]
-http://iptv15.zapto.org:8000/live/freefi/2015/759.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="Premier Sports.png" group-title="DESPORTO",[COLOR lawngreen] PREMIERE LIVE (uk)  [/COLOR]
 http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1[/COLOR]
-rtmp://37.49.228.129/live playpath=ss1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1skys&vw=620&vh=490
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
 http://199.180.114.174:8000/foxs.m3u8
@@ -138,8 +140,7 @@ http://0.0.0.0:1234
 rtmp://31.220.0.155/pull playpath=cocinerita?keys=y7RuHdXWVQIlzQbmhQybSw&keyt=1443155385 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="" tvg-logo="Chef TV.png" group-title="BRA&IT",[COLOR lawngreen] CHEFE COZINHA [/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="24 Kitchen.png" group-title="MEO",[COLOR lawngreen] 24 KITCHEN [/COLOR]
-http://balkanstream.com/stream/24kitchen/hospa042/f95de998
+
 #EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="MEO",[COLOR lawngreen] Food China [/COLOR]
 rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
 
@@ -335,6 +336,7 @@ rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460
+
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="MEO",[COLOR lawngreen] BTV [COLOR yellow]&[/COLOR] SPORTV3[/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="MEO",[COLOR lawngreen] BTV2[/COLOR]
@@ -478,6 +480,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (bulgaro) [/COLOR]
