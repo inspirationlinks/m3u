@@ -22,8 +22,6 @@ http://google.pt
 #EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] =============INSPIRATION LINKS============= [/COLOR]
 http://google.pt
 #############################################################################################
-#EXTINF:-1 tvg-id="" tvg-logo="PANDA1.png" group-title="INFANTIL",[COLOR lawngreen] PANDA PT [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/225.m3u8
 
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX PT[/COLOR]
 http://tvdasogra.com:8880/live/rebolinho/jezito/278.m3u8
@@ -145,9 +143,9 @@ http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/9.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic kids.png" group-title="PORTUGAL",[COLOR lawngreen] SIC K [/COLOR][COLOR red][/COLOR]
 http://tvdasogra.com:8880/live/rebolinho/jezito/452.m3u8
 
-#EXTINF:-1 tvg-id="TVI" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
@@ -240,13 +238,13 @@ rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.igui
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="PORTUGAL",[COLOR lawngreen]HBO (br)[/COLOR]
 http://37.203.209.34:443/mobile/flash20/live.m3u8
 
-#EXTINF:-1 tvg-logo="AXN HD.png" group-title="PORTUGAL",[COLOR lawngreen] AXN (esp)[/COLOR]
+#EXTINF:-1 tvg-logo="AXN_red.jpg" group-title="PORTUGAL",[COLOR lawngreen] AXN (esp)[/COLOR]
 http://192.240.113.42:1935/live/canal019.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1 tvg-logo="AXN HD.png" group-title="PORTUGAL",[COLOR lawngreen] AXN (esp)[/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
+#EXTINF:-1 tvg-logo="AXN_red.jpg" group-title="PORTUGAL",[COLOR lawngreen] AXN (esp)[/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.2.51/pull playpath=axn9?keys=P-kdgTH5kjLQlZv2zYyFiQ&keyt=1443153343 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-logo="AXN HD.png" group-title="PORTUGAL",[COLOR lawngreen]AXN (usa)[/COLOR]
+#EXTINF:-1 tvg-logo="AXN_red.jpg" group-title="PORTUGAL",[COLOR lawngreen]AXN (usa)[/COLOR]
 http://lag2.tv-mobile.org/prgd.m3u8
-#EXTINF:-1 tvg-logo="AXN HD.png" group-title="PORTUGAL",[COLOR lawngreen]AXN (ro)[/COLOR]
+#EXTINF:-1 tvg-logo="AXN_red.jpg" group-title="PORTUGAL",[COLOR lawngreen]AXN (ro)[/COLOR]
 http://213.81.153.241/live001/channel046_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-logo="AXN White HD.png" group-title="PORTUGAL",[COLOR lawngreen] AXN White (esp)[/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://80.82.78.75/pull playpath=axnw6?keys=VoBG1MkbCmMPPySYNkB3Uw&keyt=1443154022 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
@@ -347,7 +345,9 @@ http://google.pt
 #EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================= [/COLOR]
 http://google.pt
 #############################################################################################
-#EXTINF:-1 tvg-id="" tvg-logo="PANDA1.png" group-title="INFANTIL",[COLOR lawngreen] PANDA (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-logo="PANDA1.png" group-title="INFANTIL",[COLOR lawngreen] PANDA PT [/COLOR]
+http://tvdasogra.com:8880/live/rebolinho/jezito/225.m3u8
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-logo="PANDA1.png" group-title="INFANTIL",[COLOR lawngreen] PANDA (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.40.61/pull/panda51?keys=dfE8J-bE1Qyyr5tAHFJBmg&keyt=1443276254 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="" tvg-logo="Boing.png" group-title="PORTUGAL",[COLOR lawngreen] BOING (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.0.201/pull/boing82?keys=FeUox0XPbF1bwFBhq05DxQ&keyt=1443275984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
