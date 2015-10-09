@@ -477,11 +477,6 @@ rtmp://195.154.216.55:80/liverepeater playpath=130752 swfUrl=http://cdn.deltatv.
 rtmp://195.154.216.55:80/liverepeater playpath=130753 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 5 (2 opc) [/COLOR][COLOR red] [/COLOR]
 rtmp://195.154.216.55:80/liverepeater playpath=130754 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130754&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red]  [/COLOR]
-rtmp://62.210.105.146:80/liverepeater playpath=130751 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Arena.png" group-title="DESPORTO",[COLOR lawngreen]ARENA SPORT 2 [/COLOR][COLOR red]  [/COLOR]
-http://195.154.226.186:1935/livepp/arhd2lsh/playlist.m3u8
 #############################################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
 http://0.0.0.0:1234
@@ -507,33 +502,16 @@ http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_EUROSPORT2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CHANNELS FOX [COLOR yellow]&[/COLOR] SKY SPORTS |[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1[/COLOR]
-http://alturl.com/e93kk
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1 (2 opc)[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1 [/COLOR]
 http://5.196.14.179/sipragezabava.com/sky1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 1.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 1 (3 opc)[/COLOR]
-http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
 #EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 2.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 2[/COLOR]
 http://5.196.14.179/sipragezabava.com/sky2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 3.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 3[/COLOR]
-http://alturl.com/potqg
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 3.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 3 (2 opc)[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 3.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 3 [/COLOR]
 http://5.196.14.179/sipragezabava.com/sky3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 3.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 3 (3 opc)[/COLOR]
-http://edge.ultracast.me:1935/live/sky38GYsO/playlist.m3u8?Token
-
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 4.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 4[/COLOR]
-http://alturl.com/bpmt5
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 4.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 4 (2 opc)[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 4.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 4 [/COLOR]
 http://5.196.14.179/sipragezabava.com/sky4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 5.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 5[/COLOR]
-http://alturl.com/zistr
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 5.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 5 (2 opc)[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 5.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 5 [/COLOR]
 http://5.196.14.179/sipragezabava.com/sky5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Sky Sports 5.png" group-title="DESPORTO",[COLOR lawngreen] SKY Sports 5 (3 opc)[/COLOR]
-http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fox_Deportes2010.png" group-title="DESPORTO",[COLOR lawngreen] FOX SPORT [/COLOR]
 http://199.180.114.174:8000/foxs.m3u8
@@ -1135,7 +1113,7 @@ http://94.23.76.235:9896/;stream/1
 http://stream.radio.com.pt:9496/stream
 #EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Douro Nacional [/COLOR]
 http://94.23.76.235:9996/;
-#EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio MIRA ONLINE [/COLOR][COLOR]pedido[/COLOR]
+#EXTINF:-1 radio="true"tvg-logo="radiomira.jpg" group-title="RADIOS",[COLOR lawngreen] Radio MIRA ONLINE [/COLOR][COLOR]pedido[/COLOR]
 http://185.32.188.17:8051/
 #############################################################################################
 #EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================= [/COLOR]
