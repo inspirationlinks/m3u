@@ -1,20 +1,21 @@
-
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="www.jerrymoz.wordpress.com" tvg-logo="inspiration.png",[COLOR yellow][B]| UPDATE:[COLOR gray91] 9 Outubro | 23.20H |[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com/
+#EXTINF:-1 group-title="INFO",[COLOR white][B][COLOR yellow] || [/COLOR] UPDATE [COLOR yellow] || [/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com
+#EXTINF:-1 group-title="INFO",[COLOR white][B][COLOR yellow] || [/COLOR] 9 Outubro [COLOR yellow] || [/COLOR] 13.30H [COLOR yellow] || [/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com
 #############################################################################################
-#EXTINF:-1 group-title="AVISO", [COLOR red] A LISTA NAO POSSUI NENHUM [/COLOR]
+#EXTINF:-1 group-title="AVISO",[COLOR gray91] =============INSPIRATION LINKS============= [/COLOR]
 http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] SERVIDOR. OS LINKS ESTAO DISPONIVEIS [/COLOR]
+#EXTINF:-1 group-title="AVISO", [COLOR red] A LISTA NAO POSSUI NENHUM SERVIDOR. [/COLOR]
 http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] EM PESQUIZA LIVRE NA INTERNET... [/COLOR]
+#EXTINF:-1 group-title="AVISO", [COLOR red] OS LINKS ESTÃO DISPONÍVEIS EM PESQUISA LIVRE NA INTERNET. [/COLOR]
 http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] O BLOG NAO SE RESPONSABILIZA [/COLOR]
+#EXTINF:-1 group-title="AVISO", [COLOR red]NÃO SE RESPONSABILIZA PELO USO DOS MESMOS OBRIGADO. [/COLOR]
 http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] PELO USO DOS MESMOS OBRIGADO... [/COLOR]
+#EXTINF:-1 group-title="AVISO",[COLOR gray91] =============INSPIRATION LINKS============= [/COLOR]
 http://google.pt
-##############################################################################################################################
+#############################################################################################
 #EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] =============INSPIRATION LINKS============= [/COLOR]
 http://google.pt
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] NOVIDADES [COLOR yellow] || [/COLOR] RECENTEMENTE AD [/B][/COLOR]
