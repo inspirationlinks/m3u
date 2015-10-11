@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="INFO",[COLOR white][B][COLOR yellow] || [/COLOR] UPDATE [COLOR yellow] || [/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
-#EXTINF:-1 group-title="INFO",[COLOR white][B][COLOR yellow] || [/COLOR] 11 Outubro [COLOR yellow] || [/COLOR] 14.10H [COLOR yellow] || [/COLOR][/B][/COLOR]
+#EXTINF:-1 group-title="INFO",[COLOR white][B][COLOR yellow] || [/COLOR] 11 Outubro [COLOR yellow] || [/COLOR] 22.40H [COLOR yellow] || [/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #############################################################################################
 #EXTINF:-1 group-title="AVISO",[COLOR gray91] =============INSPIRATION LINKS============= [/COLOR]
@@ -43,8 +43,6 @@ http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]|[/B] RTP3 [B]|[/B] [COLOR red] [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen][B]|[/B] RTP3 [B]|[/B] [COLOR red]  [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/483.m3u8
 
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] RTP INTERNACIONAL [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -68,8 +66,6 @@ http://213.13.26.11:1935/live/sic/inspiration.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/212.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/5.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
@@ -102,18 +98,13 @@ rtmp://62.210.88.244:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDE1IDk
 rtmp://62.210.82.241:1935/liverepeat playpath=TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf  pageUrl=http://direct-stream.biz/embednews.php?channel=600820037&vw=620&vh=380 token=#ed%h0#w@1
 #EXTINF:-1 tvg-id="" tvg-logo="aquinta.jpg",[COLOR lawngreen][B]|[/B]  A QUINTA [B]|[/B][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://62.210.88.244:1935/liverepeat playpath=TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430 timeout=15
-#EXTINF:-1 tvg-id="+TVI.pt" tvg-logo="+ Tvi.png" group-title="PORTUGAL",[COLOR lawngreen] +TVI [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/456.m3u8
 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/224.m3u8
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="",[COLOR lawngreen]CMTV[/COLOR]
 http://kuku.dyndns.tv:8000/live/fernando/fernando/31.m3u8
 
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="a_bola_tv_pt.png" group-title="PORTUGAL",[COLOR lawngreen] A BOLA TV [/COLOR]
 http://kuku.dyndns.tv:8000/live/fernando/fernando/44.m3u8
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="a_bola_tv_pt.png" group-title="PORTUGAL",[COLOR lawngreen] A BOLA TV [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/253.m3u8
+
 #EXTINF:-1 tvg-id="TPA" tvg-logo="tpa.png" group-title="PORTUGAL",[COLOR lawngreen] TPA [/COLOR]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="PORTUGAL",[COLOR lawngreen] TCV iNTERNACIONAL [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
@@ -146,56 +137,23 @@ http://bit.ly/1FYPhhB
 #EXTINF:-1 tvg-logo="Fox Crime HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX CRIME PT[/COLOR]
 http://bit.ly/1L6c8Xr
 
-#EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PORTUGAL",[COLOR lawngreen] TVC1 [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/262.m3u8
-#EXTINF:-1 tvg-id="TVC 2" tvg-logo="TV Cine 2.png" group-title="PORTUGAL",[COLOR lawngreen] TVC2 [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/263.m3u8
-#EXTINF:-1 tvg-id="TVC 3" tvg-logo="TV Cine 3.png" group-title="PORTUGAL",[COLOR lawngreen] TVC3 [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/264.m3u8
-#EXTINF:-1 tvg-id="TVC 4" tvg-logo="TV Cine 4.png" group-title="PORTUGAL",[COLOR lawngreen] TVC4 [/COLOR] 
-http://tvdasogra.com:8880/live/rebolinho/jezito/265.m3u8 
-#EXTINF:-1 tvg-id="TVC S" tvg-logo="tvcine5.jpg" group-title="PORTUGAL",[COLOR lawngreen] TVC S [/COLOR] 
-http://tvdasogra.com:8880/live/rebolinho/jezito/469.m3u8
-#EXTINF:-1 tvg-id="TVC 4" tvg-logo="tvcine5.jpg" group-title="PORTUGAL",[COLOR lawngreen] CINE MUNDO [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/244.m3u8
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/1.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/453.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 [/COLOR][COLOR red][/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/255.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/256.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/257.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/258.m3u8
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5[/COLOR]
 http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/24.m3u8
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
 http://bit.ly/1FYPnG1
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/463.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/259.m3u8
+
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
 http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/32.m3u8
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
 http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/30.m3u8s
-#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/260.m3u8
+
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2[/COLOR]
 http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/31.m3u8
  
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR]
 http://tvdasogra.com:8880/live/rebolinho/jezito/261.m3u8
 
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORT 1 ALEMANHA [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/480.m3u8
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sky_uk_sports.png" group-title="DESPORTO",[COLOR lawngreen] SKY SPORT 2 ALEMANHA [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/481.m3u
 ########################################################################################################################
 #EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================= [/COLOR]
 http://google.pt
