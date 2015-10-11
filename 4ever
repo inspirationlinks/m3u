@@ -133,16 +133,18 @@ http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="PORTUGAL",[COLOR lawngreen]WEATHER CHANNEL (can)[/COLOR]
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="PORTUGAL",[COLOR lawngreen]WEATHER CHANNEL (usa)[/COLOR]
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="Fuel TV.png" group-title="PORTUGAL",[COLOR lawngreen]FUEL TV PT[/COLOR]
-http://tvtugaxtream.mine.nu:8000/live/teste/teste/51.m3u8
+http://bit.ly/1hy51w7
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-logo="Fox HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX PT[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/278.m3u8
+http://bit.ly/1Nz3IvA
 #EXTINF:-1 tvg-logo="Fox Life HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX LIFE PT[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/229.m3u8
+http://bit.ly/1FYPhhB
 #EXTINF:-1 tvg-logo="Fox Crime HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX CRIME PT[/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/461.m3u8
+http://bit.ly/1L6c8Xr
 
 #EXTINF:-1 tvg-id="TVC 1" tvg-logo="TV Cine 1.png" group-title="PORTUGAL",[COLOR lawngreen] TVC1 [/COLOR]
 http://tvdasogra.com:8880/live/rebolinho/jezito/262.m3u8
@@ -388,8 +390,7 @@ http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3
 
 #EXTINF:-1 tvg-id="" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR lawngreen] DISNEY CHANNEL (usa) [/COLOR]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/89.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="123Sesame_Street.png" group-title="INFANTIL",[COLOR lawngreen] 123 SESAME STREET [/COLOR]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/76.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="Cartoon Network UK.png" group-title="INFANTIL",[COLOR lawngreen] Cartoon Network (usa) [/COLOR]
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="Cartoon Network UK.png" group-title="PORTUGAL",[COLOR lawngreen]Cartoon Network (usa)[/COLOR][COLOR red][/COLOR]
