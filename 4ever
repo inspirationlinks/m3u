@@ -66,8 +66,6 @@ http://213.13.26.11:1935/live/sic/inspiration.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/5.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
@@ -137,22 +135,9 @@ http://bit.ly/1FYPhhB
 #EXTINF:-1 tvg-logo="Fox Crime HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX CRIME PT[/COLOR]
 http://bit.ly/1L6c8Xr
 
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5[/COLOR]
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/24.m3u8
-
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
 http://bit.ly/1FYPnG1
 
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/32.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/30.m3u8s
-
-#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2[/COLOR]
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/31.m3u8
- 
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR lawngreen] SPORTING TV [/COLOR]
-http://tvdasogra.com:8880/live/rebolinho/jezito/261.m3u8
 
 ########################################################################################################################
 #EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================= [/COLOR]
@@ -1085,8 +1070,7 @@ http://google.pt
 #EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================= [/COLOR]
 http://google.pt
 #############################################################################################
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sex hot.png" group-title="DESPORTO",[COLOR lawngreen] HOT TV [/COLOR]
-http://clikmega.blogdns.net:9511/live/joserebolinho/quality2000/259.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] SCT [/COLOR]
 rtmp://31.220.0.66/pull playpath=xxx1?keys=w20u-coQrP_XNoVjiU1pxw&keyt=1443233037 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] ???[/COLOR]
