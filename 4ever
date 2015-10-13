@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="INFO",[COLOR white][B][COLOR yellow] || [/COLOR] UPDATE [COLOR yellow] || [/COLOR][/B][/COLOR]
+#EXTINF:-1 group-title="INFO",[COLOR white][B][COLOR yellow] || [/COLOR] UPDATE 12-10-15 [COLOR yellow] || [/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
-#EXTINF:-1 group-title="AVISO",[COLOR gray91] =============INSPIRATION LINKS============= [/COLOR]
+#EXTINF:-1 group-title="AVISO",[COLOR gray91] ========================== [/COLOR]
 http://google.pt
 #EXTINF:-1 group-title="AVISO", [COLOR red] A LISTA NAO POSSUI NENHUM SERVIDOR. [/COLOR]
 http://google.pt
@@ -11,18 +11,18 @@ http://google.pt
 http://google.pt
 #EXTINF:-1 group-title="AVISO", [COLOR red]NÃO SE RESPONSABILIZA PELO USO DOS MESMOS OBRIGADO. [/COLOR]
 http://google.pt
-#EXTINF:-1 group-title="AVISO",[COLOR gray91] =============INSPIRATION LINKS============= [/COLOR]
+#EXTINF:-1 group-title="AVISO",[COLOR gray91] ========================== [/COLOR]
 http://google.pt
 #############################################################################################
-#EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] =============INSPIRATION LINKS============= [/COLOR]
+#EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================== [/COLOR]
 http://google.pt
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] NOVIDADES [COLOR yellow] || [/COLOR] RECENTEMENTE AD [/B][/COLOR]
 http://google.pt
-#EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] =============INSPIRATION LINKS============= [/COLOR]
+#EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================== [/COLOR]
 http://google.pt
-##############################################################################################################################
+##############################################################################################
 
-###############################################################################################################
+##############################################################################################
 #EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================= [/COLOR]
 http://google.pt
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] PACOTE [COLOR yellow] || [/COLOR] FIXO [/B][/COLOR]
@@ -298,12 +298,10 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1[/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1 (2 opc)[/COLOR]
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
+
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2[/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2 (2 opc)[/COLOR][COLOR red][/COLOR]
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
+
 #EXTINF:-1 tvg-id="sporttv3.pt tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3[/COLOR]
 rtmp://209.95.46.115:1935/stream/ playpath=jJyBo1519y0yBo7ol7yTf.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV3 & BTV2[/COLOR]
@@ -318,8 +316,6 @@ rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460
 
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [COLOR yellow]&[/COLOR] SPORTV3[/COLOR]
-rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d318g307sp7582l318on881x7582ib7582b586pp7582l318op7582l318op7582l318od318g307sn307h116o&width=600&height=460
 
@@ -591,11 +587,11 @@ rtmp://50.7.129.202/karadeniztv/karadeniz2
 #EXTINF:-, [COLOR lawngreen]TRT 1 HD [/COLOR][COLOR red]NEW[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #############################################################################################
-#EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] =============INSPIRATION LINKS============= [/COLOR]
+#EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================== [/COLOR]
 http://google.pt
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] CHANNELS [COLOR yellow] || [/COLOR] ITALIANOS [COLOR yellow]&[/COLOR] BRASILEIROS [/B][/COLOR]
 http://google.pt
-#EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] =============INSPIRATION LINKS============= [/COLOR]
+#EXTINF:-1 group-title="PORTUGAL",[COLOR yellow] ========================== [/COLOR]
 http://google.pt
 #############################################################################################
 #EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="RAI 1.png" group-title="BRA&IT",[COLOR lawngreen] RAI 1 [/COLOR]
