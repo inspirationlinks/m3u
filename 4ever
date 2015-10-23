@@ -209,6 +209,8 @@ http://skyiptv.ddns.net:8000/live/batman/batman/512.ts
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
 #EXTINF:-1 tvg-logo="HBO Plus.png" group-title="PORTUGAL",[COLOR lawngreen]HBO (br)[/COLOR]
 http://37.203.209.34:443/mobile/flash20/live.m3u8
+#EXTINF:-1 tvg-logo="HBO Plus.png" group-title="PORTUGAL",[COLOR lawngreen]HBO (usa)[/COLOR]
+http://skyiptv.ddns.net:8000/live/batman/batman/514.ts
 
 #EXTINF:-1 tvg-logo="AXN_red.jpg" group-title="PORTUGAL",[COLOR lawngreen] AXN (esp)[/COLOR]
 http://192.240.113.42:1935/live/canal019.stream/playlist.m3u8?username=.agustin&password=123
