@@ -6,7 +6,7 @@ http://jerrymoz.wordpress.com
 http://jerrymoz.wordpress.com
 #EXTINF:-1, Esta lista actualmente é disponibilizada de forma free para todos e para quem a quiser utilizar Para os restantes que tinham acesso a esta lista antes de ficar free entre em contacto comigo no chat do facebook ou por email ou no blog
 http://jerrymoz.wordpress.com
-#EXTINF:-1, Se pretenderem ter uma lista mais completa que deixem um comentario num post qualquer no blog
+#EXTINF:-1, Se pretenderem ter uma lista mais completa que deixem um comentario num post qualquer no blog ou por email jerrymoz@live.com.pt
 https://jerrymoz.wordpress.com/
 ###############################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] PORTUGUESES CHANNELS [/B][/COLOR]
@@ -242,8 +242,6 @@ http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo=".png" group-title="PORTUGAL",[COLOR lawngreen]MULTI PREMIERE (esp)[/COLOR]
 http://201.161.59.7/multipremiere.isml/manifest(format=m3u8-aapl).m3u8
 ############################################################################################################################################################
-
-############################################################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="PORTUGAL",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
 http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="PORTUGAL",[COLOR lawngreen] HISTORIA (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
@@ -277,7 +275,7 @@ http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 http://sall1.homelinux.net:80/live?channelId=76&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
 
 ######################################################################################################################
-
+#EXTINF:-1 [COLOR white][B]toros & caça e pesca[/B][/COLOR]
 ######################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PORTUGAL",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red]  [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443849069 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
@@ -285,7 +283,7 @@ rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443
 #EXTINF:-1 tvg-id="CaçaVision" tvg-logo="iberalia.jpg" group-title="PORTUGAL",[COLOR lawngreen] CAZA&PESCA IBERALIA [/COLOR][COLOR red][/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #####################################################################################################################
-
+#EXTINF:-1 [COLOR white][B]infantis[/B][/COLOR]
 #####################################################################################################################
 
 
@@ -410,8 +408,6 @@ mms://tv.autohoje.com/mpltv
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] FIGHT WWE UFC [/B][/COLOR]
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] THE FIGHT [/COLOR]
-http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="thefight.png" group-title="FIGHT & WWE",[COLOR lawngreen] FIGHT (Romania) [/COLOR]
@@ -424,8 +420,7 @@ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt (rus) [/COLOR]
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt 1 (rus) [/COLOR]
-http://4BA9EBDB07C05883@5.159.96.170:8000/sport1
+
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 1 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия (ru) [/COLOR]
@@ -651,79 +646,7 @@ http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
 http://teleclub.fr/musicbox.mp4?sd=10&_Maghrebstar.com_rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="sportime.png" group-title="MUSICA",[COLOR lawngreen] SPORT TIME MUSIC [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#############################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] ESTAÇOES RADIO [/B][/COLOR]
-#############################################################################################
-#EXTINF:-1 radio="true" tvg-id="golofm.pt" tvg-logo="GOLOFM.png",[COLOR lawngreen] GOLO FM [/COLOR]
-http://176.9.88.190:9992/;
-#EXTINF:-1 radio="true" tvg-logo="ra.png",[COLOR lawngreen] Radio Atlântida [/COLOR][COLOR red] NEW [/COLOR]
-http://94.23.76.235:9926
-#EXTINF:-1 radio="true" tvg-logo="MyTopFm.png",[COLOR lawngreen] MyTopFm SM [/COLOR][COLOR red] NEW [/COLOR]
-http://195.8.58.150:35006/
-#EXTINF:-1 radio="true" tvg-logo="MyTopFm.png",[COLOR lawngreen] MyTopFm Terceira [/COLOR][COLOR red] NEW [/COLOR]
-http://195.8.58.150:35008/
-#EXTINF:-1 radio="true" tvg-logo="canalfm.jpg",[COLOR lawngreen] Canal FM [/COLOR][COLOR red] NEW [/COLOR]
-http://centova.radio.com.pt:9466/
-#EXTINF:-1 radio="true" tvg-logo="c.png",[COLOR lawngreen] TREEHOUSE [/COLOR][COLOR red] NEW [/COLOR]
-http://4.31.30.159:9091
-#EXTINF:-1 radio="true" tvg-logo="itv.jpg",[COLOR lawngreen] YTV [/COLOR][COLOR red] NEW [/COLOR]
-http://4.31.30.159:9001
-#EXTINF:-1 radio="true"tvg-logo="Cidade FM.png" group-title="RADIOS",[COLOR lawngreen] CIDADE FM [/COLOR][COLOR red] [/COLOR]
-rtmp://195.23.102.208/cidadefmlc/ playpath=cidadefmlc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-cidade-fm
-#EXTINF:-1 radio="true"tvg-logo="radiomeomusicweb.png",[COLOR lawngreen] PORTUGAL SW [/COLOR][COLOR red] NEW [/COLOR]
-http://centova.radios.pt:8495/;
-#EXTINF:-1 radio="true"tvg-logo="vodafonefm.jpg",[COLOR lawngreen] VODAFONE FM [/COLOR][COLOR red] NEW [/COLOR]
-rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
-#EXTINF:-1 radio="true"tvg-logo="rfmclubbing.png",[COLOR lawngreen] RFM CLUBBING [/COLOR]
-http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
-#EXTINF:-1 radio="true"tvg-logo="rfm.png",[COLOR lawngreen] RFM [/COLOR]
-http://7719.live.streamtheworld.com/RFM_SC
-#EXTINF:-1 radio="true"tvg-logo="rfm.png",[COLOR lawngreen] RFM Oceano Pacifico [/COLOR]
-http://7749.live.streamtheworld.com:3690/OCEANPACIFIC_SC
-#EXTINF:-1 radio="true"tvg-logo="rfm 80.png" group-title="RADIOS",[COLOR lawngreen] RFM 80s [/COLOR]
-http://7749.live.streamtheworld.com:3690/GR80SRFM_SC
-#EXTINF:-1 radio="true"tvg-logo="m80 Radio.png" group-title="RADIOS",[COLOR lawngreen] Radio M80 [/COLOR]
-http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
-#EXTINF:-1 radio="true"tvg-logo="top80.png" group-title="RADIOS",[COLOR lawngreen] Radio TOP 80 [/COLOR]
-http://live.top80.fm:8086/;
-#EXTINF:-1 radio="true"tvg-logo="Radio_Comercial.png" group-title="RADIOS",[COLOR lawngreen] Radio COMERCIAL [/COLOR]
-mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
-#EXTINF:-1 radio="true"tvg-logo="Radio-Nova-Era.jpg" group-title="RADIOS",[COLOR lawngreen] NOVA ERA [/COLOR]
-http://stream.radio.com.pt:9478/stream
-#EXTINF:-1 radio="true"tvg-logo="94 FM.jpg" group-title="RADIOS",[COLOR lawngreen] R94 FM [/COLOR]
-http://195.8.58.150:35022/;stream.nsv
-#EXTINF:-1 radio="true"tvg-logo="super.png" group-title="RADIOS",[COLOR lawngreen] SUPER FM [/COLOR]
-http://94.23.76.235:9956/
-#EXTINF:-1 radio="true"tvg-logo="hiper.png" group-title="RADIOS",[COLOR lawngreen] HIPER FM [/COLOR]
-http://85.25.73.243:10460/
-#EXTINF:-1 radio="true"tvg-logo="logo Total.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Total Fm [/COLOR]
-http://94.126.173.23:8000/;stream/1
-#EXTINF:-1 radio="true"tvg-logo="Antena 1.png" group-title="RADIOS",[COLOR lawngreen] Radio ANTENA 1 [/COLOR]
-mms://195.245.168.21/antena1
-#EXTINF:-1 radio="true"tvg-logo="Antena 2.png" group-title="RADIOS",[COLOR lawngreen] Radio ANTENA 2 [/COLOR]
-mms://195.245.168.21/antena2
-#EXTINF:-1 radio="true"tvg-logo="Antena 3.png" group-title="RADIOS",[COLOR lawngreen] Radio ANTENA 3 [/COLOR]
-mms://195.245.168.21/antena3
-#EXTINF:-1 radio="true"tvg-logo="orbital.jpg" group-title="RADIOS",[COLOR lawngreen] Radio ORBITAL [/COLOR]
-http://195.23.85.126:8401/1
-#EXTINF:-1 radio="true"tvg-logo="renascenca.png" group-title="RADIOS",[COLOR lawngreen] Radio RENASCENÇA [/COLOR]
-http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
-#EXTINF:-1 radio="true"tvg-logo="megafm.png" group-title="RADIOS",[COLOR lawngreen] MEGA FM [/COLOR]
-http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
-#EXTINF:-1 radio="true"tvg-logo="VIVA80.jpg" group-title="RADIOS",[COLOR lawngreen] Radio VIVA 80 [/COLOR]
-http://streaming.radionomy.com/VIVA80
-#EXTINF:-1 radio="true"tvg-logo="Radio Lusitania.png" group-title="RADIOS",[COLOR lawngreen] Rádio RLCB Dance [/COLOR]
-http://rlcbdance.no-ip.org:8431/;
-#EXTINF:-1 radio="true"tvg-logo="radio.jpg" group-title="RADIOS",[COLOR lawngreen] WHMSonic AutoDJ [/COLOR]
-http://72.55.156.247:9734/;stream.nsv
-#EXTINF:-1 radio="true"tvg-logo="cascais.jpg" group-title="RADIOS",[COLOR lawngreen] 105 CASCAIS [/COLOR]
-http://94.23.76.235:9896/;stream/1
-#EXTINF:-1 radio="true"tvg-logo="Radio-Amalia.jpg" group-title="RADIOS",[COLOR lawngreen] RADIO AMALIA [/COLOR]
-http://stream.radio.com.pt:9496/stream
-#EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Douro Nacional [/COLOR]
-http://94.23.76.235:9996/;
-#EXTINF:-1 radio="true"tvg-logo="radiomira.jpg" group-title="RADIOS",[COLOR lawngreen] Radio MIRA ONLINE [/COLOR][COLOR]pedido[/COLOR]
-http://185.32.188.17:8051/
+
 #############################################################################################
 #EXTINF:-1,[COLOR white][B] PRAIAS DE PORTUGAL [/B][/COLOR]
 http://0.0.0.0:1234
@@ -819,33 +742,6 @@ rtmp://213.13.26.43/live playpath=vilamoura.stream swfUrl=https://js.sapo.pt/Pro
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] ADULTO XXX [/B][/COLOR]
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] SCT [/COLOR]
-rtmp://31.220.0.66/pull playpath=xxx1?keys=w20u-coQrP_XNoVjiU1pxw&keyt=1443233037 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] ???[/COLOR]
-http://188.165.220.116:8081/live2/36/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] BRAZZERS EUROPE [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] PRIVATE [/COLOR]
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] PRIVATE [/COLOR]
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] bsx24 [/COLOR]
-http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] PASSI XXX [/COLOR]
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] ADULT TOP PREMIUM [/COLOR]
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] ADULT 1 [/COLOR]
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] OLAOLA [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] JASMIN CHANNEL [/COLOR]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] BELLA CLUB [/COLOR]
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] EVT 2 [/COLOR]
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
 #EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] Bollywood Bikini TV [/COLOR]
 http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] HOT 100 [/COLOR]
@@ -856,3 +752,4 @@ http://46.249.213.93/iPhone/broadcast/hotshots-iphone.3gp/hotshots-iphone.3gp-mr
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Adult.png" group-title="PORN XXX",[COLOR lawngreen] JAPAO HOT [/COLOR]
 rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1, quer mais canais?? jerrymoz@live.com.pt
