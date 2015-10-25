@@ -7,7 +7,7 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1, Esta lista actualmente é disponibilizada de forma free para todos e para quem a quiser utilizar Para os restantes que tinham acesso a esta lista antes de ficar free entre em contacto comigo no chat do facebook ou por email ou no blog
 http://jerrymoz.wordpress.com
 #EXTINF:-1, Se pretenderem ter uma lista mais completa que deixem um comentario num post qualquer no blog ou por email jerrymoz@live.com.pt
-https://jerrymoz.wordpress.com/
+http://jerrymoz.wordpress.com
 ###############################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] PORTUGUESES CHANNELS [/B][/COLOR]
 ###############################################################################################################
@@ -73,11 +73,11 @@ rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sa
 #EXTINF:-1 tvg-id="" tvg-logo="TVAgueda.png" group-title="PORTUGAL",[COLOR lawngreen] AGUEDA TV [/COLOR]
 http://agueda.tv:1756/stream.flv
 
+#EXTINF:-1 tvg-id="" tvg-logo="CNBC.png" group-title="PORTUGAL",[COLOR lawngreen] CNBC (usa) [/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="English Club.png" group-title="PORTUGAL",[COLOR lawngreen] English Club tv (usa) [/COLOR]
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="PORTUGAL",[COLOR lawngreen]WEATHER CHANNEL (can)[/COLOR]
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="PORTUGAL",[COLOR lawngreen]WEATHER CHANNEL (usa)[/COLOR]
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
@@ -90,7 +90,6 @@ rtmp://31.220.0.155/pull playpath=cocinerita?keys=y7RuHdXWVQIlzQbmhQybSw&keyt=14
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="PORTUGAL",[COLOR lawngreen] FOOD NETWORK (ru) [/COLOR]
 http://j.mp/ZCH_C05_FOOD_sly
-
 #EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="PORTUGAL",[COLOR lawngreen] Food China [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
 #################################################################################################################
@@ -184,11 +183,6 @@ http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELE ANTILLHAS [/COLOR]
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
-
-#EXTINF:-1 tvg-logo="NBC NY.png" group-title="PORTUGAL",[COLOR lawngreen]NBC (usa)[/COLOR][COLOR red] transmite jogos [/COLOR]
-http://192.99.147.19:5808/nbchdguys/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="CNBC.png" group-title="PORTUGAL",[COLOR lawngreen] CNBC (usa) [/COLOR]
-http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="TNT.png" group-title="PORTUGAL",[COLOR lawngreen] TNT (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.40.40/pull/ playpath=tnt369?keys=MxK8Lb10jNtqXOS5FrPSQg&keyt=1443557895 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv
@@ -286,7 +280,6 @@ rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=144
 #EXTINF:-1 [COLOR white][B]infantis[/B][/COLOR]
 #####################################################################################################################
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="Zoomoo.png" group-title="INFANTIL",[COLOR lawngreen] ZOOMOO (br) [/COLOR]
 http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="Baby First.png" group-title="PORTUGAL",[COLOR lawngreen]Baby TV (uk)[/COLOR]
@@ -346,8 +339,6 @@ rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 rtmp://
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2 - mais inf. jerrymoz@live.com.pt [/COLOR]
 rtmp://
-#EXTINF:-1 tvg-id="sport1.nl" tvg-logo="telekanal_futbol.png" group-title="DESPORTO",[COLOR lawngreen]TELEKANAL[/COLOR][COLOR red] LIGA PT [/COLOR]
-http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
 
 #############################################################################################
 #EXTINF:-1, abu dhabi sport
