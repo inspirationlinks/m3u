@@ -271,6 +271,8 @@ rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 rtmp://
 #############################################################################################
 
+#EXTINF:-1, trace sports
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
 #EXTINF:-1, abu dhabi sport
 http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
 #EXTINF:-1, abu dhabi sport
@@ -286,10 +288,8 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
 http://fr456.edem.tv/iptv/9HA4DK4R2PY23A/539/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2(AR) [/COLOR]
 rtmp://195.154.162.157:80/liverepeater playpath=132689 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132689&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 
