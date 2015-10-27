@@ -214,45 +214,18 @@ rtmp://80.82.78.75/pull playpath=axnw6?keys=VoBG1MkbCmMPPySYNkB3Uw&keyt=14431540
 #EXTINF:-1 tvg-logo="AXN White HD.png" group-title="PORTUGAL",[COLOR lawngreen] AXN White 2 (esp)[/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.40.40/pull playpath=axnw6?keys=_HOZ-Hwr5arL7wRdno1zQg&keyt=1443609027 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 
-#EXTINF:-1 tvg-logo="Fox HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX (esp)[/COLOR]
-http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="Fox HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX HQ (esp)[/COLOR]
-http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="Fox Life HD.png" group-title="PORTUGAL",[COLOR lawngreen]FOX LIFE (esp)[/COLOR]
-http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-logo="SYFY HD.png" group-title="PORTUGAL",[COLOR lawngreen]SYFY (esp)[/COLOR]
-http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="FXX HD.png" group-title="PORTUGAL",[COLOR lawngreen]FX (esp)[/COLOR]
-http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="Warner.png" group-title="PORTUGAL",[COLOR lawngreen]WARNER (esp)[/COLOR]
-http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="E! HD.png" group-title="PORTUGAL",[COLOR lawngreen]E! (esp)[/COLOR]
-http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="PORTUGAL",[COLOR lawngreen]DHE (esp)[/COLOR]
-http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="PORTUGAL",[COLOR lawngreen]MULTI PREMIERE (esp)[/COLOR]
-http://201.161.59.7/multipremiere.isml/manifest(format=m3u8-aapl).m3u8
 ############################################################################################################################################################
-#EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="PORTUGAL",[COLOR lawngreen] HISTORIA (esp) [/COLOR]
-http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Historia.png" group-title="PORTUGAL",[COLOR lawngreen] HISTORIA (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
-rtmp://31.220.40.59/pull/historia45?keys=R5pF6_3vyWNC4NjQnEgCaQ&keyt=1443276633 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
 #EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="PORTUGAL",[COLOR lawngreen] DISCOVERY (esp) [/COLOR]
 rtmp://31.220.0.72/pull/discovery1?keys=UpzcvgzQkK4hKxE2bG4hpg&keyt=1443276407 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="PORTUGAL",[COLOR lawngreen] NAT GEO PT [/COLOR]
-http://skyiptv.ddns.net:8000/live/batman/batman/431.ts
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="PORTUGAL",[COLOR lawngreen] NAT GEO (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.0.201/pull/ playpath=natgeo36?keys=FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=770&height=410
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="PORTUGAL",[COLOR lawngreen] NAT GEO (chileno) [/COLOR]
-http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Discovery Science.png" group-title="PORTUGAL",[COLOR lawngreen] Science & Vie TV (uk&bul) [/COLOR]
 http://lag2.tv-mobile.org/prgi.m3u8
-
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PORTUGAL",[COLOR lawngreen] NAT GEO WILD (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.0.201/pull/ playpath=natgeowilde?keys=NImzKx0PLPUHT8Knl3u52Q&keyt=1443154779&keyt=1442097163 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=770&height=410
-
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PORTUGAL",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
 http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 
@@ -261,6 +234,7 @@ http://sall1.homelinux.net:80/live?channelId=76&uid=851&deviceUser=stalker387NAR
 
 ######################################################################################################################
 #EXTINF:-1 [COLOR white][B]toros & caça e pesca[/B][/COLOR]
+http://
 ######################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="PORTUGAL",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red]  [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443849069 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
@@ -269,6 +243,7 @@ rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 ############################################################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] DESPORTO NACIONAL & INTERNACIONAL [/B][/COLOR]
+http://
 #############################################################################################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
@@ -296,21 +271,28 @@ rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 rtmp://
 #############################################################################################
 
-
 #EXTINF:-1, abu dhabi sport
 http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
 #EXTINF:-1, abu dhabi sport
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="inspiration.png" group-title="DESPORTO",[COLOR gray91][B]| CANAIS EUROSPORT |[/B][/COLOR]
-http://0.0.0.0:1234
+#############################################################################################
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
-rtmp://31.220.0.139/pull/eurosprt?keys=f-Wgejlh05rwyFFBjmNm1w&keyt=1443469836 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
+rtmp://31.220.0.134/pull/euresp?keys=UcDHN2JANNJ8WcurJBrK9A&keyt=1444742618 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (RU) [/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
+http://fr456.edem.tv/iptv/9HA4DK4R2PY23A/539/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2(AR) [/COLOR]
+rtmp://195.154.162.157:80/liverepeater playpath=132689 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132689&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+
 
 #############################################################################################
 
@@ -327,6 +309,11 @@ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel 1 Russia" tvg-logo="Cnopt-1.jpg" group-title="DESPORTO",[COLOR lawngreen] Cnopt (rus) [/COLOR]
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] RUSSO SPORT 1 [/COLOR]
+http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] RUSSO SPORT 1 [/COLOR]
+http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 1 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
