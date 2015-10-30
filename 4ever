@@ -36,7 +36,7 @@ rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/
 #EXTINF:-1, [COLOR white][B] SPORTING VS ESTORIL [/B][/COLOR] SATURDAY 20.45H 
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #################################################################################################################################### 
-#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] PORTUGUESES CHANNELS [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B] PORTUGUESES CHANNELS [/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR lawngreen] RTP1 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
@@ -111,7 +111,8 @@ http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 ########################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR white][B] CHANNELS GASTRONOMICOS [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR yellow][B] CHANNELS GASTRONOMICOS [/B][/COLOR]
+http://jerrymoz.wordpress.com 
 ########################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="24 Kitchen.png" group-title="GASTRONOMIA"",[COLOR lawngreen] CANAL COCINA [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.0.155/pull playpath=cocinerita?keys=y7RuHdXWVQIlzQbmhQybSw&keyt=1443155385 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
@@ -122,7 +123,8 @@ http://j.mp/ZCH_C05_FOOD_sly
 #EXTINF:-1 tvg-id="" tvg-logo="Food HD.png" group-title="GASTRONOMIA"",[COLOR lawngreen] Food China [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
 ######################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR white][B]toros & caça e pesca[/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR yellow][B]toros & caça e pesca[/B][/COLOR]
+http://jerrymoz.wordpress.com 
 ######################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="canalplus_es_toros.png" group-title="TOROS&CAZA&PESCA",[COLOR lawngreen] CANAL+ TOROS [/COLOR][COLOR red]  [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
 rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443849069 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
@@ -131,8 +133,8 @@ rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 ############################################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B] DESPORTO NACIONAL & INTERNACIONAL [/B][/COLOR]
-http://
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B] DESPORTO NACIONAL & INTERNACIONAL [/B][/COLOR]
+http://jerrymoz.wordpress.com 
 #############################################################################################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
@@ -218,7 +220,8 @@ http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 
 #################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B] CHANNELS HISPANICOS [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS HISPANICOS [/B][/COLOR]
+http://jerrymoz.wordpress.com 
 #################################################################################################################
 #EXTINF:-1 tvg-logo="canalplus_es_dcine.png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL CINE[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
@@ -356,7 +359,8 @@ http://38.99.146.36:7777/ADNatGeo_HD.m3u8
 http://sall1.homelinux.net:80/live?channelId=76&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
 
 #############################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B] CHANNELS TURCOS [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B] CHANNELS TURCOS [/B][/COLOR]
+http://jerrymoz.wordpress.com 
 #############################################################################################
 #EXTINF:-1 tvg-logo="Sports tv turkey.jpg" group-title="DESPORTO",[COLOR lawngreen]SPORTV (turco)[/COLOR]
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
@@ -380,7 +384,8 @@ rtmp://50.7.129.202/karadeniztv/karadeniz2
 #EXTINF:-, [COLOR lawngreen]TRT 1 HD [/COLOR][COLOR red]NEW[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #############################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="BRA&IT", [COLOR white][B] CHANNELS ITALIANOS & BRASILEIROS [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="BRA&IT", [COLOR yellow][B] CHANNELS ITALIANOS & BRASILEIROS [/B][/COLOR]
+http://jerrymoz.wordpress.com 
 #############################################################################################
 #EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="RAI 1.png" group-title="BRA&IT",[COLOR lawngreen] RAI 1 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
@@ -455,6 +460,7 @@ http://37.203.209.34:443/mobile/bob05/live.m3u8
 http://37.203.209.34:443/mobile/bob07/live.m3u8
 #############################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="FRANÇA", [COLOR white][B] CHANNELS FRANCESES [/B][/COLOR]
+http://jerrymoz.wordpress.com 
 #############################################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
@@ -504,8 +510,8 @@ http://tv.ut.cx/minimax.mp4
 http://teleclub.fr/gloubi.mp4?sd=10&_Maghrebstar.com_rebase=on
 
 #############################################################################################
-#EXTINF:-1,[COLOR white][B] PRAIAS DE PORTUGAL [/B][/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1,[COLOR yellow][B] PRAIAS DE PORTUGAL [/B][/COLOR]
+http://jerrymoz.wordpress.com 
 #############################################################################################
 #EXTINF:-1, PRAIA DO NORTE
 rtmp://213.13.26.12/live playpath=norte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/oCjzVigYoFkJHSjgTbkl/mov/24&autoStart=1&showlogo=false&showShare=false
