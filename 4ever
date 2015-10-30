@@ -164,6 +164,20 @@ rtmp://
 
 #EXTINF:-1 tvg-logo="SporTV.png" group-title="DESPORTO",[COLOR lawngreen]SPORTV (br)[/COLOR][COLOR red] [/COLOR]
 http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
+#EXTINF:-1, SPORTV BR (jogos da liga PT)
+http://37.203.209.34:443/mobile/bob05/inspiration.m3u8
+#EXTINF:-1, SPORTV BR (jogos da liga PT)
+http://37.203.209.34:443/mobile/bob06/inspiration.m3u8
+#EXTINF:-1, PREMIERE BR
+http://37.203.209.34:443/mobile/bob07/inspiration.m3u8
+#EXTINF:-1, BAND SPORT BR
+http://37.203.209.34:443/mobile/bob04/inspiration.m3u8
+#EXTINF:-1, ESPN BRASIL
+http://37.203.209.34:443/mobile/flash01/inspiration.m3u8
+#EXTINF:-1, ESPN BR
+http://37.203.209.34:443/mobile/flash02/inspiration.m3u8
+#EXTINF:-1, ESPN+ BR
+http://37.203.209.34:443/mobile/flash03/inspiration.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] RUSSO SPORT 1 [/COLOR]
 http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
