@@ -162,27 +162,16 @@ rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 rtmp://
 #############################################################################################
 
-#EXTINF:-1, trace sports
-http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
-#EXTINF:-1, abu dhabi sport
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1, abu dhabi sport
-http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-#############################################################################################
-#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
-rtmp://31.220.0.134/pull/euresp?keys=UcDHN2JANNJ8WcurJBrK9A&keyt=1444742618 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (RU) [/COLOR]
-http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
-http://fr456.edem.tv/iptv/9HA4DK4R2PY23A/539/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2(AR) [/COLOR]
-rtmp://195.154.162.157:80/liverepeater playpath=132689 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132689&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
-http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="SporTV.png" group-title="DESPORTO",[COLOR lawngreen]SPORTV (br)[/COLOR][COLOR red] [/COLOR]
+http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] RUSSO SPORT 1 [/COLOR]
+http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR (turco)[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURKEM SPOR (turco) [/COLOR]
+http://tv.online.tm/hls/ch004_md/index.m3u8
 
 #############################################################################################
 
@@ -207,18 +196,34 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] RUSSO SPORT 1 [/COLOR]
 http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] RUSSO SPORT 1 [/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 1 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия (ru) [/COLOR]
-http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
-
+#############################################################################################
+#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
+rtmp://31.220.0.134/pull/euresp?keys=UcDHN2JANNJ8WcurJBrK9A&keyt=1444742618 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (RU) [/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
+http://fr456.edem.tv/iptv/9HA4DK4R2PY23A/539/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2(AR) [/COLOR]
+rtmp://195.154.162.157:80/liverepeater playpath=132689 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132689&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:-1, trace sports
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
+#EXTINF:-1, abu dhabi sport
+http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+#EXTINF:-1, abu dhabi sport
+http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 #################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS HISPANICOS [/B][/COLOR]
 http://jerrymoz.wordpress.com 
@@ -370,14 +375,9 @@ http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2db
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURK-BURSASPOR TV (turco) [/COLOR]
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR (turco)[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="trt spor.jpg" group-title="DESPORTO",[COLOR lawngreen] TRT SPOR2 (turco) [/COLOR]
-http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u
+
 #EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURKEM SPOR (turco) [/COLOR]
 rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="DESPORTO",[COLOR lawngreen] TURKEM SPOR (turco) [/COLOR]
-http://tv.online.tm/hls/ch004_md/index.m3u8
 
 #EXTINF:-1, [COLOR lawngreen]karadeniz[/COLOR]
 rtmp://50.7.129.202/karadeniztv/karadeniz2
@@ -432,8 +432,7 @@ rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
 #EXTINF:-1 tvg-id="" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD PE[/COLOR][COLOR red] NEW[/COLOR]
 rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
 #############################################################################################
-#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV 1 (br)[/COLOR][COLOR red] [/COLOR]
-http://62.210.88.233:1935/liverepeat/201020/IPTVGLOBAL.m3u8
+
 #EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORVT 1 (2v)[/COLOR][COLOR red] [/COLOR]
 http://37.203.209.34:443/mobile/bob05/IPTVGLOBAL.m3u8
 #EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV (3v)[/COLOR][COLOR red] [/COLOR]
