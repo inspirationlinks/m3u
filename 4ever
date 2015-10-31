@@ -133,7 +133,7 @@ rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 ############################################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B] DESPORTO NACIONAL & INTERNACIONAL [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B] DESPORTO NACIONAL [/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #############################################################################################################################################################
 
@@ -160,7 +160,13 @@ rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=h
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] OFF
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2 [/COLOR] OFF
 rtmp://
-#############################################################################################
+####################################################################################################################################
+#EXTINF:-1,[COLOR yellow][B] DESPORTO LIGAS EUROPEIAS [/B][/COLOR]
+http://google.pt
+####################################################################################################################################
+
+#EXTINF:-1, CANAL + FUTBOL (liga espanhola) 
+rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/ 
 
 #EXTINF:-1 tvg-logo="SporTV.png" group-title="DESPORTO",[COLOR lawngreen]SPORTV (br)[/COLOR][COLOR red] [/COLOR]
 http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
