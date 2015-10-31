@@ -200,6 +200,14 @@ http://tv.online.tm/hls/ch004_md/index.m3u8
 
 #############################################################################################
 
+
+#EXTINF:-1, DIGI SPORT 1 ROM 
+rtmp://62.210.105.146:80/liverepeater playpath=132679 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 2 ROM 
+rtmp://62.210.105.146:80/liverepeater playpath=132685 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 3 ROM 
+rtmp://62.210.105.146:80/liverepeater playpath=132686 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+
 #EXTINF:1 tvg-logo="digisport.png",[COLOR green][B] DIGI SPORT 1 [/B][/COLOR] 
 rtmp://195.154.216.55:80/liverepeater playpath=132679 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132679&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch 
 #EXTINF:1 tvg-logo="digisport.png",[COLOR green][B] DIGI SPORT 2 [/B][/COLOR] 
