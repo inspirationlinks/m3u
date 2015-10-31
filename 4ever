@@ -237,6 +237,11 @@ http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 #############################################################################################
+#EXTINF:-1, Football Report
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+#EXTINF:-1,SPORT 5
+http://cz.wownet.ro:8023|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
 rtmp://31.220.0.134/pull/euresp?keys=UcDHN2JANNJ8WcurJBrK9A&keyt=1444742618 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
