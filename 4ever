@@ -12,29 +12,10 @@ http://jerrymoz.wordpress.com
 
 #EXTINF:-1, [COLOR yellow][B] »» by: JERRYMOZ.WORDPRESS.COM «« [/B][/COLOR]
 #################################################################################################################################### 
-#EXTINF:-1,[COLOR green][B] JOGOS EM DESTAQUE [/B][/COLOR] 
+#EXTINF:-1,[COLOR green][B] JOGOS ANUNCIAR [/B][/COLOR] 
 http://jerrymoz.wordpress.com 
 #################################################################################################################################### 
-#EXTINF:-1, [COLOR white][B] TONDELA VS BENFICA [/B][/COLOR] FRIDAY 20.30H 
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8 
-#EXTINF:-1, [COLOR white][B] TONDELA VS BENFICA [/B][/COLOR] FRIDAY 20.30H 
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/inspirationlinks.m3u8 
-#EXTINF:-1,[COLOR white][B] TONDELA VS BENFICA [/B][/COLOR] FRIDAY 20.30H 
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/ 
 
-#EXTINF:-1, [COLOR white][B] U. MADEIRA VS PORTO [/B][/COLOR] SATURDAY 18.30H 
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8 
-#EXTINF:-1, [COLOR white][B] U. MADEIRA VS PORTO [/B][/COLOR] SATURDAY 18.30H 
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/ 
-#EXTINF:-1, [COLOR white][B] U. MADEIRA VS PORTO [/B][/COLOR] SATURDAY 18.30H 
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8 
-
-#EXTINF:-1, [COLOR white][B] SPORTING VS ESTORIL [/B][/COLOR] SATURDAY 20.45H 
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8 
-#EXTINF:-1,[COLOR white][B] SPORTING VS ESTORIL [/B][/COLOR] SATURDAY 20.45H 
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/ 
-#EXTINF:-1, [COLOR white][B] SPORTING VS ESTORIL [/B][/COLOR] SATURDAY 20.45H 
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B] PORTUGUESES CHANNELS [/B][/COLOR]
 http://0.0.0.0:1234
@@ -150,10 +131,12 @@ rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/
 rtmp://209.95.46.115:1935/stream/ playpath=jJyBo1519y0yBo7ol7yTf.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV3 & BTV2[/COLOR]
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4 (2 opc)[/COLOR]
 rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m550n505yb1140b201pd5339g505sp1140l5339on505h250oq550u6095ib1140b201pa791.o201pa791o201p&width=600&height=460
+
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5[/COLOR]
 rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d6157g430sp6639l6157on686x6639ib6639b16pp6639l6157op6639l6157op6639l6157od6157g430sn430h610o&width=600&height=460
 
@@ -167,6 +150,8 @@ http://google.pt
 
 #EXTINF:-1, CANAL + FUTBOL (liga espanhola) 
 rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/ 
+#EXTINF:-1, CANAL + FUTBOL 2 (liga espanhola) 
+rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-1 tvg-logo="SporTV.png" group-title="DESPORTO",[COLOR lawngreen]SPORTV (br)[/COLOR][COLOR red] [/COLOR]
 http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
@@ -187,6 +172,11 @@ http://37.203.209.34:443/mobile/flash03/inspiration.m3u8
 #EXTINF:-1, ESPN
 http://62.210.82.241:1935/liverepeat/fut01/livestream.m3u8
 
+#EXTINF:-1, Football Report
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+#EXTINF:-1,SPORT 5
+http://cz.wownet.ro:8023|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1, aym sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 
@@ -199,7 +189,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 http://tv.online.tm/hls/ch004_md/index.m3u8
 
 #############################################################################################
-
 
 #EXTINF:-1, DIGI SPORT 1 ROM 
 rtmp://62.210.105.146:80/liverepeater playpath=132679 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
@@ -237,10 +226,6 @@ http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="Poccnr2.jpg" group-title="DESPORTO",[COLOR lawngreen] Россия 2 (ru) [/COLOR]
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 #############################################################################################
-#EXTINF:-1, Football Report
-http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
-#EXTINF:-1,SPORT 5
-http://cz.wownet.ro:8023|X-Forwarded-For=81.17.18.50
 
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
 rtmp://31.220.0.134/pull/euresp?keys=UcDHN2JANNJ8WcurJBrK9A&keyt=1444742618 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
@@ -262,22 +247,6 @@ http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/tra
 http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
 #EXTINF:-1, abu dhabi sport
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 1
-http://Enes-Hallstahamar:iptv@cdn.port0.org:81/arenasr1
-#EXTINF:-1, ARENA SPORT 2
-http://Enes-Hallstahamar:iptv@cdn.port0.org:81/arenasr2
-#EXTINF:-1, ARENA SPORT 3
-http://Enes-Hallstahamar:iptv@cdn.port0.org:81/arenasr3
-#EXTINF:-1, ARENA SPORT 4
-http://Enes-Hallstahamar:iptv@cdn.port0.org:81/arenasr4
-
-#EXTINF:-1, SK1
-http://Enes-Hallstahamar:iptv@cdn.port0.org:81/sk1
-#EXTINF:-1, SK2
-http://Enes-Hallstahamar:iptv@cdn.port0.org:81/sk2
-#EXTINF:-1, SK3
-http://Enes-Hallstahamar:iptv@cdn.port0.org:81/sk3
 
 #################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS HISPANICOS [/B][/COLOR]
