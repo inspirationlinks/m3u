@@ -8,11 +8,11 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1, [COLOR pink][B]Para mais informaçoes « jerrymoz.wordpress.com/contact »[/B][/COLOR]
 http://jerrymoz.wordpress.com
 
-#EXTINF:-1, [COLOR white][B] »» Update 30-10-15 «« [/B][/COLOR]
+#EXTINF:-1, [COLOR white][B] »» Update 01-11-15 «« [/B][/COLOR]
 
 #EXTINF:-1, [COLOR yellow][B] »» by: JERRYMOZ.WORDPRESS.COM «« [/B][/COLOR]
 #################################################################################################################################### 
-#EXTINF:-1,[COLOR green][B] JOGOS ANUNCIAR [/B][/COLOR] 
+#EXTINF:-1,[COLOR green][B] JOGOS ANUNCIAR (BREVEMENTE) [/B][/COLOR] 
 http://jerrymoz.wordpress.com 
 #################################################################################################################################### 
 
@@ -121,24 +121,19 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1 tvg-id="" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1[/COLOR]
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1[/COLOR] ON
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2[/COLOR]
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2[/COLOR] ON
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 tvg-id="sporttv3.pt tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 3[/COLOR]
-rtmp://209.95.46.115:1935/stream/ playpath=jJyBo1519y0yBo7ol7yTf.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV3 & BTV2[/COLOR]
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV3 & BTV2[/COLOR] ON
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4[/COLOR]
-rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4 (2 opc)[/COLOR]
-rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m550n505yb1140b201pd5339g505sp1140l5339on505h250oq550u6095ib1140b201pa791.o201pa791o201p&width=600&height=460
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4[/COLOR] OFF
 
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5[/COLOR]
-rtmp://209.95.43.170:1935/stream/ playpath=0FtBo1519y0yBog8vdIeR.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d6157g430sp6639l6157on686x6639ib6639b16pp6639l6157op6639l6157op6639l6157od6157g430sn430h610o&width=600&height=460
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5[/COLOR] ON
+rtmp://198.144.153.145:443/flash playpath=21649?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW/INSPIRATIONLINKS timeout=10
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] OFF
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2 [/COLOR] OFF
