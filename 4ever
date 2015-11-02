@@ -135,6 +135,29 @@ rtmp://198.144.153.145:443/flash playpath=21649?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFi
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] OFF
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2 [/COLOR] OFF
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR yellow][B] Desporto Nacional em Plexus [/B][/COLOR]
+http://google.pt
+####################################################################################################################################
+
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORT TV 1 [/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6&mode=1&name=acestream&mode=1&name=SPORT TV 1 
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORT TV 2 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2&mode=1&name=acestream&mode=1&name=SPORT TV 2  
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORT TV 3 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream&mode=1&name=SPORT TV 3  
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORT TV 4 [/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://0e9bac041c943b759e65c28631d79376b5392460&mode=1&name=acestream&mode=1&name=SPORT TV 4 
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORT TV 5 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e10356dbb8bbc&mode=1&name=acestream&mode=1&name=SPORT TV 5 
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] BENFICA TV 1 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] BENFICA TV 2 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b457d80c1&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] Voetbal 1 HD [/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471&mode=1&name=acestream&mode=1&name=Sport 1 Voetbal HD
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR yellow][B] DESPORTO LIGAS EUROPEIAS [/B][/COLOR]
 http://google.pt
