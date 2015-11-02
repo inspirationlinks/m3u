@@ -172,6 +172,11 @@ rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=14432
 #EXTINF:-1, CANAL + FUTBOL 2 (liga espanhola) rtmp
 rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
+#EXTINF:-1, RUSSO SPORT 
+http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
+#EXTINF:-1, RUSSO SPORT 1
+http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
+
 #EXTINF:-1, tg8 sport (it)
 http://live.cdn.streamago.tv:1935/streamagoedge/39648/36567/livestream.m3u8
 
@@ -202,9 +207,6 @@ http://cz.wownet.ro:8023|X-Forwarded-For=81.17.18.50
 #EXTINF:-1, aym sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="POCCNR1.jpg" group-title="DESPORTO",[COLOR lawngreen] RUSSO SPORT 1 [/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
-
 #EXTINF:-1, TRT SPOR (turco)
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1, TURKEM SPOR (turco)
@@ -230,9 +232,6 @@ http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 #EXTINF:-1,DXTV (esp)
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:-1, RUSSO SPORT 1
-http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
 
 #EXTINF:-1, Россия 1 (ru)
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
