@@ -17,11 +17,13 @@ http://jerrymoz.wordpress.com
 #################################################################################################################################### 
 #EXTINF:-1, [COLOR lawngreen][B] Benfica vs Galatasaray [/B][/COLOR]19.45h
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Galatasaray [/B][/COLOR]19.45h
+http://sol.trtcdn.com/tv/trtspor/trtspor_3/radyodelisi.m3u8
 
 #EXTINF:-1, [COLOR aqua][B] M.Tel Aviv vs FC Porto [/B][/COLOR] 19.45h
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1, [COLOR lawngreen][B] Skenderbeu vs Sporting [/B][/COLOR]
+#EXTINF:-1, [COLOR lawngreen][B] Skenderbeu vs Sporting [/B][/COLOR] 20.00h
 http://213.13.26.11:1935/live/sic/inspirationlinks.m3u8
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B] PORTUGUESES CHANNELS [/B][/COLOR]
@@ -246,6 +248,8 @@ http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 #EXTINF:-1, Россия 2 (ru) 
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
+#EXTINF:-1, le equipe21
+http://streaming-hub.com/stream/lequipe21.m3u8
 #############################################################################################
 
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
