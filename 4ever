@@ -20,10 +20,11 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/inspira
 #EXTINF:-1, [COLOR aqua][B] AROUCA vs SPORTING [/B][/COLOR] SUNDAY 20.30h
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR]
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR]
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR] BTV 1 NFL
+http://127.0.0.1:6878/ace/getstream?id=4e0b64e76d0463e96cefa68bdec74674d9c6f721&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR] BTV1 PLEXUS
+plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
+
 #EXTINF:-1, [COLOR aqua][B] FC Porto vs V. Setúbal [/B][/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1, [COLOR aqua][B] FC Porto vs V. Setúbal [/B][/COLOR]
@@ -101,6 +102,9 @@ http://agueda.tv:1756/stream.flv
 http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="English Club.png" group-title="PORTUGAL",[COLOR lawngreen] English Club tv (usa) [/COLOR]
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
+
+#EXTINF:-1 MTV (rtmp)
+rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf live=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="PORTUGAL",[COLOR lawngreen]WEATHER CHANNEL (usa)[/COLOR]
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
