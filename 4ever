@@ -5,27 +5,29 @@
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR white][B]Links available in search free on the Internet I am not responsible for your use[/B][/COLOR]
 http://jerrymoz.wordpress.com
-#EXTINF:-1, [COLOR pink][B] INF: [COLOR red]««[/COLOR] jerrymoz.wordpress.com/contact [COLOR red]»»[/COLOR][/B][/COLOR]
+#EXTINF:-1, [COLOR pink][B] BY: [COLOR red]««[/COLOR] jerrymoz.wordpress.com [COLOR red]»»[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
-#EXTINF:-1, [COLOR white][B] [COLOR red]««[/COLOR] Update 04-11-15 [COLOR red]»»[/COLOR] [/B][/COLOR]
+#EXTINF:-1, [COLOR white][B] [COLOR red]««[/COLOR] Update 07-11-15 [COLOR red]»»[/COLOR] [/B][/COLOR]
 
 #EXTINF:-1, [COLOR yellow][B] [COLOR red]««[/COLOR] SE PRETENDER TER MAIS CANAIS ENVIEI EMAIL PARA JERRYMOZ@LIVE.COM.PT [COLOR red]»»[/COLOR] [/B][/COLOR]
 #################################################################################################################################### 
 #EXTINF:-1,[COLOR green][B] JOGOS EM DESTAQUE [/B][/COLOR] (em actualizaçao)
 http://jerrymoz.wordpress.com 
 #################################################################################################################################### 
-#EXTINF:-1, [COLOR lawngreen][B] Skenderbeu vs Sporting [/B][/COLOR] 20.00h
-http://213.13.26.11:1935/live/sic/inspirationlinks.m3u8
-
-#EXTINF:-1, [COLOR aqua][B] Belenenses vs Basel [/B][/COLOR] 20.00h
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-
-#EXTINF:-1, [COLOR lawngreen][B] Marseille vs Braga [/B][/COLOR] 18.00h
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-
 #EXTINF:-1, [COLOR aqua][B] AROUCA vs SPORTING [/B][/COLOR] SUNDAY 20.30h
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/inspirationlinks.m3u8
+#EXTINF:-1, [COLOR aqua][B] AROUCA vs SPORTING [/B][/COLOR] SUNDAY 20.30h
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR]
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1, [COLOR aqua][B] FC Porto vs V. Setúbal [/B][/COLOR]
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1, [COLOR aqua][B] FC Porto vs V. Setúbal [/B][/COLOR]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B] PORTUGUESES CHANNELS [/B][/COLOR]
 http://0.0.0.0:1234
@@ -182,6 +184,39 @@ rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=14432
 #EXTINF:-1, CANAL + FUTBOL 2 (liga espanhola) rtmp
 rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
+#EXTINF:-1,Sky Sports 1 UK (rtmp)
+rtmp://80.82.64.213/live playpath=umskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=umskys2&vw=620&vh=490
+#EXTINF:-1,Sky Sports 2 UK (rtmp)
+rtmp://80.82.64.213/live playpath=umskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=umskys2&vw=620&vh=490
+#EXTINF:-1,Sky Sports 3 UK (rtmp)
+rtmp://80.82.64.213/live playpath=umskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=umskys2&vw=620&vh=490
+#EXTINF:-1,Sky Sports 4 UK (rtmp)
+rtmp://80.82.64.213/live playpath=umskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=umskys2&vw=620&vh=490
+
+#EXTINF:-1,BT SPORTS/ESPN (UK)
+http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8
+#EXTINF:-1,BT SPORTS EUROPE (UK)
+http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
+#EXTINF:-1,BT SPORTS 2 (UK)
+http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
+
+#EXTINF:-1,SPORTV (br)
+http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
+#EXTINF:-1, SPORTV BR (jogos da liga PT)
+http://37.203.209.34:443/mobile/bob05/inspiration.m3u8
+#EXTINF:-1, SPORTV 2 BR (jogos da liga PT)
+http://37.203.209.34:443/mobile/bob06/inspiration.m3u8
+#EXTINF:-1, PREMIERE BR
+http://37.203.209.34:443/mobile/bob07/inspiration.m3u8
+#EXTINF:-1, BAND SPORT BR
+http://37.203.209.34:443/mobile/bob04/inspiration.m3u8
+#EXTINF:-1, ESPN BRASIL
+http://37.203.209.34:443/mobile/flash01/inspiration.m3u8
+#EXTINF:-1, ESPN BR
+http://37.203.209.34:443/mobile/flash02/inspiration.m3u8
+#EXTINF:-1, ESPN+ BR
+http://37.203.209.34:443/mobile/flash03/inspiration.m3u8
+
 #EXTINF:-1, RUSSO SPORT 
 http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
 #EXTINF:-1, RUSSO SPORT 1
@@ -202,12 +237,17 @@ http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
 #EXTINF:-1 tvg-logo=\"BeinSports.png\",BeinSports USA
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
 
+#EXTINF:-1, DIGI SPORT 1 ROM rtmp
+rtmp://62.210.105.146:80/liverepeater playpath=132679 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 2 ROM rtmp
+rtmp://62.210.105.146:80/liverepeater playpath=132685 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 3 ROM rtmp
+rtmp://62.210.105.146:80/liverepeater playpath=132686 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+
 #EXTINF:-1, Sport 1
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
-
 #EXTINF:-1,TRT SPOR
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-
 #EXTINF:-1, A SPOR
 http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:-1, TRT SPORT (transmite jogos)
@@ -226,33 +266,7 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 #EXTINF:-1, TURKEM SPOR (turco)
 http://tv.online.tm/hls/ch004_md/index.m3u8
 
-#EXTINF:-1,SPORTV (br)
-http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
-#EXTINF:-1, SPORTV BR (jogos da liga PT)
-http://37.203.209.34:443/mobile/bob05/inspiration.m3u8
-#EXTINF:-1, SPORTV 2 BR (jogos da liga PT)
-http://37.203.209.34:443/mobile/bob06/inspiration.m3u8
-#EXTINF:-1, PREMIERE BR
-http://37.203.209.34:443/mobile/bob07/inspiration.m3u8
-#EXTINF:-1, BAND SPORT BR
-http://37.203.209.34:443/mobile/bob04/inspiration.m3u8
-#EXTINF:-1, ESPN BRASIL
-http://37.203.209.34:443/mobile/flash01/inspiration.m3u8
-#EXTINF:-1, ESPN BR
-http://37.203.209.34:443/mobile/flash02/inspiration.m3u8
-#EXTINF:-1, ESPN+ BR
-http://37.203.209.34:443/mobile/flash03/inspiration.m3u8
-#EXTINF:-1, ESPN
-http://62.210.82.241:1935/liverepeat/fut01/livestream.m3u8
-
 #############################################################################################
-
-#EXTINF:-1, DIGI SPORT 1 ROM rtmp
-rtmp://62.210.105.146:80/liverepeater playpath=132679 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, DIGI SPORT 2 ROM rtmp
-rtmp://62.210.105.146:80/liverepeater playpath=132685 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, DIGI SPORT 3 ROM rtmp
-rtmp://62.210.105.146:80/liverepeater playpath=132686 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1, VIASAT SPORT (rus)
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
