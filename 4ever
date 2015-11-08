@@ -86,7 +86,6 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 #EXTINF:-1, Reality - A QUINTA (by Pedro Neves)
 rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAxNSA2OjAxOjM0IFBNJmhhc2hfdmFsdWU9b0xSanp.WejhRMGUvaVRoRVJ5djJidz09JnZhbGlkbWludXRlcz0zMDA=/ playpath=TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24
-
 #EXTINF:-1, Reality - A QUINTA
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 
@@ -216,6 +215,8 @@ http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
 http://37.203.209.34:443/mobile/bob05/inspiration.m3u8
 #EXTINF:-1, SPORTV 2 BR (jogos da liga PT)
 http://37.203.209.34:443/mobile/bob06/inspiration.m3u8
+#EXTINF:-1, SPORTV 3 BR (jogos da liga PT)
+http://37.203.209.34:443/mobile/bob50sd/inspirationlinks.m3u8
 #EXTINF:-1, PREMIERE BR
 http://37.203.209.34:443/mobile/bob07/inspiration.m3u8
 #EXTINF:-1, BAND SPORT BR
@@ -226,6 +227,10 @@ http://37.203.209.34:443/mobile/flash01/inspiration.m3u8
 http://37.203.209.34:443/mobile/flash02/inspiration.m3u8
 #EXTINF:-1, ESPN+ BR
 http://37.203.209.34:443/mobile/flash03/inspiration.m3u8
+#EXTINF:-1,TVU ESPORTE INTERATIVO
+http://srv6.zoeweb.tv:1935/z433-live/stream/inspiration.m3u8
+#EXTINF:-1, E+I
+http://37.203.209.34:443/mobile/flash08/inspiration.m3u8
 
 #EXTINF:-1,SuperTennis
 http://85.187.218.30:5055
@@ -535,32 +540,7 @@ http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
 rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
 #EXTINF:-1 tvg-id="" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD PE[/COLOR][COLOR red] NEW[/COLOR]
 rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
-#############################################################################################
 
-#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORVT 1 (2v)[/COLOR][COLOR red] [/COLOR]
-http://37.203.209.34:443/mobile/bob05/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV (3v)[/COLOR][COLOR red] [/COLOR]
-http://live-cdn.direct-stream.org:1935/liverepeat/201020/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV 2 (br)[/COLOR][COLOR red] [/COLOR]
-http://37.203.209.34:443/mobile/bob06/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="SporTV 2.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV 2 (2v)[/COLOR][COLOR red] [/COLOR]
-http://37.203.209.34:443/mobile/bob06/live.m3u8
-#EXTINF:-1 tvg-logo="SporTV 3.png" group-title="BRA&IT",[COLOR lawngreen]SPORTV 3 (3v)[/COLOR][COLOR red] [/COLOR]
-http://37.203.209.34:443/mobile/bob50sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
-http://37.203.209.34:443/mobile/bob07sd/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR]
-http://srvlon1.hostseven.org:1935/live/fut02/livestream.m3u8
-#EXTINF:-1 tvg-logo="Premier Sports.png" group-title="BRA&IT",[COLOR lawngreen]PREMIERE (br)[/COLOR][COLOR red] [/COLOR]
-http://37.203.209.34:443/mobile/bob07sd/playlist.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] TVU ESPORTE INTERATIVO [/COLOR]
-http://srv6.zoeweb.tv:1935/z433-live/stream/IGOR_RANGEL.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="Esporte Interativo.png" group-title="BRA&IT",[COLOR lawngreen] E+I [/COLOR]
-http://37.203.209.34:443/mobile/flash08/IPTVGLOBAL.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="SporTV.png" group-title="BRA&IT",[COLOR lawngreen] SPORTV (br) [/COLOR]
-http://37.203.209.34:443/mobile/bob05/live.m3u8
-#EXTINF:-1 tvg-id="Esporte Interativo.igor" tvg-logo="PFC.png" group-title="BRA&IT",[COLOR lawngreen] PFC (br) [/COLOR]
-http://37.203.209.34:443/mobile/bob07/live.m3u8
 #############################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="FRANÇA", [COLOR white][B] CHANNELS FRANCESES [/B][/COLOR]
 http://jerrymoz.wordpress.com 
