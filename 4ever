@@ -15,26 +15,11 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][B] JOGOS EM DESTAQUE [/B][/COLOR] (em actualizaçao)
 http://jerrymoz.wordpress.com 
 #################################################################################################################################### 
-#EXTINF:-1, [COLOR aqua][B] AROUCA vs SPORTING [/B][/COLOR] SUNDAY 20.30h
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/inspirationlinks.m3u8
-#EXTINF:-1, [COLOR aqua][B] AROUCA vs SPORTING [/B][/COLOR] SUNDAY 20.30h
+#EXTINF:-1, [COLOR aqua][B] Belenenses vs Tondela [/B][/COLOR]18.00h
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1, [COLOR lawngreen][B] Uniao Madeira vs Braga [/B][/COLOR] 21.00h
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR] rtmp
-rtmp://94.242.228.48/online playpath=sportv3 swfUrl=http://www.freelivestream.tv/swfs/player.swf live=1 pageUrl=http://www.freelivestream.tv/power.php?file=sportv3&width=480&height=380
-#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR] rtmp
-rtmp://85.93.88.173:80/liverepeater playpath=138593 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=138593&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR] rtmp
-rtmp://195.154.209.100:80/liverepeater playpath=138593 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=138593&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR] BTV 1 NFL
-http://127.0.0.1:6878/ace/getstream?id=4e0b64e76d0463e96cefa68bdec74674d9c6f721&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1, [COLOR lawngreen][B] Benfica vs Boavista [/B][/COLOR] BTV1 PLEXUS
-plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
-
-#EXTINF:-1, [COLOR aqua][B] FC Porto vs V. Setúbal [/B][/COLOR]
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1, [COLOR aqua][B] FC Porto vs V. Setúbal [/B][/COLOR]
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B] PORTUGUESES CHANNELS [/B][/COLOR]
 http://0.0.0.0:1234
