@@ -15,10 +15,15 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][B] JOGOS EM DESTAQUE [/B][/COLOR] (em actualizaçao)
 http://jerrymoz.wordpress.com 
 #################################################################################################################################### 
-#EXTINF:-1, [COLOR aqua][B] Belenenses vs Tondela [/B][/COLOR]18.00h
+#EXTINF:-1, [COLOR aqua][B] jogo anunciar [/B][/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1, [COLOR lawngreen][B] Uniao Madeira vs Braga [/B][/COLOR] 21.00h
+#EXTINF:-1, [COLOR aqua][B] jogo anunciar[/B][/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+
+#EXTINF:-1, [COLOR lawngreen][B] jogo anunciar [/B][/COLOR] 
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1, [COLOR lawngreen][B] jogo anunciar [/B][/COLOR] 
+http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B] PORTUGUESES CHANNELS [/B][/COLOR]
@@ -93,12 +98,25 @@ http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93
 #EXTINF:-1 tvg-id="" tvg-logo="English Club.png" group-title="PORTUGAL",[COLOR lawngreen] English Club tv (usa) [/COLOR]
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 
-#EXTINF:-1 MTV (rtmp)
+#EXTINF:-1, MTV (rtmp)
 rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf live=1
 
-#EXTINF:-1 tvg-id="" tvg-logo="Weather.png" group-title="PORTUGAL",[COLOR lawngreen]WEATHER CHANNEL (usa)[/COLOR]
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Discovery Channel Esp (rtmp)
+rtmp://31.220.0.186/pull/natgeo36?FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,Discovery Channel BR
+http://37.203.209.34:443/mobile/flash14/playlist.m3u8
+#EXTINF:-1,Historia (rtmp)
+rtmp://149.255.39.10/pull/historia45?keys=NgL_3purw_81bJVpMciZfg&keyt=1443154998 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,Warner Channel
+http://199.180.114.174:8000/warner.m3u8
 
+#EXTINF:-1, University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800?inspirationlinks
+
+#EXTINF:-1,WEATHER CHANNEL (usa)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,WEATHER CHANNEL (usa)
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist.m3u8
 ########################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR yellow][B] CHANNELS GASTRONOMICOS [/B][/COLOR]
 http://jerrymoz.wordpress.com 
@@ -172,27 +190,42 @@ plugin://program.plexus/?mode=1&url=acestream://c25b448994bd0153f88f6e6bb2181dae
 #EXTINF:-1,[COLOR yellow][B] DESPORTO LIGAS EUROPEIAS [/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
+#EXTINF:-1,Combat
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,Movistar F1
+rtmp://31.220.0.186/pull playpath=discovery1?keys=sdXtH3L-jlCGSiv8q-KvgQ&keyt=1443154893 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-1, CANAL + FUTBOL (liga espanhola) rtmp
 rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/ 
 #EXTINF:-1, CANAL + FUTBOL 2 (liga espanhola) rtmp
 rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1, CANAL+ DEPORTES 2
+rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-1,Sky Sports 1 UK (rtmp)
-rtmp://80.82.64.213/live playpath=umskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=umskys2&vw=620&vh=490
-#EXTINF:-1,Sky Sports 2 UK (rtmp)
-rtmp://80.82.64.213/live playpath=umskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=umskys2&vw=620&vh=490
-#EXTINF:-1,Sky Sports 3 UK (rtmp)
-rtmp://80.82.64.213/live playpath=umskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=umskys2&vw=620&vh=490
-#EXTINF:-1,Sky Sports 4 UK (rtmp)
-rtmp://80.82.64.213/live playpath=umskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=umskys2&vw=620&vh=490
 
-#EXTINF:-1,BT SPORTS/ESPN (UK)
-http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8
-#EXTINF:-1,BT SPORTS EUROPE (UK)
-http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
-#EXTINF:-1,BT SPORTS 2 (UK)
-http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
+#EXTINF:-1,SKYSPORTS1
+http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
+#EXTINF:-1,SKYSPORTS2
+http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8
+#EXTINF:-1,SKYSPORTS3
+http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8
+#EXTINF:-1,SKYSPORTS4
+http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8
+#EXTINF:-1,SKYSPORTS5
+http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
+
+#EXTINF:-1, DIGI SPORT 1 ROM rtmp
+rtmp://195.154.204.10:80/liverepeater playpath=132679 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 1 ROM rtmp
+rtmp://62.210.105.146:80/liverepeater playpath=132679 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 2 ROM rtmp
+rtmp://85.93.88.173:80/liverepeater playpath=132685 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 2 ROM rtmp
+rtmp://62.210.105.146:80/liverepeater playpath=132685 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 3 ROM rtmp
+rtmp://62.210.105.146:80/liverepeater playpath=132686 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, DIGI SPORT 4 rtmp
+rtmp://85.93.88.173:80/liverepeater playpath=138593 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=138593&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1,SPORTV (br)
 http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
@@ -217,15 +250,15 @@ http://srv6.zoeweb.tv:1935/z433-live/stream/inspiration.m3u8
 #EXTINF:-1, E+I
 http://37.203.209.34:443/mobile/flash08/inspiration.m3u8
 
-#EXTINF:-1,SuperTennis
-http://85.187.218.30:5055
-#EXTINF:-1,SuperTennis
-http://91.238.23.14:5000/udp/239.1.2.140:1234
-
 #EXTINF:-1, RUSSO SPORT 
 http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
 #EXTINF:-1, RUSSO SPORT 1
 http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
+
+SPORT ITALIA
+http://spi.hystream.com:1935/spilive/spistream_480/playlist.m3u8
+#EXTINF:-1,RAI SPORT 2
+http://c004.p122.edgesuite.net/i/c004/raisport2_1@137769/master.m3u8
 
 #EXTINF:-1 tvg-logo=\"tyc-sports.png\",TyC Sports
 http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
@@ -241,13 +274,6 @@ http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
 #EXTINF:-1 tvg-logo=\"BeinSports.png\",BeinSports USA
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-
-#EXTINF:-1, DIGI SPORT 1 ROM rtmp
-rtmp://62.210.105.146:80/liverepeater playpath=132679 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, DIGI SPORT 2 ROM rtmp
-rtmp://62.210.105.146:80/liverepeater playpath=132685 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, DIGI SPORT 3 ROM rtmp
-rtmp://62.210.105.146:80/liverepeater playpath=132686 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1, Sport 1
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
