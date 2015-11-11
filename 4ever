@@ -8,7 +8,7 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1, [COLOR pink][B] BY: [COLOR red]««[/COLOR] jerrymoz.wordpress.com [COLOR red]»»[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
-#EXTINF:-1, [COLOR white][B] [COLOR red]««[/COLOR] Update 08-11-15 [COLOR red]»»[/COLOR] [/B][/COLOR]
+#EXTINF:-1, [COLOR white][B] [COLOR red]««[/COLOR] Update 11-11-15 [COLOR red]»»[/COLOR] [/B][/COLOR]
 
 #EXTINF:-1, [COLOR yellow][B] [COLOR red]««[/COLOR] SE PRETENDER TER MAIS CANAIS ENVIEI EMAIL PARA JERRYMOZ@LIVE.COM.PT [COLOR red]»»[/COLOR] [/B][/COLOR]
 #################################################################################################################################### 
@@ -92,8 +92,6 @@ rtsp://www.canal.parlamento.pt/Live
 rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
 #EXTINF:-1 tvg-id="" tvg-logo="TVAgueda.png" group-title="PORTUGAL",[COLOR lawngreen] AGUEDA TV [/COLOR]
 http://agueda.tv:1756/stream.flv
-#EXTINF:-1, Lisboa TV
-http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="CNBC.png" group-title="PORTUGAL",[COLOR lawngreen] CNBC (usa) [/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
@@ -148,16 +146,24 @@ http://jerrymoz.wordpress.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
 #EXTINF:-1, Sportv1
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 1[/COLOR] ON rtmp
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORTTV 1 [/COLOR] PLEXUS ON
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1 
+#EXTINF:-1,SPORTV 1 (demora a carregar) (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 2[/COLOR] ON rtmp
-rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORTTV 2 [/COLOR] PLEXUS ON
+plugin://program.plexus/?mode=1&url=acestream://fbf8d2630934d7de5306254304f754f96569f2f3&mode=1&name=acestream&mode=1&name=SPORT TV 2 
+#EXTINF:-1,SPORTV 2 ON (rtmp)
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV3 & BTV2[/COLOR] ON rtmp
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORTTV 3 [/COLOR] PLEXUS ON
+plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream&mode=1&name=SPORT TV 3
+
+#EXTINF:-1,SPORTV 3 & BTV2
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4[/COLOR] OFF rtmp
 
@@ -193,6 +199,12 @@ plugin://program.plexus/?mode=1&url=acestream://c25b448994bd0153f88f6e6bb2181dae
 #EXTINF:-1,[COLOR yellow][B] DESPORTO LIGAS EUROPEIAS [/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
+
+#EXTINF:-1,FIGHTER
+http://87.248.160.8/edge/smil:boet/chunklist_w1028544839_b2100000.m3u8
+#EXTINF:-1,FIGHTER
+http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
+
 #EXTINF:-1,Combat
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 #EXTINF:-1,Movistar F1
@@ -205,6 +217,16 @@ rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swf
 #EXTINF:-1, CANAL+ DEPORTES 2
 rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
+#EXTINF:-1,Sky Sports 1 [FSD]
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports 2 [FSD]
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports2.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports 3 [FSD]
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports3.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports 4 [FSD]
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports 5 [FSD]
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/playlist.m3u8
 
 #EXTINF:-1,SKYSPORTS1
 http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
