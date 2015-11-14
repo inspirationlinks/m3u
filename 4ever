@@ -7,7 +7,7 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1, [COLOR pink][B] BY: [COLOR red]««[/COLOR] jerrymoz.wordpress.com [COLOR red]»»[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
-#EXTINF:-1, [COLOR white][B] [COLOR red]««[/COLOR] Update 12-11-15 [COLOR red]»»[/COLOR] [/B][/COLOR]
+#EXTINF:-1, [COLOR white][B] [COLOR red]««[/COLOR] Update 14-11-15 [COLOR red]»»[/COLOR] [/B][/COLOR]
 
 #EXTINF:-1, [COLOR yellow][B] [COLOR red]««[/COLOR] SE PRETENDER TER MAIS CANAIS ENVIEI EMAIL PARA JERRYMOZ@LIVE.COM.PT [COLOR red]»»[/COLOR] [/B][/COLOR]
 #################################################################################################################################### 
@@ -87,10 +87,17 @@ rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Vi
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="PORTUGAL",[COLOR lawngreen] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
+
 #EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PORTUGAL",[COLOR lawngreen] CAPELINHA DE FÁTIMA [/COLOR] rtmp
 rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
+#EXTINF:-1,TV CANÇÃO NOVA PORTUGAL HD
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/xlpartner-cancaonova/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="TVAgueda.png" group-title="PORTUGAL",[COLOR lawngreen] AGUEDA TV [/COLOR]
 http://agueda.tv:1756/stream.flv
+#EXTINF:-1,ODIVELAS TV HD
+http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
+#EXTINF:-1,TV LISBOA
+http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
 #EXTINF:-1,WEATHER CHANNEL (usa)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
@@ -263,6 +270,8 @@ rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800?inspirationlinks
 #EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B] DESPORTO NACIONAL [/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #############################################################################################################################################################
+#EXTINF:-1,Redbull TV (extra)
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
@@ -491,6 +500,27 @@ http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,Combat
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
+beIN SPORTS 1
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/8.ts
+beIN SPORTS 2
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/9.ts
+beIN SPORTS 3
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/10.ts
+beIN SPORTS 4
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/11.ts
+beIN SPORTS 5
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/12.ts
+beIN SPORTS 6
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/13.ts
+beIN SPORTS 7
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/14.ts
+beIN SPORTS 8
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/15.ts
+beIN SPORTS 9
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/16.ts
+beIN SPORTS 10
+http://beinmenastream.ddns.net:8000/live/SKYPE/bein_stream/17.ts
+
 #EXTINF:-1,Movistar F1
 rtmp://31.220.0.186/pull playpath=discovery1?keys=sdXtH3L-jlCGSiv8q-KvgQ&keyt=1443154893 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
@@ -569,6 +599,8 @@ http://spi.hystream.com:1935/spilive/spistream_480/playlist.m3u8
 #EXTINF:-1,RAI SPORT 2
 http://c004.p122.edgesuite.net/i/c004/raisport2_1@137769/master.m3u8
 
+#EXTINF:-1,WinSports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo=\"tyc-sports.png\",TyC Sports
 http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
 #EXTINF:-1 tvg-logo=\"fox-sports-hd.png\",Fox Sports Latinoamerica
@@ -1067,10 +1099,47 @@ http://stream.radio.com.pt:9496/stream
 http://94.23.76.235:9996/; 
 #EXTINF:-1 radio="true"tvg-logo="radiomira.jpg" group-title="RADIOS",[COLOR lawngreen] Radio MIRA ONLINE [/COLOR] 
 http://185.32.188.17:8051/
+
+#EXTINF:-1,RÁDIO
+http://rsync.com.br:1935/rsync00025/rsync.sdp/live.m3u8
+#EXTINF:-1,RÁDIO 104.9 FM
+http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8
+#EXTINF:-1,RÁDIO CACIQUE AM 760
+http://srv6.zoeweb.tv:1935/z631-live/stream/livestream.m3u8
+#EXTINF:-1,RÁDIO CBN RJ
+http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
+#EXTINF:-1,RÁDIO CBN SP
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+#EXTINF:-1,RÁDIO GLOBO 1100 AM SP
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8
+#EXTINF:-1,RÁDIO GLOBO 98.1 FM RJ
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamrj2.sdp/live.m3u8
+#EXTINF:-1,RÁDIO RURAL DE GUARABIRA
+http://srv6.zoeweb.tv:1935/z376-live/stream/livestream.m3u8
+#EXTINF:-1,RÁDIO SENTINELA DO VALE SC
+http://rtmp.cdn.upx.net.br:1935/0be3_live2/myStream.sdp/live.m3u8
+#EXTINF:-1,RÁDIO VOX 90.3 FM – STUDIO
+http://rtmp.cdn.upx.net.br:1935/00093_1/myStream.sdp/live.m3u8
 #############################################################################################
-#EXTINF:-1,[COLOR yellow][B] PRAIAS DE PORTUGAL [/B][/COLOR]
+#EXTINF:-1,[COLOR yellow][B] WEB CAMERAS [/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #############################################################################################
+
+#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 1]
+http://video1.earthcam.com:1935/fecnetwork/6593.flv/live.m3u8
+#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 2]
+http://video2.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 4]
+http://video4.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:-1,CASCAVEL [CÂMERA 1]
+http://wowza.catve.com.br:1935/camera/livestream/live.m3u8
+#EXTINF:-1,CASCAVEL [CÂMERA 2]
+http://wowza.catve.com.br:1935/camera2/livestream/live.m3u8
+#EXTINF:-1,CASCAVEL CIRO NARDI [CÂMERA 4]
+http://stream.catve.com.br:1935/camera4/camera4.stream/live.m3u8
+#EXTINF:-1,FOZ DO IGUAÇU [CÂMERA 2]
+http://wowza.catve.com.br:1935/camera2/camera2.stream/live.m3u8
+
 #EXTINF:-1, PRAIA DO NORTE
 rtmp://213.13.26.12/live playpath=norte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/oCjzVigYoFkJHSjgTbkl/mov/24&autoStart=1&showlogo=false&showShare=false
  
