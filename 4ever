@@ -289,7 +289,11 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] ONLINE
 rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/iso-dzsat
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] (low)
+rtmp://75.126.196.162:1935/stream/ playpath=9DBo1519y0yBoOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 
+#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2[/COLOR] ONLINE
+rtmp://75.126.196.162:1935/stream/ playpath=1HBo1519y0yBoPLZsrzG8.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2 teste[/COLOR] ONLINE
 http://max24.homelinux.com:8000/streaming/clients_live.php?extension=m3u8&username=duarte&password=duarte&stream=39&type=hls&inspirationlinks.ts
 
