@@ -11,7 +11,7 @@ http://jerrymoz.wordpress.com
 
 #EXTINF:-1, [COLOR yellow][B] [COLOR red]««[/COLOR] SE PRETENDER TER MAIS CANAIS ENVIEI EMAIL PARA JERRYMOZ@LIVE.COM.PT [COLOR red]»»[/COLOR] [/B][/COLOR]
 #################################################################################################################################### 
-#EXTINF:-1,[COLOR green][B] JOGOS EM DESTAQUE [/B][/COLOR] (em actualizaçao)
+#EXTINF:-1,[COLOR green][B] JOGOS EM DESTAQUE [/B][/COLOR] (em actualizacao)
 http://jerrymoz.wordpress.com 
 #################################################################################################################################### 
 
@@ -484,15 +484,12 @@ http://iptv.electro-clair.net:8000/live/zizo/zizo/1799.ts
 #EXTINF:-1,[COLOR yellow][B] SPORTS LIGAS INTERNACIONAIS[/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
-#EXTINF:-1,ФУТБОЛ 1 HD(УКРАИНА)
-http://31.43.24.216:1234/udp/239.0.0.71:1234
-#EXTINF:-1,ФУТБОЛ 2 HD(УКРАИНА)
-http://31.43.24.216:1234/udp/239.0.0.72:1234
-#EXTINF:-1,НТВ+ ФУТБОЛ 1
-http://31.43.24.216:1234/udp/239.0.0.110:1234
 
 #EXTINF:-1,CANAL+ SPORT
 rtmp://178.16.220.163/live/canalsport
+
+#EXTINF:-1,Movistar F1
+rtmp://31.220.0.186/pull playpath=discovery1?keys=sdXtH3L-jlCGSiv8q-KvgQ&keyt=1443154893 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-1,FOX Motorsport
 http://motorsport.hopto.org:8080/
@@ -512,9 +509,6 @@ http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,Combat
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
-#EXTINF:-1,Movistar F1
-rtmp://31.220.0.186/pull playpath=discovery1?keys=sdXtH3L-jlCGSiv8q-KvgQ&keyt=1443154893 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-
 #EXTINF:-1, CANAL + FUTBOL (liga espanhola) rtmp
 rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/ 
 #EXTINF:-1, CANAL + FUTBOL 2 (liga espanhola) rtmp
@@ -533,28 +527,12 @@ http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports 5 [FSD]
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/playlist.m3u8
 
-#EXTINF:-1,SPORTV (br)
-http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
-#EXTINF:-1, SPORTV BR (jogos da liga PT)
-http://37.203.209.34:443/mobile/bob05/inspiration.m3u8
-#EXTINF:-1, SPORTV 2 BR (jogos da liga PT)
-http://37.203.209.34:443/mobile/bob06/inspiration.m3u8
-#EXTINF:-1, SPORTV 3 BR (jogos da liga PT)
-http://37.203.209.34:443/mobile/bob50sd/inspirationlinks.m3u8
-#EXTINF:-1, PREMIERE BR
-http://37.203.209.34:443/mobile/bob07/inspiration.m3u8
-#EXTINF:-1, BAND SPORT BR
-http://37.203.209.34:443/mobile/bob04/inspiration.m3u8
-#EXTINF:-1, ESPN BRASIL
-http://37.203.209.34:443/mobile/flash01/inspiration.m3u8
-#EXTINF:-1, ESPN BR
-http://37.203.209.34:443/mobile/flash02/inspiration.m3u8
-#EXTINF:-1, ESPN+ BR
-http://37.203.209.34:443/mobile/flash03/inspiration.m3u8
-#EXTINF:-1,TVU ESPORTE INTERATIVO
-http://srv6.zoeweb.tv:1935/z433-live/stream/inspiration.m3u8
-#EXTINF:-1, E+I
-http://37.203.209.34:443/mobile/flash08/inspiration.m3u8
+#EXTINF:-1,ФУТБОЛ 1 HD(УКРАИНА)
+http://31.43.24.216:1234/udp/239.0.0.71:1234
+#EXTINF:-1,ФУТБОЛ 2 HD(УКРАИНА)
+http://31.43.24.216:1234/udp/239.0.0.72:1234
+#EXTINF:-1,НТВ+ ФУТБОЛ 1
+http://31.43.24.216:1234/udp/239.0.0.110:1234
 
 #EXTINF:-1, RUSSO SPORT 
 http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
@@ -603,6 +581,29 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 http://tv.online.tm/hls/ch004_md/index.m3u8
 
 #############################################################################################
+
+#EXTINF:-1,SPORTV (br)
+http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
+#EXTINF:-1, SPORTV BR (jogos da liga PT)
+http://37.203.209.34:443/mobile/bob05/inspiration.m3u8
+#EXTINF:-1, SPORTV 2 BR (jogos da liga PT)
+http://37.203.209.34:443/mobile/bob06/inspiration.m3u8
+#EXTINF:-1, SPORTV 3 BR (jogos da liga PT)
+http://37.203.209.34:443/mobile/bob50sd/inspirationlinks.m3u8
+#EXTINF:-1, PREMIERE BR
+http://37.203.209.34:443/mobile/bob07/inspiration.m3u8
+#EXTINF:-1, BAND SPORT BR
+http://37.203.209.34:443/mobile/bob04/inspiration.m3u8
+#EXTINF:-1, ESPN BRASIL
+http://37.203.209.34:443/mobile/flash01/inspiration.m3u8
+#EXTINF:-1, ESPN BR
+http://37.203.209.34:443/mobile/flash02/inspiration.m3u8
+#EXTINF:-1, ESPN+ BR
+http://37.203.209.34:443/mobile/flash03/inspiration.m3u8
+#EXTINF:-1,TVU ESPORTE INTERATIVO
+http://srv6.zoeweb.tv:1935/z433-live/stream/inspiration.m3u8
+#EXTINF:-1, E+I
+http://37.203.209.34:443/mobile/flash08/inspiration.m3u8
 
 #EXTINF:-1, VIASAT SPORT (rus)
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
