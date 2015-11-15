@@ -81,15 +81,15 @@ rtsp://www.canal.parlamento.pt/Live
 
 #EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PORTUGAL",[COLOR lawngreen] CAPELINHA DE FÁTIMA [/COLOR] rtmp
 rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
-#EXTINF:-1,TV CANÇÃO NOVA PORTUGAL HD
+#EXTINF:-1, [COLOR lawngreen]TV CANÇÃO NOVA [/COLOR]
 http://cnhls-lh.akamaihd.net:80/i/cnhls_1@147036/index_508_av-p.m3u8
-#EXTINF:-1,TV CANÇÃO NOVA PORTUGAL HD
+#EXTINF:-1, [COLOR lawngreen]TV CANÇÃO NOVA [/COLOR]
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/xlpartner-cancaonova/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="TVAgueda.png" group-title="PORTUGAL",[COLOR lawngreen] AGUEDA TV [/COLOR]
 http://agueda.tv:1756/stream.flv
-#EXTINF:-1,ODIVELAS TV HD
+#EXTINF:-1, [COLOR lawngreen]ODIVELAS TV [/COLOR]
 http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
-#EXTINF:-1,TV LISBOA
+#EXTINF:-1, [COLOR lawngreen]TV LISBOA [/COLOR]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
 #EXTINF:-1,WEATHER CHANNEL (usa)
@@ -123,23 +123,21 @@ rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=144
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="Discovery Channel.png" group-title="PORTUGAL",[COLOR lawngreen] DISCOVERY (esp) [/COLOR]
+#EXTINF:-1,DISCOVERY (esp)
 rtmp://31.220.0.72/pull/discovery1?keys=UpzcvgzQkK4hKxE2bG4hpg&keyt=1443276407 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1,NATIONAL GEOGRAFIC Esp (rtmp)
 rtmp://31.220.0.186/pull/natgeo36?FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="National Geographic Channel.png" group-title="PORTUGAL",[COLOR lawngreen] NAT GEO (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
+#EXTINF:-1, NAT GEO (esp)
 rtmp://31.220.0.201/pull/ playpath=natgeo36?keys=FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=770&height=410
 #EXTINF:-1,Discovery MAX Esp (rtmp)
 rtmp://31.220.2.56/pull/discomax7?keys=eOEce3AkgHQdHSOtxVynsw&keyt=1443156017 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Discovery Science.png" group-title="PORTUGAL",[COLOR lawngreen] Science & Vie TV (uk&bul) [/COLOR]
+#EXTINF:-1, Science & Vie TV (uk&bul)
 http://lag2.tv-mobile.org/prgi.m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PORTUGAL",[COLOR lawngreen] NAT GEO WILD (esp) [/COLOR][COLOR red][B] OFF [/B][COLOR White]Smart tv[COLOR yellow] & [/COLOR][COLOR White]VLC[/COLOR]
+#EXTINF:-1, NAT GEO WILD (esp)
 rtmp://31.220.0.201/pull/ playpath=natgeowilde?keys=NImzKx0PLPUHT8Knl3u52Q&keyt=1443154779&keyt=1442097163 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=770&height=410
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="Nat Geo Wild HD.png" group-title="PORTUGAL",[COLOR lawngreen] NAT GEO WILD HD (Arabic) [/COLOR]
+#EXTINF:-1, NAT GEO WILD HD (Arabic)
 http://38.99.146.36:7777/ADNatGeo_HD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="Animal Planet HD.png" group-title="PORTUGAL",[COLOR lawngreen] ANIMAL PLANET (usa) [/COLOR]
+#EXTINF:-1, ANIMAL PLANET (usa)
 http://sall1.homelinux.net:80/live?channelId=76&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
 #EXTINF:-1,Historia (rtmp)
 rtmp://149.255.39.10/pull/historia45?keys=NgL_3purw_81bJVpMciZfg&keyt=1443154998 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
@@ -273,39 +271,33 @@ http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
 rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800?inspirationlinks
 
 ############################################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B] DESPORTO NACIONAL [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B][COLOR red]||[/COLOR]DESPORTO NACIONAL[COLOR red]||[/COLOR] [/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #############################################################################################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1, Sportv1
+#EXTINF:-1,[COLOR lawngreen] Sportv1[/COLOR]
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORTTV 1 [/COLOR] PLEXUS ON
-plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1 
 
-#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORTTV 2 [/COLOR] PLEXUS ON
-plugin://program.plexus/?mode=1&url=acestream://fbf8d2630934d7de5306254304f754f96569f2f3&mode=1&name=acestream&mode=1&name=SPORT TV 2 
+#EXTINF:-1,SPORTV 2 ON (rtmp)
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title="PLEXUS", [COLOR green] SPORTTV 3 [/COLOR] PLEXUS ON
-plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream&mode=1&name=SPORT TV 3
-
-#EXTINF:-1,SPORTV 3 & BTV2
+#EXTINF:-1,[COLOR lawngreen]SPORTV 3 & BTV2[/COLOR]
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="SPORT TV 4 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 4[/COLOR] OFF rtmp
-
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="SPORT TV 5 HD.png" group-title="DESPORTO",[COLOR lawngreen] SPORTV 5[/COLOR] OFF rtmp
-rtmp://198.144.153.145:443/flash playpath=21649?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW/INSPIRATIONLINKS timeout=10
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] ONLINE
 rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/iso-dzsat
-#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2 teste[/COLOR] ONLINE)
+
+#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2 teste[/COLOR] ONLINE
 http://max24.homelinux.com:8000/streaming/clients_live.php?extension=m3u8&username=duarte&password=duarte&stream=39&type=hls&inspirationlinks.ts
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B] CANAIS DESPORTO "Plexus" [/B][/COLOR]
+#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] CHANNELS DESPORTO "PLEXUS" [COLOR red]||[/COLOR][/B][/COLOR]
+http://google.pt
+####################################################################################################################################
+#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] ABRIR NO PLAYLIST LOADER [COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
 
@@ -453,43 +445,9 @@ plugin://program.plexus/?mode=1&url=acestream://3a619efa4e9efb342affe2042a806474
 plugin://program.plexus/?mode=1&url=acestream://3ab9ae81a0f6a99c1317e98ba2b39547bf9c4276&mode=1&name=acestream&mode=1&name=SPORT 1 LT
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B]SPORTS CANAIS TESTES (TEMP)[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] CHANNELS SPORTS INTERNACIONAIS [COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
-
-#EXTINF:-1,NL-Sport
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1512.ts
-#EXTINF:-1,NL-Sport -1-SelectHD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1410.ts
-#EXTINF:-1,NL:Sport1-Voetbal
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1409.ts
-#EXTINF:-1,NL:Fox.Sports1.EredivisieHD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1616.ts
-#EXTINF:-1,NL:Fox.Sports2.International
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1617.ts
-#EXTINF:-1,NL:Fox.Sports3.Eredivisie
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1618.ts
-#EXTINF:-1,NL:Fox.Sports4.Internationaal
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1619.ts
-#EXTINF:-1,NL:Fox.Sports5.Eredivisie
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1620.ts
-#EXTINF:-1,NL:Fox.Sports6.Internationaal
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1621.ts
-#EXTINF:-1,UK:SKY-Sports-F1-HD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1800.ts
-#EXTINF:-1,UK:Setanta-Ireland
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1799.ts
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B] SPORTS LIGAS INTERNACIONAIS[/B][/COLOR]
-http://google.pt
-####################################################################################################################################
-
-#EXTINF:-1,CANAL+ SPORT
-rtmp://178.16.220.163/live/canalsport
-
-#EXTINF:-1,Movistar F1
-rtmp://31.220.0.186/pull playpath=discovery1?keys=sdXtH3L-jlCGSiv8q-KvgQ&keyt=1443154893 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-1,FOX Motorsport
 http://motorsport.hopto.org:8080/
@@ -503,7 +461,7 @@ http://motorsport.hopto.org:8083/
 http://motorsport.hopto.org:8084/
 
 #EXTINF:-1,FIGHTER
-http://87.248.160.8/edge/smil:boet/chunklist_w1028544839_b2100000.m3u8
+http://87.248.160.8/edge/smil:boet/inspirationlinks.m3u8
 #EXTINF:-1,FIGHTER
 http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,Combat
@@ -527,18 +485,10 @@ http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports 5 [FSD]
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/playlist.m3u8
 
-#EXTINF:-1,ФУТБОЛ 1 HD(УКРАИНА)
-http://31.43.24.216:1234/udp/239.0.0.71:1234
-#EXTINF:-1,ФУТБОЛ 2 HD(УКРАИНА)
-http://31.43.24.216:1234/udp/239.0.0.72:1234
-#EXTINF:-1,НТВ+ ФУТБОЛ 1
-http://31.43.24.216:1234/udp/239.0.0.110:1234
-
-#EXTINF:-1, RUSSO SPORT 
-http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
-#EXTINF:-1, RUSSO SPORT 1
-http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
-
+#EXTINF:-1, l'Equipe 21
+http://streaming-hub.com/stream/lequipe21.m3u8
+#EXTINF:-1, l'Equipe 21
+http://stream4.latvdefrance.com/demo/lequipe.m3u8
 #EXTINF:-1,WinSports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo=\"tyc-sports.png\",TyC Sports
@@ -555,6 +505,10 @@ http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
 #EXTINF:-1 tvg-logo=\"BeinSports.png\",BeinSports USA
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:-1, aym sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
+#EXTINF:-1,DXTV (esp)
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 
 #EXTINF:-1, Sport 1
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
@@ -564,6 +518,8 @@ http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20
 http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:-1, TRT SPORT (transmite jogos)
 http://sol.trtcdn.com/tv/trtspor/trtspor_3/radyodelisi.m3u8
+#EXTINF:-1, TURKEM SPOR (turco)
+http://tv.online.tm/hls/ch004_md/index.m3u8
 #EXTINF:-1,NTV SPOR
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:-1,SPORTS TV
@@ -575,10 +531,35 @@ http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballRe
 #EXTINF:0,Premier sports
 http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
 
-#EXTINF:-1, aym sports
-http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
-#EXTINF:-1, TURKEM SPOR (turco)
-http://tv.online.tm/hls/ch004_md/index.m3u8
+#EXTINF:-1, VIASAT SPORT (rus)
+http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:1, NTV
+http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:-1, Cnopt (rus)
+http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:-1,SPORTAL TV (ru)
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:-1,ФУТБОЛ 1 HD(УКРАИНА)
+http://31.43.24.216:1234/udp/239.0.0.71:1234
+#EXTINF:-1,ФУТБОЛ 2 HD(УКРАИНА)
+http://31.43.24.216:1234/udp/239.0.0.72:1234
+#EXTINF:-1,НТВ+ ФУТБОЛ 1
+http://31.43.24.216:1234/udp/239.0.0.110:1234
+#EXTINF:-1, RUSSO SPORT 
+http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
+#EXTINF:-1, RUSSO SPORT 1
+http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
+#EXTINF:-1, Россия 1 (ru)
+http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
+#EXTINF:-1, Россия 2 (ru) 
+http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
+#EXTINF:-1, Россия 2 (ru) 
+http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
+
+#EXTINF:-1, abu dhabi sport
+http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+#EXTINF:-1, abu dhabi sport
+http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 
 #############################################################################################
 
@@ -605,31 +586,6 @@ http://srv6.zoeweb.tv:1935/z433-live/stream/inspiration.m3u8
 #EXTINF:-1, E+I
 http://37.203.209.34:443/mobile/flash08/inspiration.m3u8
 
-#EXTINF:-1, VIASAT SPORT (rus)
-http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:1, NTV
-http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
-#EXTINF:-1, Cnopt (rus)
-http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-
-#EXTINF:-1,SPORTAL TV (ru)
-http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:-1,DXTV (esp)
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:-1, Россия 1 (ru)
-http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
-#EXTINF:-1, Россия 2 (ru) 
-http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:-1, Россия 2 (ru) 
-http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
-
-#EXTINF:-1, l'Equipe 21
-http://streaming-hub.com/stream/lequipe21.m3u8
-#EXTINF:-1, l'Equipe 21
-http://stream4.latvdefrance.com/demo/lequipe.m3u8
-#EXTINF:-1,WinSports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #############################################################################################
 
 #EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
@@ -648,10 +604,34 @@ rtmp://195.154.162.157:80/liverepeater playpath=132689 swfUrl=http://cdn.deltatv
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1, trace sports
 http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
-#EXTINF:-1, abu dhabi sport
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1, abu dhabi sport
-http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR yellow][B]SPORTS CANAIS TESTES (TEMP)[/B][/COLOR]
+http://google.pt
+####################################################################################################################################
+
+#EXTINF:-1,NL-Sport
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1512.ts
+#EXTINF:-1,NL-Sport -1-SelectHD
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1410.ts
+#EXTINF:-1,NL:Sport1-Voetbal
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1409.ts
+#EXTINF:-1,NL:Fox.Sports1.EredivisieHD
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1616.ts
+#EXTINF:-1,NL:Fox.Sports2.International
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1617.ts
+#EXTINF:-1,NL:Fox.Sports3.Eredivisie
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1618.ts
+#EXTINF:-1,NL:Fox.Sports4.Internationaal
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1619.ts
+#EXTINF:-1,NL:Fox.Sports5.Eredivisie
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1620.ts
+#EXTINF:-1,NL:Fox.Sports6.Internationaal
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1621.ts
+#EXTINF:-1,UK:SKY-Sports-F1-HD
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1800.ts
+#EXTINF:-1,UK:Setanta-Ireland
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1799.ts
 
 #################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS HISPANICOS [/B][/COLOR]
