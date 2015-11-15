@@ -461,8 +461,6 @@ http://motorsport.hopto.org:8083/
 http://motorsport.hopto.org:8084/
 
 #EXTINF:-1,FIGHTER
-http://87.248.160.8/edge/smil:boet/inspirationlinks.m3u8
-#EXTINF:-1,FIGHTER
 http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,Combat
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
@@ -485,6 +483,10 @@ http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports 5 [FSD]
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/playlist.m3u8
 
+#EXTINF:-1, trace sports
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
+#EXTINF:-1, Football Report
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 #EXTINF:-1, l'Equipe 21
 http://streaming-hub.com/stream/lequipe21.m3u8
 #EXTINF:-1, l'Equipe 21
@@ -510,14 +512,10 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 #EXTINF:-1,DXTV (esp)
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 
-#EXTINF:-1, Sport 1
-http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
 #EXTINF:-1,TRT SPOR
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 #EXTINF:-1, A SPOR
 http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
-#EXTINF:-1, TRT SPORT (transmite jogos)
-http://sol.trtcdn.com/tv/trtspor/trtspor_3/radyodelisi.m3u8
 #EXTINF:-1, TURKEM SPOR (turco)
 http://tv.online.tm/hls/ch004_md/index.m3u8
 #EXTINF:-1,NTV SPOR
@@ -526,10 +524,6 @@ http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
 #EXTINF:-1, M4 SPORT (HUNG)
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
-#EXTINF:-1, Football Report
-http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
-#EXTINF:0,Premier sports
-http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
 
 #EXTINF:-1, VIASAT SPORT (rus)
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
@@ -539,15 +533,10 @@ http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 #EXTINF:-1,SPORTAL TV (ru)
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:-1,ФУТБОЛ 1 HD(УКРАИНА)
-http://31.43.24.216:1234/udp/239.0.0.71:1234
-#EXTINF:-1,ФУТБОЛ 2 HD(УКРАИНА)
-http://31.43.24.216:1234/udp/239.0.0.72:1234
-#EXTINF:-1,НТВ+ ФУТБОЛ 1
-http://31.43.24.216:1234/udp/239.0.0.110:1234
+
 #EXTINF:-1, RUSSO SPORT 
 http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
-#EXTINF:-1, RUSSO SPORT 1
+#EXTINF:-1, RUSSO SPORT 2
 http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
 #EXTINF:-1, Россия 1 (ru)
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
@@ -563,14 +552,6 @@ http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605
 
 #############################################################################################
 
-#EXTINF:-1,SPORTV (br)
-http://62.210.88.233:1935/liverepeat/201020/inspiration.m3u8
-#EXTINF:-1, SPORTV BR (jogos da liga PT)
-http://37.203.209.34:443/mobile/bob05/inspiration.m3u8
-#EXTINF:-1, SPORTV 2 BR (jogos da liga PT)
-http://37.203.209.34:443/mobile/bob06/inspiration.m3u8
-#EXTINF:-1, SPORTV 3 BR (jogos da liga PT)
-http://37.203.209.34:443/mobile/bob50sd/inspirationlinks.m3u8
 #EXTINF:-1, PREMIERE BR
 http://37.203.209.34:443/mobile/bob07/inspiration.m3u8
 #EXTINF:-1, BAND SPORT BR
@@ -588,22 +569,16 @@ http://37.203.209.34:443/mobile/flash08/inspiration.m3u8
 
 #############################################################################################
 
-#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (esp) [/COLOR]
+#EXTINF:-1,[COLOR lawngreen] EUROSPORT (esp) [/COLOR] (rtmp)
 rtmp://31.220.0.134/pull/euresp?keys=UcDHN2JANNJ8WcurJBrK9A&keyt=1444742618 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="eurosport.pt" tvg-logo="ESP_GGS_RVB.png" group-title="DESPORTO",[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
+#EXTINF:-1,[COLOR lawngreen] EUROSPORT (uk) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
+#EXTINF:-1,[COLOR lawngreen] EUROSPORT HD (fr) [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT (RU) [/COLOR]
+#EXTINF:-1,[COLOR lawngreen] EUROSPORT (RU) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
-http://fr456.edem.tv/iptv/9HA4DK4R2PY23A/539/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2(AR) [/COLOR]
-rtmp://195.154.162.157:80/liverepeater playpath=132689 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132689&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-id="" tvg-logo="ESP_GGS_RVB.png" group-title="FRANÇA",[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
+#EXTINF:-1,[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-#EXTINF:-1, trace sports
-http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR yellow][B]SPORTS CANAIS TESTES (TEMP)[/B][/COLOR]
