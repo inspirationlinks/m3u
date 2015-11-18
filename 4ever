@@ -7,7 +7,7 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1, [COLOR pink][B] BY: [COLOR red]««[/COLOR] jerrymoz.wordpress.com [COLOR red]»»[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
-#EXTINF:-1, [COLOR white][B] [COLOR red]««[/COLOR] Update 17-11-15 [COLOR red]»»[/COLOR] [/B][/COLOR]
+#EXTINF:-1, [COLOR white][B] [COLOR red]««[/COLOR] Update 18-11-15 [COLOR red]»»[/COLOR] [/B][/COLOR]
 
 #EXTINF:-1, [COLOR yellow][B] [COLOR red]««[/COLOR] SE PRETENDER TER MAIS CANAIS ENVIEI EMAIL PARA JERRYMOZ@LIVE.COM.PT [COLOR red]»»[/COLOR] [/B][/COLOR]
 #################################################################################################################################### 
@@ -92,6 +92,9 @@ http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
 #EXTINF:-1, [COLOR lawngreen]TV LISBOA [/COLOR]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
+#EXTINF:-1,ALAZEERA ENGLISH
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
 #EXTINF:-1,WEATHER CHANNEL (usa)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,WEATHER CHANNEL (usa)
@@ -119,46 +122,75 @@ rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 ####################################################################################################################################
+#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] CHANNELS INFANTIS (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com
+####################################################################################################################################
+
+#EXTINF:-1,Nickelodeon Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
+#EXTINF:-1,Cartoon Network Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
+#EXTINF:-1,Disney XD Norte
+http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
+#EXTINF:-1,Discovery Kids America Latina
+http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
+#EXTINF:-1,Tooncast
+http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
+#EXTINF:-1,Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+
+####################################################################################################################################
 #EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] DOCUMENTARIOS & VIDA SELVAGEM (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
+#EXTINF:-1,Historia (rtmp)
+rtmp://149.255.39.10/pull/historia45?keys=NgL_3purw_81bJVpMciZfg&keyt=1443154998 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,History en Español
+http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
+
+#EXTINF:-1,National Geographic Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
+#EXTINF:-1,Discovery Home & Health Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
+#EXTINF:-1,Animal Planet Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
+#EXTINF:-1,Investigation Discovery Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
+
 #EXTINF:-1,DISCOVERY (esp)
 rtmp://31.220.0.72/pull/discovery1?keys=UpzcvgzQkK4hKxE2bG4hpg&keyt=1443276407 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,Discovery MAX Esp (rtmp)
+rtmp://31.220.2.56/pull/discomax7?keys=eOEce3AkgHQdHSOtxVynsw&keyt=1443156017 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1, Discovery TURBO (uk)
+http://158.255.6.224:8080/loadchan.php?chan=1064&token=ea6d3ebed9dc
+
 #EXTINF:-1,NATIONAL GEOGRAFIC Esp (rtmp)
 rtmp://31.220.0.186/pull/natgeo36?FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1, NAT GEO (esp)
 rtmp://31.220.0.201/pull/ playpath=natgeo36?keys=FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=770&height=410
-#EXTINF:-1,Discovery MAX Esp (rtmp)
-rtmp://31.220.2.56/pull/discomax7?keys=eOEce3AkgHQdHSOtxVynsw&keyt=1443156017 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1, Science & Vie TV (uk&bul)
-http://lag2.tv-mobile.org/prgi.m3u8
-#EXTINF:-1, NAT GEO WILD (esp)
-rtmp://31.220.0.201/pull/ playpath=natgeowilde?keys=NImzKx0PLPUHT8Knl3u52Q&keyt=1443154779&keyt=1442097163 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=770&height=410
-#EXTINF:-1, NAT GEO WILD HD (Arabic)
-http://38.99.146.36:7777/ADNatGeo_HD.m3u8
-#EXTINF:-1, ANIMAL PLANET (usa)
-http://sall1.homelinux.net:80/live?channelId=76&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:-1,Historia (rtmp)
-rtmp://149.255.39.10/pull/historia45?keys=NgL_3purw_81bJVpMciZfg&keyt=1443154998 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1, NAT GEO WILD (ESPANHOL)
+http://158.255.6.224:8080/loadchan.php?chan=627&token=ea6d3ebed9dc
 
+#EXTINF:-1, Animal Planet
+http://158.255.6.224:8080/loadchan.php?chan=628&token=ea6d3ebed9dc
 
 #################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS ENTRETENIMENTO (Multi Language)[/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #################################################################################################################
-#EXTINF:-1,Canal+ Dcine ESP
+#EXTINF:-1,Canal+ Dcine (rtmp)
 rtmp://31.220.0.13/pull playpath=159dcine?keys=hYuDsKaO0rqinbh3HeJgMw-keyt=1444728274 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1,comedy central
+#EXTINF:-1,comedy central (rtmp)
 rtmp://31.220.40.61/pull playpath=comedycentral3?keys=BVPzwTUCCQmY1nzYHylP9A-keyt=1444700091 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1,HOLLYWOOD
+#EXTINF:-1,HOLLYWOOD (rtmp)
 rtmp://31.220.2.54/pull/235hollywood?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,TCM
+#EXTINF:-1,TCM (rtmp)
 rtmp://31.220.0.155/pull/tmc78?keys=X4WEmd60ZomKVXcZA8D93g&keyt=1443272315 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,AMC (esp)
+#EXTINF:-1,AMC (esp) (rtmp)
 rtmp://31.220.0.196/pull/ammc?keys=yYInylptb2_w3ouIcIa-9g&keyt=1443272274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-1,HBO (usa) rtmp
+#EXTINF:-1,HBO (usa) (rtmp)
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
 #EXTINF:-1, Fox Life (rtmp)
 rtmp://31.220.0.72/pull playpath=foxlife20?keys=2mCFcqbiiGdj7yOoWGIARg-keyt=1444877225 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
@@ -172,30 +204,47 @@ rtmp://31.220.40.40/pull playpath=axnw6?keys=_HOZ-Hwr5arL7wRdno1zQg&keyt=1443609
 
 #EXTINF:-1, CANAL CINE
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, CANAL PELICULAS
-http://201.161.59.7/depelicula.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, CANAL PARAMOUNT
-http://201.161.59.7/paramount.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1, tlc (usa) 
 http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 #EXTINF:-1, English Club tv (usa)
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 
+#EXTINF:-1,FOX
+http://158.255.6.224:8080/loadchan.php?chan=717&token=ea6d3ebed9dc
+#EXTINF:-1,FOX 1
+http://158.255.6.224:8080/loadchan.php?chan=716&token=ea6d3ebed9dc
+#EXTINF:-1,FOX ACTION
+http://158.255.6.224:8080/loadchan.php?chan=721&token=ea6d3ebed9dc
+#EXTINF:-1,FOX ACTION2
+http://158.255.6.224:8080/loadchan.php?chan=722&token=ea6d3ebed9dc
+#EXTINF:-1,FOX MOVIE
+http://158.255.6.224:8080/loadchan.php?chan=723&token=ea6d3ebed9dc
+#EXTINF:-1,FOX FAMILY
+http://158.255.6.224:8080/loadchan.php?chan=718&token=ea6d3ebed9dc
+#EXTINF:-1,FOX COMEDY
+http://158.255.6.224:8080/loadchan.php?chan=719&token=ea6d3ebed9dc
+#EXTINF:-1,FOX CINEMA
+http://158.255.6.224:8080/loadchan.php?chan=720&token=ea6d3ebed9dc
+#EXTINF:-1,FOX CLASSIC
+http://158.255.6.224:8080/loadchan.php?chan=724&token=ea6d3ebed9dc
+
+#EXTINF:-1,HB0
+http://158.255.6.224:8080/loadchan.php?chan=725&token=ea6d3ebed9dc
+#EXTINF:-1,HB0 2
+http://158.255.6.224:8080/loadchan.php?chan=726&token=ea6d3ebed9dc
+#EXTINF:-1,HB0 PLUS
+http://158.255.6.224:8080/loadchan.php?chan=728&token=ea6d3ebed9dc
+#EXTINF:-1,HB0 FAMILY
+http://158.255.6.224:8080/loadchan.php?chan=729&token=ea6d3ebed9dc
+#EXTINF:-1,HB0 SIGNATURE
+http://158.255.6.224:8080/loadchan.php?chan=730&token=ea6d3ebed9dc
+
 #EXTINF:-1,A&E Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
 #EXTINF:-1,Lifetime Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
-#EXTINF:-1,History en Español
-http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
-#EXTINF:-1,National Geographic Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
-#EXTINF:-1,Discovery Home & Health Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
-#EXTINF:-1,Animal Planet Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
-#EXTINF:-1,Investigation Discovery Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
+
 #EXTINF:-1,Fox Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
 #EXTINF:-1,Syfy Latinoamerica
@@ -254,21 +303,6 @@ http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
 #EXTINF:-1,Canal DHE
 http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
-#EXTINF:-1,Nickelodeon Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
-#EXTINF:-1,Cartoon Network Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
-#EXTINF:-1,Disney XD Norte
-http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
-#EXTINF:-1,Discovery Kids America Latina
-http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
-#EXTINF:-1,Tooncast
-http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
-#EXTINF:-1,Bandamax
-http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
-
-#EXTINF:-1, University of California TV
-rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800?inspirationlinks
 
 ############################################################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B][COLOR red]||[/COLOR]DESPORTO NACIONAL[COLOR red]||[/COLOR] [/B][/COLOR]
@@ -293,22 +327,20 @@ rtmp://$OPT:rtmp-raw=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl
 #EXTINF:-1,[COLOR lawngreen]SPORTV 3 & BTV2[/COLOR]
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] ONLINE
+#EXTINF:-1, [B] BTV 1[B] ONLINE (rtmp)
 rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/iso-dzsat
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] ONLINE
+#EXTINF:-1, [B] BTV 1[B] ONLINE (rtmp)
 rtmp://75.126.196.162:1935/stream/ playpath=9DBo1519y0yBoOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR] (wiseplay and simple tv)
+#EXTINF:-1,[B] BTV 1[B] (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://75.126.196.162:1935/stream/ playpath=9DBo1519y0yBoOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 
-#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2[/COLOR] ONLINE
+#EXTINF:-1,[B] BTV 2[B] ONLINE (rtmp)
 rtmp://75.126.196.162:1935/stream/ playpath=1HBo1519y0yBoPLZsrzG8.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
-#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="PORTUGAL",[COLOR lawngreen] BTV2[/COLOR] (wiseplay and simple tv)
+#EXTINF:-1,[B] BTV 2[B] (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://75.126.196.162:1935/stream/ playpath=1HBo1519y0yBoPLZsrzG8.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 
 #EXTINF:-1, SPORTING teste ONLINE
 http://max24.homelinux.com:8000/streaming/clients_live.php?extension=m3u8&username=duarte&password=duarte&stream=39&type=hls&inspirationlinks.ts
-#EXTINF:-1,[COLOR lawngreen] SPORTING TV teste[/COLOR] ONLINE
-http://62.210.248.96:11000/streaming/clients_live.php?extension=m3u8&username=toze071@hotmail.com_pt&password=toze071@hotmail.com_pt&stream=208&type=hls&inspirationlinks.m3u8
 ####################################################################################################################################
 #EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] CHANNELS DESPORTO "PLEXUS" [COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
@@ -494,17 +526,6 @@ rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 
 #EXTINF:-1, TVN (mex)
 http://158.255.6.224:8080/loadchan.php?chan=639&token=ea6d3ebed9dc
 
-#EXTINF:-1,Sky Sports 1 [FSD]
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports 2 [FSD]
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports2.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports 3 [FSD]
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports3.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports 4 [FSD]
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports 5 [FSD]
-http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/playlist.m3u8
-
 #EXTINF:-1,Arena 1
 http://212.200.101.3:5000/udp/237.0.0.1:5000
 #EXTINF:-1,Arena 2
@@ -522,10 +543,6 @@ http://faton.goldtv.al:8000/live/agroni/agroni/347.m3u8
 http://faton.goldtv.al:8000/live/agroni/agroni/102.m3u8
 #EXTINF:-1,Arena Sport 4 HD HR
 http://faton.goldtv.al:8000/live/agroni/agroni/103.m3u8
-
-#EXTINF:-1,Super Sport 2
-http://selling-team.net:8000/live/alessandro/alessandro/1328.m3u8
-
 
 #EXTINF:-1, trace sports
 http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
@@ -621,34 +638,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR lawngreen] EUROSPORT 2 (RU) [/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B]SPORTS CANAIS TESTES (TEMP)[/B][/COLOR]
-http://google.pt
-####################################################################################################################################
-
-#EXTINF:-1,NL-Sport
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1512.ts
-#EXTINF:-1,NL-Sport -1-SelectHD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1410.ts
-#EXTINF:-1,NL:Sport1-Voetbal
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1409.ts
-#EXTINF:-1,NL:Fox.Sports1.EredivisieHD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1616.ts
-#EXTINF:-1,NL:Fox.Sports2.International
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1617.ts
-#EXTINF:-1,NL:Fox.Sports3.Eredivisie
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1618.ts
-#EXTINF:-1,NL:Fox.Sports4.Internationaal
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1619.ts
-#EXTINF:-1,NL:Fox.Sports5.Eredivisie
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1620.ts
-#EXTINF:-1,NL:Fox.Sports6.Internationaal
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1621.ts
-#EXTINF:-1,UK:SKY-Sports-F1-HD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1800.ts
-#EXTINF:-1,UK:Setanta-Ireland
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1799.ts
 
 #################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS HISPANICOS [/B][/COLOR]
