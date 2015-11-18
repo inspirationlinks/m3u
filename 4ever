@@ -14,6 +14,22 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][B] JOGOS EM DESTAQUE [/B][/COLOR] (constante actualizacao)
 http://jerrymoz.wordpress.com 
 #################################################################################################################################### 
+#EXTINF:-1, [COLOR aqua][B] Chelsea VS Norwich City [/B][/COLOR] 15.00h (saturday)
+
+#EXTINF:-1, [COLOR magenta][B] Real Madrid VS Barcelona [/B][/COLOR] 18.00h (saturday)
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/02.m3u8
+#EXTINF:-1, [COLOR magenta][B] Real Madrid VS Barcelona (rtmp)[/B][/COLOR] 18.00h (saterday)
+rtmp://31.220.0.196/pull/ligaplus?keys=kMn7fX_C6zmBzgVP8jdIWg&keyt=1445201839 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
+#EXTINF:-1, [COLOR aqua][B] Sporting VS Benfica [/B][/COLOR] 20.00h (saturday)
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1 group-title="PLEXUS", [COLOR aqua][B] Sporting VS Benfica [/B][/COLOR] PLEXUS
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1 
+
+#EXTINF:-1, [COLOR magenta][B] Angrense VS Porto [/B][/COLOR] 18.00h (saturday)
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1, [COLOR magenta][B] Angrense VS Porto [/B][/COLOR] PLEXUS
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1 
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B] PORTUGUESES CHANNELS [/B][/COLOR]
@@ -113,8 +129,12 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 #EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR yellow][B]toros & caça & pesca (Multi Language)[/B][/COLOR]
 http://jerrymoz.wordpress.com 
 ######################################################################################################################
-#EXTINF:-1 group-title="TOROS&CAZA&PESCA",Fishing & Hunting (Ru)
-http://91.205.164.201:8181/udp/239.1.4.18:1234
+
+#EXTINF:-1,CACAVISION
+http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.m3u8
+#EXTINF:-1,caza e pesca
+http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/208.m3u8
+
 #EXTINF:-1 group-title="TOROS&CAZA&PESCA",[COLOR lawngreen] CANAL+ TOROS [/COLOR] rtmp
 rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443849069 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
@@ -305,7 +325,7 @@ http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
 
 ############################################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR yellow][B][COLOR red]||[/COLOR]DESPORTO NACIONAL[COLOR red]||[/COLOR] [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]||[/COLOR]DESPORTO NACIONAL[COLOR red]||[/COLOR] [/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #############################################################################################################################################################
 
@@ -339,13 +359,14 @@ rtmp://75.126.196.162:1935/stream/ playpath=1HBo1519y0yBoPLZsrzG8.stream swfUrl=
 #EXTINF:-1,[B] BTV 2[B] (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://75.126.196.162:1935/stream/ playpath=1HBo1519y0yBoPLZsrzG8.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 
-#EXTINF:-1, SPORTING teste ONLINE
-http://max24.homelinux.com:8000/streaming/clients_live.php?extension=m3u8&username=duarte&password=duarte&stream=39&type=hls&inspirationlinks.ts
+#EXTINF:-1,SPORTING TV (teste)
+http://painel.soeu.ws:8000/streaming/clients_live.php?extension=m3u8&username=spockesch&password=2kJ2aAynyk&stream=203&type=hls&inspirationlinks.ts#EXTINF:-1,Sporting TV teste
+
 ####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] CHANNELS DESPORTO "PLEXUS" [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] "PLEXUS" BY: TV PARA TODOS [COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] ABRIR NO PLAYLIST LOADER [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] ABRIR NO PLAYLIST LOADER [COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
 
@@ -501,6 +522,7 @@ http://google.pt
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
 #EXTINF:-1,Motores Tv (uk) (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
+
 #EXTINF:-1,FOX Motorsport
 http://motorsport.hopto.org:8080/
 #EXTINF:-1,Live Motor Sport 1
