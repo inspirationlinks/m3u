@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR white][B] [COLOR red]||||||||||[/COLOR] Update 18-11-15 [COLOR red]||||||||||[/COLOR] [/B][/COLOR]
+#EXTINF:-1, [COLOR white][B] [COLOR red]||||||||||[/COLOR] Update 19-11-15 [COLOR red]||||||||||[/COLOR] [/B][/COLOR]
 
 #EXTINF:-1,[COLOR white][B]Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -126,6 +126,8 @@ rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer
 #EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR yellow][B][COLOR red]||[/COLOR]toros & caça & pesca (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 ######################################################################################################################
+#EXTINF:-1,TPOTEN HD
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
 
 #EXTINF:-1,CACAVISION
 http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.m3u8
@@ -525,6 +527,35 @@ http://motorsport.hopto.org:8083/
 #EXTINF:-1,Live Motor Sport 4
 http://motorsport.hopto.org:8084/
 #############################################################################################
+
+#EXTINF:-1,bein (arabe)
+http://158.255.6.224:8080/loadchan.php?chan=1117&token=ea6d3ebed9dc
+#EXTINF:-1,bein 1 (arabe)
+http://158.255.6.224:8080/loadchan.php?chan=1130&token=ea6d3ebed9dc
+#EXTINF:-1,bein 2 (arabe)
+http://158.255.6.224:8080/loadchan.php?chan=1129&token=ea6d3ebed9dc
+#EXTINF:-1,bein 4 (arabe)
+http://158.255.6.224:8080/loadchan.php?chan=1127&token=ea6d3ebed9dc
+#EXTINF:-1,bein 5 (arabe)
+http://158.255.6.224:8080/loadchan.php?chan=1126&token=ea6d3ebed9dc
+#EXTINF:-1,bein 6 (arabe)
+http://158.255.6.224:8080/loadchan.php?chan=1125&token=ea6d3ebed9dc
+#EXTINF:-1,bein 9 (arabe)
+http://158.255.6.224:8080/loadchan.php?chan=1122&token=ea6d3ebed9dc
+#############################################################################################
+#EXTINF:-1,SKY SPORTS1
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+#EXTINF:-1,SKY SPORTS2
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+#EXTINF:-1,SKY SPORTS3
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+#EXTINF:-1,SKY SPORTS4
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+#EXTINF:-1,SKY SPORTS5
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+
+#############################################################################################
+
 #EXTINF:-1, CANAL+ DEPORTES 2 (liga espanhola) rtmp
 rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1, CANAL + liga 2 (liga espanhola) rtmp
@@ -616,6 +647,15 @@ http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 
 #############################################################################################
 
+#EXTINF:-1,TRT SPOR HQ
+http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1,NTV SPOR
+http://hls.tv.iptv.ink/ntvsportr@697989.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1,A SPOR
+http://hls.tv.iptv.ink/asportr@317462.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1,SPORTS TV
+http://hls.tv.iptv.ink/sportstvtr@770866.m3u8|X-Forwarded-For=37.34.18.55
+
 #EXTINF:-1,TRT SPOR
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 #EXTINF:-1, A SPOR
@@ -656,6 +696,27 @@ http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS HISPANICOS [/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #################################################################################################################
+
+#EXTINF:-1,TVE 1 (La1)
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:-1,TVE 2 (La2)
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:-1,TVE 24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:-1,MEGA HD
+http://api.iptv.ink/pl.m3u8?ch=58315547
+#EXTINF:-1,LA RED EN VIVO HD
+http://api.iptv.ink/pl.m3u8?ch=14527508
+#EXTINF:-1,TV Galicia
+http://api.iptv.ink/pl.m3u8?ch=18178909
+#EXTINF:-1,LA SEXTA HD
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:-1,ANTENA 3 HD
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:-1,Russia Today HD
+http://api.iptv.ink/pl.m3u8?ch=84555053
+#EXTINF:-1,TELESUR
+http://api.iptv.ink/pl.m3u8?ch=79272030
 
 #EXTINF:-1 tvg-logo="tve1_es.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
