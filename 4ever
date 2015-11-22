@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR white][B] [COLOR red]||||||||||[/COLOR] Update 21-11-15 [COLOR red]||||||||||[/COLOR] [/B][/COLOR]
+#EXTINF:-1, [COLOR white][B] [COLOR red]||||||||||[/COLOR] Update 22-11-15 [COLOR red]||||||||||[/COLOR] [/B][/COLOR]
 
 #EXTINF:-1,[COLOR white][B]Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -9,27 +9,6 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1, [COLOR white][B] BY: [COLOR red]jerrymoz.wordpress.com[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1, [COLOR yellow][B] MAIS INFO. ENVIEI EMAIL PARA JERRYMOZ@LIVE.COM.PT [/B][/COLOR]
-#################################################################################################################################### 
-#EXTINF:-1,[COLOR white][B][COLOR red]||||||||||[/COLOR] JOGOS EM DESTAQUE [COLOR red]||||||||||[/COLOR][/B][/COLOR] (constante actualizacao)
-http://jerrymoz.wordpress.com 
-#################################################################################################################################### 
-#EXTINF:-1, [COLOR aqua][B] Chelsea vs Norwich City [/B][/COLOR] NOVO 15.00h (saturday)
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] Real Madrid vs Barcelona [/COLOR] PLEXUS
-plugin://program.plexus/?mode=1&url=acestream://f78d345dde368c6bcf8b50f82142c857c5805bae&mode=1&name=acestream&mode=1&name=CANAL+ LIGA
-#EXTINF:-1, [COLOR magenta][B] Real Madrid vs Barcelona [/B][/COLOR] NOVO 17.15h (saturday)
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
-
-#EXTINF:-1, [COLOR aqua][B] Sporting vsBenfica [/B][/COLOR] 20.00h (saturday)
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:-1,[COLOR aqua][B] Sporting vs Benfica [/B][/COLOR]
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-
-#EXTINF:-1, [COLOR magenta][B] Angrense vs Porto [/B][/COLOR] 18.00h (saturday)
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:-1, [COLOR magenta][B] Angrense vs Porto [/B][/COLOR]
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -63,14 +42,19 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/pl
 http://213.13.26.11:1935/live/sic/inspiration.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR]
 http://213.13.26.11:1935/live/sic/chunklist.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR](rtmp)
+rtmp://213.13.26.12/live playpath=sic swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 live=1 pageUrl=http://www.tugastream.com/sic.php?altura=500&largura=650
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
 http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR] rtmp
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR](rtmp)
+rtmp://213.13.26.12/live playpath=sicnoticias swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?live=rtmp://{$hostname}/live/sic&file=http://rd3.videos.sapo.pt/ShZNJuwCiSpfkjYs7YNk/mov/24&autoStart=1 live=1 pageUrl=http://rd3.videos.sapo.pt
+
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR] (rtmp)
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR] rtmp
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR] (rtmp)
 rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
@@ -82,6 +66,8 @@ http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR lawngreen] TVI 24 [/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
+#EXTINF:-1, Reality - A QUINTA (rtmp)
+rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
 #EXTINF:-1, Reality - A QUINTA
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 #EXTINF:-1, Reality - A QUINTA (by Pedro Neves)
@@ -336,12 +322,17 @@ rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/
 rtmp://$OPT:rtmp-raw=rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
 #EXTINF:-1,[COLOR lawngreen]SPORTV 2[/COLOR] (rtmp)
-rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=11 pageUrl=http://sharecast.to/
 #EXTINF:-1,[COLOR lawngreen]SPORTV 2 [/COLOR] (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
 #EXTINF:-1,[COLOR lawngreen]SPORTV 3 & BTV2[/COLOR]
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+#EXTINF:-1,[COLOR lawngreen]SPORTV 3 & BTV2[/COLOR]
+rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1,[COLOR lawngreen]SPORTV 5[/COLOR]
+rtmp://198.144.153.145:443/flash playpath=21940?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=10#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 5 [/COLOR] PLEXUS
 
 #EXTINF:-1,[COLOR lawngreen][B] BTV 1[/B][/COLOR] ONLINE (rtmp)
 rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/iso-dzsat
@@ -663,7 +654,7 @@ http://tv.online.tm/hls/ch004_md/index.m3u8
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
 #EXTINF:-1,SPORTV(turco)
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1, TURK-BURSASPOR TV (turco)
+#EXTINF:-1, BS TV TV (turco)
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 #EXTINF:-1,karadeniz
 rtmp://50.7.129.202/karadeniztv/karadeniz2
