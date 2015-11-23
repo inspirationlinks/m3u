@@ -124,12 +124,10 @@ http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.
 http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.ts
 #EXTINF:-1,[COLOR green]caza e pesca[/COLOR]
 http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/208.ts
-#EXTINF:-1,[COLOR green] CAZA&PESCA IBERALIA[/COLOR] (rtmp)
-rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-
-#EXTINF:-1,[COLOR green] CANAL+ TOROS[/COLOR] (rtmp)
-rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443849069 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-
+#EXTINF:-1,[COLOR green] CAZA&PESCA IBERALIA[/COLOR] ON (rtmp)
+rtmp://31.220.40.60/privatestream playpath=iberalia65?keys=gz490nDBAqgC8FJ60ndyhQ&keyt=1448248960 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/
+#EXTINF:-1,[COLOR green] CANAL+ TOROS[/COLOR] ON (rtmp)
+rtmp://31.220.2.57/privatestreamplus playpath=torosplus87?keys=LBREPBNER76dwxKwoRtANg&keyt=1448250276 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/
 ####################################################################################################################################
 #EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] CHANNELS INFANTIS (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
