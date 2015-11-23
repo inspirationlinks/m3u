@@ -1,353 +1,351 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR white][B] [COLOR red]||||||||||[/COLOR] Update 22-11-15 [COLOR red]||||||||||[/COLOR] [/B][/COLOR]
-
-#EXTINF:-1,[COLOR white][B]Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 23-11-15 [COLOR red]|||[/COLOR] List By: [COLOR red]jerrymoz.wordpress.com[/B][/COLOR]
 http://jerrymoz.wordpress.com
-#EXTINF:-1,[COLOR white][B]Links available in search free on the Internet I am not responsible for your use[/B][/COLOR]
+#EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
-#EXTINF:-1, [COLOR white][B] BY: [COLOR red]jerrymoz.wordpress.com[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B]Saber em que canal vai Transmitir um Jogo[COLOR red] http://liveonsat.com/ [/COLOR][/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
-#EXTINF:-1, [COLOR yellow][B] MAIS INFO. ENVIEI EMAIL PARA JERRYMOZ@LIVE.COM.PT [/B][/COLOR]
-
+#EXTINF:-1,[COLOR green] [COLOR yellow][B] Mais Inf. Enviar Email: [COLOR red]jerrymoz@live.com.pt [/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com
 #################################################################################################################################### 
-#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #################################################################################################################################### 
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR lawngreen] RTP1 [/COLOR]
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR lawngreen] RTP1 [/COLOR]
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR lawngreen] RTP2 [/COLOR]
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR lawngreen] RTP2 [/COLOR]
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR]
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen] RTP3 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR green] RTP3 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis.m3u8
 
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] RTP INTERNACIONAL [/COLOR]
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR green] RTP INTERNACIONAL [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="RTPAfrica.png" group-title="PORTUGAL",[COLOR lawngreen] RTP ÁFRICA [/COLOR]
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="RTPAfrica.png" group-title="PORTUGAL",[COLOR green] RTP ÁFRICA [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8 
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="RTPMemoria.png" group-title="PORTUGAL",[COLOR lawngreen] RTP MEMÓRIA [/COLOR]
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="RTPMemoria.png" group-title="PORTUGAL",[COLOR green] RTP MEMÓRIA [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="rtp_madeira.png" group-title="PORTUGAL",[COLOR lawngreen] RTP MADEIRA [/COLOR]
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="rtp_madeira.png" group-title="PORTUGAL",[COLOR green] RTP MADEIRA [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8 
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="RTP Acores.png" group-title="PORTUGAL",[COLOR lawngreen] RTP AÇORES [/COLOR]
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="RTP Acores.png" group-title="PORTUGAL",[COLOR green] RTP AÇORES [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR]
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR]
 http://213.13.26.11:1935/live/sic/inspiration.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR]
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR]
 http://213.13.26.11:1935/live/sic/chunklist.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR](rtmp)
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR](rtmp)
 rtmp://213.13.26.12/live playpath=sic swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 live=1 pageUrl=http://www.tugastream.com/sic.php?altura=500&largura=650
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR lawngreen] SIC [/COLOR]
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR]
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR green] SIC NOTÍCIAS [/COLOR]
 http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR](rtmp)
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR green] SIC NOTÍCIAS [/COLOR](rtmp)
 rtmp://213.13.26.12/live playpath=sicnoticias swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?live=rtmp://{$hostname}/live/sic&file=http://rd3.videos.sapo.pt/ShZNJuwCiSpfkjYs7YNk/mov/24&autoStart=1 live=1 pageUrl=http://rd3.videos.sapo.pt
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR] (rtmp)
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR green] SIC NOTÍCIAS [/COLOR] (rtmp)
 rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÍCIAS [/COLOR] (rtmp)
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR green] SIC NOTÍCIAS [/COLOR] (rtmp)
 rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24
 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI [/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI [/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI [/COLOR]
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR lawngreen] TVI 24 [/COLOR]
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR green] TVI 24 [/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:-1, Reality - A QUINTA (rtmp)
+#EXTINF:-1,[COLOR green] Reality - A QUINTA[/COLOR] (rtmp)
 rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
-#EXTINF:-1, Reality - A QUINTA
+#EXTINF:-1,[COLOR green] Reality - A QUINTA[/COLOR]
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
-#EXTINF:-1, Reality - A QUINTA (by Pedro Neves)
+#EXTINF:-1,[COLOR green] Reality - A QUINTA [/COLOR](by Pedro Neves)
 rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAxNSA2OjAxOjM0IFBNJmhhc2hfdmFsdWU9b0xSanp.WejhRMGUvaVRoRVJ5djJidz09JnZhbGlkbWludXRlcz0zMDA=/ playpath=TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24
 
-#EXTINF:-1 tvg-id="TPA" tvg-logo="tpa.png" group-title="PORTUGAL",[COLOR lawngreen] TPA [/COLOR]
+#EXTINF:-1 tvg-id="TPA" tvg-logo="tpa.png" group-title="PORTUGAL",[COLOR green] TPA [/COLOR]
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="PORTUGAL",[COLOR lawngreen] TCV iNTERNACIONAL [/COLOR] rtmp
+#EXTINF:-1 tvg-id="rtc.cv" tvg-logo="TCV International.png" group-title="PORTUGAL",[COLOR green] TCV iNTERNACIONAL [/COLOR] rtmp
 rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/v.ideojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24 timeout=10
 
-#EXTINF:-1 tvg-id="Económico TV" tvg-logo="E'tv.png" group-title="PORTUGAL",[COLOR lawngreen] ECONOMICO TV [/COLOR]
+#EXTINF:-1 tvg-id="Económico TV" tvg-logo="E'tv.png" group-title="PORTUGAL",[COLOR green] ECONOMICO TV [/COLOR]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="PORTUGAL",[COLOR lawngreen] ARTV [/COLOR]
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="PORTUGAL",[COLOR green] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
 
-#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PORTUGAL",[COLOR lawngreen] CAPELINHA DE FÁTIMA [/COLOR] rtmp
+#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PORTUGAL",[COLOR green] CAPELINHA DE FÁTIMA [/COLOR] rtmp
 rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
-#EXTINF:-1, [COLOR lawngreen]TV CANÇÃO NOVA [/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR green]TV CANÇÃO NOVA [/COLOR]
 http://cnhls-lh.akamaihd.net:80/i/cnhls_1@147036/index_508_av-p.m3u8
-#EXTINF:-1, [COLOR lawngreen]TV CANÇÃO NOVA [/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR green]TV CANÇÃO NOVA [/COLOR]
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/xlpartner-cancaonova/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="TVAgueda.png" group-title="PORTUGAL",[COLOR lawngreen] AGUEDA TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="TVAgueda.png" group-title="PORTUGAL",[COLOR green] AGUEDA TV [/COLOR]
 http://agueda.tv:1756/stream.flv
-#EXTINF:-1, [COLOR lawngreen]ODIVELAS TV [/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR green]ODIVELAS TV [/COLOR]
 http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
-#EXTINF:-1, [COLOR lawngreen]TV LISBOA [/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR green]TV LISBOA [/COLOR]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
-#EXTINF:-1,ALAZEERA ENGLISH
+#EXTINF:-1,[COLOR green]ALAZEERA ENGLISH[/COLOR]
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
-#EXTINF:-1,WEATHER CHANNEL (usa)
+#EXTINF:-1,[COLOR green]WEATHER CHANNEL[/COLOR] (usa)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,WEATHER CHANNEL (usa)
+#EXTINF:-1,[COLOR green]WEATHER CHANNEL[/COLOR] (usa)
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist.m3u8
 
 ########################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR yellow][B][COLOR red]||[/COLOR] CHANNELS GASTRONOMICOS (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS GASTRONOMICOS (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 ########################################################################################################################
 
-#EXTINF:-1, CANAL COCINA (rtmp)
+#EXTINF:-1,[COLOR green] CANAL COCINA[/COLOR] (rtmp)
 rtmp://31.220.0.155/pull playpath=cocinerita?keys=y7RuHdXWVQIlzQbmhQybSw&keyt=1443155385 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1, CHEFE COZINHA
+#EXTINF:-1,[COLOR green] CHEFE COZINHA[/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-#EXTINF:-1, Food China (rtmp)
+#EXTINF:-1,[COLOR green] Food China[/COLOR] (rtmp)
 rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
 ######################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR yellow][B][COLOR red]||[/COLOR]toros & caça & pesca (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR white][B][COLOR red]||[/COLOR]toros & caça & pesca (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 ######################################################################################################################
-#EXTINF:-1,TPOTEN HD
+#EXTINF:-1,[COLOR green]TPOTEN[/COLOR] HD
 http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
 
-#EXTINF:-1,CACAVISION
-http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.m3u8
-#EXTINF:-1,caza e pesca
-http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/208.m3u8
-#EXTINF:-1, CAZA&PESCA IBERALIA (rtmp)
+#EXTINF:-1,[COLOR green]CACAVISION[/COLOR]
+http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.ts
+#EXTINF:-1,[COLOR green]caza e pesca[/COLOR]
+http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/208.ts
+#EXTINF:-1,[COLOR green] CAZA&PESCA IBERALIA[/COLOR] (rtmp)
 rtmp://31.220.0.103/pull playpath=iberalias?keys=SnCJqisGNoTDMoBHf6fAtg&keyt=1443155274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-1, CANAL+ TOROS (rtmp)
+#EXTINF:-1,[COLOR green] CANAL+ TOROS[/COLOR] (rtmp)
 rtmp://31.220.0.186/pull playpath=toreos78?keys=DTyfm-N2WXJy2ErkzJAZZQ&keyt=1443849069 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] CHANNELS INFANTIS (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] CHANNELS INFANTIS (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
-#EXTINF:-1,Nickelodeon Latinoamerica
+#EXTINF:-1,[COLOR green]Nickelodeon Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
-#EXTINF:-1,Cartoon Network Latinoamerica
+#EXTINF:-1,[COLOR green]Cartoon Network Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
-#EXTINF:-1,Disney XD Norte
+#EXTINF:-1,[COLOR green]Disney XD Norte[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
-#EXTINF:-1,Discovery Kids America Latina
+#EXTINF:-1,[COLOR green]Discovery Kids America Latina[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
-#EXTINF:-1,Tooncast
+#EXTINF:-1,[COLOR green]Tooncast[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
-#EXTINF:-1,Bandamax
+#EXTINF:-1,[COLOR green]Bandamax[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] DOCUMENTARIOS & VIDA SELVAGEM (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] DOCUMENTARIOS & VIDA SELVAGEM (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
-#EXTINF:-1,Historia (rtmp)
+#EXTINF:-1,[COLOR green]Historia[/COLOR] (rtmp)
 rtmp://149.255.39.10/pull/historia45?keys=NgL_3purw_81bJVpMciZfg&keyt=1443154998 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,History (esp)
+#EXTINF:-1,[COLOR green]History [/COLOR](esp)
 http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
 
-#EXTINF:-1,Discovery Home & Health Latinoamerica
+#EXTINF:-1,[COLOR green]Discovery Home & Health Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
-#EXTINF:-1,Investigation Discovery Latinoamerica
+#EXTINF:-1,[COLOR green]Investigation Discovery Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
-#EXTINF:-1,DISCOVERY (esp)
+#EXTINF:-1,[COLOR green]DISCOVERY[/COLOR] (esp)
 rtmp://31.220.0.72/pull/discovery1?keys=UpzcvgzQkK4hKxE2bG4hpg&keyt=1443276407 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Discovery MAX Esp (rtmp)
+#EXTINF:-1,[COLOR green]Discovery MAX [/COLOR]Esp (rtmp)
 rtmp://31.220.2.56/pull/discomax7?keys=eOEce3AkgHQdHSOtxVynsw&keyt=1443156017 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1, Discovery TURBO (uk)
+#EXTINF:-1,[COLOR green] Discovery TURBO[/COLOR] (uk)
 http://158.255.6.224:8080/loadchan.php?chan=1064&token=ea6d3ebed9dc
 
-#EXTINF:-1,National Geographic Latinoamerica
+#EXTINF:-1,[COLOR green]National Geographic Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
-#EXTINF:-1,NATIONAL GEOGRAFIC Esp (rtmp)
+#EXTINF:-1,[COLOR green]NATIONAL GEOGRAFIC [/COLOR]Esp (rtmp)
 rtmp://31.220.0.186/pull/natgeo36?FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-1, NAT GEO (esp)
+#EXTINF:-1,[COLOR green] NAT GEO[/COLOR] (esp)
 rtmp://31.220.0.201/pull/ playpath=natgeo36?keys=FyGQXfU9sP5dAm1OTwp6Vg&keyt=1443154713&keyt=1443154713 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=770&height=410
-#EXTINF:-1, NAT GEO WILD (ESPANHOL)
+#EXTINF:-1,[COLOR green] NAT GEO WILD [/COLOR](ESPANHOL)
 http://158.255.6.224:8080/loadchan.php?chan=627&token=ea6d3ebed9dc
-#EXTINF:-1,Animal Planet Latinoamerica
+#EXTINF:-1,[COLOR green]Animal Planet Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
-#EXTINF:-1, Animal Planet
+#EXTINF:-1,[COLOR green] Animal Planet[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=628&token=ea6d3ebed9dc
 
 #################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS ENTRETENIMENTO (Multi Language)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B] CHANNELS ENTRETENIMENTO (Multi Language)[/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #################################################################################################################
-#EXTINF:-1,comedy central (rtmp)
+#EXTINF:-1,[COLOR green]comedy central[/COLOR] (rtmp)
 rtmp://31.220.40.61/pull playpath=comedycentral3?keys=BVPzwTUCCQmY1nzYHylP9A-keyt=1444700091 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1,HOLLYWOOD (rtmp)
+#EXTINF:-1,[COLOR green]HOLLYWOOD[/COLOR] (rtmp)
 rtmp://31.220.2.54/pull/235hollywood?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,TCM (rtmp)
+#EXTINF:-1,[COLOR green]TCM [/COLOR](rtmp)
 rtmp://31.220.0.155/pull/tmc78?keys=X4WEmd60ZomKVXcZA8D93g&keyt=1443272315 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,AMC (esp) (rtmp)
+#EXTINF:-1,[COLOR green]AMC[/COLOR] (esp) (rtmp)
 rtmp://31.220.0.196/pull/ammc?keys=yYInylptb2_w3ouIcIa-9g&keyt=1443272274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,HBO (usa) (rtmp)
+#EXTINF:-1,[COLOR green]HBO[/COLOR] (usa) (rtmp)
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1AXN White (esp) (rtmp)
+#EXTINF:-1AXN White[/COLOR] (esp) (rtmp)
 rtmp://80.82.78.75/pull playpath=axnw6?keys=VoBG1MkbCmMPPySYNkB3Uw&keyt=1443154022 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1AXN White (esp) (rtmp)
+#EXTINF:-1AXN White[/COLOR] (esp) (rtmp)
 rtmp://31.220.40.40/pull playpath=axnw6?keys=_HOZ-Hwr5arL7wRdno1zQg&keyt=1443609027 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 
-#EXTINF:-1, CANAL CINE
+#EXTINF:-1,[COLOR green] CANAL CINE[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, tlc (usa) 
+#EXTINF:-1,[COLOR green] tlc[/COLOR] (usa) 
 http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 
-#EXTINF:-1,FOX 1
+#EXTINF:-1,[COLOR green]FOX 1[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=717&token=ea6d3ebed9dc
-#EXTINF:-1,FOX 1
+#EXTINF:-1,[COLOR green]FOX 1[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=716&token=ea6d3ebed9dc
-#EXTINF:-1,FOX ACTION
+#EXTINF:-1,[COLOR green]FOX ACTION[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=721&token=ea6d3ebed9dc
-#EXTINF:-1,FOX ACTION2
+#EXTINF:-1,[COLOR green]FOX ACTION2[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=722&token=ea6d3ebed9dc
-#EXTINF:-1,FOX MOVIE
+#EXTINF:-1,[COLOR green]FOX MOVIE[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=723&token=ea6d3ebed9dc
-#EXTINF:-1,FOX FAMILY
+#EXTINF:-1,[COLOR green]FOX FAMILY[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=718&token=ea6d3ebed9dc
-#EXTINF:-1,FOX COMEDY
+#EXTINF:-1,[COLOR green]FOX COMEDY[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=719&token=ea6d3ebed9dc
-#EXTINF:-1,FOX CINEMA
+#EXTINF:-1,[COLOR green]FOX CINEMA[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=720&token=ea6d3ebed9dc
-#EXTINF:-1,FOX CLASSIC
+#EXTINF:-1,[COLOR green]FOX CLASSIC[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=724&token=ea6d3ebed9dc
 
-#EXTINF:-1,HB0
+#EXTINF:-1,[COLOR green]HB0[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=725&token=ea6d3ebed9dc
-#EXTINF:-1,HB0 2
+#EXTINF:-1,[COLOR green]HB0 2[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=726&token=ea6d3ebed9dc
-#EXTINF:-1,HB0 PLUS
+#EXTINF:-1,[COLOR green]HB0 PLUS[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=728&token=ea6d3ebed9dc
-#EXTINF:-1,HB0 FAMILY
+#EXTINF:-1,[COLOR green]HB0 FAMILY[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=729&token=ea6d3ebed9dc
-#EXTINF:-1,HB0 SIGNATURE
+#EXTINF:-1,[COLOR green]HB0 SIGNATURE[/COLOR]
 http://158.255.6.224:8080/loadchan.php?chan=730&token=ea6d3ebed9dc
 
-#EXTINF:-1,A&E Latinoamerica
+#EXTINF:-1,[COLOR green]A&E Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
-#EXTINF:-1,Lifetime Latinoamerica
+#EXTINF:-1,[COLOR green]Lifetime Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
 
-#EXTINF:-1,Fox Latinoamerica
+#EXTINF:-1,[COLOR green]Fox Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
-#EXTINF:-1,Syfy Latinoamerica
+#EXTINF:-1,[COLOR green]Syfy Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
-#EXTINF:-1,FOX Life
+#EXTINF:-1,[COLOR green]FOX Life[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
-#EXTINF:-1,Distrito Comedia
+#EXTINF:-1,[COLOR green]Distrito Comedia[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
-#EXTINF:-1,Canal Sony
+#EXTINF:-1,[COLOR green]Canal Sony[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
-#EXTINF:-1,Warner Channel Latinoamerica
+#EXTINF:-1,[COLOR green]Warner Channel Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1,[COLOR green]Studio Universal[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
-#EXTINF:-1,AXN Latinoamerica
+#EXTINF:-1,[COLOR green]AXN Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
-#EXTINF:-1,Comedy Central Latinoamerica
+#EXTINF:-1,[COLOR green]Comedy Central Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
-#EXTINF:-1,BBC Entertainment Latinoamerica
+#EXTINF:-1,[COLOR green]BBC Entertainment Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
-#EXTINF:-1,Universal Channel America Latina
+#EXTINF:-1,[COLOR green]Universal Channel America Latina[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
-#EXTINF:-1,TNT Series Latinoamerica
+#EXTINF:-1,[COLOR green]TNT Series Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
-#EXTINF:-1,TBS America Latina
+#EXTINF:-1,[COLOR green]TBS America Latina[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
-#EXTINF:-1,Fox 1 Oeste
+#EXTINF:-1,[COLOR green]Fox 1 Oeste[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
-#EXTINF:-1,Fox Movies Latinoamerica
+#EXTINF:-1,[COLOR green]Fox Movies Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
-#EXTINF:-1,Fox Movies Latinoamerica
+#EXTINF:-1,[COLOR green]Fox Movies Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
-#EXTINF:-1,Fox Cinema
+#EXTINF:-1,[COLOR green]Fox Cinema[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
-#EXTINF:-1,Fox Family
+#EXTINF:-1,[COLOR green]Fox Family[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
-#EXTINF:-1,CineCanal
+#EXTINF:-1,[COLOR green]CineCanal[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
-#EXTINF:-1,TNT America Latina
+#EXTINF:-1,[COLOR green]TNT America Latina[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
-#EXTINF:-1,Film Zone
+#EXTINF:-1,[COLOR green]Film Zone[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1,[COLOR green]AMC[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
-#EXTINF:-1,Cinemax Latinoamerica
+#EXTINF:-1,[COLOR green]Cinemax Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
-#EXTINF:-1,Paramount Channel Latinoamerica
+#EXTINF:-1,[COLOR green]Paramount Channel Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
-#EXTINF:-1,Golden
+#EXTINF:-1,[COLOR green]Golden[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:-1,[COLOR green]Golden Edge[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
-#EXTINF:-1,Multicinema
+#EXTINF:-1,[COLOR green]Multicinema[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
-#EXTINF:-1,De Película
+#EXTINF:-1,[COLOR green]De Película[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
-#EXTINF:-1,Canal DHE
+#EXTINF:-1,[COLOR green]Canal DHE[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
 
-#EXTINF:-1, English Club tv (usa)
+#EXTINF:-1,[COLOR green] English Club tv[/COLOR] (usa)
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 
 ############################################################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]||[/COLOR]DESPORTO NACIONAL[COLOR red]||[/COLOR] [/B][/COLOR]
-http://jerrymoz.wordpress.com 
+http://jerrymoz.wordpress.com
 #############################################################################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR lawngreen] SPORTV AMERICAS [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="SPORT TV AMERICAS.jpg" group-title="DESPORTO",[COLOR green] SPORTV AMERICAS [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1,[COLOR lawngreen] Sportv1[/COLOR]
+#EXTINF:-1,[COLOR green] Sportv1[/COLOR]
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1,[COLOR lawngreen]SPORTV 1[/COLOR] (rtmp)
+#EXTINF:-1,[COLOR green]SPORTV 1[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1,[COLOR lawngreen]SPORTV 1[/COLOR] (wiseplay and simple tv)
+#EXTINF:-1,[COLOR green]SPORTV 1[/COLOR] (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1,[COLOR lawngreen]SPORTV 2[/COLOR] (rtmp)
+#EXTINF:-1,[COLOR green]SPORTV 2[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=11 pageUrl=http://sharecast.to/
-#EXTINF:-1,[COLOR lawngreen]SPORTV 2 [/COLOR] (wiseplay and simple tv)
+#EXTINF:-1,[COLOR green]SPORTV 2 [/COLOR] (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1,[COLOR lawngreen]SPORTV 3 & BTV2[/COLOR]
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-#EXTINF:-1,[COLOR lawngreen]SPORTV 3 & BTV2[/COLOR]
+#EXTINF:-1,[COLOR green]SPORTV 3 & BTV2[/COLOR]
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1,[COLOR green]SPORTV 3 & BTV2[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1,[COLOR lawngreen]SPORTV 5[/COLOR]
+#EXTINF:-1,[COLOR green]SPORTV 5[/COLOR]
 rtmp://198.144.153.145:443/flash playpath=21940?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=10#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 5 [/COLOR] PLEXUS
 
-#EXTINF:-1,[COLOR lawngreen][B] BTV 1[/B][/COLOR] ONLINE (rtmp)
+#EXTINF:-1,[COLOR green][B] BTV 1[/B][/COLOR] ONLINE (rtmp)
 rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/iso-dzsat
-#EXTINF:-1,[COLOR lawngreen][B] BTV 1[/B] [/COLOR]ONLINE (rtmp)
+#EXTINF:-1,[COLOR green][B] BTV 1[/B] [/COLOR] ONLINE (rtmp)
 rtmp://75.126.196.162:1935/stream/ playpath=9DBo1519y0yBoOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
-#EXTINF:-1,[COLOR lawngreen][B] BTV 1[/B][/COLOR] (wiseplay and simple tv)
+#EXTINF:-1,[COLOR green][B] BTV 1[/B][/COLOR] (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://75.126.196.162:1935/stream/ playpath=9DBo1519y0yBoOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 
-#EXTINF:-1,[COLOR lawngreen][B] BTV 2[/B][/COLOR] ONLINE (rtmp)
+#EXTINF:-1,[COLOR green][B] BTV 2[/B][/COLOR] ONLINE (rtmp)
 rtmp://75.126.196.162:1935/stream/ playpath=1HBo1519y0yBoPLZsrzG8.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
-#EXTINF:-1,[COLOR lawngreen][B] BTV 2[/B][/COLOR] (wiseplay and simple tv)
+#EXTINF:-1,[COLOR green][B] BTV 2[/B][/COLOR] (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://75.126.196.162:1935/stream/ playpath=1HBo1519y0yBoPLZsrzG8.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460
 
-#EXTINF:-1,[COLOR lawngreen]SPORTING TV[/COLOR] (teste)
-http://painel.soeu.ws:8000/streaming/clients_live.php?extension=m3u8&username=spockesch&password=2kJ2aAynyk&stream=203&type=hls&inspirationlinks.ts#EXTINF:-1,Sporting TV teste
+#EXTINF:-1,[COLOR green]SPORTING TV[/COLOR] (teste)
+http://painel.soeu.ws:8000/streaming/clients_live.php?extension=m3u8&username=spockesch&password=2kJ2aAynyk&stream=203&type=hls&inspirationlinks.ts#EXTINF:-1,[COLOR green]Sporting TV teste
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B] PLEXUS BY:[COLOR red] TV PARA TODOS[/COLOR][/B][/COLOR]
@@ -501,634 +499,631 @@ plugin://program.plexus/?mode=1&url=acestream://3a619efa4e9efb342affe2042a806474
 plugin://program.plexus/?mode=1&url=acestream://3ab9ae81a0f6a99c1317e98ba2b39547bf9c4276&mode=1&name=acestream&mode=1&name=SPORT 1 LT
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR yellow][B][COLOR red]||[/COLOR] CHANNELS SPORTS INTERNACIONAIS [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] CHANNELS SPORTS INTERNACIONAIS [COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
 
-#EXTINF:-1,FIGHTER
+#EXTINF:-1,[COLOR green]FIGHTER[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
-#EXTINF:-1,FIGHTER HQ
+#EXTINF:-1,[COLOR green]FIGHTER HQ[/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 #############################################################################################
-#EXTINF:-1,Motores Tv (uk) (rtmp)
+#EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (rtmp)
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Motores Tv (uk) (wiseplay and simple tv)
+#EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (wiseplay and simple tv)
 rtmp://$OPT:rtmp-raw=rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,FOX Motorsport
+#EXTINF:-1,[COLOR green]FOX Motorsport[/COLOR]
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,Live Motor Sport 1
+#EXTINF:-1,[COLOR green]Live Motor Sport 1[/COLOR]
 http://motorsport.hopto.org:8081/
-#EXTINF:-1,Live Motor Sport 2
+#EXTINF:-1,[COLOR green]Live Motor Sport 2[/COLOR]
 http://motorsport.hopto.org:8082/
-#EXTINF:-1,Live Motor Sport 3
+#EXTINF:-1,[COLOR green]Live Motor Sport 3[/COLOR]
 http://motorsport.hopto.org:8083/
-#EXTINF:-1,Live Motor Sport 4
+#EXTINF:-1,[COLOR green]Live Motor Sport 4[/COLOR]
 http://motorsport.hopto.org:8084/
 #############################################################################################
+#EXTINF:-1,[COLOR green]bein[/COLOR] (rtmp)
+rtmp://162.253.128.170:1935/boxlivetv playpath=bein1001 swfUrl=http://cdn.boxlivetv.net/player-hd.swf live=1 pageUrl=http://www.boxlivetv.net/
 
-#EXTINF:-1,bein (arabe)
+#EXTINF:-1,[COLOR green]bein[/COLOR] (arabe)
 http://158.255.6.224:8080/loadchan.php?chan=1117&token=ea6d3ebed9dc
-#EXTINF:-1,bein 1 (arabe)
+#EXTINF:-1,[COLOR green]bein 1 [/COLOR](arabe)
 http://158.255.6.224:8080/loadchan.php?chan=1130&token=ea6d3ebed9dc
-#EXTINF:-1,bein 2 (arabe)
+#EXTINF:-1,[COLOR green]bein 2 [/COLOR](arabe)
 http://158.255.6.224:8080/loadchan.php?chan=1129&token=ea6d3ebed9dc
-#EXTINF:-1,bein 4 (arabe)
+#EXTINF:-1,[COLOR green]bein 4[/COLOR] (arabe)
 http://158.255.6.224:8080/loadchan.php?chan=1127&token=ea6d3ebed9dc
-#EXTINF:-1,bein 5 (arabe)
+#EXTINF:-1,[COLOR green]bein 5[/COLOR] (arabe)
 http://158.255.6.224:8080/loadchan.php?chan=1126&token=ea6d3ebed9dc
-#EXTINF:-1,bein 6 (arabe)
+#EXTINF:-1,[COLOR green]bein 6[/COLOR] (arabe)
 http://158.255.6.224:8080/loadchan.php?chan=1125&token=ea6d3ebed9dc
-#EXTINF:-1,bein 9 (arabe)
+#EXTINF:-1,[COLOR green]bein 9 [/COLOR](arabe)
 http://158.255.6.224:8080/loadchan.php?chan=1122&token=ea6d3ebed9dc
 
 ####################################################################################################################################
 
-#EXTINF:-1, CANAL+ LIGA (rtmp)
-rtmp://31.220.0.72/pull playpath=ligaplus?keys=BaFuAi4VPsft4iEMeZkbAg&keyt=1443230057 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1, CANAL+ FUTBOL (rtmp)
-rtmp://31.220.0.196/pull playpath=futbolsala?keys=zG65P3qWwERBZ4aLeToNHQ&keyt=1443894233 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1, CANAL+ DEPORTES 2 (rtmp)
-rtmp://31.220.0.196/pull/deportes26?keys=A4SSnZxUmYaJ2GAJww71aQ&keyt=1443942068 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1, CANAL+ LIGA 2 (rtmp)
-rtmp://80.82.64.248/pull/liga258?keys=Wwzm48irpZOkMrHb8dCOXg&keyt=1440925388 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,[COLOR green]BT Sport 1[/COLOR] UK (rtmp)
+rtmp://80.82.78.6/live playpath=yobt1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobt1&vw=620&vh=490
+#EXTINF:-1,[COLOR green]BT Sport 1[/COLOR] UK (SimpleTV)
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.6/live playpath=yobt1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobt1&vw=620&vh=490
 
+#EXTINF:-1,[COLOR green]BT Sport Europe[/COLOR] UK (rtmp)
+rtmp://80.82.78.3/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobteu&vw=620&vh=490
+#EXTINF:-1,[COLOR green]BT Sport Europe[/COLOR] UK (SimpleTV)
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.3/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobteu&vw=620&vh=490
 #############################################################################################
 
-#EXTINF:-1, TVN (mex)
+#EXTINF:-1,[COLOR green] TVN[/COLOR] (mex)
 http://158.255.6.224:8080/loadchan.php?chan=639&token=ea6d3ebed9dc
-#EXTINF:-1,WinSports
+#EXTINF:-1,[COLOR green]WinSports[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
-#EXTINF:-1 tvg-logo=\"fox-sports-hd.png\",Fox Sports Latinoamerica
+#EXTINF:-1,[COLOR green]Fox Sports Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
-#EXTINF:-1 tvg-logo=\"espn.png\",ESPN Latinoamerica
+#EXTINF:-1,[COLOR green]ESPN Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
-#EXTINF:-1 tvg-logo=\"espn-2.png\",ESPN 2 Latinoamerica
+#EXTINF:-1,[COLOR green]ESPN 2 Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
-#EXTINF:-1 tvg-logo=\"espn-3-hd.png\",ESPN 3 Latinoamerica
+#EXTINF:-1,[COLOR green]ESPN 3 Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
-#EXTINF:-1 tvg-logo=\"BeinSports.png\",BeinSports en Español
+#EXTINF:-1,[COLOR green]BeinSports en Español[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
-#EXTINF:-1 tvg-logo=\"BeinSports.png\",BeinSports USA
+#EXTINF:-1,[COLOR green]BeinSports[/COLOR] USA
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-#EXTINF:-1, AYM Sports
+#EXTINF:-1,[COLOR green] AYM Sports[/COLOR]
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
-#EXTINF:-1,DXTV (esp)
+#EXTINF:-1,[COLOR green]DXTV [/COLOR](esp)
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 #############################################################################################
 
-#EXTINF:-1,Arena Sport 1 HD HR
-http://faton.goldtv.al:8000/live/agroni/agroni/101.m3u8
-#EXTINF:-1,Arena Sport HD 2
-http://faton.goldtv.al:8000/live/agroni/agroni/347.m3u8
-#EXTINF:-1,Arena Sport 3 HD HR
-http://faton.goldtv.al:8000/live/agroni/agroni/102.m3u8
-#EXTINF:-1,Arena Sport 4 HD HR
-http://faton.goldtv.al:8000/live/agroni/agroni/103.m3u8
-
-#EXTINF:-1, trace sports
+#EXTINF:-1,[COLOR green] trace sports[/COLOR]
 http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
-#EXTINF:-1, Football Report
+#EXTINF:-1,[COLOR green] Football Report[/COLOR]
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
-#EXTINF:-1, l'Equipe 21
+#EXTINF:-1,[COLOR green] l'Equipe 21[/COLOR]
 http://streaming-hub.com/stream/lequipe21.m3u8
 
 #############################################################################################
 
-#EXTINF:-1, PREMIERE BR
+#EXTINF:-1,[COLOR green] PREMIERE BR[/COLOR]
 http://37.203.209.34:443/mobile/bob07/inspiration.m3u8
-#EXTINF:-1, BAND SPORT BR
+#EXTINF:-1,[COLOR green] BAND SPORT BR[/COLOR]
 http://37.203.209.34:443/mobile/bob04/inspiration.m3u8
-#EXTINF:-1, ESPN BRASIL
+#EXTINF:-1,[COLOR green] ESPN BRASIL[/COLOR]
 http://37.203.209.34:443/mobile/flash01/inspiration.m3u8
-#EXTINF:-1,TVU ESPORTE INTERATIVO
+#EXTINF:-1,[COLOR green]TVU ESPORTE INTERATIVO[/COLOR]
 http://srv6.zoeweb.tv:1935/z433-live/stream/inspiration.m3u8
-#EXTINF:-1, E+I
+#EXTINF:-1,[COLOR green] E+I[/COLOR]
 http://37.203.209.34:443/mobile/flash08/inspiration.m3u8
 
 #############################################################################################
 
-#EXTINF:-1, M4 SPORT (HUNG)
+#EXTINF:-1,[COLOR green] M4 SPORT[/COLOR] (HUNG)
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
-#EXTINF:-1, VIASAT SPORT (rus)
+#EXTINF:-1,[COLOR green] VIASAT SPORT[/COLOR] (rus)
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:1, NTV
+#EXTINF:-1,[COLOR green] NTV[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
-#EXTINF:-1, Cnopt (rus)
+#EXTINF:-1,[COLOR green] Cnopt [/COLOR](rus)
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:-1,SPORTAL TV (ru)
+#EXTINF:-1,[COLOR green]SPORTAL TV[/COLOR] (ru)
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 
-#EXTINF:-1, RUSSO SPORT 
+#EXTINF:-1,[COLOR green] RUSSO SPORT [/COLOR]
 http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
-#EXTINF:-1, RUSSO SPORT 2
+#EXTINF:-1,[COLOR green] RUSSO SPORT 2[/COLOR]
 http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
-#EXTINF:-1, Россия 1 (ru)
+#EXTINF:-1,[COLOR green] Россия 1 [/COLOR](ru)
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
-#EXTINF:-1, Россия 2 (ru) 
+#EXTINF:-1,[COLOR green] Россия 2[/COLOR] (ru) 
 http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:-1, Россия 2 (ru) 
+#EXTINF:-1,[COLOR green] Россия 2 [/COLOR](ru) 
 http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 
 #############################################################################################
 
-#EXTINF:-1,TRT SPOR HQ
+#EXTINF:-1,[COLOR green]TRT SPOR[/COLOR] HQ
 http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,TRT SPOR
+#EXTINF:-1,[COLOR green]TRT SPOR[/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 
-#EXTINF:-1,NTV SPOR
+#EXTINF:-1,[COLOR green]NTV SPOR[/COLOR]
 http://hls.tv.iptv.ink/ntvsportr@697989.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,NTV SPOR
+#EXTINF:-1,[COLOR green]NTV SPOR[/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1,A SPOR
+#EXTINF:-1,[COLOR green]A SPOR[/COLOR]
 http://hls.tv.iptv.ink/asportr@317462.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1, A SPOR
+#EXTINF:-1,[COLOR green] A SPOR[/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
-#EXTINF:-1,SPORTS TV
+#EXTINF:-1,[COLOR green]SPORTS TV[/COLOR]
 http://hls.tv.iptv.ink/sportstvtr@770866.m3u8|X-Forwarded-For=37.34.18.55
-
-#EXTINF:-1, TURKEM SPOR (turco)
-http://tv.online.tm/hls/ch004_md/index.m3u8
-#EXTINF:-1,SPORTS TV
+#EXTINF:-1,[COLOR green]SPORTS TV[/COLOR]
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-#EXTINF:-1,SPORTV(turco)
+
+#EXTINF:-1,[COLOR green] TURKEM SPOR[/COLOR] (turco)
+http://tv.online.tm/hls/ch004_md/index.m3u8
+
+#EXTINF:-1,[COLOR green]SPORTV[/COLOR] (turco)
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1, BS TV TV (turco)
+#EXTINF:-1,[COLOR green] BS TV TV[/COLOR] (turco)
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:-1,karadeniz
+#EXTINF:-1,[COLOR green]karadeniz[/COLOR]
 rtmp://50.7.129.202/karadeniztv/karadeniz2
-#EXTINF:-,TRT 1 HD
+#EXTINF:-1,[COLOR green]TRT 1[/COLOR] HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
+#EXTINF:-1,[COLOR green]dolcesport1[/COLOR]
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:-1,[COLOR green]dolcesport2[/COLOR]
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
 
-#EXTINF:-1, abu dhabi sport
+#EXTINF:-1,[COLOR green] abu dhabi sport[/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1, abu dhabi sport
+#EXTINF:-1,[COLOR green] abu dhabi sport 2[/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 
 #############################################################################################
 
-#EXTINF:-1, EUROSPORT (uk)
+#EXTINF:-1,[COLOR green] EUROSPORT[/COLOR] (uk)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1, EUROSPORT HD (fr)
+#EXTINF:-1,[COLOR green] EUROSPORT [/COLOR]HD (fr)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1, EUROSPORT (RU)
+#EXTINF:-1,[COLOR green] EUROSPORT[/COLOR] (RU)
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:-1, EUROSPORT 2 (RU)
+#EXTINF:-1,[COLOR green] EUROSPORT 2[/COLOR] (RU)
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 
 #################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR yellow][B] CHANNELS HISPANICOS [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS HISPANICOS [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #################################################################################################################
 
-#EXTINF:-1,TVE 1 (La1)
+#EXTINF:-1,[COLOR green]TVE 1[/COLOR] (La1)
 http://api.iptv.ink/pl.m3u8?ch=35452405
-#EXTINF:-1,TVE 2 (La2)
+#EXTINF:-1,[COLOR green]TVE 2 [/COLOR](La2)
 http://api.iptv.ink/pl.m3u8?ch=91170153
-#EXTINF:-1,TVE 24
+#EXTINF:-1,[COLOR green]TVE 24[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=92978413
-#EXTINF:-1,MEGA HD
+#EXTINF:-1,[COLOR green]MEGA [/COLOR]HD
 http://api.iptv.ink/pl.m3u8?ch=58315547
-#EXTINF:-1,LA RED EN VIVO HD
+#EXTINF:-1,[COLOR green]LA RED EN VIVO[/COLOR] HD
 http://api.iptv.ink/pl.m3u8?ch=14527508
-#EXTINF:-1,TV Galicia
+#EXTINF:-1,[COLOR green]TV Galicia[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=18178909
-#EXTINF:-1,LA SEXTA HD
+#EXTINF:-1,[COLOR green]LA SEXTA[/COLOR] HD
 http://api.iptv.ink/pl.m3u8?ch=88365689
-#EXTINF:-1,ANTENA 3 HD
+#EXTINF:-1,[COLOR green]ANTENA 3 [/COLOR]HD
 http://api.iptv.ink/pl.m3u8?ch=62326989
-#EXTINF:-1,Russia Today HD
+#EXTINF:-1,[COLOR green]Russia Today[/COLOR] HD
 http://api.iptv.ink/pl.m3u8?ch=84555053
-#EXTINF:-1,TELESUR
+#EXTINF:-1,[COLOR green]TELESUR[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=79272030
 
-#EXTINF:-1 tvg-logo="tve1_es.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
+#EXTINF:-1 tvg-logo="tve1_es.png" group-title="HISPÂNICOS",[COLOR green] rTVE [/COLOR]
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
-#EXTINF:-1 tvg-logo="tve1_es.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE [/COLOR]
+#EXTINF:-1 tvg-logo="tve1_es.png" group-title="HISPÂNICOS",[COLOR green] rTVE [/COLOR]
 http://hlslive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
-#EXTINF:-1 tvg-logo="tve2.png" group-title="HISPÂNICOS",[COLOR lawngreen] rTVE 2 [/COLOR]
+#EXTINF:-1 tvg-logo="tve2.png" group-title="HISPÂNICOS",[COLOR green] rTVE 2 [/COLOR]
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
-#EXTINF:-1 tvg-logo="24h TVe.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVE 24 [/COLOR]
+#EXTINF:-1 tvg-logo="24h TVe.png" group-title="HISPÂNICOS",[COLOR green] TVE 24 [/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="Travel Cannel HD.png" group-title="HISPÂNICOS",[COLOR lawngreen] TRAVEL TV [/COLOR]
+#EXTINF:-1 tvg-logo="Travel Cannel HD.png" group-title="HISPÂNICOS",[COLOR green] TRAVEL TV [/COLOR]
 rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] AZTECA INTERNACIONAL (mexico) [/COLOR]
+#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR green] AZTECA INTERNACIONAL (mexico) [/COLOR]
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo="canal-de-las-estrellas.png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL DE LAS ESTRELAS (mexico) [/COLOR]
+#EXTINF:-1 tvg-logo="canal-de-las-estrellas.png" group-title="HISPÂNICOS",[COLOR green] CANAL DE LAS ESTRELAS (mexico) [/COLOR]
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1,[COLOR lawngreen]TV Mas[/COLOR]
+#EXTINF:-1,[COLOR green][COLOR green]TV Mas[/COLOR]
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-logo="Canal4.jpg" group-title="HISPÂNICOS",[COLOR lawngreen]Cuatro[/COLOR]
+#EXTINF:-1 tvg-logo="Canal4.jpg" group-title="HISPÂNICOS",[COLOR green]Cuatro[/COLOR]
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
-#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
+#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR green] TELECINCO [/COLOR]
 rtmp://31.220.0.139/pull/telecincoin?keys=PVIVrGKFxbvBF7lXVXsR7w&keyt=1443471107 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELECINCO [/COLOR]
+#EXTINF:-1 tvg-logo="Telecinco.png" group-title="HISPÂNICOS",[COLOR green] TELECINCO [/COLOR]
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
-#EXTINF:-1 tvg-logo="euronewss.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] EURONEWS [/COLOR]
+#EXTINF:-1 tvg-logo="euronewss.jpg" group-title="HISPÂNICOS",[COLOR green] EURONEWS [/COLOR]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
-#EXTINF:-1 tvg-logo="antena3.png" group-title="HISPÂNICOS",[COLOR lawngreen] ANTENA3 [/COLOR]HQ
+#EXTINF:-1 tvg-logo="antena3.png" group-title="HISPÂNICOS",[COLOR green] ANTENA3 [/COLOR]HQ
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="Television de Galicia.png" group-title="HISPÂNICOS",[COLOR lawngreen] TV GALIZIA 1[/COLOR]
+#EXTINF:-1 tvg-logo="Television de Galicia.png" group-title="HISPÂNICOS",[COLOR green] TV GALIZIA 1[/COLOR]
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="Television de Galicia.png" group-title="HISPÂNICOS",[COLOR lawngreen] TV GALIZIA 2[/COLOR]
+#EXTINF:-1 tvg-logo="Television de Galicia.png" group-title="HISPÂNICOS",[COLOR green] TV GALIZIA 2[/COLOR]
 http://media3.crtvg.es/live/tvga/chunklist_w164960213.m3u8
-#EXTINF:-1 tvg-logo="Telesur.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELE SUR [/COLOR]
+#EXTINF:-1 tvg-logo="Telesur.png" group-title="HISPÂNICOS",[COLOR green] TELE SUR [/COLOR]
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
-#EXTINF:-1 tvg-logo="andalucia.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] ANDALUCIA [/COLOR]
+#EXTINF:-1 tvg-logo="andalucia.jpg" group-title="HISPÂNICOS",[COLOR green] ANDALUCIA [/COLOR]
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8?
-#EXTINF:-1 tvg-logo="marbella.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] TV MARBELLA [/COLOR]
+#EXTINF:-1 tvg-logo="marbella.jpg" group-title="HISPÂNICOS",[COLOR green] TV MARBELLA [/COLOR]
 http://cloud1.cdnstreamserver.com/olmarbella/livestream1/chunklist.m3u8#sthash.XII1ct8X.dpuf
-#EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR lawngreen] LA SEXTA [/COLOR]
+#EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR green] LA SEXTA [/COLOR]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR lawngreen] LA SEXTA HD [/COLOR]
+#EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR green] LA SEXTA HD [/COLOR]
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1 tvg-logo="13TV logo 2012.png" group-title="HISPÂNICOS",[COLOR lawngreen] 13 TV [/COLOR]
+#EXTINF:-1 tvg-logo="13TV logo 2012.png" group-title="HISPÂNICOS",[COLOR green] 13 TV [/COLOR]
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1 tvg-logo="tg7.png" group-title="HISPÂNICOS",[COLOR lawngreen] TG7 [/COLOR]
+#EXTINF:-1 tvg-logo="tg7.png" group-title="HISPÂNICOS",[COLOR green] TG7 [/COLOR]
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/.m3u8
-#EXTINF:-1 tvg-logo="huelvatv.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] HUELVA COSTA [/COLOR]
+#EXTINF:-1 tvg-logo="huelvatv.jpg" group-title="HISPÂNICOS",[COLOR green] HUELVA COSTA [/COLOR]
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
-#EXTINF:-1 tvg-logo="MegaTV.png" group-title="HISPÂNICOS",[COLOR lawngreen] MEGA [/COLOR]
+#EXTINF:-1 tvg-logo="MegaTV.png" group-title="HISPÂNICOS",[COLOR green] MEGA [/COLOR]
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
-#EXTINF:-1 tvg-logo="MegaTV.png" group-title="HISPÂNICOS",[COLOR lawngreen] MEGA HD [/COLOR]
+#EXTINF:-1 tvg-logo="MegaTV.png" group-title="HISPÂNICOS",[COLOR green] MEGA HD [/COLOR]
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
-#EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS [/COLOR]
+#EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR green] ASTURIAS [/COLOR]
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR lawngreen] ASTURIAS (2 opc)[/COLOR]
+#EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="HISPÂNICOS",[COLOR green] ASTURIAS (2 opc)[/COLOR]
 http://195.55.74.224/rtpa/tv-iphone/stream.m3u8?GKID=d482077c5ec111e5bb2000163ea2c744
-#EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] SUPER CANAL 3[/COLOR]
+#EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR green] SUPER CANAL 3[/COLOR]
 http://72.46.226.61/live01/canal31/playlist.m3u8
-#EXTINF:-1 tvg-logo="catalunya.jpg" group-title="HISPÂNICOS",[COLOR lawngreen] TV3 24 [/COLOR]
+#EXTINF:-1 tvg-logo="catalunya.jpg" group-title="HISPÂNICOS",[COLOR green] TV3 24 [/COLOR]
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR lawngreen] CANAL UNO (colombiano) [/COLOR]
+#EXTINF:-1 tvg-logo=".png" group-title="HISPÂNICOS",[COLOR green] CANAL UNO (colombiano) [/COLOR]
 http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
-#EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR lawngreen]Azteca Noticias[/COLOR]
+#EXTINF:1 tvg-logo="Azteca-Noticias.png" group-title="HISPÂNICOS",[COLOR green]Azteca Noticias[/COLOR]
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,[COLOR lawngreen]Canal 10[/COLOR]
+#EXTINF:-1,[COLOR green][COLOR green]Canal 10[/COLOR]
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1,[COLOR lawngreen]TG7 TV[/COLOR]
+#EXTINF:-1,[COLOR green][COLOR green]TG7 TV[/COLOR]
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
-#EXTINF:-1,[COLOR lawngreen]Información TV[/COLOR]
+#EXTINF:-1,[COLOR green][COLOR green]Información TV[/COLOR]
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1 tvg-logo="america_tv.png" group-title="HISPÂNICOS",[COLOR lawngreen] AMERICA TV (peru) [/COLOR]
+#EXTINF:-1 tvg-logo="america_tv.png" group-title="HISPÂNICOS",[COLOR green] AMERICA TV (peru) [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1 tvg-logo="tvp argentina.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVP (argentino) [/COLOR]
+#EXTINF:-1 tvg-logo="tvp argentina.png" group-title="HISPÂNICOS",[COLOR green] TVP (argentino) [/COLOR]
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 tvg-logo="TVN.png" group-title="HISPÂNICOS",[COLOR lawngreen] TVP1 (chile) [/COLOR]
+#EXTINF:-1 tvg-logo="TVN.png" group-title="HISPÂNICOS",[COLOR green] TVP1 (chile) [/COLOR]
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR lawngreen] CDN SPORTS (mex) [/COLOR]
+#EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR green] CDN SPORTS (mex) [/COLOR]
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR lawngreen] TELE ANTILLHAS [/COLOR]
+#EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR green] TELE ANTILLHAS [/COLOR]
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
 
 #############################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="FRANÇA", [COLOR yellow][B] CHANNELS FRANCESES [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="FRANÇA", [COLOR white][B] [COLOR red]||[/COLOR]CHANNELS FRANCESES [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #############################################################################################
-#EXTINF:-1,[COLOR lawngreen]Grandlille TV[/COLOR] (High)
+#EXTINF:-1,[COLOR green][COLOR green]Grandlille TV[/COLOR] (High)
 http://str81.creacast.com/grandlilletv/high/playlist.m3u8
-#EXTINF:-1 tvg-logo="encyclo.png" group-title="FRANÇA",[COLOR lawngreen] ENCYCLO (fr) [/COLOR]
+#EXTINF:-1 tvg-logo="encyclo.png" group-title="FRANÇA",[COLOR green] ENCYCLO (fr) [/COLOR]
 http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
-#EXTINF:-1 tvg-logo="Euronews.png" group-title="FRANÇA",[COLOR lawngreen] EURONEWS [/COLOR][COLOR red][/COLOR]
+#EXTINF:-1 tvg-logo="Euronews.png" group-title="FRANÇA",[COLOR green] EURONEWS [/COLOR][COLOR red][/COLOR]
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="france24.png" group-title="FRANÇA",[COLOR lawngreen] FRANCE 24 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="france24.png" group-title="FRANÇA",[COLOR green] FRANCE 24 [/COLOR]
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="france24.png" group-title="FRANÇA",[COLOR lawngreen] FRANCE 24 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="france24.png" group-title="FRANÇA",[COLOR green] FRANCE 24 [/COLOR]
 http://109.172.11.85:1234/udp/224.0.42.6:5000
-#EXTINF:-1 tvg-logo="m6.png" group-title="FRANÇA",[COLOR lawngreen] M6 [/COLOR][COLOR red] [/COLOR]
+#EXTINF:-1 tvg-logo="m6.png" group-title="FRANÇA",[COLOR green] M6 [/COLOR][COLOR red] [/COLOR]
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_1256.m3u8
-#EXTINF:-1 tvg-logo="tva_quebec.png" group-title="FRANÇA",[COLOR lawngreen] TVA [/COLOR]
+#EXTINF:-1 tvg-logo="tva_quebec.png" group-title="FRANÇA",[COLOR green] TVA [/COLOR]
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR lawngreen] MONACO TV [/COLOR] rtmp
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR green] MONACO TV [/COLOR] rtmp
 rtmp://46.105.34.238/livepkgr playpath=livestream3 swfUrl=http://www.rpi-informatique.com/cdp/player.swf live=1 pageUrl=http://www.monacochannel.mc/Le-Direct timeout=10
-#EXTINF:-1 tvg-id="" tvg-logo="Rouge-TV.png" group-title="FRANÇA",[COLOR lawngreen] ROUGE TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Rouge-TV.png" group-title="FRANÇA",[COLOR green] ROUGE TV [/COLOR]
 http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR lawngreen] GRAND LILLE [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR green] GRAND LILLE [/COLOR]
 rtsp://str81.creacast.com/grandlilletv/high
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR lawngreen] LA CHAINE NORMANDIE [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="FRANÇA",[COLOR green] LA CHAINE NORMANDIE [/COLOR]
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-#EXTINF:-1 tvg-id="" tvg-logo="LA TELE.png" group-title="FRANÇA",[COLOR lawngreen] LA TELE [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="LA TELE.png" group-title="FRANÇA",[COLOR green] LA TELE [/COLOR]
 rtsp://rtmp.infomaniak.ch/livecast/latele
 
 #############################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="BRA&IT", [COLOR yellow][B] CHANNELS ITALIANOS & BRASILEIROS [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="BRA&IT", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS ITALIANOS & BRASILEIROS [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #############################################################################################
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="RAI 1.png" group-title="BRA&IT",[COLOR lawngreen] RAI 1 [/COLOR]
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="RAI 1.png" group-title="BRA&IT",[COLOR green] RAI 1 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 2.png" group-title="BRA&IT",[COLOR lawngreen] RAI 2 [/COLOR]
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 2.png" group-title="BRA&IT",[COLOR green] RAI 2 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 3.png" group-title="BRA&IT",[COLOR lawngreen] RAI 3 [/COLOR]
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 3.png" group-title="BRA&IT",[COLOR green] RAI 3 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai News.png" group-title="BRA&IT",[COLOR lawngreen] RAI 24 [/COLOR]
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai News.png" group-title="BRA&IT",[COLOR green] RAI 24 [/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8
-#EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR lawngreen] Cielo [/COLOR]
+#EXTINF:-1 tvg-logo="cielo.jpg" group-title="BRA&IT",[COLOR green] Cielo [/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
-#EXTINF:-1 tvg-logo="SKY TG24.png" group-title="BRA&IT",[COLOR lawngreen] Sky Tg24[/COLOR]
+#EXTINF:-1 tvg-logo="SKY TG24.png" group-title="BRA&IT",[COLOR green] Sky Tg24[/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 tvg-logo="telearena.jpg" group-title="BRA&IT",[COLOR lawngreen] TELE ARENA  [/COLOR]
+#EXTINF:-1 tvg-logo="telearena.jpg" group-title="BRA&IT",[COLOR green] TELE ARENA  [/COLOR]
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="BRA&IT",[COLOR lawngreen]Rete Sport 8[/COLOR]
+#EXTINF:-1 tvg-logo=".png" group-title="BRA&IT",[COLOR green]Rete Sport 8[/COLOR]
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
-#EXTINF:-1 tvg-logo=".png" group-title="BRA&IT",[COLOR lawngreen]CANAL DIECE[/COLOR]
+#EXTINF:-1 tvg-logo=".png" group-title="BRA&IT",[COLOR green]CANAL DIECE[/COLOR]
 rtmp://176.31.226.78/ch10live/stream1.sdp
 #############################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]GLOBO JR[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR green]GLOBO JR[/COLOR]
 http://37.203.209.34:443/mobile/bob15/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR lawngreen]GLOBO SP[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Globo.png" group-title="BRA&IT",[COLOR green]GLOBO SP[/COLOR]
 http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD[/COLOR]
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRA&IT",[COLOR green]TV RECORD[/COLOR]
 http://srv6.zoeweb.tv:1935/z821-live/stream2/chunklist_w1200576333.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD (2 opc)[/COLOR]
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record.png" group-title="BRA&IT",[COLOR green]TV RECORD (2 opc)[/COLOR]
 rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record 
 
-#EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRA&IT",[COLOR lawngreen] BRASIL INTERNACIONAL [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Canal Brasil.png" group-title="BRA&IT",[COLOR green] BRASIL INTERNACIONAL [/COLOR]
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record News.png" group-title="BRA&IT",[COLOR lawngreen] RECORD NEWS [/COLOR]
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record News.png" group-title="BRA&IT",[COLOR green] RECORD NEWS [/COLOR]
 http://37.203.209.34:443/mobile/bob39/live.m3u8
-#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title="BRA&IT",[COLOR lawngreen] Tv Gazeta [/COLOR]
+#EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title="BRA&IT",[COLOR green] Tv Gazeta [/COLOR]
 http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD[/COLOR]
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR green]TV RECORD[/COLOR]
 http://srv6.zoeweb.tv:1935/z821-live/stream2/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Globo HD.png" group-title="BRA&IT",[COLOR lawngreen]Minas Gerais[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Globo HD.png" group-title="BRA&IT",[COLOR green]Minas Gerais[/COLOR]
 rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
-#EXTINF:-1 tvg-id="" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR lawngreen]TV RECORD PE[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Record RJ.png" group-title="BRA&IT",[COLOR green]TV RECORD PE[/COLOR]
 rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
 
 #############################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B] MUSIC CHANNELS [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][COLOR red]||[/COLOR][B] MUSIC CHANNELS [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #############################################################################################
 
-#EXTINF:-1,VH1 Classic Europe
+#EXTINF:-1,[COLOR green]VH1 Classic Europe[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
-#EXTINF:-1,MTV Live
+#EXTINF:-1,[COLOR green]MTV Live[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8
-#EXTINF:-1,VH1 Latino Norte
+#EXTINF:-1,[COLOR green]VH1 [/COLOR]Latino Norte
 http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
-#EXTINF:-1,MTV Latinoamerica
+#EXTINF:-1,[COLOR green]MTV [/COLOR]Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR lawngreen] VEVO EUROPEIO [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR green] VEVO EUROPEIO [/COLOR]
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR lawngreen] VEVO [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR green] VEVO [/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR lawngreen] VEVO 1 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR green] VEVO 1 [/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR lawngreen] VEVO 2 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR green] VEVO 2 [/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8#sthash.5BTmv7D4.dpuf
-#EXTINF:-1, MTV (rtmp)
+#EXTINF:-1,[COLOR green] MTV[/COLOR] (rtmp)
 rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf live=1
-#EXTINF:-1 tvg-logo="vox.png" group-title="DESPORTO",[COLOR lawngreen] VOX TV [/COLOR]
+#EXTINF:-1 tvg-logo="vox.png" group-title="DESPORTO",[COLOR green] VOX TV [/COLOR]
 http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="M20.gif" group-title="MUSICA", [COLOR lawngreen] M2O [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="M20.gif" group-title="MUSICA", [COLOR green] M2O [/COLOR][COLOR red] NEW [/COLOR]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="mimusic.png" group-title="MUSICA", [COLOR lawngreen] MIMUSICA[/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="mimusic.png" group-title="MUSICA", [COLOR green] MIMUSICA[/COLOR][COLOR red] NEW [/COLOR]
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="FusionPlus.png" group-title="MUSICA", [COLOR lawngreen]Africa: FusionPlus TV[/COLOR]
+#EXTINF:-1 tvg-logo="FusionPlus.png" group-title="MUSICA", [COLOR green]Africa: FusionPlus TV[/COLOR]
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-#EXTINF:-1 tvg-logo="ocko-tv_cz.gif" group-title="MUSICA",[COLOR lawngreen] Ocko TV [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-logo="ocko-tv_cz.gif" group-title="MUSICA",[COLOR green] Ocko TV [/COLOR][COLOR red] NEW [/COLOR]
 http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="virgin_radio_tv.png" group-title="MUSICA",[COLOR lawngreen] TV VIRGIN RADIO [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="virgin_radio_tv.png" group-title="MUSICA",[COLOR green] TV VIRGIN RADIO [/COLOR][COLOR red] NEW [/COLOR]
 http://wow01.105.net/live/virgin1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="hayatm.jpg" group-title="MUSICA",[COLOR lawngreen] BEST MUSIC [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="hayatm.jpg" group-title="MUSICA",[COLOR green] BEST MUSIC [/COLOR]
 rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:-1 tvg-id="" tvg-logo="Planet_Pop.png" group-title="MUSICA",[COLOR lawngreen] PLANETA POP [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Planet_Pop.png" group-title="MUSICA",[COLOR green] PLANETA POP [/COLOR]
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="MYX.jpg" group-title="MUSICA",[COLOR lawngreen] First Music Channel [/COLOR][COLOR red] NEW [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="MYX.jpg" group-title="MUSICA",[COLOR green] First Music Channel [/COLOR][COLOR red] NEW [/COLOR]
 rtmp://rtmp.one.by/SD/1muz
-#EXTINF:-1 tvg-id="" tvg-logo="Capital_TV_logo.png" group-title="MUSICA",[COLOR lawngreen] CAPITAL TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Capital_TV_logo.png" group-title="MUSICA",[COLOR green] CAPITAL TV [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="m6.png" group-title="MUSICA",[COLOR lawngreen] M6 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="m6.png" group-title="MUSICA",[COLOR green] M6 [/COLOR]
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="MUSICA",[COLOR lawngreen] COLOSAL TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="MUSICA",[COLOR green] COLOSAL TV [/COLOR]
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1 tvg-id="" tvg-logo="alb music.jpg" group-title="MUSICA",[COLOR lawngreen] Alb Music [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="alb music.jpg" group-title="MUSICA",[COLOR green] Alb Music [/COLOR]
 rtmp://188.138.17.8:1935/albuk/albmus.stream
-#EXTINF:-1 tvg-id="" tvg-logo="djing.png" group-title="MUSICA",[COLOR lawngreen] DJING HOT [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="djing.png" group-title="MUSICA",[COLOR green] DJING HOT [/COLOR]
 http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="DANCEFLOOR.jpg" group-title="MUSICA",[COLOR lawngreen] DJING DANCEFLOOR [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="DANCEFLOOR.jpg" group-title="MUSICA",[COLOR green] DJING DANCEFLOOR [/COLOR]
 http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="djing.png" group-title="MUSICA",[COLOR lawngreen] DJING [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="djing.png" group-title="MUSICA",[COLOR green] DJING [/COLOR]
 http://www.djing.com/tv/noaudio_PT.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="kiss tv music.png" group-title="MUSICA",[COLOR lawngreen] KISS TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="kiss tv music.png" group-title="MUSICA",[COLOR green] KISS TV [/COLOR]
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="polo_tv_pl_party.png" group-title="MUSICA",[COLOR lawngreen] POLO PARTY TV [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="polo_tv_pl_party.png" group-title="MUSICA",[COLOR green] POLO PARTY TV [/COLOR]
 http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="Music_Box.jpg" group-title="MUSICA",[COLOR lawngreen] MUSICBOX [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="Music_Box.jpg" group-title="MUSICA",[COLOR green] MUSICBOX [/COLOR]
 http://teleclub.fr/musicbox.mp4?sd=10&_Maghrebstar.com_rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="sportime.png" group-title="MUSICA",[COLOR lawngreen] SPORT TIME MUSIC [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="sportime.png" group-title="MUSICA",[COLOR green] SPORT TIME MUSIC [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 
 ####################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B][COLOR red]||[/COLOR] XXX [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||[/COLOR] XXX [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
-#EXTINF:-1, XXX 
+#EXTINF:-1,[COLOR green] XXX [/COLOR]
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1, sexy
+#EXTINF:-1,[COLOR green] sexy[/COLOR]
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:-1, 1SCT 
+#EXTINF:-1,[COLOR green] 1SCT [/COLOR]
 rtmp://31.220.0.66/pull playpath=xxx1?keys=w20u-coQrP_XNoVjiU1pxw&keyt=1443233037 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1, BRAZZERS EUROPE 
+#EXTINF:-1,[COLOR green] BRAZZERS EUROPE [/COLOR]
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1,RUSSIA NIGHT
+#EXTINF:-1,[COLOR green]RUSSIA NIGHT[/COLOR]
 http://j.mp/ZCH_C01_RUSNIGHT2_sly?.m3u8
-#EXTINF:-1, OLAOLA 
+#EXTINF:-1,[COLOR green] OLAOLA [/COLOR]
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1, PRIVATE 
+#EXTINF:-1,[COLOR green] PRIVATE [/COLOR]
 http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1, PASSI XXX 
+#EXTINF:-1,[COLOR green] PASSI XXX [/COLOR]
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1, ADULT TOP PREMIUM 
+#EXTINF:-1,[COLOR green] ADULT TOP PREMIUM [/COLOR]
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1, JASMIN CHANNEL 
+#EXTINF:-1,[COLOR green] JASMIN CHANNEL [/COLOR]
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1, BELLA CLUB
+#EXTINF:-1,[COLOR green] BELLA CLUB[/COLOR]
 rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1, BELLA CLUB
+#EXTINF:-1,[COLOR green] BELLA CLUB[/COLOR]
 http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
-#EXTINF:-1, EVT 2 
+#EXTINF:-1,[COLOR green] EVT 2 [/COLOR]
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
 
 #############################################################################################
-#EXTINF:-1,[COLOR yellow][B] WEB CAMERAS [/B][/COLOR]
+#EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] WEB CAMERAS [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #############################################################################################
 
-#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 1]
+#EXTINF:-1,[COLOR green]PRAIA DE COPACABANA RJ[/COLOR] [CÂMERA 1]
 http://video1.earthcam.com:1935/fecnetwork/6593.flv/live.m3u8
-#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 2]
+#EXTINF:-1,[COLOR green]PRAIA DE COPACABANA RJ[/COLOR] [CÂMERA 2]
 http://video2.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
-#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 4]
+#EXTINF:-1,[COLOR green]PRAIA DE COPACABANA RJ [/COLOR][CÂMERA 4]
 http://video4.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
-#EXTINF:-1,CASCAVEL CIRO NARDI [CÂMERA 4]
-http://stream.catve.com.br:1935/camera4/camera4.stream/live.m3u8
 
-#EXTINF:-1, PRAIA DO NORTE
+
+#EXTINF:-1,[COLOR green] PRAIA DO NORTE[/COLOR]
 rtmp://213.13.26.12/live playpath=norte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/oCjzVigYoFkJHSjgTbkl/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA DE CARCAVELOS
+#EXTINF:-1,[COLOR green] PRAIA DE CARCAVELOS[/COLOR]
 rtmp://213.13.26.43/live playpath=carcavelos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/N1ZOaY48idM6hNTjL7qC/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA DO CARVALHAL
+#EXTINF:-1,[COLOR green] PRAIA DO CARVALHAL[/COLOR]
 rtmp://213.13.26.43/live playpath=carvalhal.stream swfUrl=https://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/C612sSyb7aOKWFjSF0m4/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, LAGIDE E BAIA - PENICHE
+#EXTINF:-1,[COLOR green] LAGIDE E BAIA - PENICHE[/COLOR]
 rtmp://213.13.26.41/live playpath=peniche.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/gf8BDWe7fWzQO92jHbBk/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA DA BARRA
+#EXTINF:-1,[COLOR green] PRAIA DA BARRA[/COLOR]
 rtmp://213.13.26.13/live playpath=aveiro.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/FbTjYSaI4blfYhgTprsl/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA DA LUZ - ALGARVE
+#EXTINF:-1,[COLOR green] PRAIA DA LUZ - ALGARVE[/COLOR]
 rtmp://213.13.26.43/live playpath=luz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/luz.stream
  
-#EXTINF:-1, DUNA BEACH
+#EXTINF:-1,[COLOR green] DUNA BEACH[/COLOR]
 rtmp://213.13.26.43/live playpath=meiapraia.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zaAQDbEMWBsCP0TZAubG/mov/24&autoStart=1
  
-#EXTINF:-1, LECA DA PALMEIRA
+#EXTINF:-1,[COLOR green] LECA DA PALMEIRA[/COLOR]
 rtmp://213.13.26.41/live playpath=leca.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/OF4ntVhaeSihG8JIWV8n/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, JARDIM DO MAR - MADEIRA
+#EXTINF:-1,[COLOR green] JARDIM DO MAR - MADEIRA[/COLOR]
 rtmp://213.13.26.41/live playpath=jardim.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zpUGwd4ZUrfvFIDb0Vco/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/bordeira.stream
  
-#EXTINF:-1, PRAIA DA ERICEIRA
+#EXTINF:-1,[COLOR green] PRAIA DA ERICEIRA[/COLOR]
 rtmp://213.13.26.43/live playpath=ericeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/DTlId9ym9TZc7rOhKECF/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA COSTA DE CAPARICA
+#EXTINF:-1,[COLOR green] PRAIA COSTA DE CAPARICA[/COLOR]
 rtmp://213.13.26.13/live playpath=costa.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/mQFYGs9wRn2H30nvzQbd/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA COSTA DE CAPARICA - SAO JOAO
+#EXTINF:-1,[COLOR green] PRAIA COSTA DE CAPARICA - SAO JOAO[/COLOR]
 rtmp://213.13.26.13/live playpath=costasjoao.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/vh8yWLHqVjIDPEz9fuwF/mov/24&autoStart=1
  
-#EXTINF:-1, PRAIA DE ESPINHO
+#EXTINF:-1,[COLOR green] PRAIA DE ESPINHO[/COLOR]
 rtmp://213.13.26.13/live playpath=espinho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/MkomIV8Fr0pEGnMRJCr1/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA DE SAO TORPES
+#EXTINF:-1,[COLOR green] PRAIA DE SAO TORPES[/COLOR]
 rtmp://213.13.26.13/live playpath=saotorpes.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zzodtq8OUtUfIeLHTjvC/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA DO GUINCHO DO SUL
+#EXTINF:-1,[COLOR green] PRAIA DO GUINCHO DO SUL[/COLOR]
 rtmp://213.13.26.41/live playpath=guincho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/lhla7bAtgyT97RZYZrER/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA DO GUINCHO DO NORTE
+#EXTINF:-1,[COLOR green] PRAIA DO GUINCHO DO NORTE[/COLOR]
 rtmp://213.13.26.13/live playpath=guinchonorte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/IFi2dpFlqJvt7hElSgFM/mov/24&autoStart=1
  
-#EXTINF:-1, PRAIA DO EVARISTO
+#EXTINF:-1,[COLOR green] PRAIA DO EVARISTO[/COLOR]
 rtmp://213.13.26.13/live playpath=evaristo.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/igGN5w5wQ9MZayZneSEq/mov/24&autoStart=1
  
-#EXTINF:-1, PRAIA DE SAO PEDRO
+#EXTINF:-1,[COLOR green] PRAIA DE SAO PEDRO[/COLOR]
 rtmp://213.13.26.12/live playpath=saopedro.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/jenFJoJ9B0cZqIEylUvI/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA MATOSINHOS
+#EXTINF:-1,[COLOR green] PRAIA MATOSINHOS[/COLOR]
 rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, RIBEIRA D Ilhas
+#EXTINF:-1,[COLOR green] RIBEIRA D Ilhas[/COLOR]
 rtmp://213.13.26.13/live playpath=ribeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/JBVNouMY9PAovZa1dpLU/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA SAO PEDRO E BAFUREIRA
+#EXTINF:-1,[COLOR green] PRAIA SAO PEDRO E BAFUREIRA[/COLOR]
 http://213.13.26.12:1936/live/saopedro.stream/livestream.m3u8
  
-#EXTINF:-1, PRAIA GRANDE
+#EXTINF:-1,[COLOR green] PRAIA GRANDE[/COLOR]
 rtmp://213.13.26.13/live playpath=grande.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/grfBgAQdvMI3zCGZzPrF/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA SUPER TUBOS
+#EXTINF:-1,[COLOR green] PRAIA SUPER TUBOS[/COLOR]
 rtmp://213.13.26.41/live playpath=supertubos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/cj18gCcQce1w7DBykbof/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, PRAIA DA TORREIRA
+#EXTINF:-1,[COLOR green] PRAIA DA TORREIRA[/COLOR]
 rtmp://213.13.26.13/live playpath=torreira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/o2CeOrbYOwlPRcPa0SdW/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, FONTE DA TELHA
+#EXTINF:-1,[COLOR green] FONTE DA TELHA[/COLOR]
 rtmp://213.13.26.13/live playpath=fontetelha.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/QLSeZzJddnWp7KSNs63n/mov/24&relatedVideos=none&autoStart=1
  
-#EXTINF:-1, SANTA CRUZ
+#EXTINF:-1,[COLOR green] SANTA CRUZ[/COLOR]
 rtmp://213.13.26.13/live playpath=santacruz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/2qs77WWaNsGO8kC47ArQ/mov/24&autoStart=1&showlogo=false&showShare=false
  
-#EXTINF:-1, SAO PEDRO DO ESTORIL
+#EXTINF:-1,[COLOR green] SAO PEDRO DO ESTORIL[/COLOR]
 rtmp://213.13.26.13:1936/live/saopedro.stream/livestream.m3u8
  
-#EXTINF:-1, VAGUEIRA
+#EXTINF:-1,[COLOR green] VAGUEIRA[/COLOR]
 rtmp://213.13.26.41/live playpath=vagueira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/cZokTZuTANNQ2vC57fnS/mov/24&autoStart=1
  
-#EXTINF:-1, VILAMOURA
+#EXTINF:-1,[COLOR green] VILAMOURA[/COLOR]
 rtmp://213.13.26.43/live playpath=vilamoura.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/Pfow3TrYaVCoyND8bjGL/mov/24&autoStart=1
 
 #################################################################################################################################### 
-#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR yellow][B] ESTAÇOES RADIO [/B][/COLOR] 
+#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||[/COLOR] ESTAÇOES RADIO [COLOR red]||[/COLOR][/B][/COLOR] 
 http://jerrymoz.wordpress.com
 #################################################################################################################################### 
-#EXTINF:-1 radio="true" tvg-id="golofm.pt" tvg-logo="GOLOFM.png",[COLOR lawngreen] GOLO FM [/COLOR]
+#EXTINF:-1 radio="true" tvg-id="golofm.pt" tvg-logo="GOLOFM.png",[COLOR green] GOLO FM [/COLOR]
 http://176.9.88.190:9992/; 
-#EXTINF:-1 radio="true" tvg-logo="ra.png",[COLOR lawngreen] Radio Atlântida [/COLOR] 
+#EXTINF:-1 radio="true" tvg-logo="ra.png",[COLOR green] Radio Atlântida [/COLOR] 
 http://94.23.76.235:9926 
-#EXTINF:-1 radio="true" tvg-logo="MyTopFm.png",[COLOR lawngreen] MyTopFm SM [/COLOR] 
+#EXTINF:-1 radio="true" tvg-logo="MyTopFm.png",[COLOR green] MyTopFm SM [/COLOR] 
 http://195.8.58.150:35006/ 
-#EXTINF:-1 radio="true" tvg-logo="MyTopFm.png",[COLOR lawngreen] MyTopFm Terceira [/COLOR] 
+#EXTINF:-1 radio="true" tvg-logo="MyTopFm.png",[COLOR green] MyTopFm Terceira [/COLOR] 
 http://195.8.58.150:35008/ 
-#EXTINF:-1 radio="true" tvg-logo="canalfm.jpg",[COLOR lawngreen] Canal FM [/COLOR] 
+#EXTINF:-1 radio="true" tvg-logo="canalfm.jpg",[COLOR green] Canal FM [/COLOR] 
 http://centova.radio.com.pt:9466/ 
-#EXTINF:-1 radio="true" tvg-logo="c.png",[COLOR lawngreen] TREEHOUSE [/COLOR] 
+#EXTINF:-1 radio="true" tvg-logo="c.png",[COLOR green] TREEHOUSE [/COLOR] 
 http://4.31.30.159:9091 
-#EXTINF:-1 radio="true" tvg-logo="itv.jpg",[COLOR lawngreen] YTV [/COLOR] 
+#EXTINF:-1 radio="true" tvg-logo="itv.jpg",[COLOR green] YTV [/COLOR] 
 http://4.31.30.159:9001 
-#EXTINF:-1 radio="true"tvg-logo="Cidade FM.png" group-title="RADIOS",[COLOR lawngreen] CIDADE FM [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="Cidade FM.png" group-title="RADIOS",[COLOR green] CIDADE FM [/COLOR] 
 rtmp://195.23.102.208/cidadefmlc/ playpath=cidadefmlc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-cidade-fm 
-#EXTINF:-1 radio="true"tvg-logo="radiomeomusicweb.png",[COLOR lawngreen] PORTUGAL SW [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="radiomeomusicweb.png",[COLOR green] PORTUGAL SW [/COLOR] 
 http://centova.radios.pt:8495/; 
-#EXTINF:-1 radio="true"tvg-logo="vodafonefm.jpg",[COLOR lawngreen] VODAFONE FM [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="vodafonefm.jpg",[COLOR green] VODAFONE FM [/COLOR] 
 rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/ 
-#EXTINF:-1 radio="true"tvg-logo="rfmclubbing.png",[COLOR lawngreen] RFM CLUBBING [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="rfmclubbing.png",[COLOR green] RFM CLUBBING [/COLOR] 
 http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC 
-#EXTINF:-1 radio="true"tvg-logo="rfm.png",[COLOR lawngreen] RFM [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="rfm.png",[COLOR green] RFM [/COLOR] 
 http://7719.live.streamtheworld.com/RFM_SC 
-#EXTINF:-1 radio="true"tvg-logo="rfm.png",[COLOR lawngreen] RFM Oceano Pacifico [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="rfm.png",[COLOR green] RFM Oceano Pacifico [/COLOR] 
 http://7749.live.streamtheworld.com:3690/OCEANPACIFIC_SC 
-#EXTINF:-1 radio="true"tvg-logo="rfm 80.png" group-title="RADIOS",[COLOR lawngreen] RFM 80s [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="rfm 80.png" group-title="RADIOS",[COLOR green] RFM 80s [/COLOR] 
 http://7749.live.streamtheworld.com:3690/GR80SRFM_SC 
-#EXTINF:-1 radio="true"tvg-logo="m80 Radio.png" group-title="RADIOS",[COLOR lawngreen] Radio M80 [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="m80 Radio.png" group-title="RADIOS",[COLOR green] Radio M80 [/COLOR] 
 http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC 
-#EXTINF:-1 radio="true"tvg-logo="top80.png" group-title="RADIOS",[COLOR lawngreen] Radio TOP 80 [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="top80.png" group-title="RADIOS",[COLOR green] Radio TOP 80 [/COLOR] 
 http://live.top80.fm:8086/; 
-#EXTINF:-1 radio="true"tvg-logo="Radio_Comercial.png" group-title="RADIOS",[COLOR lawngreen] Radio COMERCIAL [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="Radio_Comercial.png" group-title="RADIOS",[COLOR green] Radio COMERCIAL [/COLOR] 
 mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
-#EXTINF:-1 radio="true"tvg-logo="Radio-Nova-Era.jpg" group-title="RADIOS",[COLOR lawngreen] NOVA ERA [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="Radio-Nova-Era.jpg" group-title="RADIOS",[COLOR green] NOVA ERA [/COLOR] 
 http://stream.radio.com.pt:9478/stream 
-#EXTINF:-1 radio="true"tvg-logo="94 FM.jpg" group-title="RADIOS",[COLOR lawngreen] R94 FM [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="94 FM.jpg" group-title="RADIOS",[COLOR green] R94 FM [/COLOR] 
 http://195.8.58.150:35022/;stream.nsv 
-#EXTINF:-1 radio="true"tvg-logo="super.png" group-title="RADIOS",[COLOR lawngreen] SUPER FM [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="super.png" group-title="RADIOS",[COLOR green] SUPER FM [/COLOR] 
 http://94.23.76.235:9956/ 
-#EXTINF:-1 radio="true"tvg-logo="hiper.png" group-title="RADIOS",[COLOR lawngreen] HIPER FM [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="hiper.png" group-title="RADIOS",[COLOR green] HIPER FM [/COLOR] 
 http://85.25.73.243:10460/ 
-#EXTINF:-1 radio="true"tvg-logo="logo Total.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Total Fm [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="logo Total.jpg" group-title="RADIOS",[COLOR green] Radio Total Fm [/COLOR] 
 http://94.126.173.23:8000/;stream/1 
-#EXTINF:-1 radio="true"tvg-logo="Antena 1.png" group-title="RADIOS",[COLOR lawngreen] Radio ANTENA 1 [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="Antena 1.png" group-title="RADIOS",[COLOR green] Radio ANTENA 1 [/COLOR] 
 mms://195.245.168.21/antena1 
-#EXTINF:-1 radio="true"tvg-logo="Antena 2.png" group-title="RADIOS",[COLOR lawngreen] Radio ANTENA 2 [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="Antena 2.png" group-title="RADIOS",[COLOR green] Radio ANTENA 2 [/COLOR] 
 mms://195.245.168.21/antena2 
-#EXTINF:-1 radio="true"tvg-logo="Antena 3.png" group-title="RADIOS",[COLOR lawngreen] Radio ANTENA 3 [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="Antena 3.png" group-title="RADIOS",[COLOR green] Radio ANTENA 3 [/COLOR] 
 mms://195.245.168.21/antena3 
-#EXTINF:-1 radio="true"tvg-logo="orbital.jpg" group-title="RADIOS",[COLOR lawngreen] Radio ORBITAL [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="orbital.jpg" group-title="RADIOS",[COLOR green] Radio ORBITAL [/COLOR] 
 http://195.23.85.126:8401/1 
-#EXTINF:-1 radio="true"tvg-logo="renascenca.png" group-title="RADIOS",[COLOR lawngreen] Radio RENASCENÇA [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="renascenca.png" group-title="RADIOS",[COLOR green] Radio RENASCENÇA [/COLOR] 
 http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma 
-#EXTINF:-1 radio="true"tvg-logo="megafm.png" group-title="RADIOS",[COLOR lawngreen] MEGA FM [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="megafm.png" group-title="RADIOS",[COLOR green] MEGA FM [/COLOR] 
 http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma 
-#EXTINF:-1 radio="true"tvg-logo="VIVA80.jpg" group-title="RADIOS",[COLOR lawngreen] Radio VIVA 80 [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="VIVA80.jpg" group-title="RADIOS",[COLOR green] Radio VIVA 80 [/COLOR] 
 http://streaming.radionomy.com/VIVA80 
-#EXTINF:-1 radio="true"tvg-logo="Radio Lusitania.png" group-title="RADIOS",[COLOR lawngreen] Rádio RLCB Dance [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="Radio Lusitania.png" group-title="RADIOS",[COLOR green] Rádio RLCB Dance [/COLOR] 
 http://rlcbdance.no-ip.org:8431/; 
-#EXTINF:-1 radio="true"tvg-logo="radio.jpg" group-title="RADIOS",[COLOR lawngreen] WHMSonic AutoDJ [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="radio.jpg" group-title="RADIOS",[COLOR green] WHMSonic AutoDJ [/COLOR] 
 http://72.55.156.247:9734/;stream.nsv 
-#EXTINF:-1 radio="true"tvg-logo="cascais.jpg" group-title="RADIOS",[COLOR lawngreen] 105 CASCAIS [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="cascais.jpg" group-title="RADIOS",[COLOR green] 105 CASCAIS [/COLOR] 
 http://94.23.76.235:9896/;stream/1 
-#EXTINF:-1 radio="true"tvg-logo="Radio-Amalia.jpg" group-title="RADIOS",[COLOR lawngreen] RADIO AMALIA [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="Radio-Amalia.jpg" group-title="RADIOS",[COLOR green] RADIO AMALIA [/COLOR] 
 http://stream.radio.com.pt:9496/stream 
-#EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR lawngreen] Radio Douro Nacional [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="douro.jpg" group-title="RADIOS",[COLOR green] Radio Douro Nacional [/COLOR] 
 http://94.23.76.235:9996/; 
-#EXTINF:-1 radio="true"tvg-logo="radiomira.jpg" group-title="RADIOS",[COLOR lawngreen] Radio MIRA ONLINE [/COLOR] 
+#EXTINF:-1 radio="true"tvg-logo="radiomira.jpg" group-title="RADIOS",[COLOR green] Radio MIRA ONLINE [/COLOR] 
 http://185.32.188.17:8051/
 
 #EXTINF:-1 radio="true",RÁDIO
