@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 23-11-15 [COLOR red]|||[/COLOR] List By: [COLOR red]jerrymoz.wordpress.com[/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 24-11-15 [COLOR red]|||[/COLOR] List By: [COLOR red]jerrymoz.wordpress.com[/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -8,6 +8,27 @@ http://jerrymoz.wordpress.com
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green] [COLOR yellow][B] Mais Inf. Enviar Email: [COLOR red]jerrymoz@live.com.pt [/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
+
+#################################################################################################################################### 
+#EXTINF:-1,[COLOR yellow][B] [COLOR red]||[/COLOR] JOGOS EM DESTAQUE [COLOR red]||[/COLOR][/B][/COLOR] 
+http://jerrymoz.wordpress.com 
+#################################################################################################################################### 
+
+#EXTINF:-1, [COLOR aqua][B] Tondela vs Porto [/B][/COLOR] 20.45h (sabado) 
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8 
+#EXTINF:-1, [COLOR aqua][B] tondela vs Porto [/B][/COLOR] PLEXUS 
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1
+
+#EXTINF:-1, [COLOR magenta][B] Braga vs Benfiva[/B][/COLOR] 21.00h (Segunda-feira) 
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1, [COLOR magenta][B] Braga vs Benfiva[/B][/COLOR]PLEXUS 
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1 
+
+#EXTINF:-1, [COLOR aqua][B] Sporting VS Belenenses [/B][/COLOR]19.00h (Segunda-feira) 
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1, [COLOR aqua][B] Sporting VS Belenenses [/B][/COLOR]PLEXUS 
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1 
+
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
@@ -182,7 +203,7 @@ http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
 http://158.255.6.224:8080/loadchan.php?chan=628&token=ea6d3ebed9dc
 
 #################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B] CHANNELS ENTRETENIMENTO (Multi Language)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS ENTRETENIMENTO[COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #################################################################################################################
 #EXTINF:-1,[COLOR green]comedy central[/COLOR] (rtmp)
@@ -303,7 +324,7 @@ http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 
 ############################################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]||[/COLOR]DESPORTO NACIONAL[COLOR red]||[/COLOR] [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]||[/COLOR] DESPORTO NACIONAL [COLOR red]||[/COLOR] [/B][/COLOR]
 http://jerrymoz.wordpress.com
 #############################################################################################################################################################
 
@@ -551,6 +572,77 @@ rtmp://80.82.78.3/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwpl
 #EXTINF:-1,[COLOR green]BT Sport Europe[/COLOR] UK (SimpleTV)
 rtmp://$OPT:rtmp-raw=rtmp://80.82.78.3/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobteu&vw=620&vh=490
 #############################################################################################
+
+#EXTINF:-1,##### Sport canais temporarios #####
+http://xs.best-tv.us:8000/live/pio/pio/497.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://xs.best-tv.us:8000/live/pio/pio/367.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://xs.best-tv.us:8000/live/pio/pio/368.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://xs.best-tv.us:8000/live/pio/pio/369.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://xs.best-tv.us:8000/live/pio/pio/445.ts
+#EXTINF:-1,Sky Sport Plus hd
+http://xs.best-tv.us:8000/live/pio/pio/446.ts
+#EXTINF:-1,Fox Sports HD
+http://xs.best-tv.us:8000/live/pio/pio/483.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://xs.best-tv.us:8000/live/pio/pio/370.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://xs.best-tv.us:8000/live/pio/pio/482.ts
+#EXTINF:-1,Eurosport 1 HD
+http://xs.best-tv.us:8000/live/pio/pio/547.ts
+#EXTINF:-1,Eurosport 2 HD
+http://xs.best-tv.us:8000/live/pio/pio/548.ts
+#EXTINF:-1,Super Tennis HD
+http://xs.best-tv.us:8000/live/pio/pio/516.ts
+#EXTINF:-1,BIKE CHANNEL
+http://xs.best-tv.us:8000/live/pio/pio/648.ts
+#EXTINF:-1,RAI SPORT 1
+http://xs.best-tv.us:8000/live/pio/pio/653.ts
+#EXTINF:-1,RAI SPORT 2
+http://xs.best-tv.us:8000/live/pio/pio/652.ts
+#EXTINF:-1,LAZIO CHANNEL
+http://xs.best-tv.us:8000/live/pio/pio/647.ts
+#EXTINF:-1,Milan Channell
+http://xs.best-tv.us:8000/live/pio/pio/519.ts
+#EXTINF:-1,Inter Channell
+http://xs.best-tv.us:8000/live/pio/pio/532.ts
+#EXTINF:-1,Juve Channell
+http://xs.best-tv.us:8000/live/pio/pio/531.ts
+#EXTINF:-1,Roma tv
+http://xs.best-tv.us:8000/live/pio/pio/1052.ts
+#EXTINF:-1,Sport Italia
+http://xs.best-tv.us:8000/live/pio/pio/657.ts
+#EXTINF:-1,gazzetta tv
+http://xs.best-tv.us:8000/live/pio/pio/1092.ts
+#EXTINF:-1,#####Calcio#####
+http://xs.best-tv.us:8000/live/pio/pio/496.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://xs.best-tv.us:8000/live/pio/pio/371.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://xs.best-tv.us:8000/live/pio/pio/430.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://xs.best-tv.us:8000/live/pio/pio/431.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://xs.best-tv.us:8000/live/pio/pio/432.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://xs.best-tv.us:8000/live/pio/pio/433.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://xs.best-tv.us:8000/live/pio/pio/434.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://xs.best-tv.us:8000/live/pio/pio/435.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://xs.best-tv.us:8000/live/pio/pio/436.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://xs.best-tv.us:8000/live/pio/pio/1374.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://xs.best-tv.us:8000/live/pio/pio/2084.ts
+#EXTINF:-1,Sky Calcio 10 HD
+http://xs.best-tv.us:8000/live/pio/pio/2083.ts
+#EXTINF:-1,Sky Calcio 11 HD
+http://xs.best-tv.us:8000/live/pio/pio/2082.ts
 
 #EXTINF:-1,[COLOR green] TVN[/COLOR] (mex)
 http://158.255.6.224:8080/loadchan.php?chan=639&token=ea6d3ebed9dc
@@ -948,6 +1040,29 @@ rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
 http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
 #EXTINF:-1,[COLOR green] EVT 2 [/COLOR]
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR white][B] CHANNELS BY:[COLOR red] Rui Moreira[/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com 
+####################################################################################################################################
+#EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] CHANNELS NASA TV [COLOR red]||[/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com 
+####################################################################################################################################
+
+#EXTINF:-1 tvg-id="NTV-1 (Public)" tvg-logo="public.jpg" group-title="NASA TV",[COLOR yellow][B]NASA PUBLIC[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV-1 (Public)" tvg-logo="public.jpg" group-title="NASA TV",[COLOR yellow][B]NASA PUBLIC[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1 tvg-id="NTV-2 (Education)" tvg-logo="edu.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/10208765/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV-2 (Education)" tvg-logo="edu.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV EDUCATIONAL[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
+http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8
+#EXTINF:-1 tvg-id="NTV-3 (Media)" tvg-logo="media.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/10414700/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV-3 (Media)" tvg-logo="media.jpg" group-title="NASA TV",[COLOR yellow][B]NASA TV MEDIA[/B] [COLOR lawngreen]HD[/COLOR][/COLOR]
+http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+#EXTINF:-1 tvg-logo="iss.jpg" group-title="NASA TV",[COLOR yellow][B]LIVE ISS STREAM[/B] [COLOR lawngreen]SD[/COLOR][/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
 
 #############################################################################################
 #EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] WEB CAMERAS [COLOR red]||[/COLOR][/B][/COLOR]
