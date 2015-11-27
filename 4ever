@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 26-11-15 [COLOR red]|||[/COLOR] List By: [COLOR red]jerrymoz.wordpress.com[/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 27-11-15 [COLOR red]|||[/COLOR] List By: [COLOR red]jerrymoz.wordpress.com[/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -36,55 +36,73 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]TDT
+http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR] 
+http://wownet.ro/str/0500.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR](SD low)
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR] TDT
+http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR] 
+http://wownet.ro/str/0501.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR](SD low)
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR green] RTP3 [/COLOR]
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP3.jpg",[COLOR green] RTP3 [COLOR red][/COLOR] 
+http://wownet.ro/str/0510.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP3.jpg",[COLOR green] RTP3 [COLOR red][/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis.m3u8
 
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR green] RTP INTERNACIONAL [/COLOR]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+http://api.iptv.ink/pl.m3u8?ch=99346461
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR green] RTP INTERNACIONAL [/COLOR]
+http://wownet.ro/str/0509.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR green] RTP INTERNACIONAL [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/inspirationlinks.m3u8
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="RTPAfrica.png" group-title="PORTUGAL",[COLOR green] RTP ÁFRICA [/COLOR]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="RTPAfrica.png" group-title="PORTUGAL",[COLOR green] RTP ÁFRICA [/COLOR] 
+http://wownet.ro/str/0505.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="RTPMemoria.png" group-title="PORTUGAL",[COLOR green] RTP MEMÓRIA [/COLOR]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="RTPMemoria.png" group-title="PORTUGAL",[COLOR green] RTP MEMÓRIA [/COLOR] 
+http://wownet.ro/str/0506.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="rtp_madeira.png" group-title="PORTUGAL",[COLOR green] RTP MADEIRA [/COLOR]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="rtp_madeira.png" group-title="PORTUGAL",[COLOR green] RTP MADEIRA [/COLOR] 
+http://wownet.ro/str/0507.m3u8|X-Forwarded-For=81.17.18.50 
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="RTP Acores.png" group-title="PORTUGAL",[COLOR green] RTP AÇORES [/COLOR]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="RTP Acores.png" group-title="PORTUGAL",[COLOR green] RTP AÇORES [/COLOR] 
+http://wownet.ro/str/0508.m3u8|X-Forwarded-For=81.17.18.50
 
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR]TDT
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/inspirationlinks.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR]
-http://213.13.26.11:1935/live/sic/inspiration.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR]
-http://213.13.26.11:1935/live/sic/chunklist.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR](rtmp)
-rtmp://213.13.26.12/live playpath=sic swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 live=1 pageUrl=http://www.tugastream.com/sic.php?altura=500&largura=650
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR]
+http://213.13.26.11:1935/live/sic/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR] (rtmp)
+rtmp://31.7.58.74/live playpath=sichjd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.justhd.tv/embed.php?live=sichjd&vw=870&vh=500
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC Internacional.png" group-title="PORTUGAL",[COLOR green] SIC [/COLOR]SD (low)
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR green] SIC NOTÍCIAS [/COLOR]
-http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR green] SIC NOTÍCIAS [/COLOR](rtmp)
-rtmp://213.13.26.12/live playpath=sicnoticias swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?live=rtmp://{$hostname}/live/sic&file=http://rd3.videos.sapo.pt/ShZNJuwCiSpfkjYs7YNk/mov/24&autoStart=1 live=1 pageUrl=http://rd3.videos.sapo.pt
+http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR green] SIC NOTÍCIAS [/COLOR] (rtmp)
-rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="Sic Noticias.png" group-title="PORTUGAL",[COLOR green] SIC NOTÍCIAS [/COLOR] (rtmp)
-rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24
-
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI [/COLOR]
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI [/COLOR]
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI [/COLOR]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI HQ[/COLOR]TDT
+http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI HQ[/COLOR]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI HQ[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=77600478
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="tvi_pt.png" group-title="PORTUGAL",[COLOR green] TVI [/COLOR](SD low)
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR green] TVI 24 [/COLOR]
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR green] TVI 24[/COLOR] HQ
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8
 #EXTINF:-1,[COLOR green] Reality - A QUINTA[/COLOR] (rtmp)
 rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
 #EXTINF:-1,[COLOR green] Reality - A QUINTA[/COLOR]
@@ -102,190 +120,177 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="PORTUGAL",[COLOR green] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
 
-#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PORTUGAL",[COLOR green] CAPELINHA DE FÁTIMA [/COLOR] rtmp
-rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
-#EXTINF:-1,[COLOR green] [COLOR green]TV CANÇÃO NOVA [/COLOR]
-http://cnhls-lh.akamaihd.net:80/i/cnhls_1@147036/index_508_av-p.m3u8
-#EXTINF:-1,[COLOR green] [COLOR green]TV CANÇÃO NOVA [/COLOR]
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]SANTUÁRIO DE FÁTIMA – CAPELINHA DAS APARIÇÕES[/COLOR]
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]TV CANÇÃO NOVA[/COLOR]
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/xlpartner-cancaonova/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="TVAgueda.png" group-title="PORTUGAL",[COLOR green] AGUEDA TV [/COLOR]
-http://agueda.tv:1756/stream.flv
-#EXTINF:-1,[COLOR green] [COLOR green]ODIVELAS TV [/COLOR]
-http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
-#EXTINF:-1,[COLOR green] [COLOR green]TV LISBOA [/COLOR]
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]TV LISBOA[/COLOR]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]ODIVELAS TV[/COLOR] HD
+http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
 
-#EXTINF:-1,[COLOR green]ALAZEERA ENGLISH[/COLOR]
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+####################################################################################################################################
 
-#EXTINF:-1,[COLOR green]WEATHER CHANNEL[/COLOR] (usa)
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]CBS Reality[/COLOR] (uk)
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]CBS ACTION[/COLOR] (uk)
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
+
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]FASHION TV[/COLOR]
+http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessionid=1005101551
+
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]EURONEWS[/COLOR] (pt)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]i24 NEWS[/COLOR] (fr)
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]C-SPAN NEWS[/COLOR] HQ
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]C-SPAN NEWS 2[/COLOR] HQ
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]SKY NEWS[/COLOR] HQ
+http://103.245.167.28/tot/31b003ab7e7749a798fe00424e3dd9ff.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]BLOOMBERG NEWS[/COLOR]
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]NHK WORLD TV[/COLOR] (usa)
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]Tiemps em directo[/COLOR] (esp)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green] Weather Nation[/COLOR] (pedido)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,[COLOR green]WEATHER CHANNEL[/COLOR] (usa)
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist.m3u8
-
-#EXTINF:-1,TEST
-rtmp://158.69.25.197:1935/live playpath=livestream swfUrl=http://158.69.25.197/strobe/StrobeMediaPlayback.swf live=1 pageUrl=http://www.teleasturias.com/
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||||||||||[/COLOR] CANAIS TESTES [COLOR red]||||||||||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/1.ts
-#EXTINF:-1,PT: RTP 1
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/2.ts
-#EXTINF:-1,PT: RTP 2
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/3.ts
-#EXTINF:-1,PT: SIC
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/4.ts
-#EXTINF:-1,PT: TVI
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/5.ts
-#EXTINF:-1,PT: SIC Noticias
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/6.ts
-#EXTINF:-1,PT: SIC Mulher
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/7.ts
-#EXTINF:-1,PT: SIC Caras
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/8.ts
-#EXTINF:-1,PT: QUINTAS DAS CELEBRIDADES (canal temporario)
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/83.ts
-#EXTINF:-1,PT: QUINTAS DAS CELEBRIDADES ( CAMARA OCULTA )
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/84.ts
-#EXTINF:-1,PT: +TVI
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/9.ts
-#EXTINF:-1,PT: TVI 24
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/10.ts
-#EXTINF:-1,PT: TVI Ficção
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/11.ts
-#EXTINF:-1,PT: Porto Canal
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/12.ts
-#EXTINF:-1,PT: SIC Radical
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/13.ts
-#EXTINF:-1,PT:  Sport.TV1
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/14.ts
-#EXTINF:-1,PT: Sport.TV1 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/15.ts
-#EXTINF:-1,PT:  Sport.TV2
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/16.ts
-#EXTINF:-1,PT: Sport.TV2 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/17.ts
-#EXTINF:-1,PT: Sport.TV3
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/18.ts
-#EXTINF:-1,PT:  Sport.TV4
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/19.ts
-#EXTINF:-1,PT: Sport.TV4 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/20.ts
-#EXTINF:-1,PT: Sport.TV5
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/21.ts
-#EXTINF:-1,PT: BTV1
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/22.ts
-#EXTINF:-1,PT: BTV1 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/23.ts
-#EXTINF:-1,PT: BTV2
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/24.ts
-#EXTINF:-1,PT: Sporting TV
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/25.ts
-#EXTINF:-1,PT: SIC K
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/26.ts
-#EXTINF:-1,PT: BIGGS
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/27.ts
-#EXTINF:-1,PT: JIM JAM
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/28.ts
-#EXTINF:-1,PT: Canal Panda
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/29.ts
-#EXTINF:-1,PT: Baby TV
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/30.ts
-#EXTINF:-1,PT: Disney Junior
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/31.ts
-#EXTINF:-1,PT: Disney Channel
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/32.ts
-#EXTINF:-1,PT: Nickelodeon
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/33.ts
-#EXTINF:-1,PT: TVCine 1
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/34.ts
-#EXTINF:-1,PT: TVCine 2
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/35.ts
-#EXTINF:-1,PT: TVCine 3
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/36.ts
-#EXTINF:-1,PT: TVCine 4
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/37.ts
-#EXTINF:-1,PT: TVSeries HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/38.ts
-#EXTINF:-1,PT: TLC
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/39.ts
-#EXTINF:-1,PT: AXN
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/40.ts
-#EXTINF:-1,PT: AXN White
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/41.ts
-#EXTINF:-1,PT: AXN Black
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/42.ts
-#EXTINF:-1,PT: FOX
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/43.ts
-#EXTINF:-1,PT: FOX Life
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/44.ts
-#EXTINF:-1,PT: FOX Crime
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/45.ts
-#EXTINF:-1,PT: FOX Movies
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/46.ts
-#EXTINF:-1,PT: Hollywood
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/47.ts
-#EXTINF:-1,PT: Cinemundo
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/48.ts
-#EXTINF:-1,PT: Syfy
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/49.ts
-#EXTINF:-1,PT: MOV HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/50.ts
-#EXTINF:-1,PT: AMC
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/51.ts
-#EXTINF:-1,PT: Canal Q
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/52.ts
-#EXTINF:-1,PT: E! Entertainment
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/53.ts
-#EXTINF:-1,PT: MTV Portugal
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/54.ts
-#EXTINF:-1,PT: MCM POP
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/55.ts
-#EXTINF:-1,PT: Afro Music
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/56.ts
-#EXTINF:-1,PT: Eurosport
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/57.ts
-#EXTINF:-1,PT: Eurosport 2
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/58.ts
-#EXTINF:-1,PT: Motors TV
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/59.ts
-#EXTINF:-1,PT: Fuel TV
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/60.ts
-#EXTINF:-1,PT: A&E
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/61.ts
-#EXTINF:-1,PT: CBS Reality
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/62.ts
-#EXTINF:-1,PT: 24Kitchen
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/63.ts
-#EXTINF:-1,PT: Caca & Pesca
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/64.ts
-#EXTINF:-1,PT: Caça Vision
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/65.ts
-#EXTINF:-1,PT: A BOLA TV
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/66.ts
-#EXTINF:-1,PT: CM TV
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/67.ts
-#EXTINF:-1,PT: NBA Live
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/68.ts
-#EXTINF:-1,PT: Odisseia
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/69.ts
-#EXTINF:-1,PT: Discovery Channel
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/70.ts
-#EXTINF:-1,PT: Discovery Showcase HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/71.ts
-#EXTINF:-1,PT: Nat. Geographic HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/72.ts
-#EXTINF:-1,PT: Nat. Geo Wild
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/73.ts
-#EXTINF:-1,PT: Travel Channel HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/74.ts
-#EXTINF:-1,PT: RTP Informação
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/75.ts
-#EXTINF:-1,PT: Canal Historia
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/76.ts
+#EXTINF:-1,------ PORTUGAL ------
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/939.ts
+#EXTINF:-1,PT - RTP 1
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/715.ts
+#EXTINF:-1,PT - RTP 2
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/716.ts
+#EXTINF:-1,PT - RTP Informação
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1140.ts
+#EXTINF:-1,PT - RTP Memória
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1366.ts
+#EXTINF:-1,PT - RTP Madeira
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1364.ts
+#EXTINF:-1,PT - RTP Açores
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1365.ts
+#EXTINF:-1,PT - SIC
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/786.ts
+#EXTINF:-1,PT - SIC Radical
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1360.ts
+#EXTINF:-1,PT - SIC Mulher
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/865.ts
+#EXTINF:-1,PT - SIC Noticias
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/725.ts
+#EXTINF:-1,PT - TVI
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/742.ts
+#EXTINF:-1,PT - TVI 24
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/743.ts
+#EXTINF:-1,PT - Porto Canal
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/867.ts
+#EXTINF:-1,PT - CM TV
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/888.ts
+#EXTINF:-1,PT - E! Entertainment
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/893.ts
+#EXTINF:-1,PT - Sport TV1
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/727.ts
+#EXTINF:-1,PT - Sport TV2
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/728.ts
+#EXTINF:-1,PT - Sport TV3
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/729.ts
+#EXTINF:-1,PT - Sport TV4
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/785.ts
+#EXTINF:-1,PT - Sport TV5
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1361.ts
+#EXTINF:-1,PT - Benfica TV1
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/698.ts
+#EXTINF:-1,PT - Benfica TV2
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/784.ts
+#EXTINF:-1,PT - Sporting TV
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/731.ts
+
+#EXTINF:-1,PT - Eurosport
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/886.ts
+#EXTINF:-1,PT - TV Cine 1
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/738.ts
+#EXTINF:-1,PT - TV Cine 2
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/739.ts
+#EXTINF:-1,PT - TV Cine 3
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/740.ts
+#EXTINF:-1,PT - TV Cine 4
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/741.ts
+#EXTINF:-1,PT - TV Series
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/883.ts
+#EXTINF:-1,PT - MOV HD
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1864.ts
+#EXTINF:-1,PT - FX
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1865.ts
+#EXTINF:-1,PT - Hollywood
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1351.ts
+#EXTINF:-1,PT - TPA
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1353.ts
+#EXTINF:-1,PT - Fox Movies
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1633.ts
+#EXTINF:-1,PT - Fox HD
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1139.ts
+#EXTINF:-1,PT - Fox Life
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1354.ts
+#EXTINF:-1,PT - Fox Crime
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1863.ts
+#EXTINF:-1,PT - AXN HD
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1135.ts
+#EXTINF:-1,PT - AXN HD White
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1136.ts
+#EXTINF:-1,PT - AXN HD Black
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1137.ts
+#EXTINF:-1,PT - TVI FICçAO
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1355.ts
+#EXTINF:-1,PT - SyFy
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/885.ts
+#EXTINF:-1,PT - Cinemundo
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/884.ts
+#EXTINF:-1,PT - Disney Channel
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1358.ts
+#EXTINF:-1,PT - Disney Junior
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1357.ts
+#EXTINF:-1,PT - SIC K
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/881.ts
+#EXTINF:-1,PT - Cartoon Network
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/882.ts
+#EXTINF:-1,PT - Canal Panda
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1138.ts
+#EXTINF:-1,PT - Nat Geographic
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/892.ts
+#EXTINF:-1,PT - Nat Geo Wild
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1859.ts
+#EXTINF:-1,PT - Discovery HD Showcasa
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1860.ts
+#EXTINF:-1,PT - Discovery Channel
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/891.ts
+#EXTINF:-1,PT - Canal Historia
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/894.ts
+#EXTINF:-1,PT - Caça & Pesca
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1363.ts
+#EXTINF:-1,PT - Travel & Living
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1861.ts
+#EXTINF:-1,PT - 24 Kitchen
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1862.ts
+#EXTINF:-1,PT - Odissea
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/890.ts
+#EXTINF:-1,PT - PFC
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1141.ts
+#EXTINF:-1,PT - Globo Brasil
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/707.ts
+#EXTINF:-1,PT - Globo Premium
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1142.ts
+#EXTINF:-1,PT - Record Brasil
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/895.ts
+#EXTINF:-1,PT - Concao Nova
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1352.ts
 #EXTINF:-1,---☛ BRASIL ☚---
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/77.ts
 #EXTINF:-1,BR: TV Globo Portugal
@@ -802,6 +807,8 @@ http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green] NTV[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]NTV SPORTS[/COLOR]
+http://tv3.noip.me/stream/RA9KFWMDAH/143.m3u8
 #EXTINF:-1,[COLOR green] Cnopt [/COLOR](rus)
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green]SPORTAL TV[/COLOR] (ru)
