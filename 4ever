@@ -135,12 +135,6 @@ http://127.0.0.1:6878/ace/getstream?id=0056794950904c1f169566c045d5d747253c7e36&
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]BBC Two[/COLOR] (uk)
 http://127.0.0.1:6878/ace/getstream?id=99c436f9882b07c92ed7a5bfffdb47e639976b04&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
-
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]CBS Reality[/COLOR] (uk)
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]CBS ACTION[/COLOR] (uk)
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
-
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]FASHION TV[/COLOR]
 http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessionid=1005101551
 
@@ -170,56 +164,50 @@ http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
 #EXTINF:-1,------ PORTUGAL ------
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/939.ts
-#EXTINF:-1,PT - RTP 1
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/715.ts
-#EXTINF:-1,PT - RTP 2
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/716.ts
-#EXTINF:-1,PT - RTP Informação
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1140.ts
-#EXTINF:-1,PT - RTP Memória
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1366.ts
-#EXTINF:-1,PT - RTP Madeira
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1364.ts
-#EXTINF:-1,PT - RTP Açores
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1365.ts
-#EXTINF:-1,PT - SIC
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/786.ts
-#EXTINF:-1,PT - SIC Radical
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1360.ts
-#EXTINF:-1,PT - SIC Mulher
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/865.ts
-#EXTINF:-1,PT - SIC Noticias
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/725.ts
-#EXTINF:-1,PT - TVI
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/742.ts
-#EXTINF:-1,PT - TVI 24
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/743.ts
-#EXTINF:-1,PT - Porto Canal
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/867.ts
-#EXTINF:-1,PT - CM TV
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/888.ts
-#EXTINF:-1,PT - E! Entertainment
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/893.ts
-#EXTINF:-1,PT - Sport TV1
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/727.ts
-#EXTINF:-1,PT - Sport TV2
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/728.ts
-#EXTINF:-1,PT - Sport TV3
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/729.ts
-#EXTINF:-1,PT - Sport TV4
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/785.ts
-#EXTINF:-1,PT - Sport TV5
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1361.ts
-#EXTINF:-1,PT - Benfica TV1
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/698.ts
-#EXTINF:-1,PT - Benfica TV2
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/784.ts
-#EXTINF:-1,PT - Sporting TV
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/731.ts
-
-#EXTINF:-1,PT - Eurosport
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/886.ts
+#EXTINF:-1,RTP 1
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/1.m3u8
+#EXTINF:-1,RTP 2
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/2.m3u8
+#EXTINF:-1,SIC
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/3.m3u8
+#EXTINF:-1,TVI
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/4.m3u8
+#EXTINF:-1,VEVO 2 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/110.m3u8
+#EXTINF:-1,SPORT TV & BENFICA
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/213.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/28.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/29.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/30.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/31.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/32.m3u8
+#EXTINF:-1,SPORT TV AMERICAS
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/36.m3u8
+#EXTINF:-1,BENFICA TV 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/33.m3u8
+#EXTINF:-1,BENFICA TV 2 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/253.m3u8
+#EXTINF:-1,BENFICA TV 2
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/53.m3u8
+#EXTINF:-1,SPORTING TV
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/34.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/170.m3u8
+#EXTINF:-1,FR-BEINSPORT 2
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/224.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/217.m3u8
+#EXTINF:-1,BT  SPORTS 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/219.m3u8
+#EXTINF:-1,C + LIGA HD
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/221.m3u8
+#EXTINF:-1,MOTORVISION
+http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/243.m3u8
 #EXTINF:-1,PT - TV Cine 1
 http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/738.ts
 #EXTINF:-1,PT - TV Cine 2
@@ -599,6 +587,8 @@ http://127.0.0.1:6878/ace/getstream?id=a3c28389cd15b1db2c782a76cae1a7bad0bdf42f&
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]ZIGGO SPORT VOETBAL[/COLOR] ON
 http://127.0.0.1:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SETANTA SPORT+[/COLOR] ON
+http://91.149.172.133:8000/udp/239.0.0.164:8000
 ####################################################################################################################################
 
 ####################################################################################################################################
@@ -826,6 +816,15 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 #EXTINF:-1,[COLOR green]DXTV [/COLOR](esp)
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 #############################################################################################
+#EXTINF:-1,[COLOR green]SKY SPORTS 1[/COLOR] (UK)
+rtmp://93.174.93.201/live playpath=yoskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys1&vw=620&vh=490
+#EXTINF:-1,[COLOR green]SKY SPORTS 2[/COLOR] (UK)
+rtmp://89.248.160.131/live playpath=yoskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys2&vw=620&vh=490
+#EXTINF:-1,[COLOR green]SKY SPORTS 3[/COLOR] (UK)
+rtmp://89.248.160.131/live playpath=yoskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys3&vw=620&vh=490
+
+#EXTINF:-1,[COLOR green]BT Sport Europe[/COLOR] (UK)
+rtmp://89.248.160.131/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobteu&vw=620&vh=490
 
 #EXTINF:-1,[COLOR green]NLF 1[/COLOR] (usa)
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
@@ -858,6 +857,11 @@ http://31.204.128.112:8081/live/sportv3/playlist.m3u8
 
 #EXTINF:-1,[COLOR green] M4 SPORT[/COLOR] (HUNG)
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR green]Футбол 1[/COLOR] (rus) HD
+http://82.193.100.83:3535/udp/239.23.13.10:1234
+#EXTINF:-1,[COLOR green]Футбол 2[/COLOR] (rus) HD
+http://82.193.100.83:3535/udp/239.23.13.11:1234
 #EXTINF:-1,[COLOR green] VIASAT SPORT[/COLOR] (rus)
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green] NTV[/COLOR]
