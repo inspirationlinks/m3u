@@ -130,6 +130,11 @@ http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
 
 ####################################################################################################################################
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]BBC One[/COLOR] (uk)
+http://127.0.0.1:6878/ace/getstream?id=0056794950904c1f169566c045d5d747253c7e36&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]BBC Two[/COLOR] (uk)
+http://127.0.0.1:6878/ace/getstream?id=99c436f9882b07c92ed7a5bfffdb47e639976b04&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+
 
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]CBS Reality[/COLOR] (uk)
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
@@ -563,6 +568,8 @@ plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e1035
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] OFF
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/inspirationlinks.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] ON
+http://127.0.0.1:6878/ace/getstream?id=4e0b64e76d0463e96cefa68bdec74674d9c6f721&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
 
@@ -570,13 +577,29 @@ plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674
 rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=10
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1 & 2[/COLOR] (rtmp)
 rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/iso-dzsat
-
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 2[/COLOR] ON
+http://127.0.0.1:6878/ace/getstream?id=268ff30294df9bf2145d2c684f67edc60ea4dcd6&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&hlc&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b457d80c1&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2 opc1 
+
+####################################################################################################################################
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BT Sport Europe[/COLOR] ON
+http://127.0.0.1:6878/ace/getstream?id=5e6aaac0404893cc6d85145bb988f93052d55086&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]CANAL + DEPORTES[/COLOR] ON
+http://127.0.0.1:6878/ace/getstream?id=a994a04ff801f11872fc1e89258d53c5601ccfbd&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]CANAL + FUTBOL[/COLOR] ON
+http://127.0.0.1:6878/ace/getstream?id=1126a44a424fca3cef28870eb518a58619ec4f33&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]ORF Sport +[/COLOR] ON
+http://127.0.0.1:6878/ace/getstream?id=a3c28389cd15b1db2c782a76cae1a7bad0bdf42f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]ZIGGO SPORT VOETBAL[/COLOR] ON
+http://127.0.0.1:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+
+####################################################################################################################################
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B] PLEXUS BY:[COLOR red] TV PARA TODOS[/COLOR][/B][/COLOR]
