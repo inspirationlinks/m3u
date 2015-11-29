@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 28-11-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 29-11-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -13,11 +13,6 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR yellow][B] [COLOR red]||[/COLOR] JOGOS EM DESTAQUE [COLOR red]||[/COLOR][/B][/COLOR] 
 http://jerrymoz.wordpress.com 
 #################################################################################################################################### 
-
-#EXTINF:-1, [COLOR aqua][B] Tondela vs Porto [/B][/COLOR] 20.45h (sabado) 
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8 
-#EXTINF:-1, [COLOR aqua][B] tondela vs Porto [/B][/COLOR] PLEXUS 
-plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1
 
 #EXTINF:-1, [COLOR magenta][B] Braga vs Benfiva[/B][/COLOR] 21.00h (Segunda-feira) 
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
@@ -45,7 +40,7 @@ http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/inspirationlinks.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR] TDT
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR]TDT
 http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/inspirationlinks.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR] 
 http://wownet.ro/str/0501.m3u8|X-Forwarded-For=81.17.18.50
@@ -164,36 +159,27 @@ http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
 #EXTINF:-1,------ PORTUGAL ------
-#EXTINF:-1,RTP 1
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/1.m3u8
-#EXTINF:-1,RTP 2
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/2.m3u8
-#EXTINF:-1,SIC
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/3.m3u8
-#EXTINF:-1,TVI
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/4.m3u8
-#EXTINF:-1,VEVO 2 HD
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/110.m3u8
+
+#EXTINF:-1,CMTV (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,BOLA TV (SE PRETENDER ESTE CANAL) envie um email
+http://
 #EXTINF:-1,SPORT TV & BENFICA
 http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/213.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/28.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/29.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/30.m3u8
+#EXTINF:-1,SPORT TV(SE PRETENDER ESTE CANAL) envie email
+http://
+
 #EXTINF:-1,SPORT TV 4 HD
 http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/31.m3u8
-#EXTINF:-1,SPORT TV 5 HD
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/32.m3u8
+#EXTINF:-1,SPORTV 5(SE PRETENDER ESTE CANAL) envie email
+http://
 #EXTINF:-1,SPORT TV AMERICAS
 http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/36.m3u8
-#EXTINF:-1,BENFICA TV 1 HD
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/33.m3u8
-#EXTINF:-1,BENFICA TV 2 HD
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/253.m3u8
-#EXTINF:-1,BENFICA TV 2
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/53.m3u8
+#EXTINF:-1,BTV 1 (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,BTV 2 (SE PRETENDER ESTE CANAL) envie um email
+http://
+
 #EXTINF:-1,SPORTING TV
 http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/34.m3u8
 #EXTINF:-1,EUROSPORT HD
@@ -208,83 +194,27 @@ http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/219.m3u8
 http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/221.m3u8
 #EXTINF:-1,MOTORVISION
 http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/243.m3u8
-#EXTINF:-1,PT - TV Cine 1
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/738.ts
-#EXTINF:-1,PT - TV Cine 2
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/739.ts
-#EXTINF:-1,PT - TV Cine 3
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/740.ts
-#EXTINF:-1,PT - TV Cine 4
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/741.ts
-#EXTINF:-1,PT - TV Series
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/883.ts
-#EXTINF:-1,PT - MOV HD
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1864.ts
-#EXTINF:-1,PT - FX
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1865.ts
-#EXTINF:-1,PT - Hollywood
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1351.ts
-#EXTINF:-1,PT - TPA
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1353.ts
-#EXTINF:-1,PT - Fox Movies
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1633.ts
-#EXTINF:-1,PT - Fox HD
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1139.ts
-#EXTINF:-1,PT - Fox Life
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1354.ts
-#EXTINF:-1,PT - Fox Crime
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1863.ts
-#EXTINF:-1,PT - AXN HD
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1135.ts
-#EXTINF:-1,PT - AXN HD White
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1136.ts
-#EXTINF:-1,PT - AXN HD Black
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1137.ts
-#EXTINF:-1,PT - TVI FICçAO
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1355.ts
-#EXTINF:-1,PT - SyFy
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/885.ts
-#EXTINF:-1,PT - Cinemundo
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/884.ts
-#EXTINF:-1,PT - Disney Channel
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1358.ts
-#EXTINF:-1,PT - Disney Junior
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1357.ts
-#EXTINF:-1,PT - SIC K
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/881.ts
-#EXTINF:-1,PT - Cartoon Network
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/882.ts
-#EXTINF:-1,PT - Canal Panda
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1138.ts
-#EXTINF:-1,PT - Nat Geographic
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/892.ts
-#EXTINF:-1,PT - Nat Geo Wild
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1859.ts
-#EXTINF:-1,PT - Discovery HD Showcasa
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1860.ts
-#EXTINF:-1,PT - Discovery Channel
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/891.ts
-#EXTINF:-1,PT - Canal Historia
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/894.ts
-#EXTINF:-1,PT - Caça & Pesca
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1363.ts
-#EXTINF:-1,PT - Travel & Living
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1861.ts
-#EXTINF:-1,PT - 24 Kitchen
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1862.ts
-#EXTINF:-1,PT - Odissea
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/890.ts
-#EXTINF:-1,PT - PFC
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1141.ts
-#EXTINF:-1,PT - Globo Brasil
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/707.ts
-#EXTINF:-1,PT - Globo Premium
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1142.ts
-#EXTINF:-1,PT - Record Brasil
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/895.ts
-#EXTINF:-1,PT - Concao Nova
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/1352.ts
-#EXTINF:-1,---☛ BRASIL ☚---
+#EXTINF:-1,TVCine 1 (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,TVCine 2 (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,TVCine 3 (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,Disney Channel (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,SIC K (SE PRETENDER ESTE CANAL) envie um email
+http://
+
+#EXTINF:-1,Canal Panda (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,Nat Geo Wild (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,Discovery HD Showcasa (SE PRETENDER ESTE CANAL) envie um email
+http://
+#EXTINF:-1,Caça & Pesca (SE PRETENDER ESTE CANAL) envie um email
+http://
+
+#EXTINF:-1,--- BRASIL ---
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/77.ts
 #EXTINF:-1,BR: TV Globo Portugal
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/78.ts
@@ -520,18 +450,18 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR] (opt2)
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR]
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] SD(rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] SD(rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 1 [/COLOR] PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1 
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] ON (rtmp)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] SD (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] ON (rtmp)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] SD (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=11 pageUrl=http://sharecast.to/
 
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 2 [/COLOR] PLEXUS ON
@@ -539,7 +469,7 @@ plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff0960972
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 2 [/COLOR] PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://fbf8d2630934d7de5306254304f754f96569f2f3&mode=1&name=acestream&mode=1&name=SPORT TV 2 
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 3 & BTV2[/COLOR]
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 3 & BTV2[/COLOR] OFF
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 3 [/COLOR] PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream&mode=1&name=SPORT TV 3
@@ -556,7 +486,7 @@ plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e1035
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] OFF
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/inspirationlinks.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] ON
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] (instavel)
 http://127.0.0.1:6878/ace/getstream?id=4e0b64e76d0463e96cefa68bdec74674d9c6f721&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
@@ -576,15 +506,15 @@ plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc6
 
 ####################################################################################################################################
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BT Sport Europe[/COLOR] ON
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BT Sport Europe[/COLOR] (instavel)
 http://127.0.0.1:6878/ace/getstream?id=5e6aaac0404893cc6d85145bb988f93052d55086&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]CANAL + DEPORTES[/COLOR] ON
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]CANAL + DEPORTES[/COLOR] (instavel)
 http://127.0.0.1:6878/ace/getstream?id=a994a04ff801f11872fc1e89258d53c5601ccfbd&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]CANAL + FUTBOL[/COLOR] ON
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]CANAL + FUTBOL[/COLOR] (instavel)
 http://127.0.0.1:6878/ace/getstream?id=1126a44a424fca3cef28870eb518a58619ec4f33&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]ORF Sport +[/COLOR] ON
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]ORF Sport +[/COLOR] (instavel)
 http://127.0.0.1:6878/ace/getstream?id=a3c28389cd15b1db2c782a76cae1a7bad0bdf42f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]ZIGGO SPORT VOETBAL[/COLOR] ON
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]ZIGGO SPORT VOETBAL[/COLOR] (instavel)
 http://127.0.0.1:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SETANTA SPORT+[/COLOR] ON
@@ -592,7 +522,7 @@ http://91.149.172.133:8000/udp/239.0.0.164:8000
 ####################################################################################################################################
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR white][B] PLEXUS BY:[COLOR red] TV PARA TODOS[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B] CANAIS RED BY:[COLOR red] TV PARA TODOS[/COLOR][/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] ABRIR NO PLAYLIST LOADER [COLOR red]||[/COLOR][/B][/COLOR]
@@ -794,8 +724,6 @@ rtmp://80.82.78.3/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwpl
 rtmp://$OPT:rtmp-raw=rtmp://80.82.78.3/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobteu&vw=620&vh=490
 #############################################################################################
 
-#EXTINF:-1,[COLOR green] TVN[/COLOR] (mex)
-http://158.255.6.224:8080/loadchan.php?chan=639&token=ea6d3ebed9dc
 #EXTINF:-1,[COLOR green]WinSports[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
@@ -816,15 +744,24 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 #EXTINF:-1,[COLOR green]DXTV [/COLOR](esp)
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 #############################################################################################
-#EXTINF:-1,[COLOR green]SKY SPORTS 1[/COLOR] (UK)
+#EXTINF:-1,[COLOR green]SKY SPORTS 1[/COLOR] (UK) (rtmp)
 rtmp://93.174.93.201/live playpath=yoskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys1&vw=620&vh=490
-#EXTINF:-1,[COLOR green]SKY SPORTS 2[/COLOR] (UK)
+#EXTINF:-1,[COLOR green]SKY SPORTS 2[/COLOR] (UK) (rtmp)
 rtmp://89.248.160.131/live playpath=yoskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys2&vw=620&vh=490
-#EXTINF:-1,[COLOR green]SKY SPORTS 3[/COLOR] (UK)
+#EXTINF:-1,[COLOR green]SKY SPORTS 3[/COLOR] (UK) (rtmp)
 rtmp://89.248.160.131/live playpath=yoskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys3&vw=620&vh=490
+#EXTINF:-1,[COLOR green]SKY SPORTS 4[/COLOR] (UK) (rtmp)
+rtmp://80.82.64.171/live playpath=yoskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys4&vw=620&vh=490
+#EXTINF:-1,[COLOR green]SKY SPORTS 5[/COLOR] (UK) (rtmp)
+rtmp://80.82.64.171/live playpath=yoskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys5&vw=620&vh=490
 
-#EXTINF:-1,[COLOR green]BT Sport Europe[/COLOR] (UK)
+#EXTINF:-1,[COLOR green]BT Sport Europe[/COLOR] (UK) (rtmp)
 rtmp://89.248.160.131/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobteu&vw=620&vh=490
+
+#EXTINF:-1,[COLOR green]dolcesport1[/COLOR]
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:-1,[COLOR green]dolcesport2[/COLOR]
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
 
 #EXTINF:-1,[COLOR green]NLF 1[/COLOR] (usa)
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
@@ -858,10 +795,6 @@ http://31.204.128.112:8081/live/sportv3/playlist.m3u8
 #EXTINF:-1,[COLOR green] M4 SPORT[/COLOR] (HUNG)
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
 
-#EXTINF:-1,[COLOR green]Футбол 1[/COLOR] (rus) HD
-http://82.193.100.83:3535/udp/239.23.13.10:1234
-#EXTINF:-1,[COLOR green]Футбол 2[/COLOR] (rus) HD
-http://82.193.100.83:3535/udp/239.23.13.11:1234
 #EXTINF:-1,[COLOR green] VIASAT SPORT[/COLOR] (rus)
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green] NTV[/COLOR]
@@ -877,15 +810,14 @@ http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
 #EXTINF:-1,[COLOR green] RUSSO SPORT 2[/COLOR]
 http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]СПОРТ[/COLOR]
-http://185.57.68.33:8000/sport
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]СПОРТ[/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/188.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]СПОРТ 1[/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/163.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]СПОРТ НТВ-ПЛЮС[/COLOR]
-http://185.57.68.33:8000/ntv-sport
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 1[/COLOR] EN
+http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 2[/COLOR] EN
+http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 3[/COLOR] EN
+http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
+
 #EXTINF:-1,[COLOR green] Россия 1 [/COLOR](ru)
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR green] Россия 2[/COLOR] (ru) 
@@ -927,27 +859,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
 ####################################################################################################################################
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]TSN 1[/COLOR]
-http://158.255.6.224:8080/loadchan.php?chan=784&token=ea6d3ebed9dc
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]TSN 2[/COLOR]
-http://158.255.6.224:8080/loadchan.php?chan=785&token=ea6d3ebed9dc
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]TSN 3[/COLOR]
-http://158.255.6.224:8080/loadchan.php?chan=786&token=ea6d3ebed9dc
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]TSN 4[/COLOR]
-http://158.255.6.224:8080/loadchan.php?chan=787&token=ea6d3ebed9dc
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]TSN 5[/COLOR]
-http://158.255.6.224:8080/loadchan.php?chan=788&token=ea6d3ebed9dc
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Наш футбол[/COLOR]
-http://185.57.68.33:8000/nash-football
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Наш футбол[/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/193.m3u8
-
-#EXTINF:-1,[COLOR green]dolcesport1[/COLOR]
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
-#EXTINF:-1,[COLOR green]dolcesport2[/COLOR]
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-
 #EXTINF:-1,[COLOR green] abu dhabi sport[/COLOR]
 http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
 #EXTINF:-1,[COLOR green] abu dhabi sport 2[/COLOR]
@@ -964,28 +875,7 @@ http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green] EUROSPORT 2[/COLOR] (RU)
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 
-#EXTINF:-1,##### Sport canais temporarios #####
 
-#EXTINF:-1,beinHD Sports HD1
-http://free.iptv.re:80/live/54344830/144289/1.ts
-#EXTINF:-1,beinHD Sports HD2
-http://free.iptv.re:80/live/54344830/144289/2.ts
-#EXTINF:-1,beinHD Sports HD3
-http://free.iptv.re:80/live/54344830/144289/3.ts
-#EXTINF:-1,beinHD Sports HD4
-http://free.iptv.re:80/live/54344830/144289/4.ts
-#EXTINF:-1,beinHD Sports HD5
-http://free.iptv.re:80/live/54344830/144289/5.ts
-#EXTINF:-1,beinHD Sports HD6
-http://free.iptv.re:80/live/54344830/144289/6.ts
-#EXTINF:-1,beinHD Sports HD7
-http://free.iptv.re:80/live/54344830/144289/7.ts
-#EXTINF:-1,beinHD Sports HD8
-http://free.iptv.re:80/live/54344830/144289/8.ts
-#EXTINF:-1,beinHD Sports HD9
-http://free.iptv.re:80/live/54344830/144289/9.ts
-#EXTINF:-1,beinHD Sports HD10
-http://free.iptv.re:80/live/54344830/144289/10.ts
 
 #################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS HISPANICOS [COLOR red]||[/COLOR][/B][/COLOR]
@@ -1038,7 +928,7 @@ http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
 #EXTINF:-1 tvg-logo="euronewss.jpg" group-title="HISPÂNICOS",[COLOR green] EURONEWS [/COLOR]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 
-#EXTINF:-1 tvg-logo="antena3.png" group-title="HISPÂNICOS",[COLOR green] ANTENA3 [/COLOR]HQ
+#EXTINF:-1 tvg-logo="antena3.png" group-title="HISPÂNICOS",[COLOR green] ANTENA3 [/COLOR]HQ (transmite eventos desportivos)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-logo="Television de Galicia.png" group-title="HISPÂNICOS",[COLOR green] TV GALIZIA 1[/COLOR]
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
