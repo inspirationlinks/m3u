@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 01-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 02-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -83,10 +83,13 @@ http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR green] TVI 24[/COLOR] HQ
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8
-#EXTINF:-1,[COLOR green] Reality - A QUINTA[/COLOR] (rtmp)
-rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
+
+#EXTINF:-1 group-title="PORTUGAL",[COLOR orangered][B]GRAN HERMANO REALITY[B][/COLOR] (esp)
+http://stream-06.vty.dailymotion.com/36/dm/1/x37dytz/live.isml/live.m3u8?e=1449098065&st=E3VBghNj7BjemyoPLyEeDQ
 #EXTINF:-1,[COLOR green] Reality - A QUINTA[/COLOR]
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
+#EXTINF:-1,[COLOR green] Reality - A QUINTA[/COLOR] (rtmp)
+rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
 #EXTINF:-1,[COLOR green] Reality - A QUINTA [/COLOR](by Pedro Neves)
 rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAxNSA2OjAxOjM0IFBNJmhhc2hfdmFsdWU9b0xSanp.WejhRMGUvaVRoRVJ5djJidz09JnZhbGlkbWludXRlcz0zMDA=/ playpath=TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24
 
@@ -102,8 +105,6 @@ rtsp://www.canal.parlamento.pt/Live
 
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]SANTUÁRIO DE FÁTIMA – CAPELINHA DAS APARIÇÕES[/COLOR]
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]TV CANÇÃO NOVA[/COLOR]
-http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/xlpartner-cancaonova/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]TV LISBOA[/COLOR]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]ODIVELAS TV[/COLOR] HD
@@ -138,20 +139,86 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1,[COLOR white][B][COLOR red]||||||||||[/COLOR] CANAIS TESTES [COLOR red]||||||||||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
-#EXTINF:-1,ODISSEIA
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/69.ts
-#EXTINF:-1,CAÇAVISION
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/65.ts
-#EXTINF:-1,CANALQ
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/52.ts
-#EXTINF:-1,24Kitchen
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/63.ts
-#EXTINF:-1,FOX LIFE
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/44.ts
-#EXTINF:-1,SPORTV3
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/18.ts
-#EXTINF:-1,BENFICATV 1
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/22.ts
+#EXTINF:-1,PT:TV SERIES HD
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2920.ts
+#EXTINF:-1,PT:Sic Radical
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2709.ts
+#EXTINF:-1,PT:Sic
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/227.ts
+#EXTINF:-1,PT:RTP 2
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/226.ts
+#EXTINF:-1,PT:RTP 1
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/225.ts
+#EXTINF:-1,PT:opt:Sport TV 3
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/231.ts
+#EXTINF:-1,PT:opt:Sport TV 2
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/230.ts
+#EXTINF:-1,PT:opt:Sport TV 1
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/229.ts
+#EXTINF:-1,Adult:HOT
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2710.ts
+#EXTINF:-1,PT:Fox Life HD
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1650.ts
+#EXTINF:-1,PT:Cine Mundo
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1646.ts
+#EXTINF:-1,PT:AXN BLACK HD
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2919.ts
+#EXTINF:-1,PT: tvcine 4
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/212.ts
+#EXTINF:-1,PT: TVCine 3
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/211.ts
+#EXTINF:-1,PT: Tvcine 2
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/210.ts
+#EXTINF:-1,PT: TVCine 1
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/209.ts
+#EXTINF:-1,PT: Syfy *
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1649.ts
+#EXTINF:-1,PT: Sport.TV2
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/203.ts
+#EXTINF:-1,PT: Sport.TV1
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/202.ts
+#EXTINF:-1,PT: sport tv5
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/206.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/205.ts
+#EXTINF:-1,PT: sport tv 3
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/204.ts
+#EXTINF:-1,PT: FOX Movies *
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1647.ts
+#EXTINF:-1,PT: benfica tv 2
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/213.ts
+#EXTINF:-1,PT: benfica tv 1
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/207.ts
+#EXTINF:-1,PT: BBC Intertiement
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1648.ts
+#EXTINF:-1,PT: AXN
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1653.ts
+#EXTINF:-1,PT: 24Kitchen *
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/1651.ts
+#EXTINF:-1,PT- TVI FICÇAO
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2718.ts
+#EXTINF:-1,PT- TCL
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2719.ts
+#EXTINF:-1,PT- PORTO CANAL
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2706.ts
+#EXTINF:-1,PT- Hollywood
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2715.ts
+#EXTINF:-1,PT- EUROSPORT 2
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2708.ts
+#EXTINF:-1,PT- EUROSPORT
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2707.ts
+#EXTINF:-1,PT- DISNEY CHANEL
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2714.ts
+#EXTINF:-1,PT- DISCOVERY
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2716.ts
+#EXTINF:-1,PT- CANAL PANDA
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2713.ts
+#EXTINF:-1,PT- AXN WHITE
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2712.ts
+#EXTINF:-1,PT- AMC
+http://62.210.248.96:11000/live/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/2717.ts
+
+
 #EXTINF:-1,[COLOR green]CMTV (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
 #EXTINF:-1,[COLOR green]BOLA TV (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
@@ -174,7 +241,6 @@ http://
 http://
 #EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
-
 
 ########################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS GASTRONOMICOS [COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
