@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 03-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 05-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green] [COLOR white][B]Saber em que canal vai Transmitir um Jogo[COLOR red] http://liveonsat.com/ [/COLOR][/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
-#EXTINF:-1,[COLOR green] [COLOR yellow][B] BLOG:[COLOR red]JERRYMOZ.WORDPRESS.COM[/COLOR] EMAIL:[COLOR red]jerrymoz@live.com.pt [/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR yellow][B] BLOG:[COLOR red]jerrymoz.wordpress.com[/COLOR] EMAIL:[COLOR red]jerrymoz@live.com.pt [/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
 #################################################################################################################################### 
@@ -408,8 +408,8 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR] (opt2)
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (VLC)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FbUhkdzNLNXRVSEd6VjAyYnFsYW5MWHp5VnlZb1VkbkxiUVJRUUpsMUl6RlVzTEFyUkl1Y2tLN2pCbmtBRDVWdElESFBWa0FwNTgwVnlzY1hUaWxpbmc9PQ%2F10480.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] SD(rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] SD(rtmp)
@@ -442,8 +442,6 @@ rtmp://198.144.153.145:443/flash playpath=21940?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFi
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 5 [/COLOR] PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e10356dbb8bbc&mode=1&name=acestream&mode=1&name=SPORT TV 5 
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] OFF
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/inspirationlinks.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] (instavel)
 http://127.0.0.1:6878/ace/getstream?id=4e0b64e76d0463e96cefa68bdec74674d9c6f721&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
@@ -466,17 +464,31 @@ plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc6
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/25.ts
 
 ####################################################################################################################################
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=ef6c2b73a0436e06478790e7f8f27f173159dd59&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV5[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=ddb6a548f40c83790bc700105fcfc5f3762214ad&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV5[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=e4bb9e8c9d080a418047686bd7891f545bc777d4&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BTV2[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=268ff30294df9bf2145d2c684f67edc60ea4dcd6&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BT Sport Europe[/COLOR] (instavel)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport Europe[/COLOR] (da jogos equipas PT)
 http://127.0.0.1:6878/ace/getstream?id=5e6aaac0404893cc6d85145bb988f93052d55086&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]CANAL + DEPORTES[/COLOR] (instavel)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport 2[/COLOR] (da jogos equipas PT)
+http://127.0.0.1:6878/ace/getstream?id=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]CANAL + DEPORTES[/COLOR] (se ñ tiverem seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=a994a04ff801f11872fc1e89258d53c5601ccfbd&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]CANAL + FUTBOL[/COLOR] (instavel)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]CANAL + FUTBOL[/COLOR] (se ñ tiverem seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=1126a44a424fca3cef28870eb518a58619ec4f33&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]ORF Sport +[/COLOR] (instavel)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ORF Sport +[/COLOR] (se ñ tiverem seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=a3c28389cd15b1db2c782a76cae1a7bad0bdf42f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]ZIGGO SPORT VOETBAL[/COLOR] (instavel)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ZIGGO SPORT VOETBAL[/COLOR] (da jogos equipas PT)
 http://127.0.0.1:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SK1[/COLOR] (da jogos equipas PT)
+http://127.0.0.1:6878/ace/getstream?id=f45e35deeb69c4a358693c5af42bc79f05cd55c5&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SETANTA SPORT+[/COLOR] ON
 http://91.149.172.133:8000/udp/239.0.0.164:8000
