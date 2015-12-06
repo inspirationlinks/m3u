@@ -6,44 +6,42 @@ http://jerrymoz.wordpress.com
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green] [COLOR white][B]Saber em que canal vai Transmitir um Jogo[COLOR red] http://liveonsat.com/ [/COLOR][/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
-#EXTINF:-1,[COLOR green] [COLOR yellow][B] BLOG:[COLOR red]jerrymoz.wordpress.com[/COLOR] EMAIL:[COLOR red]jerrymoz@live.com.pt [/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR yellow][B][COLOR red] EMAIL:[/COLOR] jerrymoz@live.com.pt [/B][/COLOR]
 http://jerrymoz.wordpress.com
 
 ############################################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]LIVE[/COLOR] JOGOS EQUIPAS PT [COLOR red]||[/COLOR] [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]*****[/COLOR] JOGOS EQUIPAS PT [COLOR red]*****[/COLOR] [/B][/COLOR]
 http://jerrymoz.wordpress.com
 ############################################################################################################################################################
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiverem seeds ñ funciona)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiverem seeds ñ funciona)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=ef6c2b73a0436e06478790e7f8f27f173159dd59&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (VLC)
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FbUhkdzNLNXRVSEd6VjAyYnFsYW5MWHp5VnlZb1VkbkxiUVJRUUpsMUl6RlVzTEFyUkl1Y2tLN2pCbmtBRDVWdElESFBWa0FwNTgwVnlzY1hUaWxpbmc9PQ%2F10480.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (jogos do benfica em casa)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (br) (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] (instavel)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=4e0b64e76d0463e96cefa68bdec74674d9c6f721&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport Europe[/COLOR] (da jogos equipas PT)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport Europe[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=5e6aaac0404893cc6d85145bb988f93052d55086&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport 2[/COLOR] (da jogos equipas PT)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport 2[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ZIGGO SPORT VOETBAL[/COLOR] (da jogos equipas PT)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ZIGGO SPORT VOETBAL[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SK1[/COLOR] (da jogos equipas PT)
 http://127.0.0.1:6878/ace/getstream?id=f45e35deeb69c4a358693c5af42bc79f05cd55c5&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-
-
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -201,30 +199,11 @@ http://
 #EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
 
-#EXTINF:-1,PT: RTP 1
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3208.m3u8
-#EXTINF:-1,PT: RTP 2
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3209.m3u8
-#EXTINF:-1,PT: SIC
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3227.m3u8
-#EXTINF:-1,PT: TVI
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3214.m3u8
-#EXTINF:-1,PT: SIC Noticias
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3229.m3u8
-#EXTINF:-1,PT: RTP 3
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3213.m3u8
-#EXTINF:-1,PT: TVI 24
-http://portal.rapidiptv.com:8080/live/mondi/mondi/5536.m3u8
 #EXTINF:-1,PT: CMTV
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8
 #EXTINF:-1,PT: CBC  Reality
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3215.m3u8
-#EXTINF:-1,PT: RTP Memoria
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3212.m3u8
-#EXTINF:-1,PT: RTP Madeira
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3211.m3u8
-#EXTINF:-1,PT: RTP Acores
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3210.m3u8
+
 #EXTINF:-1,PT: TVCine 4 HD
 http://portal.rapidiptv.com:8080/live/mondi/mondi/5548.m3u8
 #EXTINF:-1,PT: TVCine 3 HD
@@ -279,12 +258,6 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.m3u8
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3252.m3u8
 #EXTINF:-1,PT: EuroSport 1
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3234.m3u8
-#EXTINF:-1,PT: VeVo 3 HD
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3220.m3u8
-#EXTINF:-1,PT: VeVo 2 HD
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3219.m3u8
-#EXTINF:-1,PT: VeVo 1 HD
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3218.m3u8
 #EXTINF:-1,PT: E! Entertaunment
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3257.m3u8
 #EXTINF:-1,PT: Kiss TV
@@ -293,18 +266,13 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/5552.m3u8
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3217.m3u8
 #EXTINF:-1,PT: TV Globo
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3216.m3u8
-#EXTINF:-1,PT: TPA
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3245.m3u8
 #EXTINF:-1,PT: Sy-Fy
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3226.m3u8
-#EXTINF:-1,PT: Sky News
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3248.m3u8
+
 #EXTINF:-1,PT: SIC Kids
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3228.m3u8
 #EXTINF:-1,PT: Toros TV
 http://portal.rapidiptv.com:8080/live/mondi/mondi/5555.m3u8
-#EXTINF:-1,PT: RTP África
-http://portal.rapidiptv.com:8080/live/mondi/mondi/5539.m3u8
 #EXTINF:-1,PT: Porto Canal
 http://portal.rapidiptv.com:8080/live/mondi/mondi/5538.m3u8
 #EXTINF:-1,PT: Plus TVI
@@ -341,10 +309,6 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3256.m3u8
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3258.m3u8
 #EXTINF:-1,PT: Discovery HD
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3247.m3u8
-#EXTINF:-1,PT: CNN
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3259.m3u8
-#EXTINF:-1,PT: Cancao Nova
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3237.m3u8
 #EXTINF:-1,PT: CANAL PANDA
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3239.m3u8
 #EXTINF:-1,PT: Canal Historia
