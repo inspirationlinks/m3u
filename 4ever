@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 06-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 07-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -10,12 +10,14 @@ http://jerrymoz.wordpress.com
 http://jerrymoz.wordpress.com
 
 ############################################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]*****[/COLOR] JOGOS EQUIPAS PT [COLOR red]*****[/COLOR] [/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]*****[/COLOR] TRANSMITE JOGOS EQUIPAS PT [COLOR red]*****[/COLOR] [/B][/COLOR]
 http://jerrymoz.wordpress.com
 ############################################################################################################################################################
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR]
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiver seeds ñ funciona)
@@ -28,7 +30,7 @@ rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (br) (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1[/COLOR] (se ñ tiver seeds ñ funciona)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BTV 1[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=4e0b64e76d0463e96cefa68bdec74674d9c6f721&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
@@ -39,8 +41,10 @@ http://127.0.0.1:6878/ace/getstream?id=5e6aaac0404893cc6d85145bb988f93052d55086&
 http://127.0.0.1:6878/ace/getstream?id=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ZIGGO SPORT VOETBAL[/COLOR] (se ñ tiver seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=a770493d86f72ac642fbd07633de46ebb026a8c1&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ZIGGO SPORT VOETBAL[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SK1[/COLOR] (da jogos equipas PT)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SK1[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=f45e35deeb69c4a358693c5af42bc79f05cd55c5&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 #################################################################################################################################### 
@@ -342,29 +346,35 @@ rtmp://31.220.2.57/privatestreamplus playpath=torosplus87?keys=LBREPBNER76dwxKwo
 #EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] CHANNELS INFANTIS [COLOR red]||[/COLOR] (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
-#EXTINF:-1,[COLOR green]South Park - Uncensored[/COLOR] (ingles)
+
+#EXTINF:-1 group-title="INFANTIS",[COLOR green] CARTOONS CLASSIC [/COLOR](usa)
+http://72.13.93.186:80/cartoonclassics
+
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]South Park - Uncensored[/COLOR] (ingles)
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
-#EXTINF:-1,[COLOR green]Simpsons [/COLOR](ingles)
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Simpsons [/COLOR](ingles)
+http://154.57.145.183:80/hls/52dada61bdf13/stream.m3u8
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Simpsons [/COLOR](ingles)
 http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 
-#EXTINF:-1,[COLOR green]Disney [/COLOR] (esp) (rtmp)
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Disney [/COLOR] (esp) (rtmp)
 rtmp://31.220.0.82/privatestream playpath=disneyy1?keys=nWoA21Fm1Sm7irAPfUe7jQ&keyt=1448245912 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1,[COLOR green]PANDA [/COLOR] (esp) (rtmp)
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]PANDA [/COLOR] (esp) (rtmp)
 rtmp://31.220.0.186/privatestream playpath=panda15?keys=bS_zjbjTYqZw1o3tVJGZbg&keyt=1448280319 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1,[COLOR green]BABY TV [/COLOR] (esp) (rtmp)
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]BABY TV [/COLOR] (esp) (rtmp)
 rtmp://31.220.2.51/privatestream playpath=babytv2?keys=5k6dv7k-x_8k1fYEFlGQsg&keyt=1448280309 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 
-#EXTINF:-1,[COLOR green]Nickelodeon Latinoamerica[/COLOR]
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Nickelodeon Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
-#EXTINF:-1,[COLOR green]Cartoon Network Latinoamerica[/COLOR]
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Cartoon Network Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
-#EXTINF:-1,[COLOR green]Disney XD Norte[/COLOR]
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Disney XD Norte[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
-#EXTINF:-1,[COLOR green]Discovery Kids America Latina[/COLOR]
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Discovery Kids America Latina[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
-#EXTINF:-1,[COLOR green]Tooncast[/COLOR]
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Tooncast[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
-#EXTINF:-1,[COLOR green]Bandamax[/COLOR]
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Bandamax[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
 
 ####################################################################################################################################
@@ -406,6 +416,9 @@ http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS ENTRETENIMENTO[COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
 #################################################################################################################
+
+#EXTINF:-1,[COLOR green] SYFY [/COLOR] (usa)
+http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
 
 #EXTINF:-1,[COLOR green] HOLLYWOOD[/COLOR] (esp) (rtmp)
 rtmp://31.220.0.32/privatestream playpath=hollywood77?keys=HXlf9EenTZVIAAZdL2pCMw&keyt=1448277826 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
@@ -494,7 +507,7 @@ http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 http://jerrymoz.wordpress.com
 #############################################################################################################################################################
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR] (opt2)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR] 
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] SD(rtmp)
@@ -507,37 +520,33 @@ rtmp://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] SD (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=11 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 2 [/COLOR] PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 2 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream&mode=1&name=SPORT TV 2 
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 2 [/COLOR] PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 2 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://fbf8d2630934d7de5306254304f754f96569f2f3&mode=1&name=acestream&mode=1&name=SPORT TV 2 
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 3 & BTV2[/COLOR] OFF
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 3 & BTV2[/COLOR]
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 3 [/COLOR] PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 3 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream&mode=1&name=SPORT TV 3
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 3 & BTV2[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 4 [/COLOR] PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 4 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV 4 
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 5[/COLOR] ON (rtmp)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 5[/COLOR] (rtmp)
 rtmp://198.144.153.145:443/flash playpath=21940?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=151
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 5 [/COLOR] PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 5 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e10356dbb8bbc&mode=1&name=acestream&mode=1&name=SPORT TV 5 
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1 & 2[/COLOR] (rtmp)
-rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=10
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 1 & 2[/COLOR] (rtmp)
-rtmp://198.144.153.145:443/flash playpath=21854?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/iso-dzsat
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 2[/COLOR] ON
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BTV 2[/COLOR] 
 http://127.0.0.1:6878/ace/getstream?id=268ff30294df9bf2145d2c684f67edc60ea4dcd6&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&hlc&mode=1&name=acestream&mode=1&name=BENFICA TV 2
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b457d80c1&mode=1&name=acestream&mode=1&name=BENFICA TV 2
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2 opc1 
 
 ####################################################################################################################################
@@ -626,20 +635,12 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 
 ####################################################################################################################################
-
-#EXTINF:-1,[COLOR green]SKY SPORTS 1[/COLOR] (UK) (rtmp)
-rtmp://89.248.160.131/live playpath=yoskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys1&vw=620&vh=490
-#EXTINF:-1,[COLOR green]SKY SPORTS 2[/COLOR] (UK) (rtmp)
-rtmp://89.248.160.131/live playpath=yoskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys2&vw=620&vh=490
-#EXTINF:-1,[COLOR green]SKY SPORTS 3[/COLOR] (UK) (rtmp)
-rtmp://89.248.160.131/live playpath=yoskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys3&vw=620&vh=490
-#EXTINF:-1,[COLOR green]SKY SPORTS 4[/COLOR] (UK) (rtmp)
-rtmp://80.82.64.171/live playpath=yoskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys4&vw=620&vh=490
-#EXTINF:-1,[COLOR green]SKY SPORTS 5[/COLOR] (UK) (rtmp)
-rtmp://80.82.64.171/live playpath=yoskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yoskys5&vw=620&vh=490
-
-#EXTINF:-1,[COLOR green]BT Sport Europe[/COLOR] (UK) (rtmp)
-rtmp://89.248.160.131/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=yobteu&vw=620&vh=490
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 1[/COLOR] EN
+http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 2[/COLOR] EN
+http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 3[/COLOR] EN
+http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
 
 ####################################################################################################################################
 
@@ -647,11 +648,6 @@ rtmp://89.248.160.131/live playpath=yobteu swfUrl=http://www.yocast.tv/myplayer/
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 #EXTINF:-1,[COLOR green]dolcesport2[/COLOR]
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-
-#EXTINF:-1,[COLOR green]NLF 1[/COLOR] (usa)
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
-#EXTINF:-1,[COLOR green]NLF 2[/COLOR] (usa)
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 
 #EXTINF:-1,[COLOR green] trace sports[/COLOR]
 http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
@@ -682,8 +678,6 @@ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green] NTV[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]NTV SPORTS[/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/143.m3u8
-#EXTINF:-1,[COLOR green] Cnopt [/COLOR](rus)
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green]SPORTAL TV[/COLOR] (ru)
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
@@ -692,13 +686,6 @@ http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
 #EXTINF:-1,[COLOR green] RUSSO SPORT 2[/COLOR]
 http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 1[/COLOR] EN
-http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 2[/COLOR] EN
-http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 3[/COLOR] EN
-http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
 
 ####################################################################################################################################
 
