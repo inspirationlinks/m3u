@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 07-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 08-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -30,22 +30,8 @@ rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (br) (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BTV 1[/COLOR] (se ñ tiver seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=4e0b64e76d0463e96cefa68bdec74674d9c6f721&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport Europe[/COLOR] (se ñ tiver seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=5e6aaac0404893cc6d85145bb988f93052d55086&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport 2[/COLOR] (se ñ tiver seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ZIGGO SPORT VOETBAL[/COLOR] (se ñ tiver seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=a770493d86f72ac642fbd07633de46ebb026a8c1&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ZIGGO SPORT VOETBAL[/COLOR] (se ñ tiver seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SK1[/COLOR] (se ñ tiver seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=f45e35deeb69c4a358693c5af42bc79f05cd55c5&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -207,12 +193,6 @@ http://
 #EXTINF:-1,PT_TV_SERIES
 http://www.t12v.com:8000/live/axel/axel/1152.ts
 
-#EXTINF:-1,PT_TRAVEL_CHANNEL
-http://www.t12v.com:8000/live/axel/axel/1402.ts
-#EXTINF:-1,PT_TPA
-http://www.t12v.com:8000/live/axel/axel/1383.ts
-#EXTINF:-1,PT_SPORT_TV_5
-http://www.t12v.com:8000/live/axel/axel/1137.ts
 #EXTINF:-1,PT_SPORT_TV_4
 http://www.t12v.com:8000/live/axel/axel/1136.ts
 #EXTINF:-1,PT_SPORT_TV_3
@@ -226,16 +206,6 @@ http://www.t12v.com:8000/live/axel/axel/501.ts
 #EXTINF:-1,PT_SPORTING_TV_HD
 http://www.t12v.com:8000/live/axel/axel/1141.ts
 
-#EXTINF:-1,PT_SIC
-http://www.t12v.com:8000/live/axel/axel/1121.ts
-#EXTINF:-1,PT_RTP_INFORMACAO
-http://www.t12v.com:8000/live/axel/axel/1131.ts
-#EXTINF:-1,PT_RTP_3
-http://www.t12v.com:8000/live/axel/axel/425.ts
-#EXTINF:-1,PT_RTP2
-http://www.t12v.com:8000/live/axel/axel/1120.ts
-#EXTINF:-1,PT_RTP1
-http://www.t12v.com:8000/live/axel/axel/1119.ts
 #EXTINF:-1,PT_REAL_MADRID_TV
 http://www.t12v.com:8000/live/axel/axel/1416.ts
 #EXTINF:-1,PT_PORTO_CANAL
@@ -261,11 +231,6 @@ http://www.t12v.com:8000/live/axel/axel/498.ts
 http://www.t12v.com:8000/live/axel/axel/507.ts
 #EXTINF:-1,PT_24_KITCHEN_HD
 http://www.t12v.com:8000/live/axel/axel/1187.ts
-#EXTINF:-1,PT_CANAL_PANDA
-http://www.t12v.com:8000/live/axel/axel/1165.ts
-#EXTINF:-1,PT_BIGGS
-http://www.t12v.com:8000/live/axel/axel/1166.ts
-
 
 ########################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS GASTRONOMICOS [COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
@@ -285,9 +250,9 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green]TPOTEN[/COLOR] HD
 http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
 
-#EXTINF:-1,[COLOR green] CAZA&PESCA IBERALIA[/COLOR] ON (rtmp)
+#EXTINF:-1,[COLOR green] CAZA&PESCA IBERALIA[/COLOR] (rtmp)
 rtmp://31.220.40.60/privatestream playpath=iberalia65?keys=gz490nDBAqgC8FJ60ndyhQ&keyt=1448248960 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/
-#EXTINF:-1,[COLOR green] CANAL+ TOROS[/COLOR] ON (rtmp)
+#EXTINF:-1,[COLOR green] CANAL+ TOROS[/COLOR] (rtmp)
 rtmp://31.220.2.57/privatestreamplus playpath=torosplus87?keys=LBREPBNER76dwxKwoRtANg&keyt=1448250276 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/
 ####################################################################################################################################
 #EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] CHANNELS INFANTIS [COLOR red]||[/COLOR] (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
@@ -679,6 +644,9 @@ http://tv.online.tm/hls/ch004_md/index.m3u8
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,[COLOR green] BS TV TV[/COLOR] (turco)
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+#EXTINF:-1,[COLOR green]DUBAY SPORTS[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
 #EXTINF:-1,[COLOR green]karadeniz[/COLOR]
 rtmp://50.7.129.202/karadeniztv/karadeniz2
 #EXTINF:-1,[COLOR green]TRT 1[/COLOR] HD
