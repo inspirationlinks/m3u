@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 08-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 12-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -37,6 +37,43 @@ plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
 #################################################################################################################################### 
+
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0029.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0028.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 3[/COLOR]
+http://www.iptvsaga.com/play/tv3/0027.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Ãfrica[/COLOR]
+http://www.iptvsaga.com/play/tv3/0026.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Madeira[/COLOR]
+http://www.iptvsaga.com/play/tv3/0025.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Açores[/COLOR]
+http://www.iptvsaga.com/play/tv3/0024.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Memória[/COLOR]
+http://www.iptvsaga.com/play/tv3/0023.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Internacional[/COLOR]
+http://www.iptvsaga.com/play/tv3/0022.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]TVI HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]TPA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0020.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 1 (La1)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0019.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 2 (La2)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0018.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 24[/COLOR]
+http://www.iptvsaga.com/play/tv3/0017.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]MEGA HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0016.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]LA RED EN VIVO HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0015.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TV Galicia[/COLOR]
+http://www.iptvsaga.com/play/tv3/0014.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]LA SEXTA HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0013.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]ANTENA 3 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0012.m3u8
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
@@ -152,6 +189,21 @@ http://103.245.167.28/tot/31b003ab7e7749a798fe00424e3dd9ff.m3u8
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]BLOOMBERG NEWS[/COLOR]
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
+#EXTINF:-1,News12-longisland
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:-1,News12-brooklyn
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1,News12-connecticut
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1,News12-hudsonvalley
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1,News12-newjersey
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1,News12-westchester
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:-1,News12-bronx
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]NHK WORLD TV[/COLOR] (usa)
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]Tiemps em directo[/COLOR] (esp)
@@ -188,49 +240,6 @@ http://
 http://
 #EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
-
-
-#EXTINF:-1,PT_TV_SERIES
-http://www.t12v.com:8000/live/axel/axel/1152.ts
-
-#EXTINF:-1,PT_SPORT_TV_4
-http://www.t12v.com:8000/live/axel/axel/1136.ts
-#EXTINF:-1,PT_SPORT_TV_3
-http://www.t12v.com:8000/live/axel/axel/1135.ts
-#EXTINF:-1,PT_SPORT_TV_2_HD
-http://www.t12v.com:8000/live/axel/axel/503.ts
-#EXTINF:-1,PT_SPORT_TV_2
-http://www.t12v.com:8000/live/axel/axel/500.ts
-#EXTINF:-1,PT_SPORT_TV_1
-http://www.t12v.com:8000/live/axel/axel/501.ts
-#EXTINF:-1,PT_SPORTING_TV_HD
-http://www.t12v.com:8000/live/axel/axel/1141.ts
-
-#EXTINF:-1,PT_REAL_MADRID_TV
-http://www.t12v.com:8000/live/axel/axel/1416.ts
-#EXTINF:-1,PT_PORTO_CANAL
-http://www.t12v.com:8000/live/axel/axel/1130.ts
-#EXTINF:-1,PT_ODISSEIA
-http://www.t12v.com:8000/live/axel/axel/1401.ts
-
-#EXTINF:-1,PT_FOX_HD
-http://www.t12v.com:8000/live/axel/axel/1149.ts
-#EXTINF:-1,PT_FOX_CRIME_HD
-http://www.t12v.com:8000/live/axel/axel/1151.ts
-
-#EXTINF:-1,PT_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/axel/axel/1213.ts
-#EXTINF:-1,PT_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/axel/axel/1162.ts
-#EXTINF:-1,PT_A_BOLA_TV
-http://www.t12v.com:8000/live/axel/axel/1404.ts
-
-#EXTINF:-1,PT_CM_TV
-http://www.t12v.com:8000/live/axel/axel/498.ts
-#EXTINF:-1,PT_CINEMUNDO
-http://www.t12v.com:8000/live/axel/axel/507.ts
-#EXTINF:-1,PT_24_KITCHEN_HD
-http://www.t12v.com:8000/live/axel/axel/1187.ts
 
 ########################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS GASTRONOMICOS [COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
@@ -501,6 +510,25 @@ http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green]FIGHTER HQ[/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
+#EXTINF:-1, ESPN
+rtmp://207.244.77.146:6034/tv/ch15q1
+#EXTINF:-1, ESPN 2
+rtmp://207.244.77.146:6034/tv/ch16q1
+#EXTINF:-1, ESPN U
+rtmp://207.244.77.146:6034/tv/ch17q1
+#EXTINF:-1, NFL
+rtmp://207.244.77.146:6034/tv/ch19q1
+#EXTINF:-1, CSN Encore
+rtmp://207.244.77.146:6034/tv/ch21q1
+#EXTINF:-1, NHL
+rtmp://207.244.77.146:6034/tv/ch22q1
+#EXTINF:-1, TSN 1
+rtmp://207.244.77.146:6034/tv/ch23q1
+#EXTINF:-1, Fight Network
+rtmp://207.244.77.146:6034/tv/ch26q1
+#EXTINF:-1, Wrestling TV
+rtmp://207.244.77.146:6034/tv/ch27q1
+
 #############################################################################################
 #EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (rtmp)
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
@@ -585,6 +613,16 @@ http://31.204.128.112:8081/live/sportv3/playlist.m3u8
 #EXTINF:-1,[COLOR green] M4 SPORT[/COLOR] (HUNG)
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]NTV PLUS 1[/COLOR] (ru)
+http://slynet.8nio.com/at/ntvplusfootball1_sly.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]NTV PLUS 1[/COLOR] (ru)
+http://178.219.48.14:8000/ntv-football
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]NTV PLUS 2[/COLOR] (ru)
+http://slynet.8nio.com/at/ntvplusfootball2_sly.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]NTV PLUS 2[/COLOR] (ru)
+http://178.219.48.14:8000/ntv-football2
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]NTV PLUS 3[/COLOR] (ru)
+http://slynet.8nio.com/at/ntvplusfootball3_sly.m3u8
 #EXTINF:-1,[COLOR green] VIASAT SPORT[/COLOR] (rus)
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green] NTV[/COLOR]
