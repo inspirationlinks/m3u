@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 12-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 14-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -241,6 +241,39 @@ http://
 #EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
 
+#EXTINF:-1,bein1 (fr)
+http://top-iptv.zapto.org:8000/live/TTT/TTT/807.m3u8
+#EXTINF:-1,BEIN-SPORTS-2
+http://top-iptv.zapto.org:8000/live/TTT/TTT/712.ts
+#EXTINF:-1,BEIN-SPORTS-3
+http://top-iptv.zapto.org:8000/live/TTT/TTT/713.m3u8
+
+#EXTINF:-1,BEIN-SPORTS-4
+http://top-iptv.zapto.org:8000/live/TTT/TTT/714.m3u8
+#EXTINF:-1,BEIN-SPORTS-4 (JOGO DA LIGA PT)
+http://top-iptv.zapto.org:8000/live/TTT/TTT/795.ts
+#EXTINF:-1,BEIN-SPORTS-4 (GER)
+http://top-iptv.zapto.org:8000/live/TTT/TTT/714.ts
+
+#EXTINF:-1,BEIN-SPORTS-5
+http://top-iptv.zapto.org:8000/live/TTT/TTT/716.ts
+
+#EXTINF:-1,BEIN-SPORTS-8
+http://top-iptv.zapto.org:8000/live/TTT/TTT/799.ts
+#EXTINF:-1,BEIN-SPORTS-8
+http://top-iptv.zapto.org:8000/live/TTT/TTT/718.m3u8
+#EXTINF:-1,bein8
+http://top-iptv.zapto.org:8000/live/TTT/TTT/799.m3u8
+#EXTINF:-1,BEIN-SPORTS-9
+http://top-iptv.zapto.org:8000/live/TTT/TTT/719.m3u8
+#EXTINF:-1,BEIN-SPORTS-10
+http://top-iptv.zapto.org:8000/live/TTT/TTT/720.ts
+#EXTINF:-1,BEIN-SPORTS-11 (UK)
+http://top-iptv.zapto.org:8000/live/TTT/TTT/721.ts
+#EXTINF:-1,BEIN-SPORTS-12 (UK)
+http://top-iptv.zapto.org:8000/live/TTT/TTT/722.ts
+
+
 ########################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS GASTRONOMICOS [COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
@@ -259,15 +292,17 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green]TPOTEN[/COLOR] HD
 http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
 
-#EXTINF:-1,[COLOR green] CAZA&PESCA IBERALIA[/COLOR] (rtmp)
-rtmp://31.220.40.60/privatestream playpath=iberalia65?keys=gz490nDBAqgC8FJ60ndyhQ&keyt=1448248960 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/
-#EXTINF:-1,[COLOR green] CANAL+ TOROS[/COLOR] (rtmp)
-rtmp://31.220.2.57/privatestreamplus playpath=torosplus87?keys=LBREPBNER76dwxKwoRtANg&keyt=1448250276 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/
+#EXTINF:-1,[COLOR green] CAZA&PESCA IBERALIA (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
+rtmp://
+#EXTINF:-1,[COLOR green] CANAL+ TOROS (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
+rtmp://
 ####################################################################################################################################
 #EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] CHANNELS INFANTIS [COLOR red]||[/COLOR] (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
+#EXTINF:-1 group-title="INFANTIS",[COLOR green] TELE ARAQUA [/COLOR](esp)
+http://stream.telearagua.com/telearagua/telearagua_240p/inspirationlinks.m3u8
 #EXTINF:-1 group-title="INFANTIS",[COLOR green] CARTOONS CLASSIC [/COLOR](usa)
 http://72.13.93.186:80/cartoonclassics
 
@@ -529,6 +564,13 @@ rtmp://207.244.77.146:6034/tv/ch26q1
 #EXTINF:-1, Wrestling TV
 rtmp://207.244.77.146:6034/tv/ch27q1
 
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 1[/COLOR] HD
+http://mu0bxrc27iyr1u0.stream.iseehd.xyz/938/7598/53661b132b3ce37a58ad657bfea1020585652703
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 2[/COLOR] HD
+http://mu0bxrc27iyr1u0.stream.iseehd.xyz/939/7598/53661b132b3ce37a58ad657bfea1020585652703
+
+#EXTINF:-1,ARENA SPORT 
+http://62.210.88.233:1935/liverepeat/jojmoj3036/live.m3u8
 #############################################################################################
 #EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (rtmp)
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
@@ -609,7 +651,16 @@ http://31.204.128.112:8081/live/sportv2/playlist.m3u8
 http://31.204.128.112:8081/live/sportv3/playlist.m3u8
 
 ####################################################################################################################################
-
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORT1[/COLOR] (ru)
+http://iptv.maximuma.net/sport1
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Irib Varzesh Iran[/COLOR]
+http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]ФУТБОЛ 1[/COLOR] 
+http://tv3.noip.me/stream/RA9KFWMDAH/159.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green] RUSSO[/COLOR]
+http://tv3.noip.me/stream/RA9KFWMDAH/178.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Viasat Sport[/COLOR] HD
+http://tv3.noip.me/stream/RA9KFWMDAH/102.m3u8
 #EXTINF:-1,[COLOR green] M4 SPORT[/COLOR] (HUNG)
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
 
