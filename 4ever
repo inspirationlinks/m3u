@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 25-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 26-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -38,28 +38,6 @@ rtmp://62.210.88.232:1935/liverepeat playpath=201020 swfUrl=http://ppcast.org/em
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 
-#EXTINF:-1,NL: Fox Sport 2
-http://iptvtunis.golffan.us:8000/live/10089/10089/1521.ts
-#EXTINF:-1,NL: Fox Sport 1
-http://iptvtunis.golffan.us:8000/live/10089/10089/1522.ts
-#EXTINF:-1,IT-Fox_sport
-http://iptvtunis.golffan.us:8000/live/10089/10089/1429.ts
-#EXTINF:-1,IT-SKY_SPORT1_HD
-http://iptvtunis.golffan.us:8000/live/10089/10089/1422.ts
-#EXTINF:-1,IT-SKY_SPORT2_HD
-http://iptvtunis.golffan.us:8000/live/10089/10089/1421.ts
-#EXTINF:-1,Sky_Bundesliga_DEUT
-http://iptvtunis.golffan.us:8000/live/10089/10089/183.ts
-#EXTINF:-1,Sky_Sport_1_DEUT
-http://iptvtunis.golffan.us:8000/live/10089/10089/189.ts
-#EXTINF:-1,Sky_Sport_2_DEUT
-http://iptvtunis.golffan.us:8000/live/10089/10089/190.ts
-#EXTINF:-1,UK-BTsport-europe
-http://iptvtunis.golffan.us:8000/live/10089/10089/1468.ts
-#EXTINF:-1,UK-BT_Sport1
-http://iptvtunis.golffan.us:8000/live/10089/10089/1308.ts
-#EXTINF:-1,UK-BT_Sport2
-http://iptvtunis.golffan.us:8000/live/10089/10089/1309.ts
 #EXTINF:-1,ex-Yu: SportKlub 3
 http://portal.rapidiptv.com:8080/live/Maki/maki/1442.ts
 #EXTINF:-1,ex-Yu: SportKlub 2
@@ -340,8 +318,6 @@ http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR green] TVI 24[/COLOR] HQ
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8
 
-#EXTINF:-1,[COLOR green] Reality - GRAND HERMANO[/COLOR] (esp)
-http://stream-06.vty.dailymotion.com/36/dm/1/x37dytz/live.isml/live.m3u8?e=1449098065&st=E3VBghNj7BjemyoPLyEeDQ
 #EXTINF:-1,[COLOR green] Reality - A QUINTA[/COLOR] (SE QUISER ESTE CANAL ENVIE EMAIL)
 http://
 
@@ -371,14 +347,12 @@ http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessioni
 
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]EURONEWS[/COLOR] (pt)
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]i24 NEWS[/COLOR] (fr)
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]C-SPAN NEWS[/COLOR] HQ
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]C-SPAN NEWS 2[/COLOR] HQ
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]SKY NEWS[/COLOR] HQ
-http://103.245.167.28/tot/31b003ab7e7749a798fe00424e3dd9ff.m3u8
+
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]BLOOMBERG NEWS[/COLOR]
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
@@ -430,10 +404,6 @@ http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",[COLOR green]Disney [/COLOR] (esp) (rtmp)
 rtmp://31.220.0.82/privatestream playpath=disneyy1?keys=nWoA21Fm1Sm7irAPfUe7jQ&keyt=1448245912 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="INFANTIS",[COLOR green]PANDA [/COLOR] (esp) (rtmp)
-rtmp://31.220.0.186/privatestream playpath=panda15?keys=bS_zjbjTYqZw1o3tVJGZbg&keyt=1448280319 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="INFANTIS",[COLOR green]BABY TV [/COLOR] (esp) (rtmp)
-rtmp://31.220.2.51/privatestream playpath=babytv2?keys=5k6dv7k-x_8k1fYEFlGQsg&keyt=1448280309 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 
 #EXTINF:-1 group-title="INFANTIS",[COLOR green]Nickelodeon Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
@@ -460,14 +430,10 @@ http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
 #EXTINF:-1,[COLOR green]Investigation Discovery Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
-#EXTINF:-1,[COLOR green] Discovery TURBO[/COLOR] (uk)
-http://158.255.6.224:8080/loadchan.php?chan=1064&token=ea6d3ebed9dc
 
 #EXTINF:-1,[COLOR green]National Geographic Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
 
-#EXTINF:-1,[COLOR green] NAT GEO WILD [/COLOR](ESPANHOL)
-http://158.255.6.224:8080/loadchan.php?chan=627&token=ea6d3ebed9dc
 #EXTINF:-1,[COLOR green]Animal Planet Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
 
@@ -476,7 +442,7 @@ http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
 http://jerrymoz.wordpress.com 
 #################################################################################################################
 
-#EXTINF:-1 group-title="FOX:MOVIES", FOX MOVIES PREMIUM
+#EXTINF:-1,[COLOR green]FOX MOVIES PREMIUM[/COLOR] (usa)
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
 #EXTINF:-1,[COLOR green] SYFY [/COLOR] (usa)
@@ -560,7 +526,7 @@ http://jerrymoz.wordpress.com
 #############################################################################################################################################################
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR] 
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/sportTV/master.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR]
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
@@ -579,7 +545,7 @@ plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff0960972
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 2 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://fbf8d2630934d7de5306254304f754f96569f2f3&mode=1&name=acestream&mode=1&name=SPORT TV 2 
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 3 & BTV2[/COLOR]
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR]
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 3 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream&mode=1&name=SPORT TV 3
@@ -648,11 +614,6 @@ http://motorsport.hopto.org:8084/
 
 ####################################################################################################################################
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SETANTA SPORT+[/COLOR] ON
-http://91.149.172.133:8000/udp/239.0.0.164:8000
-
-####################################################################################################################################
-
 #EXTINF:-1,[COLOR green]WinSports[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
@@ -680,8 +641,6 @@ http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
 http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
 
 ####################################################################################################################################
-#EXTINF:-1 group-title="DESPORTO",[COLOR gold]SK1[/COLOR]
-http://62.210.88.208:1935/liverepeat/tasharena/live.m3u8
 #EXTINF:-1,[COLOR green]dolcesport1[/COLOR]
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 #EXTINF:-1,[COLOR green]dolcesport2[/COLOR]
