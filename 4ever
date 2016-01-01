@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 30-12-15 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 1-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -641,6 +641,42 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green] EUROSPORT 2[/COLOR] (RU)
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+
+####################################################################################################################################
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]CANAL+ LIGA[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=3489e2c840b890b52cbaa6f53c6faff98b5ed3eb&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]Sky Sports 1 [/COLOR] 
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FcnpZQVJaYkFONnJNbkprNGlxZXBkbGE5WW0vejVsMW9iWlI3M1dyK01TTUJ3K3BqenpTdVpUbVJralJtbkU4YnduTHFpcjVZZlA2UVNTUUE2T0xGcmc9PQ%2F10351.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]Sky Sports 3 [/COLOR] 
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FZHhTRzNyNEhycHhBNFhRZU92VGZhTGdVK2pxNElKU3lUQUMwam9uNk9LT1ZCa0xiSjkwY2ordGIzaXZtL0UyYldWdDhoakJGUTBiU0Jsb0h2RXh6Wmc9PQ%2F6909.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]Sky Sports 4 [/COLOR] 
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FQ0V4cnBicjZtMUpDNnh0QWJsM3djK3NmdVRMZUxCZmFCTlF2L2loMG1UNFExd0cwa3NITEI3Q2daVTRLSllYS1NwdHFEeXcrUENvbldIT3pFNUJpN0E9PQ%2F12739.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]Sky Sports 5 [/COLOR] 
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FQWNJQ1RYMUZvN0NiUHdBL3RxUkd1bG9WRlFBcWxqeVMzMWwxTXZuOVQ5QjQ4ZVpZZDVzYUZCR216RzZYcjNadFZVYy81MjZNY3dTMUpNd3N0Rmxpd1E9PQ%2F10285.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]Sky Sports F1 [/COLOR] 
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FTTF1NzhvU1NwOTAwL2NibUFUcE1uRlJEUmJZWkJzWFlLS1ZFenZsRS9tWjBpRU5ZMGdleGliemFCRnprK1NuSEdpQkZCSWtkN0RZTXJabXRPTU1DSXc9PQ%2F9299.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]Movistar MotoGP [/COLOR]
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FT2JValQxcEtKRThPVnM2OEZHcW9RTGUxbDQ1SFZNSzd0MWE4amJoUC9NWG8xa2lwd0VOOE13eXhOYnJHaEFucDg3d2dXeExHa0I4MFIxeThIbEN0Y0E9PQ%2F12227.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]Movistar F1 [/COLOR]
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FTzVwQnZEck1INTNSQWNwTlJCazJvSlF0SGVNNS84UGZhaFNEcytydU1Nd25jMEtQaVhHMzBtODU2UUdjV3E5UE56K1IvUGVxNThPRXU3cDdEUTBwcEE9PQ%2F11642.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SKY BUNDESLIGA 1[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=21dbffa1d5eb374b578e58f7a4def98e48cbc6fa&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport Europe[/COLOR] (da jogos equipas PT)
+http://127.0.0.1:6878/ace/getstream?id=5e6aaac0404893cc6d85145bb988f93052d55086&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BT Sport 2[/COLOR] (da jogos equipas PT)
+http://127.0.0.1:6878/ace/getstream?id=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]CANAL + DEPORTES[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=a994a04ff801f11872fc1e89258d53c5601ccfbd&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]CANAL + FUTBOL[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=1126a44a424fca3cef28870eb518a58619ec4f33&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ORF Sport +[/COLOR] (se ñ tiverem seeds ñ funciona)
+http://127.0.0.1:6878/ace/getstream?id=a3c28389cd15b1db2c782a76cae1a7bad0bdf42f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ZIGGO SPORT VOETBAL[/COLOR] (da jogos equipas PT)
+http://127.0.0.1:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SK1[/COLOR] (da jogos equipas PT)
+http://127.0.0.1:6878/ace/getstream?id=f45e35deeb69c4a358693c5af42bc79f05cd55c5&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B] CANAIS BY:[COLOR red] PLEXUS [/COLOR][/B][/COLOR]
