@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 1-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 3-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -71,6 +71,31 @@ http://
 http://
 #EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
+
+#EXTINF:-1,======PORTUGUESE LIVE CHANNELS======
+http://
+#EXTINF:-1,PT:TVCINE1
+http://cdn.step-tv.com:8000/live/wahid/wahid/1871.ts
+#EXTINF:-1,PT:TVC4
+http://cdn.step-tv.com:8000/live/wahid/wahid/1873.ts
+#EXTINF:-1,PT:TVC2
+http://cdn.step-tv.com:8000/live/wahid/wahid/1872.ts
+#EXTINF:-1,POR:SPORT_TV2
+http://cdn.step-tv.com:8000/live/wahid/wahid/1866.ts
+#EXTINF:-1,POR:SPORT_TV1
+http://cdn.step-tv.com:8000/live/wahid/wahid/1865.ts
+#EXTINF:-1,PT:SPORT_TV5
+http://cdn.step-tv.com:8000/live/wahid/wahid/1869.ts
+#EXTINF:-1,PT:SPORT_TV4
+http://cdn.step-tv.com:8000/live/wahid/wahid/1868.ts
+#EXTINF:-1,PT:SPORT_TV3
+http://cdn.step-tv.com:8000/live/wahid/wahid/1867.ts
+#EXTINF:-1,PT:SPORTING_TV
+http://cdn.step-tv.com:8000/live/wahid/wahid/1870.ts
+#EXTINF:-1,PT:FOX_MOVIES
+http://cdn.step-tv.com:8000/live/wahid/wahid/1874.ts
+#EXTINF:-1,POR:PORTO_CANAL
+http://cdn.step-tv.com:8000/live/wahid/wahid/1864.ts
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -702,56 +727,13 @@ plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0
 plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b457d80c1&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] Voetbal 1 HD [/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471&mode=1&name=acestream&mode=1&name=Sport 1 Voetbal HD
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION1 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://5b58fbcdd1aded2167e2ebedaebf297d94e633cd&mode=1&name=acestream&mode=1&name=ARENAVISION1
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION2 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://d4219d142af929b6a46cbf9e7f4804075caa6292&mode=1&name=acestream&mode=1&name=ARENAVISION2
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION3 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://b61db3dd2dab591c391ad97d092bb11a21274905&mode=1&name=acestream&mode=1&name=ARENAVISION3
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION4 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://5bcf5e64a86b683743b9042eab02c2cede7dcf77&mode=1&name=acestream&mode=1&name=ARENAVISION4
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION5 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://c207a6e4c8ca60d6a9211a8eaca32321da98686f&mode=1&name=acestream&mode=1&name=ARENAVISION5
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION6 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://bb9ded970f148e1c72620cbb95d5702faa4f0bb9&mode=1&name=acestream&mode=1&name=ARENAVISION6
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION7 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://3f0480c9188acc5345daa10171758179face1aea&mode=1&name=acestream&mode=1&name=ARENAVISION7
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION8 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://b39c8f67355a4061d8317a34a01ff90d6d4f0f7c&mode=1&name=acestream&mode=1&name=ARENAVISION8
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION9 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://0d6e8d52037021d81cd54f0f24228d1fc7544825&mode=1&name=acestream&mode=1&name=ARENAVISION9
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION10 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://29e7ca4d773ccc77e67a918e94d7831f6afc1c12&mode=1&name=acestream&mode=1&name=ARENAVISION10
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION11 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://192bd4229a168911929c4d5315677424656194c6&mode=1&name=acestream&mode=1&name=ARENAVISION11
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION12 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://fa0371d755ecf87b9c639803ebb1dde30489bb68&mode=1&name=acestream&mode=1&name=ARENAVISION12
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION13 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://5a1ad2e09f78d3a5722529e87e7e7cffde125cc8&mode=1&name=acestream&mode=1&name=ARENAVISION13
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION14 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://88955e1669c98af20e25376b4f192db26eb6149d&mode=1&name=acestream&mode=1&name=ARENAVISION14
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION15 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://4a65e7317e90431fc74a26de7f69a28921b7366e&mode=1&name=acestream&mode=1&name=ARENAVISION15
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION16 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://451557991f88fc1f8fb5c282b444f10974f44238&mode=1&name=acestream&mode=1&name=ARENAVISION16
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION17 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://16733efe589494ec862215cae5ed9cd5669dcf98&mode=1&name=acestream&mode=1&name=ARENAVISION17
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION18 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://482a7e2f1478d9ed5b798b7bf4872e1eed47b236&mode=1&name=acestream&mode=1&name=ARENAVISION18
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION19 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://15bfaaa548cc0ab3205f427eb4ee109c8449530a&mode=1&name=acestream&mode=1&name=ARENAVISION19
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENAVISION20 [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://409f40201d079ed22b0518ae632ecdf3f4e7b369&mode=1&name=acestream&mode=1&name=ARENAVISION20
+
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENASPORT 1 [/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://d33479c1c47dc23420fb5894cc71cedf650754eb&mode=1&name=acestream&mode=1&name=ARENASPORT 1
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENASPORT 2 [/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://5aa17d1d960dd7cb38a0eebb8126671bfa86db21&mode=1&name=acestream&mode=1&name=ARENASPORT 2
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] ARENASPORT 3 [/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9&mode=1&name=acestream&mode=1&name=ARENASPORT 3
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BEIN SPORTS 1 FRANCE [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd&mode=1&name=acestream&mode=1&name=BEIN SPORTS 1 FRANCE
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BEIN SPORTS 2 FRANCE [/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mode=1&name=acestream&mode=1&name=BEIN SPORTS 2 FRANCE
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BOX NATION [/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://6523e673b7f5fe48627ac9c9ae15ff544e5b3652&mode=1&name=acestream&mode=1&name=BOX NATION
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BT SPORT 1 [/COLOR]
