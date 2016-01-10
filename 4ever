@@ -36,6 +36,12 @@ rtmp://62.210.88.232:1935/liverepeat playpath=201020 swfUrl=http://ppcast.org/em
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 
+#EXTINF:-1,[COLOR green] Canal+ Liga[/COLOR] test
+http://video-cdn.streamup.com/app/teledeporteonlinetvorg1s-stream/chunklist.m3u8
+#EXTINF:-1,[COLOR green] Canal+ Deporte 2[/COLOR] test
+http://streamup.global.ssl.fastly.net/app/biophobia2016s-stream/chunklist.m3u8
+#EXTINF:-1,[COLOR green] Canal+ Deporte 2[/COLOR] test
+http://streamup.global.ssl.fastly.net/app/biophobia2s-stream/playlist.m3u8
 #EXTINF:-1,[COLOR green] TURKEM SPOR[/COLOR] (turco)
 http://tv.online.tm/hls/ch004_md/index.m3u8
 
@@ -366,8 +372,6 @@ rtmp://198.144.153.145:443/flash playpath=21940?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFi
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 5 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e10356dbb8bbc&mode=1&name=acestream&mode=1&name=SPORT TV 5 
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BTV 2[/COLOR] (se ñ tiverem seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=268ff30294df9bf2145d2c684f67edc60ea4dcd6&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&hlc&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BTV 2 [/COLOR] PLEXUS 
@@ -376,19 +380,6 @@ plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b
 plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2 opc1 
 
 ####################################################################################################################################
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV5[/COLOR] (se ñ tiverem seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=ddb6a548f40c83790bc700105fcfc5f3762214ad&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV5[/COLOR] (se ñ tiverem seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=e4bb9e8c9d080a418047686bd7891f545bc777d4&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BTV2[/COLOR] (se ñ tiverem seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=268ff30294df9bf2145d2c684f67edc60ea4dcd6&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]CANAL + DEPORTES[/COLOR] (se ñ tiverem seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=a994a04ff801f11872fc1e89258d53c5601ccfbd&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]CANAL + FUTBOL[/COLOR] (se ñ tiverem seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=1126a44a424fca3cef28870eb518a58619ec4f33&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]ORF Sport +[/COLOR] (se ñ tiverem seeds ñ funciona)
-http://127.0.0.1:6878/ace/getstream?id=a3c28389cd15b1db2c782a76cae1a7bad0bdf42f&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] SPORTS INTERNACIONAIS [COLOR red]||[/COLOR][/B][/COLOR]
@@ -399,13 +390,6 @@ http://google.pt
 http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green]FIGHTER HQ[/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
-
-#EXTINF:-1,[COLOR green] Canal+ Liga[/COLOR] test
-http://video-cdn.streamup.com/app/teledeporteonlinetvorg1s-stream/chunklist.m3u8
-#EXTINF:-1,[COLOR green] Canal+ Deporte 2[/COLOR] test
-http://streamup.global.ssl.fastly.net/app/biophobia2016s-stream/chunklist.m3u8
-#EXTINF:-1,[COLOR green] Canal+ Deporte 2[/COLOR] test
-http://streamup.global.ssl.fastly.net/app/biophobia2s-stream/playlist.m3u8
 
 #EXTINF:-1,SKY SPORTS 1
 rtmp://80.82.70.155/live/mys1 pageUrl=http://www.yocast.tv/
