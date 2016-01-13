@@ -1,11 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 10-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 13-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green] [COLOR yellow][B][COLOR red] EMAIL:[/COLOR] jerrymoz@live.com.pt [/B][/COLOR]
 http://jerrymoz.wordpress.com
+
 ############################################################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]*****[/COLOR] TRANSMITE JOGOS EQUIPAS PT & LIGAS EUROPEIAS [COLOR red]*****[/COLOR] [/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -79,31 +80,6 @@ http://
 http://
 #EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
-
-#EXTINF:-1,======PORTUGUESE LIVE CHANNELS======
-http://
-#EXTINF:-1,PT:TVCINE1
-http://cdn.step-tv.com:8000/live/wahid/wahid/1871.ts
-#EXTINF:-1,PT:TVC4
-http://cdn.step-tv.com:8000/live/wahid/wahid/1873.ts
-#EXTINF:-1,PT:TVC2
-http://cdn.step-tv.com:8000/live/wahid/wahid/1872.ts
-#EXTINF:-1,POR:SPORT_TV2
-http://cdn.step-tv.com:8000/live/wahid/wahid/1866.ts
-#EXTINF:-1,POR:SPORT_TV1
-http://cdn.step-tv.com:8000/live/wahid/wahid/1865.ts
-#EXTINF:-1,PT:SPORT_TV5
-http://cdn.step-tv.com:8000/live/wahid/wahid/1869.ts
-#EXTINF:-1,PT:SPORT_TV4
-http://cdn.step-tv.com:8000/live/wahid/wahid/1868.ts
-#EXTINF:-1,PT:SPORT_TV3
-http://cdn.step-tv.com:8000/live/wahid/wahid/1867.ts
-#EXTINF:-1,PT:SPORTING_TV
-http://cdn.step-tv.com:8000/live/wahid/wahid/1870.ts
-#EXTINF:-1,PT:FOX_MOVIES
-http://cdn.step-tv.com:8000/live/wahid/wahid/1874.ts
-#EXTINF:-1,POR:PORTO_CANAL
-http://cdn.step-tv.com:8000/live/wahid/wahid/1864.ts
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -258,17 +234,20 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/m
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green] Weather Nation[/COLOR] (pedido)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-########################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="GASTRONOMIA", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS GASTRONOMICOS [COLOR red]||[/COLOR] (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com 
-########################################################################################################################
+####################################################################################################################################
+#EXTINF:-1 group-title="GASTRONOMIA",[COLOR white][B] [COLOR red]||[/COLOR] GASTRONOMIA [COLOR red]||[/COLOR] (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com
+####################################################################################################################################
 
-#EXTINF:-1,[COLOR green] CANAL COCINA[/COLOR] (rtmp)
-rtmp://31.220.2.53/privatestreamplus playpath=cocina38?keys=G_xNOT7GuXlosZUcXJMrqw&keyt=1448279491 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1,[COLOR green] CHEFE COZINHA[/COLOR]
+#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]Food Network[/COLOR] (usa)
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]GOURMET[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]CANAL COCINA[/COLOR] (rtmp)
+rtmp://31.220.2.53/privatestreamplus playpath=cocina38?keys=2vqoRD9PrByZpHyiB6njTg&keyt=1448248744 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]CHEF TV[/COLOR]
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-#EXTINF:-1,[COLOR green] Food China[/COLOR] (rtmp)
-rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+
 ######################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR white][B][COLOR red]||[/COLOR]toros & caça & pesca [COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
@@ -379,8 +358,6 @@ plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b
 plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2 opc1 
 
 ####################################################################################################################################
-
-####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] SPORTS INTERNACIONAIS [COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
@@ -389,6 +366,8 @@ http://google.pt
 http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green]FIGHTER HQ[/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
+
+####################################################################################################################################
 
 #EXTINF:-1,SKY SPORTS 1
 rtmp://80.82.70.155/live/mys1 pageUrl=http://www.yocast.tv/
@@ -413,6 +392,8 @@ rtmp://80.82.64.171/live/s5 pageUrl=http://www.cast4u.tv/
 #EXTINF:-1,SKY SPORTS F1
 rtmp://80.82.64.46/live/sf1 pageUrl=http://www.cast4u.tv/
 
+#EXTINF:-1,[COLOR gold]BT SPORT 2[/COLOR]
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
 #EXTINF:-1,BT SPORT 1
 rtmp://80.82.70.155/live/myb1 pageUrl=http://www.yocast.tv/
 #EXTINF:-1,BT SPORT 1
@@ -441,6 +422,34 @@ http://motorsport.hopto.org:8083/
 #EXTINF:-1,[COLOR green]Live Motor Sport 4[/COLOR]
 http://motorsport.hopto.org:8084/
 
+#EXTINF:-1,beIN Sports Ñ
+http://94.23.50.218:2468/36/IPTV_LINKS
+#EXTINF:-1,Bein Sports 1 HD AR
+http://94.23.50.218:2468/23/IPTV_LINKS
+#EXTINF:-1,Bein Sports 2 HD AR
+http://94.23.50.218:2468/33/IPTV_LINKS
+#EXTINF:-1,Bein Sports 3 HD AR
+http://94.23.50.218:2468/35/IPTV_LINKS
+#EXTINF:-1,Bein Sports 4 HD AR
+http://94.23.50.218:2468/68/IPTV_LINKS
+#EXTINF:-1,Bein Sports 5 HD AR
+http://94.23.50.218:2468/71/IPTV_LINKS
+#EXTINF:-1,Bein Sports 6 HD AR
+http://94.23.50.218:2468/72/IPTV_LINKS
+#EXTINF:-1,Bein Sports 7 HD AR
+http://94.23.50.218:2468/74/IPTV_LINKS
+#EXTINF:-1,Bein Sports 8 HD AR
+http://94.23.50.218:2468/83/IPTV_LINKS
+#EXTINF:-1,Bein Sports 9 HD AR
+http://94.23.50.218:2468/84/IPTV_LINKS
+#EXTINF:-1,Bein Sports 10 HD AR
+http://94.23.50.218:2468/85/IPTV_LINKS
+#EXTINF:-1,Bein Sport 1 USA
+http://94.23.50.218:2468/128/IPTV_LINKS
+#EXTINF:-1,Bein Sport 2 USA
+http://94.23.50.218:2468/140/IPTV_LINKS
+#EXTINF:-1,Bein Sport 3 USA
+http://94.23.50.218:2468/141/IPTV_LINKS
 ####################################################################################################################################
 
 #EXTINF:-1,[COLOR green]WinSports[/COLOR]
