@@ -76,43 +76,6 @@ http://
 http://0.0.0.0:1234
 #################################################################################################################################### 
 
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 1[/COLOR]
-http://www.iptvsaga.com/play/tv3/0029.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 2[/COLOR]
-http://www.iptvsaga.com/play/tv3/0028.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 3[/COLOR]
-http://www.iptvsaga.com/play/tv3/0027.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Ãfrica[/COLOR]
-http://www.iptvsaga.com/play/tv3/0026.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Madeira[/COLOR]
-http://www.iptvsaga.com/play/tv3/0025.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Açores[/COLOR]
-http://www.iptvsaga.com/play/tv3/0024.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Memória[/COLOR]
-http://www.iptvsaga.com/play/tv3/0023.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Internacional[/COLOR]
-http://www.iptvsaga.com/play/tv3/0022.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]TVI HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0021.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]TPA[/COLOR]
-http://www.iptvsaga.com/play/tv3/0020.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 1 (La1)[/COLOR]
-http://www.iptvsaga.com/play/tv3/0019.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 2 (La2)[/COLOR]
-http://www.iptvsaga.com/play/tv3/0018.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 24[/COLOR]
-http://www.iptvsaga.com/play/tv3/0017.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]MEGA HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0016.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]LA RED EN VIVO HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0015.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TV Galicia[/COLOR]
-http://www.iptvsaga.com/play/tv3/0014.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]LA SEXTA HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0013.m3u8
-#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]ANTENA 3 HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0012.m3u8
-
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]TDT
@@ -195,6 +158,11 @@ rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Vi
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="PORTUGAL",[COLOR green] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
+
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo=".png" group-title="PORTUGAL",[COLOR green] Tv Record [/COLOR] (vitoria)
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
+#EXTINF:-1 tvg-logo="Rede TV HD.png",[COLOR green] REDE TV [/COLOR]
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
 
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]IGREJA ONLINE[/COLOR]
 http://195.22.19.179:1935/igronl/igronline1/live.m3u8
@@ -406,44 +374,8 @@ http://87.248.160.8/edge/smil:boet/playlist.m3u8
 
 ####################################################################################################################################
 
-#EXTINF:-1,SKY SPORTS 1
-rtmp://80.82.70.155/live/mys1 pageUrl=http://www.yocast.tv/
-#EXTINF:-1,SKY SPORTS 1
-rtmp://80.82.64.171/live/s1 pageUrl=http://www.cast4u.tv/
-#EXTINF:-1,SKY SPORTS 2
-rtmp://80.82.70.155/live/mys2 pageUrl=http://www.yocast.tv/
-#EXTINF:-1,SKY SPORTS 2
-rtmp://80.82.64.171/live/s2 pageUrl=http://www.cast4u.tv/
-#EXTINF:-1,SKY SPORTS 3
-rtmp://80.82.70.155/live/mys3 pageUrl=http://www.yocast.tv/
-#EXTINF:-1,SKY SPORTS 3
-rtmp://80.82.64.171/live/s3 pageUrl=http://www.cast4u.tv/
-#EXTINF:-1,SKY SPORTS 4
-rtmp://80.82.70.155/live/mys4 pageUrl=http://www.yocast.tv/
-#EXTINF:-1,SKY SPORTS 4
-rtmp://80.82.64.171/live/s4 pageUrl=http://www.cast4u.tv/
-#EXTINF:-1,SKY SPORTS 5/NEWS
-rtmp://80.82.70.155/live/mys5 pageUrl=http://www.yocast.tv/
-#EXTINF:-1,SKY SPORTS 5/NEWS
-rtmp://80.82.64.171/live/s5 pageUrl=http://www.cast4u.tv/
-#EXTINF:-1,SKY SPORTS F1
-rtmp://80.82.64.46/live/sf1 pageUrl=http://www.cast4u.tv/
-
 #EXTINF:-1,[COLOR gold]BT SPORT 2[/COLOR]
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
-#EXTINF:-1,BT SPORT 1
-rtmp://80.82.70.155/live/myb1 pageUrl=http://www.yocast.tv/
-#EXTINF:-1,BT SPORT 1
-rtmp://80.82.64.171/live/b1 pageUrl=http://www.cast4u.tv/
-#EXTINF:-1,BT SPORT 2
-rtmp://80.82.70.155/live/myb2 pageUrl=http://www.yocast.tv/
-#EXTINF:-1,BT SPORT 2
-rtmp://80.82.64.171/live/b2 pageUrl=http://www.cast4u.tv/
-#EXTINF:-1,BT/ESPN SPORT
-rtmp://80.82.70.155/live/luxsuperbtsespn pageUrl=http://www.yocast.tv/
-#EXTINF:-1,BT SPORT EUROPE
-rtmp://80.82.70.155/live/mybeu pageUrl=http://www.yocast.tv/
-
 ####################################################################################################################################
 #EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (rtmp)
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
@@ -459,34 +391,6 @@ http://motorsport.hopto.org:8083/
 #EXTINF:-1,[COLOR green]Live Motor Sport 4[/COLOR]
 http://motorsport.hopto.org:8084/
 
-#EXTINF:-1,beIN Sports Ñ
-http://94.23.50.218:2468/36/IPTV_LINKS
-#EXTINF:-1,Bein Sports 1 HD AR
-http://94.23.50.218:2468/23/IPTV_LINKS
-#EXTINF:-1,Bein Sports 2 HD AR
-http://94.23.50.218:2468/33/IPTV_LINKS
-#EXTINF:-1,Bein Sports 3 HD AR
-http://94.23.50.218:2468/35/IPTV_LINKS
-#EXTINF:-1,Bein Sports 4 HD AR
-http://94.23.50.218:2468/68/IPTV_LINKS
-#EXTINF:-1,Bein Sports 5 HD AR
-http://94.23.50.218:2468/71/IPTV_LINKS
-#EXTINF:-1,Bein Sports 6 HD AR
-http://94.23.50.218:2468/72/IPTV_LINKS
-#EXTINF:-1,Bein Sports 7 HD AR
-http://94.23.50.218:2468/74/IPTV_LINKS
-#EXTINF:-1,Bein Sports 8 HD AR
-http://94.23.50.218:2468/83/IPTV_LINKS
-#EXTINF:-1,Bein Sports 9 HD AR
-http://94.23.50.218:2468/84/IPTV_LINKS
-#EXTINF:-1,Bein Sports 10 HD AR
-http://94.23.50.218:2468/85/IPTV_LINKS
-#EXTINF:-1,Bein Sport 1 USA
-http://94.23.50.218:2468/128/IPTV_LINKS
-#EXTINF:-1,Bein Sport 2 USA
-http://94.23.50.218:2468/140/IPTV_LINKS
-#EXTINF:-1,Bein Sport 3 USA
-http://94.23.50.218:2468/141/IPTV_LINKS
 ####################################################################################################################################
 
 #EXTINF:-1,[COLOR green]WinSports[/COLOR]
@@ -520,8 +424,6 @@ http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballRe
 ####################################################################################################################################
 #EXTINF:-1,[COLOR green]FOX SPORT[/COLOR] SD Low
 http://server1.livestreaming.ninja:1935/live/foxsports1/livestream.m3u8
-#EXTINF:-1,[COLOR green]ESPN[/COLOR] SD Low
-http://185.63.255.101/live/espn2015/playlist.m3u8
 #EXTINF:-1,[COLOR green]TV ALL SPORTS[/COLOR] HQ (br)
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (rtmp) SD low
