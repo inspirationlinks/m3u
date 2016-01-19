@@ -19,11 +19,11 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] ON/OFF
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiver seeds ñ funciona)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] ON/OFF
 http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] (se ñ tiver seeds ñ funciona)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] ON/OFF
 http://127.0.0.1:6878/ace/getstream?id=ef6c2b73a0436e06478790e7f8f27f173159dd59&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORTV 1[/COLOR] (se ñ tiver seeds ñ funciona)
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORTV 1[/COLOR] ON/OFF
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FbUhkdzNLNXRVSEd6VjAyYnFsYW5MWHp5VnlZb1VkbkxiUVJRUUpsMUl6RlVzTEFyUkl1Y2tLN2pCbmtBRDVWdElESFBWa0FwNTgwVnlzY1hUaWxpbmc9PQ%2F10480.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
@@ -31,7 +31,7 @@ rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (br) (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS ON
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 
 #EXTINF:-1,[COLOR green] TURKEM SPOR[/COLOR] (turco)
@@ -74,36 +74,123 @@ http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] Sao canais so para TESTAR![COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
-#EXTINF:-1,PT: TVCine 4
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1572.m3u8
-#EXTINF:-1,PT: TVCine 3
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1571.m3u8
-#EXTINF:-1,PT: TVCine 2
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1570.m3u8
-#EXTINF:-1,PT: TVCine 1
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1569.m3u8
-#EXTINF:-1,PT: RT GLOBAL
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1580.m3u8
-#EXTINF:-1,PT: Sic Radical
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1581.m3u8
-#EXTINF:-1,PT: Benfica tv 2
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1582.m3u8
-#EXTINF:-1,PT: Sic Mulher
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1583.m3u8
-#EXTINF:-1,PT: RTP Informacao
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1586.m3u8
-#EXTINF:-1,PT: Hollywood
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1592.m3u8
-#EXTINF:-1,PT: Fox Life HD
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1577.m3u8
-#EXTINF:-1,PT: Fox HD
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1576.m3u8
-#EXTINF:-1,PT: CM TV
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1590.m3u8
-#EXTINF:-1,PT: Axn White HD
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1574.m3u8
-#EXTINF:-1,PT: Axn Black HD
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1575.m3u8
+#EXTINF:-1,PT_TVCINE_4_HD
+http://www.t12v.com:8000/jaafar/jaafar/1147.ch
+#EXTINF:-1,PT_TVCINE_3_HD
+http://www.t12v.com:8000/jaafar/jaafar/886.ch
+#EXTINF:-1,PT_TVCINE_2_HD
+http://www.t12v.com:8000/jaafar/jaafar/1146.ch
+#EXTINF:-1,PT_TVCINE_1_HD
+http://www.t12v.com:8000/jaafar/jaafar/1145.ch
+#EXTINF:-1,PT_TRAVEL_CHANNEL
+http://www.t12v.com:8000/jaafar/jaafar/1402.ch
+
+#EXTINF:-1,PT_SPORT_TV_5
+http://www.t12v.com:8000/jaafar/jaafar/1137.ch
+#EXTINF:-1,PT_SPORT_TV_4
+http://www.t12v.com:8000/jaafar/jaafar/1136.ch
+#EXTINF:-1,PT_SPORT_TV_3
+http://www.t12v.com:8000/jaafar/jaafar/1135.ch
+#EXTINF:-1,PT_SPORT_TV_2_HD
+http://www.t12v.com:8000/jaafar/jaafar/503.ch
+#EXTINF:-1,PT_SPORT_TV_2
+http://www.t12v.com:8000/jaafar/jaafar/500.ch
+#EXTINF:-1,PT_SPORT_TV_1
+http://www.t12v.com:8000/jaafar/jaafar/501.ch
+#EXTINF:-1,PT_SPORTING_TV_HD
+http://www.t12v.com:8000/jaafar/jaafar/1141.ch
+#EXTINF:-1,PT_SIC_RADICAL
+http://www.t12v.com:8000/jaafar/jaafar/1159.ch
+#EXTINF:-1,PT_SIC_NOTICIAS
+http://www.t12v.com:8000/jaafar/jaafar/1123.ch
+#EXTINF:-1,PT_JIM_JAM
+http://www.t12v.com:8000/jaafar/jaafar/1423.ch
+#EXTINF:-1,PT_SIC_K
+http://www.t12v.com:8000/jaafar/jaafar/1164.ch
+#EXTINF:-1,PT_SIC_CARAS
+http://www.t12v.com:8000/jaafar/jaafar/1422.ch
+#EXTINF:-1,PT_SIC
+http://www.t12v.com:8000/jaafar/jaafar/1121.ch
+#EXTINF:-1,PT_RTP_INFORMACAO
+http://www.t12v.com:8000/jaafar/jaafar/1131.ch
+#EXTINF:-1,PT_RTP_3
+http://www.t12v.com:8000/jaafar/jaafar/425.ch
+#EXTINF:-1,PT_RTP2
+http://www.t12v.com:8000/jaafar/jaafar/1120.ch
+#EXTINF:-1,PT_RTP1
+http://www.t12v.com:8000/jaafar/jaafar/1119.ch
+#EXTINF:-1,PT_PORTO_CANAL
+http://www.t12v.com:8000/jaafar/jaafar/1130.ch
+#EXTINF:-1,PT_ODISSEIA
+http://www.t12v.com:8000/jaafar/jaafar/1401.ch
+#EXTINF:-1,PT_NICKELODEON
+http://www.t12v.com:8000/jaafar/jaafar/1394.ch
+#EXTINF:-1,PT_NAT_GEO_WILD
+http://www.t12v.com:8000/jaafar/jaafar/1182.ch
+#EXTINF:-1,PT_NATIONAL_GEOGRAPHIC_HD
+http://www.t12v.com:8000/jaafar/jaafar/1184.ch
+#EXTINF:-1,PT_MTV_HITS
+http://www.t12v.com:8000/jaafar/jaafar/1380.ch
+#EXTINF:-1,PT_MTV_DANCE
+http://www.t12v.com:8000/jaafar/jaafar/805.ch
+#EXTINF:-1,PT_MOTORS_TV
+http://www.t12v.com:8000/jaafar/jaafar/1193.ch
+#EXTINF:-1,PT_KISS_TV
+http://www.t12v.com:8000/jaafar/jaafar/809.ch
+#EXTINF:-1,PT_HOLLYWOOD
+http://www.t12v.com:8000/jaafar/jaafar/1144.ch
+#EXTINF:-1,PT_FX
+http://www.t12v.com:8000/jaafar/jaafar/1408.ch
+#EXTINF:-1,PT_FOX_MOVIES
+http://www.t12v.com:8000/jaafar/jaafar/1148.ch
+#EXTINF:-1,PT_FOX_LIFE_HD
+http://www.t12v.com:8000/jaafar/jaafar/1150.ch
+#EXTINF:-1,PT_FOX_HD
+http://www.t12v.com:8000/jaafar/jaafar/1149.ch
+#EXTINF:-1,PT_FOX_CRIME_HD
+http://www.t12v.com:8000/jaafar/jaafar/1151.ch
+#EXTINF:-1,PT_SYFY
+http://www.t12v.com:8000/jaafar/jaafar/1412.ch
+#EXTINF:-1,PT_EUROSPORT
+http://www.t12v.com:8000/jaafar/jaafar/1413.ch
+#EXTINF:-1,PT_DISNEY_JUNIOR
+http://www.t12v.com:8000/jaafar/jaafar/1213.ch
+#EXTINF:-1,PT_DISNEY_CHANNEL
+http://www.t12v.com:8000/jaafar/jaafar/1162.ch
+#EXTINF:-1,PT_A_BOLA_TV
+http://www.t12v.com:8000/jaafar/jaafar/1404.ch
+#EXTINF:-1,PT_CM_TV
+http://www.t12v.com:8000/jaafar/jaafar/498.ch
+#EXTINF:-1,PT_CINEMUNDO
+http://www.t12v.com:8000/jaafar/jaafar/507.ch
+#EXTINF:-1,PT_CARTOON_NETWORK
+http://www.t12v.com:8000/jaafar/jaafar/1161.ch
+#EXTINF:-1,PT_24_KITCHEN_HD
+http://www.t12v.com:8000/jaafar/jaafar/1187.ch
+#EXTINF:-1,PT_CANAL_PANDA
+http://www.t12v.com:8000/jaafar/jaafar/1165.ch
+#EXTINF:-1,PT_CANAL_HISTORIA
+http://www.t12v.com:8000/jaafar/jaafar/1183.ch
+#EXTINF:-1,PT_cacavizion
+http://www.t12v.com:8000/jaafar/jaafar/1411.ch
+#EXTINF:-1,PT_BTV_2_HD
+http://www.t12v.com:8000/jaafar/jaafar/806.ch
+#EXTINF:-1,PT_BTV_1_HD
+http://www.t12v.com:8000/jaafar/jaafar/807.ch
+#EXTINF:-1,PT_BIGGS
+http://www.t12v.com:8000/jaafar/jaafar/1166.ch
+#EXTINF:-1,PT_BENFICATV_2
+http://www.t12v.com:8000/jaafar/jaafar/1418.ch
+#EXTINF:-1,PT_BENFICATV_1HD
+http://www.t12v.com:8000/jaafar/jaafar/1421.ch
+#EXTINF:-1,PT_BABY_TV
+http://www.t12v.com:8000/jaafar/jaafar/1395.ch
+#EXTINF:-1,PT_AXN_WHITE_HD
+http://www.t12v.com:8000/jaafar/jaafar/1155.ch
+#EXTINF:-1,PT_AXN_BLACK_HD
+http://www.t12v.com:8000/jaafar/jaafar/1156.ch
+#EXTINF:-1,PT_AMC
+http://www.t12v.com:8000/jaafar/jaafar/1410.ch
 
 #EXTINF:-1,ES: Canal+Liga
 http://satloveriptv.com:8090/live/pakistan/pakistan/3995.m3u8
