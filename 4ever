@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 19-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 20-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -577,8 +577,13 @@ http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/tra
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR green]FOX SPORT[/COLOR] SD Low
-http://server1.livestreaming.ninja:1935/live/foxsports1/livestream.m3u8
+
+#EXTINF:-1,COMBATE (br)
+http://213.163.65.116:8081/live/combate/playlist.m3u8
+#EXTINF:-1,ESPN (br)
+http://213.163.65.116:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1,FOX SPORTS (br)
+http://213.163.65.116:8081/live/foxsport/playlist.m3u8
 #EXTINF:-1,[COLOR green]TV ALL SPORTS[/COLOR] HQ (br)
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (rtmp) SD low
@@ -586,13 +591,13 @@ rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/
 
 #EXTINF:-1,[COLOR green]TVU ESPORTE INTERATIVO[/COLOR]
 http://srv6.zoeweb.tv:1935/z433-live/stream/inspiration.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv 2[/COLOR] (br)
-http://31.204.128.112:8081/live/sportv2/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv 3[/COLOR] (br)
-http://31.204.128.112:8081/live/sportv3/playlist.m3u8
 
 ####################################################################################################################################
 
+#EXTINF:-1 group-title="DESPORTO",[COLOR gold]TRUE SPORT2[/COLOR] HD
+rtmp://216.185.103.158/live2//chthaipremier11
+#EXTINF:-1 group-title="DESPORTO",[COLOR gold]TRUE SPORT3[/COLOR] HD
+rtmp://216.185.103.158/live2//chthaipremier31
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Irib Varzesh Iran[/COLOR]
 http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
 
