@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 22-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 23-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -75,7 +75,7 @@ http://
 #EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
 
-#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] Sao canais so para TESTAR![COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]Canais para TESTAR! (5 sec.)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 
 #EXTINF:-1,PT_TVCINE_4_HD
@@ -289,6 +289,9 @@ rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Vi
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="PORTUGAL",[COLOR green] ARTV [/COLOR]
 rtsp://www.canal.parlamento.pt/Live
+
+#EXTINF:-1 tvg-id=".pt" tvg-logo=".png" group-title="PORTUGAL",[COLOR green]Lisboa TV [/COLOR]
+http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
 
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo=".png" group-title="PORTUGAL",[COLOR green] Tv Record [/COLOR] (vitoria)
 http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
@@ -518,6 +521,9 @@ http://91.204.214.106:23201/stolen/269i/xenixos.7z
 
 #EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (rtmp)
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR gold]Footbal TV[/COLOR] HD
+rtmp://118.70.203.130:1935/channel/_definst_/vtvcab16_profile1.stream
 
 #EXTINF:-1,[COLOR green]FOX Motorsport[/COLOR]
 http://motorsport.hopto.org:8080/
