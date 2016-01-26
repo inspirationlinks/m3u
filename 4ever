@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 23-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 26-1-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -20,6 +20,8 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] ON/OFF
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] ON/OFF
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2F10480.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] ON/OFF
 http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] ON/OFF
 http://127.0.0.1:6878/ace/getstream?id=ef6c2b73a0436e06478790e7f8f27f173159dd59&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
@@ -28,27 +30,23 @@ http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FbU
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BTV 1[/COLOR] ON/OFF
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2F13490.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS
 plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 
 #EXTINF:-1,[COLOR gold]BT SPORT 2[/COLOR]
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
+
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (br) (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (rtmp) (jogos do benfica em casa)
+rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://direct-stream.biz/embedPlayer_.php?c=hnbrr54uu87&vw=468&vh=400
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR gold]Sport 1 Select [/COLOR]
 http://91.204.214.106:23201/stolen/264e/xenixos.7z
 #EXTINF:-1 group-title="DESPORTO",[COLOR gold]Sport 1 Voetbal[/COLOR] HQ
 http://91.204.214.106:23201/stolen/273b/xenixos.7z
-
-#EXTINF:-1,ARENA1*
-http://62.210.162.88:80/live/ARENA78/141423012016/1515.ts
-#EXTINF:-1,ARENA2*
-http://62.210.162.88:80/live/ARENA78/141423012016/1516.ts
-#EXTINF:-1,ARENA3*
-http://62.210.162.88:80/live/ARENA78/141423012016/1517.ts
-#EXTINF:-1,ARENA4*
-http://62.210.162.88:80/live/ARENA78/141423012016/1518.ts
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||||||||||[/COLOR] CANAIS TESTES [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -65,7 +63,7 @@ http://selling-team.net:8000/live/castiglione/castiglione/6034.m3u8
 http://selling-team.net:8000/live/castiglione/castiglione/6034.m3u8
 #EXTINF:-1,[COLOR green]PORTO CANAL [COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR][/COLOR]  envie um email
 http://selling-team.net:8000/live/castiglione/castiglione/5997.m3u8
-#EXTINF:-1,[COLOR green]TVCINE1[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR][/COLOR]  envie um email
+#EXTINF:-1,[COLOR green]TVCINES[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR][/COLOR]  envie um email
 http://top-iptv.zapto.org:8000/live/walid/walid/519.ts
 #EXTINF:-1,[COLOR green]Disney Channel[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR][/COLOR]  envie um email
 http://top-iptv.zapto.org:8000/live/walid/walid/672.ts
@@ -85,61 +83,8 @@ http://
 http://
 
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]Canais para TESTAR! (5 sec.)[COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
 
 
-#EXTINF:-1,PT: CMTV
-http://iptvtt.ddns.net:8000/dinis/dinis/27.ch
-#EXTINF:-1,PT: PORTO CANAL
-http://iptvtt.ddns.net:8000/dinis/dinis/36.ch
-#EXTINF:-1,PT: TVI FICÇÃO
-http://iptvtt.ddns.net:8000/dinis/dinis/63.ch
-#EXTINF:-1,PT: SIC MULHER
-http://iptvtt.ddns.net:8000/dinis/dinis/53.ch
-#EXTINF:-1,PT: SIC RADICAL
-http://iptvtt.ddns.net:8000/dinis/dinis/76.ch
-#EXTINF:-1,PT: SIC CARAS
-http://iptvtt.ddns.net:8000/dinis/dinis/80.ch
-#EXTINF:-1,PT: SPORT.TV 1 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/5.ch
-#EXTINF:-1,PT: SPORT.TV 1 HQ
-http://iptvtt.ddns.net:8000/dinis/dinis/96.ch
-#EXTINF:-1,PT: SPORT.TV 1 HD (teste)
-http://iptvtt.ddns.net:8000/dinis/dinis/455.ch
-#EXTINF:-1,PT: SPORT.TV 2 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/6.ch
-#EXTINF:-1,PT: SPORT.TV 3 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/7.ch
-#EXTINF:-1,PT: SPORT.TV 4 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/8.ch
-#EXTINF:-1,PT: SPORT.TV 5 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/9.ch
-#EXTINF:-1,PT: BTV 1 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/10.ch
-#EXTINF:-1,PT: BTV 1 HQ
-http://iptvtt.ddns.net:8000/dinis/dinis/98.ch
-#EXTINF:-1,PT: BTV 2 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/11.ch
-#EXTINF:-1,PT: SPORTING TV HD
-http://iptvtt.ddns.net:8000/dinis/dinis/105.ch
-#EXTINF:-1,PT: SPORTING TV
-http://iptvtt.ddns.net:8000/dinis/dinis/65.ch
-#EXTINF:-1,PT: A BOLA
-http://iptvtt.ddns.net:8000/dinis/dinis/37.ch
-#EXTINF:-1,PT: TVCINE 1 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/21.ch
-#EXTINF:-1,PT: TVCINE 2 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/22.ch
-#EXTINF:-1,PT: TVCINE 3 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/23.ch
-#EXTINF:-1,PT: TVCINE 4 HD
-http://iptvtt.ddns.net:8000/dinis/dinis/24.ch
-#EXTINF:-1,PT: MOV HD
-http://iptvtt.ddns.net:8000/dinis/dinis/102.ch
-#EXTINF:-1,PT: CINEMUNDO HD
-http://iptvtt.ddns.net:8000/dinis/dinis/64.ch
-#EXTINF:-1,PT: TVSÉRIES HD
-http://iptvtt.ddns.net:8000/dinis/dinis/25.ch
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
