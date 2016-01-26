@@ -21,10 +21,6 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] ON/OFF
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2F10480.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] ON/OFF
-http://127.0.0.1:6878/ace/getstream?id=c39db61fd585ebfa446983d0af9d9d637df9678c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORT TV1[/COLOR] ON/OFF
-http://127.0.0.1:6878/ace/getstream?id=ef6c2b73a0436e06478790e7f8f27f173159dd59&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]SPORTV 1[/COLOR] ON/OFF
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FbUhkdzNLNXRVSEd6VjAyYnFsYW5MWHp5VnlZb1VkbkxiUVJRUUpsMUl6RlVzTEFyUkl1Y2tLN2pCbmtBRDVWdElESFBWa0FwNTgwVnlzY1hUaWxpbmc9PQ%2F10480.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
@@ -32,8 +28,8 @@ rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BTV 1[/COLOR] ON/OFF
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2F13490.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  PLEXUS
-plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
+#EXTINF:-1 group-title="DESPORTO",[COLOR mediumslateblue]BTV 2[/COLOR] ON/OFF
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2Fcontent.asplaylist.net%2FeFVkSUxrODFmRGtCY1JsNTMraEYrMC9iVlc4ck5MS3dLUlY3ekhBL2h6NVNWb0FxV3VLVCsyWklaNGVxaUhjRGtqNkJqZHhyaG1WOVRKSTFPbFMzYUE9PQ%2F13491.acelive&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
 
 #EXTINF:-1,[COLOR gold]BT SPORT 2[/COLOR]
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
@@ -85,7 +81,6 @@ http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]Canais para TESTAR! (5 sec.)[COLOR red]||[/COLOR][/B][/COLOR]
 
 
-
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
 http://0.0.0.0:1234
@@ -95,7 +90,7 @@ http://0.0.0.0:1234
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR]TDT
 http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/inspirationlinks.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green]RTP1 [/COLOR] ON (rtmp)
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR] ON (rtmp)
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png" group-title="PORTUGAL",[COLOR green] RTP1 [/COLOR](SD low)
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
@@ -109,12 +104,12 @@ http://wownet.ro/str/0501.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL",[COLOR green] RTP2 [/COLOR](SD low)
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP3.jpg",[COLOR green]RTP3[/COLOR] ON (rtmp)
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP3.jpg",[COLOR green] RTP3[/COLOR] ON (rtmp)
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP3.jpg",[COLOR green] RTP3 [COLOR red][/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis.m3u8
 
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR green]RTP INTERNACIONAL [/COLOR] ON (rtmp)
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR green] RTP INTERNACIONAL [/COLOR] ON (rtmp)
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR green] RTP INTERNACIONAL [/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/inspirationlinks.m3u8
@@ -269,10 +264,6 @@ http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]Discovery World [/COLOR]
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]RT Documentary[/COLOR] (UK)
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]RT Documentary[/COLOR] (ru)
-http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 
 #################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS ENTRETENIMENTO[COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
@@ -420,13 +411,6 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 
 ####################################################################################################################################
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 1[/COLOR] EN
-http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 2[/COLOR] EN
-http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]BEIN SPORTS 3[/COLOR] EN
-http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
-
 ####################################################################################################################################
 #EXTINF:-1,[COLOR green]dolcesport1[/COLOR]
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
@@ -498,8 +482,6 @@ http://188.93.94.133/silk_sport4/index.m3u8
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR green] Россия 2[/COLOR] (ru) 
 http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:-1,[COLOR green] Россия 2 [/COLOR](ru) 
-http://testlivestream.rfn.ru/live/smil:r2.smil/playlist.m3u8
 
 ####################################################################################################################################
 
@@ -522,10 +504,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
 ####################################################################################################################################
 
-#EXTINF:-1,[COLOR green] abu dhabi sport[/COLOR]
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1,[COLOR green] abu dhabi sport 2[/COLOR]
-http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 
 ####################################################################################################################################
 
