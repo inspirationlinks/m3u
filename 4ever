@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 6-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 7-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -19,6 +19,11 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR]
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="Sport TV 1 HD.png" group-title="DESPORTO",[COLOR blue]SPORTV 1[/COLOR] (ACESTREAM)
+http://127.0.0.1:6878/ace/getstream?id=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 1 [/COLOR] PLEXUS 
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV 1
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] ON (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
@@ -92,286 +97,6 @@ http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] canais PT envie EMAIL[COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
-#EXTINF:-1,RTP 1 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/67.m3u8
-#EXTINF:-1,RTP 2
-http://iptvportugal.selfip.com:8000/live/teste/teste/68.m3u8
-#EXTINF:-1,SIC
-http://iptvportugal.selfip.com:8000/live/teste/teste/74.m3u8
-#EXTINF:-1,TVI
-http://iptvportugal.selfip.com:8000/live/teste/teste/105.m3u8
-#EXTINF:-1,RTP 1 (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/183.m3u8
-#EXTINF:-1,RTP 2 (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/184.m3u8
-#EXTINF:-1,SIC (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/185.m3u8
-#EXTINF:-1,TVI (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/186.m3u8
-#EXTINF:-1,TVI 24
-http://iptvportugal.selfip.com:8000/live/teste/teste/106.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://iptvportugal.selfip.com:8000/live/teste/teste/78.m3u8
-#EXTINF:-1,CMTV
-http://iptvportugal.selfip.com:8000/live/teste/teste/26.m3u8
-#EXTINF:-1,PORTO CANAL
-http://iptvportugal.selfip.com:8000/live/teste/teste/64.m3u8
-#EXTINF:-1,TVI REALITY
-http://iptvportugal.selfip.com:8000/live/teste/teste/110.m3u8
-#EXTINF:-1,TVI REALITY CAMARA
-http://iptvportugal.selfip.com:8000/live/teste/teste/108.m3u8
-#EXTINF:-1,TVI REALITY MOSAICO
-http://iptvportugal.selfip.com:8000/live/teste/teste/109.m3u8
-#EXTINF:-1,TVI FICÇAO
-http://iptvportugal.selfip.com:8000/live/teste/teste/107.m3u8
-#EXTINF:-1,SIC CARAS
-http://iptvportugal.selfip.com:8000/live/teste/teste/75.m3u8
-#EXTINF:-1,SIC RADICAL
-http://iptvportugal.selfip.com:8000/live/teste/teste/79.m3u8
-#EXTINF:-1,SIC MULHER
-http://iptvportugal.selfip.com:8000/live/teste/teste/77.m3u8
-#EXTINF:-1,SIC K
-http://iptvportugal.selfip.com:8000/live/teste/teste/76.m3u8
-#EXTINF:-1,RTP 3
-http://iptvportugal.selfip.com:8000/live/teste/teste/73.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://iptvportugal.selfip.com:8000/live/teste/teste/71.m3u8
-#EXTINF:-1,RTP AÇORES
-http://iptvportugal.selfip.com:8000/live/teste/teste/69.m3u8
-#EXTINF:-1,RTP AFRICA
-http://iptvportugal.selfip.com:8000/live/teste/teste/70.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://iptvportugal.selfip.com:8000/live/teste/teste/72.m3u8
-#EXTINF:-1,SPORT TV 1
-http://iptvportugal.selfip.com:8000/live/teste/teste/82.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/83.m3u8
-#EXTINF:-1,SPORT TV 1 HD.
-http://iptvportugal.selfip.com:8000/live/teste/teste/114.m3u8
-#EXTINF:-1,SPORT TV  1 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/190.m3u8
-#EXTINF:-1,SPORT TV  2
-http://iptvportugal.selfip.com:8000/live/teste/teste/84.m3u8
-#EXTINF:-1,SPORT TV  2 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/85.m3u8
-#EXTINF:-1,SPORT TV  2 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/191.m3u8
-#EXTINF:-1,SPORT TV  3
-http://iptvportugal.selfip.com:8000/live/teste/teste/86.m3u8
-#EXTINF:-1,SPORT TV  3 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/87.m3u8
-#EXTINF:-1,SPORT TV  3 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/192.m3u8
-#EXTINF:-1,SPORT TV  4
-http://iptvportugal.selfip.com:8000/live/teste/teste/88.m3u8
-#EXTINF:-1,SPORT TV  4 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/89.m3u8
-#EXTINF:-1,SPORT TV  4 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/193.m3u8
-#EXTINF:-1,SPORT TV  5
-http://iptvportugal.selfip.com:8000/live/teste/teste/90.m3u8
-#EXTINF:-1,SPORT TV  5 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/91.m3u8
-#EXTINF:-1,SPORT TV  5 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/194.m3u8
-#EXTINF:-1,BENFICA TV 1
-http://iptvportugal.selfip.com:8000/live/teste/teste/11.m3u8
-#EXTINF:-1,BENFICA TV 1 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/12.m3u8
-#EXTINF:-1,BENFICA TV 1 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/188.m3u8
-#EXTINF:-1,BENFICA TV 2
-http://iptvportugal.selfip.com:8000/live/teste/teste/13.m3u8
-#EXTINF:-1,BENFICA TV 2 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/14.m3u8
-#EXTINF:-1,BENFICA TV 2 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/189.m3u8
-#EXTINF:-1,SPORTING TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/81.m3u8
-#EXTINF:-1,SPORTING TV HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/80.m3u8
-#EXTINF:-1,SPORTING TV HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/187.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/34.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://iptvportugal.selfip.com:8000/live/teste/teste/33.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://iptvportugal.selfip.com:8000/live/teste/teste/35.m3u8
-#EXTINF:-1,EUROSPORT NEWS
-http://iptvportugal.selfip.com:8000/live/teste/teste/36.m3u8
-#EXTINF:-1,REAL MADRID TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/65.m3u8
-#EXTINF:-1,CHELSEA TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/24.m3u8
-#EXTINF:-1,A BOLA TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/16.m3u8
-#EXTINF:-1,PFC
-http://iptvportugal.selfip.com:8000/live/teste/teste/62.m3u8
-#EXTINF:-1,MOTORVISION
-http://iptvportugal.selfip.com:8000/live/teste/teste/51.m3u8
-#EXTINF:-1,MOTORS TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/50.m3u8
-#EXTINF:-1,TVC 1 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/100.m3u8
-#EXTINF:-1,TVC 1 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/273.m3u8
-#EXTINF:-1,TVC 2 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/101.m3u8
-#EXTINF:-1,TVC 2 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/272.m3u8
-#EXTINF:-1,TVC 3 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/102.m3u8
-#EXTINF:-1,TVC 3 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/271.m3u8
-#EXTINF:-1,TVC 4 HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/103.m3u8
-#EXTINF:-1,TVC 4 HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/270.m3u8
-#EXTINF:-1,TVC SERIES HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/104.m3u8
-#EXTINF:-1,TVC SERIES HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/274.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/46.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://iptvportugal.selfip.com:8000/live/teste/teste/45.m3u8
-#EXTINF:-1,MOV HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/52.m3u8
-#EXTINF:-1,CINEMUNDO
-http://iptvportugal.selfip.com:8000/live/teste/teste/25.m3u8
-#EXTINF:-1,TV RECORD
-http://iptvportugal.selfip.com:8000/live/teste/teste/99.m3u8
-#EXTINF:-1,TV GLOBO PREMIUM
-http://iptvportugal.selfip.com:8000/live/teste/teste/98.m3u8
-#EXTINF:-1,TV GLOBO PORTUGAL
-http://iptvportugal.selfip.com:8000/live/teste/teste/97.m3u8
-#EXTINF:-1,RECORD NEWS
-http://iptvportugal.selfip.com:8000/live/teste/teste/66.m3u8
-#EXTINF:-1,SYFY
-http://iptvportugal.selfip.com:8000/live/teste/teste/92.m3u8
-#EXTINF:-1,FOX HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/40.m3u8
-#EXTINF:-1,FOX MOVIES
-http://iptvportugal.selfip.com:8000/live/teste/teste/42.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/41.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/39.m3u8
-#EXTINF:-1,FOX COMEDY
-http://iptvportugal.selfip.com:8000/live/teste/teste/38.m3u8
-#EXTINF:-1,FOX NEWS
-http://iptvportugal.selfip.com:8000/live/teste/teste/43.m3u8
-#EXTINF:-1,AXN HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/6.m3u8
-#EXTINF:-1,AXN HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/267.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/5.m3u8
-#EXTINF:-1,AXN BLACK HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/269.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/7.m3u8
-#EXTINF:-1,AXN WHITE HD (LOW BITRATE)
-http://iptvportugal.selfip.com:8000/live/teste/teste/268.m3u8
-#EXTINF:-1,PANDA
-http://iptvportugal.selfip.com:8000/live/teste/teste/59.m3u8
-#EXTINF:-1,PANDA BIGGS
-http://iptvportugal.selfip.com:8000/live/teste/teste/60.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://iptvportugal.selfip.com:8000/live/teste/teste/29.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://iptvportugal.selfip.com:8000/live/teste/teste/30.m3u8
-#EXTINF:-1,NICKELODEON
-http://iptvportugal.selfip.com:8000/live/teste/teste/56.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://iptvportugal.selfip.com:8000/live/teste/teste/22.m3u8
-#EXTINF:-1,JIM JAM
-http://iptvportugal.selfip.com:8000/live/teste/teste/48.m3u8
-#EXTINF:-1,CANAL Q
-http://iptvportugal.selfip.com:8000/live/teste/teste/21.m3u8
-#EXTINF:-1,BABY TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/8.m3u8
-#EXTINF:-1,BABY FIRST
-http://iptvportugal.selfip.com:8000/live/teste/teste/9.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://iptvportugal.selfip.com:8000/live/teste/teste/10.m3u8
-#EXTINF:-1,FUEL TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/44.m3u8
-#EXTINF:-1,CAÇA E PESCA
-http://iptvportugal.selfip.com:8000/live/teste/teste/18.m3u8
-#EXTINF:-1,CANAL HISTORIA
-http://iptvportugal.selfip.com:8000/live/teste/teste/20.m3u8
-#EXTINF:-1,AMC
-http://iptvportugal.selfip.com:8000/live/teste/teste/4.m3u8
-#EXTINF:-1,A&E
-http://iptvportugal.selfip.com:8000/live/teste/teste/2.m3u8
-#EXTINF:-1,24 KITCHEN HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/1.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/37.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/55.m3u8
-#EXTINF:-1,NATIONAL GEO WILD
-http://iptvportugal.selfip.com:8000/live/teste/teste/54.m3u8
-#EXTINF:-1,OUTDOOR HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/58.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/96.m3u8
-#EXTINF:-1,CBS REALITY
-http://iptvportugal.selfip.com:8000/live/teste/teste/23.m3u8
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://iptvportugal.selfip.com:8000/live/teste/teste/28.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptvportugal.selfip.com:8000/live/teste/teste/27.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://iptvportugal.selfip.com:8000/live/teste/teste/31.m3u8
-#EXTINF:-1,ODISSEIA
-http://iptvportugal.selfip.com:8000/live/teste/teste/57.m3u8
-#EXTINF:-1,TLC
-http://iptvportugal.selfip.com:8000/live/teste/teste/93.m3u8
-#EXTINF:-1,CACAVISION
-http://iptvportugal.selfip.com:8000/live/teste/teste/19.m3u8
-#EXTINF:-1,TOROS TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/94.m3u8
-#EXTINF:-1,EURONEWS
-http://iptvportugal.selfip.com:8000/live/teste/teste/32.m3u8
-#EXTINF:-1,BLOOMBERG
-http://iptvportugal.selfip.com:8000/live/teste/teste/15.m3u8
-#EXTINF:-1,MTV PORTUGAL
-http://iptvportugal.selfip.com:8000/live/teste/teste/53.m3u8
-#EXTINF:-1,MCM POP
-http://iptvportugal.selfip.com:8000/live/teste/teste/49.m3u8
-#EXTINF:-1,TRACE URBAN TV
-http://iptvportugal.selfip.com:8000/live/teste/teste/95.m3u8
-#EXTINF:-1,AFRO MUSIC
-http://iptvportugal.selfip.com:8000/live/teste/teste/3.m3u8
-#EXTINF:-1,C- MUSIC
-http://iptvportugal.selfip.com:8000/live/teste/teste/17.m3u8
-#EXTINF:-1,VH1
-http://iptvportugal.selfip.com:8000/live/teste/teste/112.m3u8
-#EXTINF:-1,HOT
-http://iptvportugal.selfip.com:8000/live/teste/teste/47.m3u8
-#EXTINF:-1,PENTHOUSE HD 1
-http://iptvportugal.selfip.com:8000/live/teste/teste/61.m3u8
-#EXTINF:-1,HUSTLER HD
-http://iptvportugal.selfip.com:8000/live/teste/teste/199.m3u8
-#EXTINF:-1,PLAYBOY
-http://iptvportugal.selfip.com:8000/live/teste/teste/63.m3u8
-#EXTINF:-1,VENUS
-http://iptvportugal.selfip.com:8000/live/teste/teste/111.m3u8
-
-
-#EXTINF:-1,POR - Sport Tv 1
-http://ultra-iptv.best-tv.us:13884/live/marty/marty/1678.m3u8
-#EXTINF:-1,POR - Sport Tv 2
-http://ultra-iptv.best-tv.us:13884/live/marty/marty/1677.m3u8
-#EXTINF:-1,POR - Sport Tv 3
-http://ultra-iptv.best-tv.us:13884/live/marty/marty/1676.m3u8
-#EXTINF:-1,POR - Sport Tv 4
-http://ultra-iptv.best-tv.us:13884/live/marty/marty/1675.m3u8
-#EXTINF:-1,POR - Sport Tv 5
-http://ultra-iptv.best-tv.us:13884/live/marty/marty/1674.m3u8
 #EXTINF:-1,Benfica 2
 http://178.33.231.219:88/live/21041/21041/87.ts
 #EXTINF:-1,Benfica HD
@@ -727,6 +452,16 @@ http://169.45.89.106:1935/app/espnuklsh/playlist.m3u8
 http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
 #EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 2[/COLOR] (FRA)
 http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
+#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 1[/COLOR] (AR)
+http://46.101.248.73:1234/hls/bein1hd.m3u8
+#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 2[/COLOR] (AR)
+http://46.101.248.73:1234/hls/bein2hd.m3u8
+#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 3[/COLOR] (AR)
+http://46.101.248.73:1234/hls/bein3hd.m3u8
+#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 4[/COLOR] (AR)
+http://46.101.248.73:1234/hls/bein4hd.m3u8
+#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 5[/COLOR] (AR)
+http://46.101.248.73:1234/hls/bein5hd.m3u8
 
 #EXTINF:-1,[COLOR green]FIGHTER[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
