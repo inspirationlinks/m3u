@@ -53,15 +53,30 @@ http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR green]BTV 2[/COLOR] 
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]SILK 3[/COLOR] (GEO)
-http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS 
+#EXTINF:-1,SPORT CLUB 1
+http://src.sbs1.pw:8080/live/mahmutbilge8/11575432/193.m3u8
+#EXTINF:-1,SPORT CLUB 2
+http://src.sbs1.pw:8080/live/mahmutbilge8/11575432/198.m3u8
+#EXTINF:-1,SPORT CLUB 3 (da jogos equipas PT)
+http://src.sbs1.pw:8080/live/mahmutbilge8/11575432/229.m3u8
+
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS (da jogos equipas PT)
 plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
+
+#EXTINF:-1,SportKlub 1
+http://169.45.89.106:1935/app/skhd1lsh/playlist.m3u8
+#EXTINF:-1,SportKlub 2
+http://169.45.89.106:1935/app/skhd2lsh/playlist.m3u8
+#EXTINF:-1,SportKlub 3 (da jogos equipas PT)
+http://169.45.89.106:1935/app/skhd3lsh/playlist.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (rtmp) (jogos do benfica em casa)
 rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://direct-stream.biz/embedPlayer_.php?c=hnbrr54uu87&vw=468&vh=400
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]SILK 3[/COLOR] (GEO)
+http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||||||||||[/COLOR] CANAIS TESTES [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -103,17 +118,17 @@ http://
 http://
 
 #EXTINF:-1,Benfica 2
-http://178.33.231.219:88/live/21041/21041/87.ts
+http://178.33.231.219:88/21041/21041/87.ch
 #EXTINF:-1,Benfica HD
-http://178.33.231.219:88/live/21041/21041/86.ts
+http://178.33.231.219:88/21041/21041/86.ch
 #EXTINF:-1,Sport TV 1
-http://178.33.231.219:88/live/21041/21041/64.ts
+http://178.33.231.219:88/21041/21041/64.ch
 #EXTINF:-1,Sport TV 2
-http://178.33.231.219:88/live/21041/21041/65.ts
+http://178.33.231.219:88/21041/21041/65.ch
 #EXTINF:-1,Sport TV 3
-http://178.33.231.219:88/live/21041/21041/66.ts
+http://178.33.231.219:88/21041/21041/66.ch
 #EXTINF:-1,Sport TV 4
-http://178.33.231.219:88/live/21041/21041/67.ts
+http://178.33.231.219:88/21041/21041/67.ch
 #EXTINF:-1,PT-SportTV4
 http://iptv.ndasat.com:88/000001/000001/67.ch
 #EXTINF:-1,PT-SportTV3
@@ -176,7 +191,6 @@ http://62.210.107.58:8000/movie/alex/alex/48.mkv
 http://62.210.107.58:8000/movie/alex/alex/40.mkv
 #EXTINF:-1,ALADINO 1
 http://62.210.107.58:8000/movie/alex/alex/38.mkv
-
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -336,27 +350,7 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]HISTORIA[/COLOR] ESP (rtmp)
 rtmp://31.220.0.196/privatestream/ playpath=historia93?keys=INKr3qteKnAufPd-ky7jyg&keyt=1448247276 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]HISTORIA[/COLOR] ESP
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?supertvlat=%2F.ts
 
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]DISC_SCIENCE[/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]DISC_CIVILZATION[/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]Discovery World [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]DiscoveryTheater [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]Discovery TURBO[/COLOR] (esp)
-http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]NAT GEO WILD[/COLOR] (mex)
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]Animal Planet[/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]Discovery World [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
 
 #################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS ENTRETENIMENTO[COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
@@ -403,6 +397,17 @@ http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] SPORTS INTERNACIONAIS [COLOR yellow] (Multi Language) [/COLOR][COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
 ####################################################################################################################################
+
+#EXTINF:-1,beIN Sports 1 HD
+http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://169.45.89.106:1935/app/bein3frlsh/playlist.m3u8
+#EXTINF:-1,beIN Sport max 4
+http://169.45.89.106:1935/app/max4lsh/playlist.m3u8
+#EXTINF:-1,beIN Sport max 5
+http://169.45.89.106:1935/app/max5lsh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 1[/COLOR] (UK)
 http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
@@ -754,54 +759,6 @@ rtsp://str81.creacast.com/grandlilletv/high
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 #EXTINF:-1 tvg-id="" tvg-logo="LA TELE.png" group-title="FRANÇA",[COLOR green] LA TELE [/COLOR]
 rtsp://rtmp.infomaniak.ch/livecast/latele
-
-####################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][COLOR red]||[/COLOR][B] GERMANY CHANNELS [COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
-####################################################################################################################################
-
-#EXTINF:-1,[COLOR green]3sat[/COLOR]
-http://217.20.164.196:8080/3sat/index.m3u8
-#EXTINF:-1,[COLOR green]ard[/COLOR]
-http://217.20.164.196:8080/ard/index.m3u8
-#EXTINF:-1,[COLOR green]rbb[/COLOR]
-http://217.20.164.196:8080/rbb/index.m3u8
-#EXTINF:-1,[COLOR green]kika[/COLOR]
-http://217.20.164.196:8080/kika/index.m3u8
-#EXTINF:-1,[COLOR green]zdf[/COLOR]
-http://217.20.164.196:8080/zdf/index.m3u8
-#EXTINF:-1,[COLOR green]vox[/COLOR]
-http://217.20.164.196:8080/vox/index.m3u8
-#EXTINF:-1,[COLOR green]sat1[/COLOR]
-http://217.20.164.196:8080/sat1/index.m3u8
-#EXTINF:-1,[COLOR green]rtl[/COLOR](Box Fight tonigh}
-http://217.20.164.196:8080/rtl/index.m3u8
-#EXTINF:-1,[COLOR green]n-tv[/COLOR]
-http://217.20.164.196:8080/n-tv/index.m3u8
-#EXTINF:-1,[COLOR green]eurosport[/COLOR]
-http://217.20.164.196:8080/eurosport/index.m3u8
-#EXTINF:-1,[COLOR green]euronews[/COLOR]
-http://217.20.164.196:8080/euronews/index.m3u8
-#EXTINF:-1,[COLOR green]mdr[/COLOR]
-http://217.20.164.196:8080/mdr/index.m3u8
-#EXTINF:-1,[COLOR green]ndr[/COLOR]
-http://217.20.164.196:8080/ndr/index.m3u8
-#EXTINF:-1,[COLOR green]swr[/COLOR]
-http://217.20.164.196:8080/swr/index.m3u8 
-#EXTINF:-1,[COLOR green]TV Baden Wuerttemberg[/COLOR]
-rtmp://62.113.210.105/ltv-live/livestream
-#EXTINF:-1,[COLOR green]Dessau[/COLOR]
-rtmp://62.113.210.250/medienasa-live/ok-dessau_high
-#EXTINF:-1,[COLOR green]Magdeburg[/COLOR]
-rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
-#EXTINF:-1,[COLOR green]Merseburg[/COLOR]
-rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
-#EXTINF:-1,[COLOR green]Salzwedel[/COLOR]
-rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
-#EXTINF:-1,[COLOR green]Stendal[/COLOR]
-rtmp://62.113.210.250/medienasa-live/ok-stendal_high 
-#EXTINF:-1,[COLOR green]Wernigerode[/COLOR]
-rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
 
 ####################################################################################################################################
 #EXTINF:-1 group-title="MUSIC",[COLOR white][B] [COLOR red]||[/COLOR] MUSIC CHANNELS [COLOR red]||[/COLOR][/B][/COLOR]
