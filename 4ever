@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 7-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 8-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -52,6 +52,11 @@ http://91.204.214.106:23201/stolen/251z/xenixos.7z
 http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR green]BTV 2[/COLOR] 
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]SILK 3[/COLOR] (GEO)
+http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS 
+plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
@@ -390,14 +395,6 @@ http://iptvnation.com/stooges.mp4
 http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR green] CANAL CINE[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,[COLOR green]SONY[/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL203/PROFILE02.m3u8?=%2F.ts
-#EXTINF:-1,[COLOR green]FILM ZONE [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,[COLOR green]DE PELICULA [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,[COLOR green]LIFETIME [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?supertvlat=%2F.ts
 
 #EXTINF:-1,[COLOR green] English Club tv[/COLOR] (usa)
 http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
@@ -509,12 +506,26 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 
 ####################################################################################################################################
+#EXTINF:-1,sport 1 test
+http://85.25.43.23:8080/hls/helloszia2.m3u8
+#EXTINF:-1,Sport 2 test
+http://85.25.43.23:8080/hls/helloszia3.m3u8
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR gold]Irib Varzesh Iran[/COLOR]
+http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR gold]Nova Sport 1[/COLOR]
+http://213.81.153.241/live001/channel028_p3.stream/DVR.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR green]dolcesport1[/COLOR]
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 #EXTINF:-1,[COLOR green]dolcesport2[/COLOR]
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Viasat Sport[/COLOR] HQ
+http://vs7.cdn.ott.otautv.kz/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Viasat Sport Batltic[/COLOR] HQ
+http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR green] trace sports[/COLOR]
 http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
