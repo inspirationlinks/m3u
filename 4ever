@@ -17,8 +17,21 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR] OFF
 http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR]
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+
+#EXTINF:-1,Benfica 2
+http://178.33.231.219:88/21613/21613/87.ch
+#EXTINF:-1,Benfica HD
+http://178.33.231.219:88/21613/21613/86.ch
+#EXTINF:-1,Sport TV 1
+http://178.33.231.219:88/21613/21613/64.ch
+#EXTINF:-1,Sport TV 2
+http://178.33.231.219:88/21613/21613/65.ch
+#EXTINF:-1,Sport TV 3
+http://178.33.231.219:88/21613/21613/66.ch
+#EXTINF:-1,Sport TV 4
+http://178.33.231.219:88/21613/21613/67.ch
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="Sport TV 1 HD.png" group-title="DESPORTO",[COLOR blue]SPORTV 1[/COLOR] (ACESTREAM)
 http://127.0.0.1:6878/ace/getstream?id=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
