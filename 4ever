@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 8-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 9-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -38,13 +38,13 @@ http://127.0.0.1:6878/ace/getstream?id=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 1 [/COLOR] PLEXUS 
 plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV 1
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] ON (rtmp)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] ON (rtmp)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR]
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] ON (rtmp)
@@ -65,13 +65,6 @@ http://91.204.214.106:23201/stolen/251z/xenixos.7z
 http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR green]BTV 2[/COLOR] 
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
-
-#EXTINF:-1,SPORT CLUB 1
-http://src.sbs1.pw:8080/live/mahmutbilge8/11575432/193.m3u8
-#EXTINF:-1,SPORT CLUB 2
-http://src.sbs1.pw:8080/live/mahmutbilge8/11575432/198.m3u8
-#EXTINF:-1,SPORT CLUB 3 (da jogos equipas PT)
-http://src.sbs1.pw:8080/live/mahmutbilge8/11575432/229.m3u8
 
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS (da jogos equipas PT)
 plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
@@ -108,8 +101,6 @@ http://selling-team.net:8000/live/castiglione/castiglione/6034.m3u8
 http://selling-team.net:8000/live/castiglione/castiglione/5997.m3u8
 #EXTINF:-1,[COLOR green]TVCINES[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR][/COLOR]  envie um email
 http://top-iptv.zapto.org:8000/live/walid/walid/519.ts
-#EXTINF:-1,[COLOR green]Disney Channel[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR][/COLOR]  envie um email
-http://top-iptv.zapto.org:8000/live/walid/walid/672.ts
 #EXTINF:-1,[COLOR green]CMTV (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
 #EXTINF:-1,[COLOR green]BOLA TV (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
@@ -118,18 +109,28 @@ http://
 http://
 #EXTINF:-1,[COLOR green]BTV 2 (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 http://
-#EXTINF:-1,[COLOR green]Canal Panda (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
-http://
-#EXTINF:-1,[COLOR green]Nat Geo Wild (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
-http://
-#EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
-http://
 
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]Canais teste (5-10 sec)[COLOR red]||[/COLOR][/B][/COLOR]
 http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] canais PT envie EMAIL[COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
+#EXTINF:-1,PT_CM_TV
+http://www.t12v.com:8000/worldiptv3/worldiptv4/498.ch
+#EXTINF:-1,PT_TVI_FICCAO
+http://www.t12v.com:8000/worldiptv3/worldiptv4/1126.ch
+#EXTINF:-1,PT_PORTO_CANAL
+http://www.t12v.com:8000/worldiptv3/worldiptv4/1130.ch
+#EXTINF:-1,PT_TVCINE_1_HD
+http://www.t12v.com:8000/worldiptv3/worldiptv4/1145.ch
+#EXTINF:-1,PT_TVCINE_2_HD
+http://www.t12v.com:8000/worldiptv3/worldiptv4/1146.ch
+#EXTINF:-1,PT_TVCINE_3_HD
+http://www.t12v.com:8000/worldiptv3/worldiptv4/886.ch
+#EXTINF:-1,PT_TVCINE_4_HD
+http://www.t12v.com:8000/worldiptv3/worldiptv4/1147.ch
+#EXTINF:-1,PT_TV_SERIES
+http://www.t12v.com:8000/worldiptv3/worldiptv4/1152.ch
 #EXTINF:-1,Benfica 2
 http://178.33.231.219:88/21041/21041/87.ch
 #EXTINF:-1,Benfica HD
@@ -305,6 +306,8 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]BLOOMBERG NEWS[/COLOR]
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]Food Network[/COLOR] (usa)
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]NHK WORLD TV[/COLOR] (usa)
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
@@ -313,16 +316,6 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/m
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green] Weather Nation[/COLOR] (pedido)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-####################################################################################################################################
-#EXTINF:-1 group-title="GASTRONOMIA",[COLOR white][B] [COLOR red]||[/COLOR] GASTRONOMIA [COLOR red]||[/COLOR] (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
-####################################################################################################################################
-
-#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]Food Network[/COLOR] (usa)
-http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
-#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]GOURMET[/COLOR] (mex)
-http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
 ######################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR white][B][COLOR red]||[/COLOR]toros & caça & pesca [COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
@@ -330,14 +323,25 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green]TPOTEN[/COLOR] HD
 http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
 
-#EXTINF:-1,[COLOR green] CAZA&PESCA IBERALIA (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
+#EXTINF:-1,[COLOR green] CAZA&PESCA(SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 rtmp://
 #EXTINF:-1,[COLOR green] CANAL+ TOROS (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
 rtmp://
+#EXTINF:-1,[COLOR green]Nat Geo Wild (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
+http://
+#EXTINF:-1,[COLOR green]Caça & Pesca (SE PRETENDER ESTE CANAL)[/COLOR]  envie um email
+http://
 ####################################################################################################################################
 #EXTINF:-1,[COLOR green][COLOR white][B][COLOR red]||[/COLOR] CHANNELS INFANTIS [COLOR red]||[/COLOR] (Multi Language) [COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
+
+#EXTINF:-1,[COLOR green]Disney Channel[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR]envie um email[/COLOR]
+http://151.80.97.112:8000/sarah/sarah/1162.ch
+#EXTINF:-1,[COLOR green]Panda[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR]envie um email[/COLOR] 
+http://151.80.97.112:8000/live/sarah/sarah/1165.ts
+#EXTINF:-1,[COLOR green]SIC_K[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR]envie um email[/COLOR]
+http://151.80.97.112:8000/sarah/sarah/1164.ch
 
 #EXTINF:-1 group-title="INFANTIS",[COLOR green] TELE ARAQUA [/COLOR](esp)
 http://stream.telearagua.com/telearagua/telearagua_240p/inspirationlinks.m3u8
@@ -356,19 +360,29 @@ rtmp://31.220.0.82/privatestream playpath=disneyy1?keys=nWoA21Fm1Sm7irAPfUe7jQ&k
 #EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR white][B][COLOR red]||[/COLOR] DOCUMENTARIOS & VIDA SELVAGEM [COLOR red]||[/COLOR][COLOR yellow] (Multi Language) [/COLOR][COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 ####################################################################################################################################
+#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]HISTORIA[/COLOR] ESP (rtmp)
+rtmp://31.220.0.196/privatestream/ playpath=historia93?keys=INKr3qteKnAufPd-ky7jyg&keyt;=1448247276 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 
 #EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]RT Documentary[/COLOR] (UK)
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]RT Documentary[/COLOR] (ru)
 http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]HISTORIA[/COLOR] ESP (rtmp)
-rtmp://31.220.0.196/privatestream/ playpath=historia93?keys=INKr3qteKnAufPd-ky7jyg&keyt=1448247276 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 
-
-#################################################################################################################
+####################################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS ENTRETENIMENTO[COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com 
-#################################################################################################################
+####################################################################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png",[COLOR green]FOX[/COLOR] ESP (rtmp) 
+rtmp://31.220.40.41/privatestream/fox856?keys=2gTuLk5qZcyCFGnsV2aChw&keyt=1452271938 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="" tvg-logo=".png",[COLOR green]FOX LIFE[/COLOR] ESP (rtmp) 
+rtmp://31.220.40.41/privatestreamplus/lifefox5?keys=2gTuLk5qZcyCFGnsV2aChw&keyt=1452271938 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="" tvg-logo=".png",[COLOR green]AXN WHITE[/COLOR] ESP (rtmp) 
+rtmp://31.220.0.186/privatestream/ playpath=whiteaxn7?keys=-uzXGqXP_SwqAYubK2vS5w&keyt=1448251237 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=whiteaxn7&width=800&height=600
+#EXTINF:-1 tvg-id="" tvg-logo=".png",[COLOR green]HOLLYWOOD[/COLOR] ESP (rtmp) 
+rtmp://31.220.0.134/privatestream/ playpath=hollywood77?keys=yMJH3vHj5bPM54jeABBhvg&keyt;=1448254602 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+
+
 #EXTINF:-1,The Simpsons"
 http://iptvnation.com/simpsons.mp
 #EXTINF:-1,South Park"
