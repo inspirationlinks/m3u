@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 9-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 13-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -20,23 +20,26 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
-#EXTINF:-1,Benfica 2
-http://178.33.231.219:88/21613/21613/87.ch
-#EXTINF:-1,Benfica HD
-http://178.33.231.219:88/21613/21613/86.ch
-#EXTINF:-1,Sport TV 1
-http://178.33.231.219:88/21613/21613/64.ch
-#EXTINF:-1,Sport TV 2
-http://178.33.231.219:88/21613/21613/65.ch
-#EXTINF:-1,Sport TV 3
-http://178.33.231.219:88/21613/21613/66.ch
-#EXTINF:-1,Sport TV 4
-http://178.33.231.219:88/21613/21613/67.ch
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="Sport TV 1 HD.png" group-title="DESPORTO",[COLOR blue]SPORTV 1[/COLOR] (ACESTREAM)
-http://127.0.0.1:6878/ace/getstream?id=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORTTV 1 [/COLOR] PLEXUS 
-plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV 1
+#EXTINF:-1,PT:SPORT_TV4
+http://iptv-supplier.com:8000/live/kkk/kkk/1868.m3u8
+#EXTINF:-1,PT:SPORTING_TV
+http://iptv-supplier.com:8000/live/kkk/kkk/1870.m3u8
+#EXTINF:-1,PT:SPORT_TV1
+http://iptv-supplier.com:8000/live/kkk/kkk/1865.m3u8
+#EXTINF:-1,PT:SPORT_TV3
+http://iptv-supplier.com:8000/live/kkk/kkk/1867.m3u8
+#EXTINF:-1,PT : BENFICA TV 1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
+#EXTINF:-1,PT : Sport TV 5
+http://top-iptv.zapto.org:8000/live/Aria/Aria/657.m3u8
+#EXTINF:-1,PT : Sport TV 4
+http://top-iptv.zapto.org:8000/live/Aria/Aria/656.m3u8
+#EXTINF:-1,PT : Sport Tv 3
+http://top-iptv.zapto.org:8000/live/Aria/Aria/655.m3u8
+#EXTINF:-1,PT : Sport TV 2 FULL HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
+#EXTINF:-1,PT : Sport Tv 1  FULL HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
@@ -115,46 +118,58 @@ http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] canais PT envie EMAIL[COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
-#EXTINF:-1,PT_CM_TV
-http://www.t12v.com:8000/worldiptv3/worldiptv4/498.ch
-#EXTINF:-1,PT_TVI_FICCAO
-http://www.t12v.com:8000/worldiptv3/worldiptv4/1126.ch
-#EXTINF:-1,PT_PORTO_CANAL
-http://www.t12v.com:8000/worldiptv3/worldiptv4/1130.ch
-#EXTINF:-1,PT_TVCINE_1_HD
-http://www.t12v.com:8000/worldiptv3/worldiptv4/1145.ch
-#EXTINF:-1,PT_TVCINE_2_HD
-http://www.t12v.com:8000/worldiptv3/worldiptv4/1146.ch
-#EXTINF:-1,PT_TVCINE_3_HD
-http://www.t12v.com:8000/worldiptv3/worldiptv4/886.ch
-#EXTINF:-1,PT_TVCINE_4_HD
-http://www.t12v.com:8000/worldiptv3/worldiptv4/1147.ch
-#EXTINF:-1,PT_TV_SERIES
-http://www.t12v.com:8000/worldiptv3/worldiptv4/1152.ch
-#EXTINF:-1,Benfica 2
-http://178.33.231.219:88/21041/21041/87.ch
-#EXTINF:-1,Benfica HD
-http://178.33.231.219:88/21041/21041/86.ch
-#EXTINF:-1,Sport TV 1
-http://178.33.231.219:88/21041/21041/64.ch
-#EXTINF:-1,Sport TV 2
-http://178.33.231.219:88/21041/21041/65.ch
-#EXTINF:-1,Sport TV 3
-http://178.33.231.219:88/21041/21041/66.ch
-#EXTINF:-1,Sport TV 4
-http://178.33.231.219:88/21041/21041/67.ch
-#EXTINF:-1,PT-SportTV4
-http://iptv.ndasat.com:88/000001/000001/67.ch
-#EXTINF:-1,PT-SportTV3
-http://iptv.ndasat.com:88/000001/000001/66.ch
-#EXTINF:-1,PT-SportTV2
-http://iptv.ndasat.com:88/000001/000001/65.ch
-#EXTINF:-1,PT-SportTV1
-http://iptv.ndasat.com:88/000001/000001/64.ch
-#EXTINF:-1,PT-Benfica2
-http://iptv.ndasat.com:88/000001/000001/87.ch
-#EXTINF:-1,PT-BenficaHD
-http://iptv.ndasat.com:88/000001/000001/86.ch
+#EXTINF:-1,PT:PORTO_CANAL
+http://iptv-supplier.com:8000/live/kkk/kkk/1864.m3u8
+#EXTINF:-1,PT:TVCINE1
+http://iptv-supplier.com:8000/live/kkk/kkk/1871.m3u8
+#EXTINF:-1,PT:TVC4
+http://iptv-supplier.com:8000/live/kkk/kkk/1873.m3u8
+#EXTINF:-1,PT:TVC2
+http://iptv-supplier.com:8000/live/kkk/kkk/1872.m3u8
+#EXTINF:-1,PT : TV Series
+http://top-iptv.zapto.org:8000/live/Aria/Aria/676.m3u8
+#EXTINF:-1,PT : SIC Radical
+http://top-iptv.zapto.org:8000/live/Aria/Aria/664.m3u8
+#EXTINF:-1,PT : SIC Noticias
+http://top-iptv.zapto.org:8000/live/Aria/Aria/663.m3u8
+#EXTINF:-1,PT : Sic Caras
+http://top-iptv.zapto.org:8000/live/Aria/Aria/662.m3u8
+#EXTINF:-1,PT : SIC
+http://top-iptv.zapto.org:8000/live/Aria/Aria/651.m3u8
+#EXTINF:-1,PT : RTP2
+http://top-iptv.zapto.org:8000/live/Aria/Aria/650.m3u8
+#EXTINF:-1,PT : RTP1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/649.m3u8
+#EXTINF:-1,PT : PFC
+http://top-iptv.zapto.org:8000/live/Aria/Aria/661.m3u8
+#EXTINF:-1,PT : Odisseia Portugal
+http://top-iptv.zapto.org:8000/live/Aria/Aria/669.m3u8
+#EXTINF:-1,PT : Nat. Geographic Channel
+http://top-iptv.zapto.org:8000/live/Aria/Aria/670.m3u8
+#EXTINF:-1,PT : AXN_WHITE_HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/652.m3u8
+#EXTINF:-1,PT : Motorvision
+http://top-iptv.zapto.org:8000/live/Aria/Aria/665.m3u8
+#EXTINF:-1,PT : FOX
+http://top-iptv.zapto.org:8000/live/Aria/Aria/675.m3u8
+#EXTINF:-1,PT : Disney Junior
+http://top-iptv.zapto.org:8000/live/Aria/Aria/672.m3u8
+#EXTINF:-1,PT : Disney Channel
+http://top-iptv.zapto.org:8000/live/Aria/Aria/671.m3u8
+#EXTINF:-1,PT : Discovery Channel
+http://top-iptv.zapto.org:8000/live/Aria/Aria/668.m3u8
+#EXTINF:-1,PT : Cinemundo
+http://top-iptv.zapto.org:8000/live/Aria/Aria/674.m3u8
+#EXTINF:-1,PT : Cartoon Network Portugal
+http://top-iptv.zapto.org:8000/live/Aria/Aria/673.m3u8
+#EXTINF:-1,PT : Canal de Historia
+http://top-iptv.zapto.org:8000/live/Aria/Aria/667.m3u8
+#EXTINF:-1,PT : Benfica Tv 2
+http://top-iptv.zapto.org:8000/live/Aria/Aria/659.m3u8
+#EXTINF:-1,PT :  SyFy
+http://top-iptv.zapto.org:8000/live/Aria/Aria/658.m3u8
+#EXTINF:-1,PT : AXN
+http://top-iptv.zapto.org:8000/live/Aria/Aria/677.m3u8
 
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]FILMES - DOBRADOS (ESP) [COLOR red]||[/COLOR][/B][/COLOR]
 http://
