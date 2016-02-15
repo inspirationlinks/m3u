@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 13-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 15-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -19,6 +19,15 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+
+#EXTINF:-1,PT:SPORT_TV4
+http://iptv-supplier.com:8000/live/wahab/wahab/1868.m3u8
+#EXTINF:-1,PT:SPORTING_TV
+http://iptv-supplier.com:8000/live/wahab/wahab/1870.m3u8
+#EXTINF:-1,PT:SPORT_TV1
+http://iptv-supplier.com:8000/live/wahab/wahab/1865.m3u8
+#EXTINF:-1,PT:SPORT_TV3
+http://iptv-supplier.com:8000/live/wahab/wahab/1867.m3u8
 
 #EXTINF:-1,PT:SPORT_TV4
 http://iptv-supplier.com:8000/live/kkk/kkk/1868.m3u8
@@ -118,6 +127,14 @@ http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] canais PT envie EMAIL[COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
+#EXTINF:-1,PT:PORTO_CANAL
+http://iptv-supplier.com:8000/live/wahab/wahab/1864.m3u8
+#EXTINF:-1,PT:TVCINE1
+http://iptv-supplier.com:8000/live/wahab/wahab/1871.m3u8
+#EXTINF:-1,PT:TVC4
+http://iptv-supplier.com:8000/live/wahab/wahab/1873.m3u8
+#EXTINF:-1,PT:TVC2
+http://iptv-supplier.com:8000/live/wahab/wahab/1872.m3u8
 #EXTINF:-1,PT:PORTO_CANAL
 http://iptv-supplier.com:8000/live/kkk/kkk/1864.m3u8
 #EXTINF:-1,PT:TVCINE1
@@ -440,6 +457,12 @@ http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 http://google.pt
 ####################################################################################################################################
 
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]FR - BEIN SPORTS 3[/COLOR] HD
+http://xteramcss.pointto.us:8060/live/karimos-sat/cyaWOcWhPF/174.m3u8
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]FR - BEIN SPORTS 2[/COLOR] HD
+http://xteramcss.pointto.us:8060/live/karimos-sat/cyaWOcWhPF/173.m3u8
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]FR - BEIN SPORTS 1[/COLOR] HD
+http://xteramcss.pointto.us:8060/live/karimos-sat/cyaWOcWhPF/172.m3u8
 #EXTINF:-1,beIN Sports 1 HD
 http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
 #EXTINF:-1,beIN Sports 2 HD
@@ -564,10 +587,12 @@ http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
 http://213.81.153.241/live001/channel028_p3.stream/DVR.m3u8
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR green]dolcesport1[/COLOR]
+#EXTINF:0,DOLCE SPORT 1 
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
-#EXTINF:-1,[COLOR green]dolcesport2[/COLOR]
+#EXTINF:0,DOLCE SPORT 2 
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:0,DOLCE SPORT 3 
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Viasat Sport[/COLOR] HQ
 http://vs7.cdn.ott.otautv.kz/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8
