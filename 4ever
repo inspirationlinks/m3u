@@ -20,33 +20,6 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
-#EXTINF:-1,Benfica HD
-http://178.33.231.219:88/live/me/me/86.ts
-#EXTINF:-1,Sport TV 1
-http://178.33.231.219:88/live/me/me/64.ts
-#EXTINF:-1,Sport TV 2
-http://178.33.231.219:88/live/me/me/65.ts
-#EXTINF:-1,Sport TV 3
-http://178.33.231.219:88/live/me/me/66.ts
-#EXTINF:-1,Sport TV 4
-http://178.33.231.219:88/live/me/me/67.ts
-#EXTINF:-1,PT:SPORT_TV4
-http://iptv-supplier.com:8000/live/wahab/wahab/1868.m3u8
-#EXTINF:-1,PT:SPORTING_TV
-http://iptv-supplier.com:8000/live/wahab/wahab/1870.m3u8
-#EXTINF:-1,PT:SPORT_TV1
-http://iptv-supplier.com:8000/live/wahab/wahab/1865.m3u8
-#EXTINF:-1,PT:SPORT_TV3
-http://iptv-supplier.com:8000/live/wahab/wahab/1867.m3u8
-
-#EXTINF:-1,PT:SPORT_TV4
-http://iptv-supplier.com:8000/live/kkk/kkk/1868.m3u8
-#EXTINF:-1,PT:SPORTING_TV
-http://iptv-supplier.com:8000/live/kkk/kkk/1870.m3u8
-#EXTINF:-1,PT:SPORT_TV1
-http://iptv-supplier.com:8000/live/kkk/kkk/1865.m3u8
-#EXTINF:-1,PT:SPORT_TV3
-http://iptv-supplier.com:8000/live/kkk/kkk/1867.m3u8
 #EXTINF:-1,PT : BENFICA TV 1
 http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
 #EXTINF:-1,PT : Sport TV 5
@@ -90,13 +63,6 @@ http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS (da jogos equipas PT)
 plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
-
-#EXTINF:-1,SportKlub 1
-http://169.45.89.106:1935/app/skhd1lsh/playlist.m3u8
-#EXTINF:-1,SportKlub 2
-http://169.45.89.106:1935/app/skhd2lsh/playlist.m3u8
-#EXTINF:-1,SportKlub 3 (da jogos equipas PT)
-http://169.45.89.106:1935/app/skhd3lsh/playlist.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
@@ -232,55 +198,9 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/658.m3u8
 #EXTINF:-1,PT : AXN
 http://top-iptv.zapto.org:8000/live/Aria/Aria/677.m3u8
 
-#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]FILMES - DOBRADOS (ESP) [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]FILMES - BREVEMENTE SOON [COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
-#EXTINF:-1,El Protector
-http://62.210.107.58:8000/movie/alex/alex/62.mkv
-#EXTINF:-1,Caminando entre Tumbas
-http://62.210.107.58:8000/movie/alex/alex/61.mkv
-#EXTINF:-1,Oz un Mundo de Fantasia
-http://62.210.107.58:8000/movie/alex/alex/58.mkv
-#EXTINF:-1,Rapido y Furioso 7
-http://62.210.107.58:8000/movie/alex/alex/56.mkv
-#EXTINF:-1,La Falla de San Andres
-http://62.210.107.58:8000/movie/alex/alex/57.mkv
-#EXTINF:-1,Toy Story
-http://62.210.107.58:8000/movie/alex/alex/50.mkv
-#EXTINF:-1,Star Wars 4
-http://62.210.107.58:8000/movie/alex/alex/54.mkv
-#EXTINF:-1,Star Wars 3
-http://62.210.107.58:8000/movie/alex/alex/53.mkv
-#EXTINF:-1,Star Wars 2
-http://62.210.107.58:8000/movie/alex/alex/52.mkv
-#EXTINF:-1,Star Wars
-http://62.210.107.58:8000/movie/alex/alex/51.mkv
-#EXTINF:-1,Satr Wars 5
-http://62.210.107.58:8000/movie/alex/alex/55.mkv
-#EXTINF:-1,Niña Mala
-http://62.210.107.58:8000/movie/alex/alex/41.mkv
-#EXTINF:-1,Mensajero de la Oscuridad
-http://62.210.107.58:8000/movie/alex/alex/39.mkv
-#EXTINF:-1,Kunfu Panda 1
-http://62.210.107.58:8000/movie/alex/alex/46.mkv
-#EXTINF:-1,Impacto Mortal
-http://62.210.107.58:8000/movie/alex/alex/49.mkv
-#EXTINF:-1,Horas de Oscuridad
-http://62.210.107.58:8000/movie/alex/alex/42.mkv
-#EXTINF:-1,Hombres de Honor
-http://62.210.107.58:8000/movie/alex/alex/45.mkv
-#EXTINF:-1,Fiesta de Bodas
-http://62.210.107.58:8000/movie/alex/alex/43.mkv
-#EXTINF:-1,Exorcismo en el Baticano
-http://62.210.107.58:8000/movie/alex/alex/47.mkv
-#EXTINF:-1,Espia por Accidente
-http://62.210.107.58:8000/movie/alex/alex/44.mkv
-#EXTINF:-1,El Señor de la Guerra
-http://62.210.107.58:8000/movie/alex/alex/48.mkv
-#EXTINF:-1,El Matador
-http://62.210.107.58:8000/movie/alex/alex/40.mkv
-#EXTINF:-1,ALADINO 1
-http://62.210.107.58:8000/movie/alex/alex/38.mkv
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
