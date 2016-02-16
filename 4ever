@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 15-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 16-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -20,6 +20,16 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
+#EXTINF:-1,Benfica HD
+http://178.33.231.219:88/live/me/me/86.ts
+#EXTINF:-1,Sport TV 1
+http://178.33.231.219:88/live/me/me/64.ts
+#EXTINF:-1,Sport TV 2
+http://178.33.231.219:88/live/me/me/65.ts
+#EXTINF:-1,Sport TV 3
+http://178.33.231.219:88/live/me/me/66.ts
+#EXTINF:-1,Sport TV 4
+http://178.33.231.219:88/live/me/me/67.ts
 #EXTINF:-1,PT:SPORT_TV4
 http://iptv-supplier.com:8000/live/wahab/wahab/1868.m3u8
 #EXTINF:-1,PT:SPORTING_TV
@@ -126,6 +136,40 @@ http://
 http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] canais PT envie EMAIL[COLOR red]||[/COLOR][/B][/COLOR]
 http://
+
+
+#EXTINF:-1,PT: ABOLA TV
+http://iptv.euroremix.com:8000/live/franca2/franca2/1450.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1424.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1423.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1422.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1421.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1380.ts
+#EXTINF:-1,PT: Sporting TV
+http://iptv.euroremix.com:8000/live/franca2/franca2/1420.ts
+#EXTINF:-1,PT: Porto Canal
+http://iptv.euroremix.com:8000/live/franca2/franca2/1598.ts
+#EXTINF:-1,PT: Benfica TV 1 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1453.ts
+#EXTINF:-1,PT: Benfica TV 2 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1452.ts
+#EXTINF:-1,PT: TVCine 1 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1379.ts
+#EXTINF:-1,PT: TVCine 2 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1585.ts
+#EXTINF:-1,PT: TVCine 3 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1584.ts
+#EXTINF:-1,PT: TVCine 4 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1583.ts
+#EXTINF:-1,PT: TV Series
+http://iptv.euroremix.com:8000/live/franca2/franca2/1586.ts
+#EXTINF:-1,PT: TVI
+http://iptv.euroremix.com:8000/live/franca2/franca2/1409.ts
 
 #EXTINF:-1,PT:PORTO_CANAL
 http://iptv-supplier.com:8000/live/wahab/wahab/1864.m3u8
@@ -374,6 +418,10 @@ http://151.80.97.112:8000/sarah/sarah/1162.ch
 http://151.80.97.112:8000/live/sarah/sarah/1165.ts
 #EXTINF:-1,[COLOR green]SIC_K[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR]envie um email[/COLOR]
 http://151.80.97.112:8000/sarah/sarah/1164.ch
+
+
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Cartoon Network[/COLOR] UK
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",[COLOR green] TELE ARAQUA [/COLOR](esp)
 http://stream.telearagua.com/telearagua/telearagua_240p/inspirationlinks.m3u8
