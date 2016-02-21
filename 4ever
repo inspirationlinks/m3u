@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 17-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 21-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -11,14 +11,34 @@ http://jerrymoz.wordpress.com
 #EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]*****[/COLOR] TRANSMITE JOGOS EQUIPAS PT & LIGAS EUROPEIAS [COLOR red]*****[/COLOR] [/B][/COLOR]
 http://jerrymoz.wordpress.com
 ############################################################################################################################################################
-#EXTINF:-1,[COLOR green] [COLOR white][B]Informaçoes de Transmissao Jogos[COLOR red] http://liveonsat.com/ [/COLOR][/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
+#EXTINF:-1,[COLOR green] [COLOR white][B]CANAIS TRANSMITEM JOGOS [COLOR red]LIGA NOS[/COLOR][/COLOR][/B][/COLOR]
+http://liveonsat.com/ 
+#EXTINF:-1,[COLOR green] [COLOR white][B]SITE:[COLOR red] http://liveonsat.com/ [/COLOR][/COLOR][/B][/COLOR]
+http://liveonsat.com/ 
+############################################################################################################################################################
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV AMERICAS[/COLOR] OFF
+#EXTINF:-1 group-title="DESPORTO",[COLOR gold]SPORTV AMERICAS[/COLOR] OFF
 http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SK1[/COLOR] SD low (rtmp)
+rtmp://62.210.89.38:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDE2IDY6MTU6NTQgUE0maGFzaF92YWx1ZT11bkU5ZDhmM.nlZakZCT01odU9MK1N3PT0mdmFsaWRtaW51dGVzPTMwMA==/ playpath=budalo swfUrl=http://streamcasttv.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://streamcasttv.biz/embed.php?file=budalo&width=610&height=470
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS (da jogos equipas PT)
+plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] (jogos do benfica em casa)
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] |rtmp| (jogos do benfica em casa)
+rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://direct-stream.biz/embedPlayer_.php?c=hnbrr54uu87&vw=468&vh=400
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]SILK 3[/COLOR] (GEO)
+http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] OFF/ON
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]ESPN |br|[/COLOR] (Sporting vs Boavista)
+http://31.204.128.127:8081/live/espnbr/playlist.m3u8
 
 #EXTINF:-1,PT : BENFICA TV 1
 http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
@@ -33,14 +53,24 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
 #EXTINF:-1,PT : Sport Tv 1  FULL HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] (rtmp)
+#EXTINF:-1,Benfica 2
+http://178.33.231.219:88/kh1/kh1/87.ch
+#EXTINF:-1,Benfica HD
+http://178.33.231.219:88/kh1/kh1/86.ch
+#EXTINF:-1,Sport TV 1
+http://178.33.231.219:88/kh1/kh1/64.ch
+#EXTINF:-1,Sport TV 2
+http://178.33.231.219:88/kh1/kh1/65.ch
+#EXTINF:-1,Sport TV 3
+http://178.33.231.219:88/kh1/kh1/66.ch
+#EXTINF:-1,Sport TV 4
+http://178.33.231.219:88/kh1/kh1/67.ch
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] (rtmp)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] OFF/ON  (rtmp)
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] OFF/ON
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] ON (rtmp)
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
@@ -61,16 +91,32 @@ http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR green]BTV 2[/COLOR] 
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS (da jogos equipas PT)
-plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]UFC[/COLOR] (rtmp) CHI
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]TSN 1[/COLOR] SD low (rtmp)
+rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Ten Sports[/COLOR] SD low
+http://5.254.101.203:1935/tensports/tensports/index_2528_av-b.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (jogos do benfica em casa)
-http://31.204.128.112:8081/live/sportv/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (rtmp) (jogos do benfica em casa)
-rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://direct-stream.biz/embedPlayer_.php?c=hnbrr54uu87&vw=468&vh=400
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SUPER SPORT 1[/COLOR]
+rtmp://46.183.120.158/ott/ss1
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SUPER SPORT 2[/COLOR]
+rtmp://46.183.120.158/ott/ss2
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SUPER SPORT 3[/COLOR]
+rtmp://46.183.120.158/ott/ss3
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SUPER SPORT 4[/COLOR]
+rtmp://46.183.120.158/ott/ss4
 
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]SILK 3[/COLOR] (GEO)
-http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 1[/COLOR]
+http://188.247.133.26:8888/ipvt_010
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 2[/COLOR]
+http://188.247.133.26:8888/ipvt_011
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 3[/COLOR]
+http://188.247.133.18:8888/ipvt_005
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 4[/COLOR]
+http://188.247.133.18:8888/ipvt_006
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 5[/COLOR]
+http://188.247.133.18:8888/ipvt_007
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||||||||||[/COLOR] CANAIS TESTES [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -103,56 +149,6 @@ http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] canais PT envie EMAIL[COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
-
-#EXTINF:-1,PT: ABOLA TV
-http://iptv.euroremix.com:8000/live/franca2/franca2/1450.ts
-#EXTINF:-1,PT: Sport TV 1 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1424.ts
-#EXTINF:-1,PT: Sport TV 2 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1423.ts
-#EXTINF:-1,PT: Sport TV 3 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1422.ts
-#EXTINF:-1,PT: Sport TV 4 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1421.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1380.ts
-#EXTINF:-1,PT: Sporting TV
-http://iptv.euroremix.com:8000/live/franca2/franca2/1420.ts
-#EXTINF:-1,PT: Porto Canal
-http://iptv.euroremix.com:8000/live/franca2/franca2/1598.ts
-#EXTINF:-1,PT: Benfica TV 1 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1453.ts
-#EXTINF:-1,PT: Benfica TV 2 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1452.ts
-#EXTINF:-1,PT: TVCine 1 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1379.ts
-#EXTINF:-1,PT: TVCine 2 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1585.ts
-#EXTINF:-1,PT: TVCine 3 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1584.ts
-#EXTINF:-1,PT: TVCine 4 HD
-http://iptv.euroremix.com:8000/live/franca2/franca2/1583.ts
-#EXTINF:-1,PT: TV Series
-http://iptv.euroremix.com:8000/live/franca2/franca2/1586.ts
-#EXTINF:-1,PT: TVI
-http://iptv.euroremix.com:8000/live/franca2/franca2/1409.ts
-
-#EXTINF:-1,PT:PORTO_CANAL
-http://iptv-supplier.com:8000/live/wahab/wahab/1864.m3u8
-#EXTINF:-1,PT:TVCINE1
-http://iptv-supplier.com:8000/live/wahab/wahab/1871.m3u8
-#EXTINF:-1,PT:TVC4
-http://iptv-supplier.com:8000/live/wahab/wahab/1873.m3u8
-#EXTINF:-1,PT:TVC2
-http://iptv-supplier.com:8000/live/wahab/wahab/1872.m3u8
-#EXTINF:-1,PT:PORTO_CANAL
-http://iptv-supplier.com:8000/live/kkk/kkk/1864.m3u8
-#EXTINF:-1,PT:TVCINE1
-http://iptv-supplier.com:8000/live/kkk/kkk/1871.m3u8
-#EXTINF:-1,PT:TVC4
-http://iptv-supplier.com:8000/live/kkk/kkk/1873.m3u8
-#EXTINF:-1,PT:TVC2
-http://iptv-supplier.com:8000/live/kkk/kkk/1872.m3u8
 #EXTINF:-1,PT : TV Series
 http://top-iptv.zapto.org:8000/live/Aria/Aria/676.m3u8
 #EXTINF:-1,PT : SIC Radical
@@ -198,72 +194,181 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/658.m3u8
 #EXTINF:-1,PT : AXN
 http://top-iptv.zapto.org:8000/live/Aria/Aria/677.m3u8
 
-#EXTINF:-1,[COLOR white][B][COLOR red]|| [/COLOR]FILMES [COLOR red][[/COLOR]TERROR[COLOR red]][/COLOR] [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]|| [/COLOR]FILMES [COLOR red][[/COLOR]2015/16[COLOR red]][/COLOR] [COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
-#EXTINF:-1,SAW 1
-http://198.50.210.224/NewRelease/saw1.mp4
-#EXTINF:-1,SAW 2
-http://198.50.210.224/NewRelease/saw2.mp4
-#EXTINF:-1,SAW 3
-http://198.50.210.224/NewRelease/saw3.mp4
-#EXTINF:-1,SAW 4
-http://198.50.210.224/NewRelease/saw4.mp4
-#EXTINF:-1,SAW 5
-http://198.50.210.224/NewRelease/saw5.mp4
-#EXTINF:-1,SAW 6
-http://198.50.210.224/NewRelease/saw6.mp4
-#EXTINF:-1,SAW 7
-http://198.50.210.224/NewRelease/saw7.mp4
-#EXTINF:-1,TEXAS CHAINSAW MASSACRE
-http://198.50.210.224/NewRelease/chainsaw2013.mp4
-#EXTINF:-1,THE CONJURING
-http://198.50.210.224/NewRelease/conjuring.mp4
-#EXTINF:-1,THE EXORCIST
-http://198.50.210.224/NewRelease/exorcist1.mp4
-#EXTINF:-1,THE PURGE
-http://198.50.210.224/NewRelease/purge.mp4
-#EXTINF:-1,THE QUITE ONE
-http://198.50.210.224/NewRelease/quiteone.mp4
-#EXTINF:-1,THE SHINING
-http://198.50.210.224/NewRelease/shining.mp4
-#EXTINF:-1,TROLL 2
-http://198.50.210.224/NewRelease/.mp4
-#EXTINF:-1,WRONG TURN 1
-http://198.50.210.224/NewRelease/wrongturn1.mp4
-#EXTINF:-1,WRONG TURN 2
-http://198.50.210.224/NewRelease/wrongturn2.mp4
-#EXTINF:-1,WRONG TURN 3
-http://198.50.210.224/NewRelease/wrongturn3.mp4
-#EXTINF:-1,WRONG TURN 4
-http://198.50.210.224/NewRelease/wrongturn4.mp4
-#EXTINF:-1,WRONG TURN 5
-http://198.50.210.224/NewRelease/wrongturn5.mp4
-#EXTINF:-1,CARRIE (1976)
-http://198.50.210.224/NewRelease/carrie1976.mp4
-#EXTINF:-1,CARRIE (2013)
-http://198.50.210.224/NewRelease/carrie2013.mp4
-#EXTINF:-1,AFFLICTED
-http://198.50.210.224/NewRelease/afflicted2013.mp4
-#EXTINF:-1,28 DAYS LATER
-http://198.50.210.224/NewRelease/28days.mp4
-#EXTINF:-1,12 YEARS A SLAVE
-http://198.50.210.224/NewRelease/12slave.mp4
-#EXTINF:-1,elmstreet1.mp4
-http://198.50.210.224/NewRelease/elm1.mp4
-#EXTINF:-1,elmstreet2.mp4
-http://198.50.210.224/NewRelease/elm2.mp4
-#EXTINF:-1,elmstreet3.mp4
-http://198.50.210.224/NewRelease/elm3.mp4
-#EXTINF:-1,elmstreet4.mp4
-http://198.50.210.224/NewRelease/elm4.mp4
-#EXTINF:-1,elmstreet5.mp4
-http://198.50.210.224/NewRelease/elm5.mp4
-#EXTINF:-1,elmstreet6.mp4
-http://198.50.210.224/NewRelease/elm6.mp4
-#EXTINF:-1,elmstreet7.mp4
-http://198.50.210.224/NewRelease/elm7.mp4
-
+#EXTINF:-1,Zero.Tolerance.2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/106.mkv
+#EXTINF:-1,The.Revenant
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/104.mkv
+#EXTINF:-1,The Sand 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/105.mkv
+#EXTINF:-1,The Hateful Eight
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/103.mkv
+#EXTINF:-1,He.Never.Died.2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/102.mkv
+#EXTINF:-1,Don.Verdean
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/101.mkv
+#EXTINF:-1,Containment.2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/100.mkv
+#EXTINF:-1,Concussion.2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/99.mkv
+#EXTINF:-1,Another World
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/98.mkv
+#EXTINF:-1,a.very.murray.christmas.2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/107.mkv
+#EXTINF:-1,Transcendence
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/96.mkv
+#EXTINF:-1,The.Maze.Runner
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/95.mkv
+#EXTINF:-1,The.Judge
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/94.mkv
+#EXTINF:-1,The.Interview.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/93.mkv
+#EXTINF:-1,The.Imitation.Game.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/92.mkv
+#EXTINF:-1,The.Hobbit.2014.Battle.Of.The.Five.Armies.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/91.mkv
+#EXTINF:-1,The.Guest.
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/90.mkv
+#EXTINF:-1,The.Equalizer.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/89.mkv
+#EXTINF:-1,The.Drop
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/88.mkv
+#EXTINF:-1,Teenage.Mutant.Ninja.Turtles
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/87.mkv
+#EXTINF:-1,Taken.3
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/86.mkv
+#EXTINF:-1,St.Vincent
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/85.mkv
+#EXTINF:-1,Redirected.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/84.mkv
+#EXTINF:-1,Predestination.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/83.mkv
+#EXTINF:-1,Million.Dollar.Arm
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/82.mkv
+#EXTINF:-1,Lets.Be.Cops
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/81.mkv
+#EXTINF:-1,John.Wick
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/80.mkv
+#EXTINF:-1,Hercules.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/79.mkv
+#EXTINF:-1,Guardians.of.the.Galaxy.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/78.mkv
+#EXTINF:-1,Fury.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/77.mkv
+#EXTINF:-1,Foxcatcher.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/76.mkv
+#EXTINF:-1,Dracula.Untold
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/75.mkv
+#EXTINF:-1,Deliver.us.From.Evil
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/74.mkv
+#EXTINF:-1,Dawn.of.the.Planet.of.the.Apes.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/73.mkv
+#EXTINF:-1,Captain.America.The.Winter.Soldier
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/72.mkv
+#EXTINF:-1,Big.Hero.6
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/71.mkv
+#EXTINF:-1,Before.I.Go.To.Sleep.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/70.mkv
+#EXTINF:-1,American.Sniper.2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/69.mkv
+#EXTINF:-1,Top Five
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/68.mkv
+#EXTINF:-1,The Water Diviner
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/59.mkv
+#EXTINF:-1,The Loft
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/58.mkv
+#EXTINF:-1,The Forger 2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/67.mkv
+#EXTINF:-1,Seventh Son 2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/66.mkv
+#EXTINF:-1,Phoenix
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/65.mkv
+#EXTINF:-1,Maggie 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/57.mkv
+#EXTINF:-1,Last Knights
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/56.mkv
+#EXTINF:-1,Kill The Messenger
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/64.mkv
+#EXTINF:-1,Jupiter Ascending
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/63.mkv
+#EXTINF:-1,In The Heart Of The Sea
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/55.mkv
+#EXTINF:-1,Get Hard 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/54.mkv
+#EXTINF:-1,Chappie 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/62.mkv
+#EXTINF:-1,Big Game
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/53.mkv
+#EXTINF:-1,Big Eyes
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/52.mkv
+#EXTINF:-1,Backcountry 2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/61.mkv
+#EXTINF:-1,Avengers:Age Of Ultron
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/51.mkv
+#EXTINF:-1,A Most Violent Year 2014
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/60.mkv
+#EXTINF:-1,The Squad
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/49.mkv
+#EXTINF:-1,The Last Witch Hunter
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/48.mkv
+#EXTINF:-1,Spy Time
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/47.mkv
+#EXTINF:-1,Secret In Their Eyes
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/46.mkv
+#EXTINF:-1,Moonwalkers 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/45.mkv
+#EXTINF:-1,Mercury Plains 2016.
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/44.mkv
+#EXTINF:-1,Landmine Goes Click 2015.
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/43.mkv
+#EXTINF:-1,Hotel Transylvania.2
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/42.mkv
+#EXTINF:-1,Diablo
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/41.mkv
+#EXTINF:-1,Chain of Command 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/40.mkv
+#EXTINF:-1,Survivor 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/39.mkv
+#EXTINF:-1,Slow West 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/38.mkv
+#EXTINF:-1,Run All Night 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/37.mkv
+#EXTINF:-1,Mad Max 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/36.mkv
+#EXTINF:-1,Kingsman The Secret Service.
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/35.mkv
+#EXTINF:-1,Jurassic Worl
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/34.mkv
+#EXTINF:-1,Insurgent 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/33.mkv
+#EXTINF:-1,Hitman Agent 47
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/32.mkv
+#EXTINF:-1,Focus 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/30.mkv
+#EXTINF:-1,San Andreas 2015
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/29.mkv
+#EXTINF:-1,Spužva Bob na suhom
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/28.mkv
+#EXTINF:-1,Mune
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/27.mkv
+#EXTINF:-1,Close Range
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/26.mkv
+#EXTINF:-1,400 Days
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/25.mkv
+#EXTINF:-1,The Last Witch Hunter.
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/22.mkv
+#EXTINF:-1,Steve Jobs
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/21.mkv
+#EXTINF:-1,Spectre
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/20.mkv
+#EXTINF:-1,Iron Man 2
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/19.mkv
+#EXTINF:-1,Fast and Furious 7
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/18.mkv
+#EXTINF:-1,Bridge Of Spies
+http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/17.mkv
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
