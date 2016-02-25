@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 21-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 25-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -25,6 +25,8 @@ rtmp://62.210.89.38:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDE2IDY6
 #EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS (da jogos equipas PT)
 plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
 
+#EXTINF:-1,ESPN (br)
+http://213.163.65.116:8081/live/espnbr/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] |rtmp| (jogos do benfica em casa)
@@ -37,7 +39,7 @@ http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]ESPN |br|[/COLOR] (Sporting vs Boavista)
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]ESPN |br|[/COLOR] 
 http://31.204.128.127:8081/live/espnbr/playlist.m3u8
 
 #EXTINF:-1,PT : BENFICA TV 1
@@ -53,31 +55,6 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
 #EXTINF:-1,PT : Sport Tv 1  FULL HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON (rtmp)
-rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] OFF/ON  (rtmp)
-rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] ON (rtmp)
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 3 & BTV2[/COLOR] (rtmp)
-rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting_tv_pt.png" group-title="DESPORTO",[COLOR green]SPORTING[/COLOR] (rtmp) SD Low
-rtmp://178.162.193.26/live playpath=sportcanal1906?id=21019&pk=9e51073eb331d4a9d350720b512bd4e19a13a5359ec6a42a3977013ab008e801 conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/sportcanal1906/1/555/430/ live=true timeout=17
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="Sport TV 2 HD.png" group-title="DESPORTO",[COLOR green]SPORTV 2[/COLOR] 
-http://91.204.214.106:23201/stolen/247h/xenixos.7z
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3 HD.png" group-title="DESPORTO",[COLOR green]SPORTV 3[/COLOR] 
-http://91.204.214.106:23201/stolen/240o/xenixos.7z
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="Sport TV 5 HD.png" group-title="DESPORTO",[COLOR green]SPORTV 5[/COLOR] 
-http://91.204.214.106:23201/stolen/251z/xenixos.7z
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",[COLOR green]BTV 1[/COLOR]
-http://91.204.214.106:23201/stolen/250l/xenixos.7z
-#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",[COLOR green]BTV 2[/COLOR] 
-http://91.204.214.106:23201/stolen/233w/xenixos.7z
-
 #EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]UFC[/COLOR] (rtmp) CHI
 rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
 #EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]TSN 1[/COLOR] SD low (rtmp)
@@ -85,24 +62,15 @@ rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplay
 #EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Ten Sports[/COLOR] SD low
 http://5.254.101.203:1935/tensports/tensports/index_2528_av-b.m3u8
 
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SUPER SPORT 1[/COLOR]
-rtmp://46.183.120.158/ott/ss1
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SUPER SPORT 2[/COLOR]
-rtmp://46.183.120.158/ott/ss2
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SUPER SPORT 3[/COLOR]
-rtmp://46.183.120.158/ott/ss3
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SUPER SPORT 4[/COLOR]
-rtmp://46.183.120.158/ott/ss4
-
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 1[/COLOR]
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 1[/COLOR]
 http://188.247.133.26:8888/ipvt_010
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 2[/COLOR]
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 2[/COLOR]
 http://188.247.133.26:8888/ipvt_011
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 3[/COLOR]
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 3[/COLOR]
 http://188.247.133.18:8888/ipvt_005
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 4[/COLOR]
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 4[/COLOR]
 http://188.247.133.18:8888/ipvt_006
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Arena Sport 5[/COLOR]
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 5[/COLOR]
 http://188.247.133.18:8888/ipvt_007
 
 ####################################################################################################################################
@@ -136,10 +104,6 @@ http://
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] canais PT envie EMAIL[COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
-#EXTINF:-1,PT : TV Series
-http://top-iptv.zapto.org:8000/live/Aria/Aria/676.m3u8
-#EXTINF:-1,PT : SIC Radical
-http://top-iptv.zapto.org:8000/live/Aria/Aria/664.m3u8
 #EXTINF:-1,PT : SIC Noticias
 http://top-iptv.zapto.org:8000/live/Aria/Aria/663.m3u8
 #EXTINF:-1,PT : Sic Caras
@@ -150,212 +114,23 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/651.m3u8
 http://top-iptv.zapto.org:8000/live/Aria/Aria/650.m3u8
 #EXTINF:-1,PT : RTP1
 http://top-iptv.zapto.org:8000/live/Aria/Aria/649.m3u8
-#EXTINF:-1,PT : PFC
+#EXTINF:-1,PT : RTP1
 http://top-iptv.zapto.org:8000/live/Aria/Aria/661.m3u8
-#EXTINF:-1,PT : Odisseia Portugal
-http://top-iptv.zapto.org:8000/live/Aria/Aria/669.m3u8
 #EXTINF:-1,PT : Nat. Geographic Channel
 http://top-iptv.zapto.org:8000/live/Aria/Aria/670.m3u8
-#EXTINF:-1,PT : AXN_WHITE_HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/652.m3u8
 #EXTINF:-1,PT : Motorvision
 http://top-iptv.zapto.org:8000/live/Aria/Aria/665.m3u8
-#EXTINF:-1,PT : FOX
-http://top-iptv.zapto.org:8000/live/Aria/Aria/675.m3u8
-#EXTINF:-1,PT : Disney Junior
-http://top-iptv.zapto.org:8000/live/Aria/Aria/672.m3u8
-#EXTINF:-1,PT : Disney Channel
-http://top-iptv.zapto.org:8000/live/Aria/Aria/671.m3u8
 #EXTINF:-1,PT : Discovery Channel
 http://top-iptv.zapto.org:8000/live/Aria/Aria/668.m3u8
 #EXTINF:-1,PT : Cinemundo
 http://top-iptv.zapto.org:8000/live/Aria/Aria/674.m3u8
-#EXTINF:-1,PT : Cartoon Network Portugal
-http://top-iptv.zapto.org:8000/live/Aria/Aria/673.m3u8
 #EXTINF:-1,PT : Canal de Historia
 http://top-iptv.zapto.org:8000/live/Aria/Aria/667.m3u8
-#EXTINF:-1,PT : Benfica Tv 2
-http://top-iptv.zapto.org:8000/live/Aria/Aria/659.m3u8
 #EXTINF:-1,PT :  SyFy
 http://top-iptv.zapto.org:8000/live/Aria/Aria/658.m3u8
-#EXTINF:-1,PT : AXN
-http://top-iptv.zapto.org:8000/live/Aria/Aria/677.m3u8
 
-#EXTINF:-1,[COLOR white][B][COLOR red]|| [/COLOR]FILMES [COLOR red][[/COLOR]2015/16[COLOR red]][/COLOR] [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]|| [/COLOR]FILMES [COLOR red][[/COLOR]BREVEMENTE[COLOR red]][/COLOR] [COLOR red]||[/COLOR][/B][/COLOR]
 http://
-
-#EXTINF:-1,Zero.Tolerance.2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/106.mkv
-#EXTINF:-1,The.Revenant
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/104.mkv
-#EXTINF:-1,The Sand 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/105.mkv
-#EXTINF:-1,The Hateful Eight
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/103.mkv
-#EXTINF:-1,He.Never.Died.2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/102.mkv
-#EXTINF:-1,Don.Verdean
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/101.mkv
-#EXTINF:-1,Containment.2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/100.mkv
-#EXTINF:-1,Concussion.2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/99.mkv
-#EXTINF:-1,Another World
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/98.mkv
-#EXTINF:-1,a.very.murray.christmas.2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/107.mkv
-#EXTINF:-1,Transcendence
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/96.mkv
-#EXTINF:-1,The.Maze.Runner
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/95.mkv
-#EXTINF:-1,The.Judge
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/94.mkv
-#EXTINF:-1,The.Interview.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/93.mkv
-#EXTINF:-1,The.Imitation.Game.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/92.mkv
-#EXTINF:-1,The.Hobbit.2014.Battle.Of.The.Five.Armies.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/91.mkv
-#EXTINF:-1,The.Guest.
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/90.mkv
-#EXTINF:-1,The.Equalizer.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/89.mkv
-#EXTINF:-1,The.Drop
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/88.mkv
-#EXTINF:-1,Teenage.Mutant.Ninja.Turtles
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/87.mkv
-#EXTINF:-1,Taken.3
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/86.mkv
-#EXTINF:-1,St.Vincent
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/85.mkv
-#EXTINF:-1,Redirected.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/84.mkv
-#EXTINF:-1,Predestination.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/83.mkv
-#EXTINF:-1,Million.Dollar.Arm
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/82.mkv
-#EXTINF:-1,Lets.Be.Cops
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/81.mkv
-#EXTINF:-1,John.Wick
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/80.mkv
-#EXTINF:-1,Hercules.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/79.mkv
-#EXTINF:-1,Guardians.of.the.Galaxy.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/78.mkv
-#EXTINF:-1,Fury.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/77.mkv
-#EXTINF:-1,Foxcatcher.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/76.mkv
-#EXTINF:-1,Dracula.Untold
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/75.mkv
-#EXTINF:-1,Deliver.us.From.Evil
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/74.mkv
-#EXTINF:-1,Dawn.of.the.Planet.of.the.Apes.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/73.mkv
-#EXTINF:-1,Captain.America.The.Winter.Soldier
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/72.mkv
-#EXTINF:-1,Big.Hero.6
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/71.mkv
-#EXTINF:-1,Before.I.Go.To.Sleep.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/70.mkv
-#EXTINF:-1,American.Sniper.2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/69.mkv
-#EXTINF:-1,Top Five
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/68.mkv
-#EXTINF:-1,The Water Diviner
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/59.mkv
-#EXTINF:-1,The Loft
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/58.mkv
-#EXTINF:-1,The Forger 2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/67.mkv
-#EXTINF:-1,Seventh Son 2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/66.mkv
-#EXTINF:-1,Phoenix
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/65.mkv
-#EXTINF:-1,Maggie 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/57.mkv
-#EXTINF:-1,Last Knights
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/56.mkv
-#EXTINF:-1,Kill The Messenger
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/64.mkv
-#EXTINF:-1,Jupiter Ascending
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/63.mkv
-#EXTINF:-1,In The Heart Of The Sea
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/55.mkv
-#EXTINF:-1,Get Hard 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/54.mkv
-#EXTINF:-1,Chappie 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/62.mkv
-#EXTINF:-1,Big Game
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/53.mkv
-#EXTINF:-1,Big Eyes
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/52.mkv
-#EXTINF:-1,Backcountry 2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/61.mkv
-#EXTINF:-1,Avengers:Age Of Ultron
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/51.mkv
-#EXTINF:-1,A Most Violent Year 2014
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/60.mkv
-#EXTINF:-1,The Squad
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/49.mkv
-#EXTINF:-1,The Last Witch Hunter
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/48.mkv
-#EXTINF:-1,Spy Time
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/47.mkv
-#EXTINF:-1,Secret In Their Eyes
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/46.mkv
-#EXTINF:-1,Moonwalkers 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/45.mkv
-#EXTINF:-1,Mercury Plains 2016.
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/44.mkv
-#EXTINF:-1,Landmine Goes Click 2015.
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/43.mkv
-#EXTINF:-1,Hotel Transylvania.2
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/42.mkv
-#EXTINF:-1,Diablo
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/41.mkv
-#EXTINF:-1,Chain of Command 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/40.mkv
-#EXTINF:-1,Survivor 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/39.mkv
-#EXTINF:-1,Slow West 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/38.mkv
-#EXTINF:-1,Run All Night 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/37.mkv
-#EXTINF:-1,Mad Max 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/36.mkv
-#EXTINF:-1,Kingsman The Secret Service.
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/35.mkv
-#EXTINF:-1,Jurassic Worl
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/34.mkv
-#EXTINF:-1,Insurgent 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/33.mkv
-#EXTINF:-1,Hitman Agent 47
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/32.mkv
-#EXTINF:-1,Focus 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/30.mkv
-#EXTINF:-1,San Andreas 2015
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/29.mkv
-#EXTINF:-1,Spužva Bob na suhom
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/28.mkv
-#EXTINF:-1,Mune
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/27.mkv
-#EXTINF:-1,Close Range
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/26.mkv
-#EXTINF:-1,400 Days
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/25.mkv
-#EXTINF:-1,The Last Witch Hunter.
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/22.mkv
-#EXTINF:-1,Steve Jobs
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/21.mkv
-#EXTINF:-1,Spectre
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/20.mkv
-#EXTINF:-1,Iron Man 2
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/19.mkv
-#EXTINF:-1,Fast and Furious 7
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/18.mkv
-#EXTINF:-1,Bridge Of Spies
-http://176.9.127.74:8000/movie/Rm8luFtjoa/JNB8Eg4eVF/17.mkv
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -528,16 +303,6 @@ http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 http://jerrymoz.wordpress.com 
 ####################################################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo=".png",[COLOR green]FOX[/COLOR] ESP (rtmp) 
-rtmp://31.220.40.41/privatestream/fox856?keys=2gTuLk5qZcyCFGnsV2aChw&keyt=1452271938 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="" tvg-logo=".png",[COLOR green]FOX LIFE[/COLOR] ESP (rtmp) 
-rtmp://31.220.40.41/privatestreamplus/lifefox5?keys=2gTuLk5qZcyCFGnsV2aChw&keyt=1452271938 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="" tvg-logo=".png",[COLOR green]AXN WHITE[/COLOR] ESP (rtmp) 
-rtmp://31.220.0.186/privatestream/ playpath=whiteaxn7?keys=-uzXGqXP_SwqAYubK2vS5w&keyt=1448251237 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=whiteaxn7&width=800&height=600
-#EXTINF:-1 tvg-id="" tvg-logo=".png",[COLOR green]HOLLYWOOD[/COLOR] ESP (rtmp) 
-rtmp://31.220.0.134/privatestream/ playpath=hollywood77?keys=yMJH3vHj5bPM54jeABBhvg&keyt;=1448254602 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-
-
 #EXTINF:-1,The Simpsons"
 http://iptvnation.com/simpsons.mp
 #EXTINF:-1,South Park"
@@ -580,83 +345,12 @@ http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
 http://google.pt
 ####################################################################################################################################
 
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]FR - BEIN SPORTS 3[/COLOR] HD
-http://xteramcss.pointto.us:8060/live/karimos-sat/cyaWOcWhPF/174.m3u8
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]FR - BEIN SPORTS 2[/COLOR] HD
-http://xteramcss.pointto.us:8060/live/karimos-sat/cyaWOcWhPF/173.m3u8
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]FR - BEIN SPORTS 1[/COLOR] HD
-http://xteramcss.pointto.us:8060/live/karimos-sat/cyaWOcWhPF/172.m3u8
-#EXTINF:-1,beIN Sports 1 HD
-http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
-#EXTINF:-1,beIN Sports 2 HD
-http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
-#EXTINF:-1,beIN Sports 3 HD
-http://169.45.89.106:1935/app/bein3frlsh/playlist.m3u8
-#EXTINF:-1,beIN Sport max 4
-http://169.45.89.106:1935/app/max4lsh/playlist.m3u8
-#EXTINF:-1,beIN Sport max 5
-http://169.45.89.106:1935/app/max5lsh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 1[/COLOR] (UK)
-http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 1[/COLOR] (UK)
-http://80.243.189.26:8081/sportshd/sky1/index.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 2[/COLOR] (UK)
-http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 2[/COLOR] (UK)
-http://80.243.189.26:8081/sportshd/sky2/index.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 3[/COLOR] (UK)
-http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 3[/COLOR] (UK)
-http://80.243.189.26:8081/sportshd/skf3/index.m3u8
-
-#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 4[/COLOR] (UK)
-http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 4[/COLOR] (UK)
-http://80.243.189.26:8081/sportshd/sky4/index.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 5[/COLOR] (UK)
-http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title=“DESPORTO”,[COLOR green]SKY SPORTS 5[/COLOR] (UK)
-http://80.243.189.26:8081/sportshd/sky5/index.m3u8
-
-#EXTINF:-1 tvg-logo="Sky Sports F1.png" group-title=“DESPORTO”,[COLOR green]SKY F1[/COLOR] (UK)
-http://80.243.189.26:8081/sportshd/skf1/index.m3u8
-#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title=“DESPORTO”,[COLOR green]BT SPORTS 1[/COLOR] (UK)
-http://80.243.189.26:8081/sportshd/bt1/index.m3u8
-#EXTINF:-1 tvg-logo="BT Sport 2.png" group-title=“DESPORTO”,[COLOR green]BT SPORTS 2 [/COLOR](UK)
-http://169.45.89.106:1935/app/btsports2lsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="BT Sport 2.png" group-title=“DESPORTO”,[COLOR green]BT SPORTS 2 [/COLOR](UK)
-http://80.243.189.26:8081/sportshd/bt2/index.m3u8
-#EXTINF:-1,[COLOR gold]BT SPORT 2[/COLOR]
-http://02e4.vp9.tv/chn/btsu2/v.m3u8
-#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”,[COLOR green]BT SPORT EUROPE [/COLOR](UK)
-http://80.243.189.26:8081/miosptvbteu/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”,[COLOR green]BT SPORT/ESPN [/COLOR](UK)
-http://80.243.189.26:8081/sportshd/espnuk/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”,[COLOR green]BT SPORT/ESPN [/COLOR](UK)
-http://167.114.41.215:8080/espnuk_raf/espnuk_raf/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”,[COLOR green]BT SPORT/ESPN [/COLOR](UK)
-http://169.45.89.106:1935/app/espnuklsh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 1[/COLOR] (FRA)
-http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 2[/COLOR] (FRA)
-http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 1[/COLOR] (AR)
-http://46.101.248.73:1234/hls/bein1hd.m3u8
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 2[/COLOR] (AR)
-http://46.101.248.73:1234/hls/bein2hd.m3u8
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 3[/COLOR] (AR)
-http://46.101.248.73:1234/hls/bein3hd.m3u8
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 4[/COLOR] (AR)
-http://46.101.248.73:1234/hls/bein4hd.m3u8
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR green]BEIN 5[/COLOR] (AR)
-http://46.101.248.73:1234/hls/bein5hd.m3u8
-
 #EXTINF:-1,[COLOR green]FIGHTER[/COLOR]
 http://3.hls.bolshoe.tv/1/streaming/boets/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green]FIGHTER HQ[/COLOR]
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,COMBATE (br)
+http://213.163.65.116:8081/live/combate/playlist.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,NTV FUTBOL 1
@@ -673,9 +367,6 @@ http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8
 
 #EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (rtmp)
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR gold]Footbal TV[/COLOR] HD
-rtmp://118.70.203.130:1935/channel/_definst_/vtvcab16_profile1.stream
 
 #EXTINF:-1,[COLOR green]FOX Motorsport[/COLOR]
 http://motorsport.hopto.org:8080/
@@ -699,10 +390,6 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
 
 ####################################################################################################################################
-#EXTINF:-1,sport 1 test
-http://85.25.43.23:8080/hls/helloszia2.m3u8
-#EXTINF:-1,Sport 2 test
-http://85.25.43.23:8080/hls/helloszia3.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR gold]Irib Varzesh Iran[/COLOR]
 http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
@@ -719,8 +406,6 @@ http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Viasat Sport[/COLOR] HQ
 http://vs7.cdn.ott.otautv.kz/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Viasat Sport Batltic[/COLOR] HQ
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR green] trace sports[/COLOR]
 http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
@@ -729,10 +414,6 @@ http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballRe
 
 ####################################################################################################################################
 
-#EXTINF:-1,COMBATE (br)
-http://213.163.65.116:8081/live/combate/playlist.m3u8
-#EXTINF:-1,ESPN (br)
-http://213.163.65.116:8081/live/espnbr/playlist.m3u8
 #EXTINF:-1,[COLOR green]TV ALL SPORTS[/COLOR] HQ (br)
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv[/COLOR] (rtmp) SD low
@@ -766,21 +447,7 @@ http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green]SPORTAL TV[/COLOR] (ru)
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR green] RUSSO SPORT [/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/141.m3u8
-#EXTINF:-1,[COLOR green] RUSSO SPORT 2[/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/142.m3u8
-
 ####################################################################################################################################
-
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SILK SPORTHD 1[/COLOR]
-http://188.93.94.133/silk_football/index.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SILK SPORTHD 2[/COLOR]
-http://188.93.94.133/silk_sport2/index.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SILK SPORTHD 3[/COLOR]
-http://188.93.94.133/silk_sport/index.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SILK SPORTHD 4[/COLOR]
-http://188.93.94.133/silk_sport4/index.m3u8
 
 #EXTINF:-1,[COLOR green] Россия 1 [/COLOR](ru)
 http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8
@@ -804,9 +471,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
 ####################################################################################################################################
 
-
-####################################################################################################################################
-
 #EXTINF:-1,[COLOR green] EUROSPORT[/COLOR] (uk)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1,[COLOR green] EUROSPORT [/COLOR]HD (fr)
@@ -815,6 +479,43 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
 #EXTINF:-1,[COLOR green] EUROSPORT 2[/COLOR] (RU)
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+
+####################################################################################################################################
+#EXTINF:-1 tvg-logo="tuga.png" group-title="ITALIA", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS ITALIANOS [COLOR red]||[/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com 
+####################################################################################################################################
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="RAI 1.png" group-title="ITALIA",[COLOR green] RAI 1 [/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1800_av-p.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 2.png" group-title="ITALIA",[COLOR green] RAI 2 [/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1800_av-p.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 3.png" group-title="ITALIA",[COLOR green] RAI 3 [/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1800_av-p.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 4.png" group-title="ITALIA",[COLOR green] RAI 4 [/COLOR]
+http://originstream7.rai.it/italy/rai4new.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 4.png" group-title="ITALIA",[COLOR green] RAI PREMIUM [/COLOR]
+http://originstream7.rai.it:80/italy/raipremium.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 4.png" group-title="ITALIA",[COLOR green] RAI Movie [/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 4.png" group-title="ITALIA",[COLOR green] RAI Movie [/COLOR]
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 4.png" group-title="ITALIA",[COLOR green] RAI YOYO [/COLOR]
+http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai News.png" group-title="ITALIA",[COLOR green] RAI News 24 [/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai News.png" group-title="ITALIA",[COLOR green] RAI SPORT1 [/COLOR]
+http://62.65.140.213:80/session/13475d7c-d26c-11e5-beb1-005056bc06d1/nvnv5a/2/3021/2290000/index.m3u8?token=3ab9f2102f4018877a3748766de4dd60_1453744786_1453744786&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-logo="cielo.jpg" group-title="ITALIA",[COLOR green] Cielo [/COLOR]
+http://skyianywhere2-i.akamaihd.net:80/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1 tvg-logo="SKY TG24.png" group-title="ITALIA",[COLOR green] Sky Tg24[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="telearena.jpg" group-title="ITALIA",[COLOR green] TELE ARENA  [/COLOR]
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="ITALIA",[COLOR green]Sport ITALIA[/COLOR]
+http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="ITALIA",[COLOR green]Rete Sport 8[/COLOR]
+http://live.cdn.streamago.tv:1935/streamagoedge/39648/36567/livestream.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="ITALIA",[COLOR green]La 7[/COLOR]
+http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS HISPANICOS [COLOR red]||[/COLOR][/B][/COLOR]
@@ -921,6 +622,10 @@ http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 tvg-logo="la_sexta.png" group-title="HISPÂNICOS",[COLOR green] TELE ANTILLHAS [/COLOR]
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
+#EXTINF:-1,Mex:AZTECA NOTICIAS 
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,Mex:AZTECA 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="FRANÇA", [COLOR white][B] [COLOR red]||[/COLOR]CHANNELS FRANCESES [COLOR red]||[/COLOR][/B][/COLOR]
@@ -996,7 +701,6 @@ http://tv3.noip.me/stream/RA9KFWMDAH/184.m3u8
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:-1 group-title="MUSIC",[COLOR orangered]XITE.TV[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=69882953
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="VEVO.png" group-title="MUSICA",[COLOR green] VEVO EUROPEIO [/COLOR]
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
