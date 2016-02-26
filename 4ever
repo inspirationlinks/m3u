@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 25-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 26-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
 http://jerrymoz.wordpress.com
@@ -8,7 +8,10 @@ http://jerrymoz.wordpress.com
 http://jerrymoz.wordpress.com
 
 ############################################################################################################################################################
-#EXTINF:-1,[COLOR green]||| [COLOR white][B]FUTEBOL [COLOR red] |||[/COLOR][/COLOR][/B][/COLOR]
+#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]*****[/COLOR] TRANSMITE JOGOS EQUIPAS PT & LIGAS EUROPEIAS [COLOR red]*****[/COLOR] [/B][/COLOR]
+http://jerrymoz.wordpress.com
+############################################################################################################################################################
+#EXTINF:-1,[COLOR green] [COLOR white][B]CANAIS TRANSMITEM JOGOS [COLOR red]LIGA NOS[/COLOR][/COLOR][/B][/COLOR]
 http://liveonsat.com/ 
 #EXTINF:-1,[COLOR green] [COLOR white][B]SITE:[COLOR red] http://liveonsat.com/ [/COLOR][/COLOR][/B][/COLOR]
 http://liveonsat.com/ 
@@ -38,6 +41,19 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]ESPN |br|[/COLOR] 
 http://31.204.128.127:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:-1,Benfica 2
+http://178.33.231.219:88/kh1/kh1/87.ch
+#EXTINF:-1,Benfica HD
+http://178.33.231.219:88/kh1/kh1/86.ch
+#EXTINF:-1,Sport TV 1
+http://178.33.231.219:88/kh1/kh1/64.ch
+#EXTINF:-1,Sport TV 2
+http://178.33.231.219:88/kh1/kh1/65.ch
+#EXTINF:-1,Sport TV 3
+http://178.33.231.219:88/kh1/kh1/66.ch
+#EXTINF:-1,Sport TV 4
+http://178.33.231.219:88/kh1/kh1/67.ch
 
 #EXTINF:-1,PT : BENFICA TV 1
 http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
@@ -126,35 +142,8 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/667.m3u8
 #EXTINF:-1,PT :  SyFy
 http://top-iptv.zapto.org:8000/live/Aria/Aria/658.m3u8
 
-#EXTINF:-1,[COLOR white][B][COLOR red]|| [/COLOR]FILMES [COLOR red][[/COLOR][COLOR red]][/COLOR] [COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]|| [/COLOR]FILMES [COLOR red][[/COLOR]BREVEMENTE[COLOR red]][/COLOR] [COLOR red]||[/COLOR][/B][/COLOR]
 http://
-
-#EXTINF:-1,avatar
-http://ipsatb.no-ip.info:8000/movie/vod/vod/348.mkv
-#EXTINF:-1,Taken 3
-http://ipsatb.no-ip.info:8000/movie/vod/vod/369.mkv
-#EXTINF:-1,Game of throne
-http://ipsatb.no-ip.info:8000/movie/vod/vod/367.mkv
-#EXTINF:-1,Frozen
-http://ipsatb.no-ip.info:8000/movie/vod/vod/361.mkv
-#EXTINF:-1,Teenage Mutant Ninja Turtles
-http://ipsatb.no-ip.info:8000/movie/vod/vod/351.mkv
-#EXTINF:-1,Transformers: Age of Extinction
-http://ipsatb.no-ip.info:8000/movie/vod/vod/350.mkv
-#EXTINF:-1,Naruto: Shippûden
-http://ipsatb.no-ip.info:8000/movie/vod/vod/229.mkv
-#EXTINF:-1,la bataille d'alger
-http://ipsatb.no-ip.info:8000/movie/vod/vod/226.mkv
-#EXTINF:-1,NCIS S13 E01
-http://ipsatb.no-ip.info:8000/movie/vod/vod/364.mkv
-#EXTINF:-1,NCIS S13 E02
-http://ipsatb.no-ip.info:8000/movie/vod/vod/365.mkv
-#EXTINF:-1,NCIS S13 E03
-http://ipsatb.no-ip.info:8000/movie/vod/vod/366.mkv
-#EXTINF:-1,Naruto Shippuden S06 E07
-http://ipsatb.no-ip.info:8000/movie/vod/vod/370.mkv
-#EXTINF:-1,Naruto Shippuden S10 E 230
-http://ipsatb.no-ip.info:8000/movie/vod/vod/371.mkv
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
