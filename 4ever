@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 06-3-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 07-3-16 [COLOR red]|||[/COLOR][/B][/COLOR]
+http://jerrymoz.wordpress.com
+#EXTINF:-1,[COLOR green] [COLOR yellow][B][COLOR red] MAIS INF. ENVIE EMAIL:[/COLOR] jerrymoz@live.com.pt [/B][/COLOR]
 http://jerrymoz.wordpress.com
 
 #EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
@@ -18,35 +20,17 @@ http://
 #EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]WE ONLY SHARE![/COLOR] --------------------------[/COLOR][/B][/I]
 http://
 
-#EXTINF:-1,[COLOR green] [COLOR yellow][B][COLOR red] EMAIL:[/COLOR] jerrymoz@live.com.pt [/B][/COLOR]
-http://jerrymoz.wordpress.com
-
 ############################################################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [COLOR white][B][COLOR red]*****[/COLOR] TRANSMITE JOGOS EQUIPAS PT & LIGAS EUROPEIAS [COLOR red]*****[/COLOR] [/B][/COLOR]
 http://jerrymoz.wordpress.com
-############################################################################################################################################################
-#EXTINF:-1,[COLOR green] [COLOR white][B]CANAIS TRANSMITEM JOGOS [COLOR red]LIGA NOS[/COLOR][/COLOR][/B][/COLOR]
-http://liveonsat.com/ 
-#EXTINF:-1,[COLOR green] [COLOR white][B]SITE:[COLOR red] http://liveonsat.com/ [/COLOR][/COLOR][/B][/COLOR]
-http://liveonsat.com/ 
 ############################################################################################################################################################
 
 #EXTINF:-1 group-title="DESPORTO",[COLOR gold]SPORTV AMERICAS[/COLOR] OFF
 http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 
-#EXTINF:-1,SPORT.TV 1
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1,SPORT.TV 2
-http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
-#EXTINF:-1,SPORT.TV 3
-http://31.204.128.127:8081/live/portugal3/playlist.m3u8
-
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SK1[/COLOR] SD low (rtmp)
-rtmp://62.210.89.38:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDE2IDY6MTU6NTQgUE0maGFzaF92YWx1ZT11bkU5ZDhmM.nlZakZCT01odU9MK1N3PT0mdmFsaWRtaW51dGVzPTMwMA==/ playpath=budalo swfUrl=http://streamcasttv.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://streamcasttv.biz/embed.php?file=budalo&width=610&height=470
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS (da jogos equipas PT)
-plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
-
-#EXTINF:-1,ESPN (br)
+#EXTINF:-1,[COLOR green]ESPN[/COLOR] |br|
+http://31.204.128.127:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1, [COLOR green]ESPN[/COLOR] |br|
 http://213.163.65.116:8081/live/espnbr/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
@@ -60,8 +44,6 @@ http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] OFF/ON
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]ESPN |br|[/COLOR] 
-http://31.204.128.127:8081/live/espnbr/playlist.m3u8
 
 #EXTINF:-1,Benfica 2
 http://178.33.231.219:88/live/m/m/87.ts
@@ -89,47 +71,7 @@ http://178.33.231.219:88/kh1/kh1/66.ch
 #EXTINF:-1,Sport TV 4
 http://178.33.231.219:88/kh1/kh1/67.ch
 
-#EXTINF:-1,PT : BENFICA TV 1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
-#EXTINF:-1,PT : Sport TV 5
-http://top-iptv.zapto.org:8000/live/Aria/Aria/657.m3u8
-#EXTINF:-1,PT : Sport TV 4
-http://top-iptv.zapto.org:8000/live/Aria/Aria/656.m3u8
-#EXTINF:-1,PT : Sport Tv 3
-http://top-iptv.zapto.org:8000/live/Aria/Aria/655.m3u8
-#EXTINF:-1,PT : Sport TV 2 FULL HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
-#EXTINF:-1,PT : Sport Tv 1  FULL HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
-
-#EXTINF:-1,beIN_HD-1
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/5.ts
-#EXTINF:-1,beIN_HD-2
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/6.ts
-#EXTINF:-1,beIN_HD-3
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/7.ts
-#EXTINF:-1,beIN_HD-4
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/8.ts
-#EXTINF:-1,beIN_HD-5
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/9.ts
-#EXTINF:-1,beIN_HD-6
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/10.ts
-#EXTINF:-1,beIN_HD-7
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/11.ts
-#EXTINF:-1,beIN_HD-8
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/12.ts
-#EXTINF:-1,beIN_HD-9
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/13.ts
-#EXTINF:-1,beIN_HD-10
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/14.ts
-#EXTINF:-1,beIN-1-FR
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/41.ts
-#EXTINF:-1,beIN-2-FR
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/42.ts
-#EXTINF:-1,beIN-3-FR
-http://62.108.34.8:8000/live/STAR-TIMES/CACA007/43.ts
-
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]UFC[/COLOR] (rtmp) CHI
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]UFC[/COLOR] (rtmp) |CHI|
 rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
 #EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]TSN 1[/COLOR] SD low (rtmp)
 rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
@@ -175,33 +117,25 @@ http://
 
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR]Canais teste (5-10 sec)[COLOR red]||[/COLOR][/B][/COLOR]
 http://
-#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] canais PT envie EMAIL[COLOR red]||[/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] JERRYMOZ@LIVE.COM.PT[COLOR red]||[/COLOR][/B][/COLOR]
 http://
 
-#EXTINF:-1,PT : SIC Noticias
-http://top-iptv.zapto.org:8000/live/Aria/Aria/663.m3u8
-#EXTINF:-1,PT : Sic Caras
-http://top-iptv.zapto.org:8000/live/Aria/Aria/662.m3u8
-#EXTINF:-1,PT : SIC
-http://top-iptv.zapto.org:8000/live/Aria/Aria/651.m3u8
-#EXTINF:-1,PT : RTP2
-http://top-iptv.zapto.org:8000/live/Aria/Aria/650.m3u8
-#EXTINF:-1,PT : RTP1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/649.m3u8
-#EXTINF:-1,PT : RTP1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/661.m3u8
-#EXTINF:-1,PT : Nat. Geographic Channel
-http://top-iptv.zapto.org:8000/live/Aria/Aria/670.m3u8
-#EXTINF:-1,PT : Motorvision
-http://top-iptv.zapto.org:8000/live/Aria/Aria/665.m3u8
-#EXTINF:-1,PT : Discovery Channel
-http://top-iptv.zapto.org:8000/live/Aria/Aria/668.m3u8
-#EXTINF:-1,PT : Cinemundo
-http://top-iptv.zapto.org:8000/live/Aria/Aria/674.m3u8
-#EXTINF:-1,PT : Canal de Historia
-http://top-iptv.zapto.org:8000/live/Aria/Aria/667.m3u8
-#EXTINF:-1,PT :  SyFy
-http://top-iptv.zapto.org:8000/live/Aria/Aria/658.m3u8
+#EXTINF:-1,PT:Canal_Porto
+http://iptv-supplier.com:8000/elm/elm/2315.ch
+#EXTINF:-1,PT:Fox_Life
+http://iptv-supplier.com:8000/elm/elm/2313.ch
+#EXTINF:-1,PT:Fox_Crime
+http://iptv-supplier.com:8000/elm/elm/2314.ch
+#EXTINF:-1,PT:TVCseries
+http://iptv-supplier.com:8000/elm/elm/2306.ch
+#EXTINF:-1,PT:TVCine1
+http://iptv-supplier.com:8000/elm/elm/2302.ch
+#EXTINF:-1,PT:TVCine2
+http://iptv-supplier.com:8000/elm/elm/2303.ch
+#EXTINF:-1,PT:TVCine3
+http://iptv-supplier.com:8000/elm/elm/2304.ch
+#EXTINF:-1,PT:TVCine4
+http://iptv-supplier.com:8000/elm/elm/2305.ch
 
 #################################################################################################################################### 
 #EXTINF:-1 tvg-logo="tuga.png" group-title="PORTUGAL", [COLOR white][B][COLOR red]||||||||||[/COLOR] PORTUGUESES CHANNELS [COLOR red]||||||||||[/COLOR][/B][/COLOR]
@@ -288,39 +222,9 @@ http://195.22.19.179:1935/igronl/igronline1/live.m3u8
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]SANTUÁRIO DE FÁTIMA – CAPELINHA DAS APARIÇÕES[/COLOR]
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 
-#EXTINF:-1,AXN Spin
-http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8
-#EXTINF:-1,Axn White HD
-http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8
-#EXTINF:-1,AXN Movies
-http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8
-
-####################################################################################################################################
-
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]FASHION TV[/COLOR]
-http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessionid=1005101551
-
 #EXTINF:-1 group-title="PORTUGAL",[COLOR green]EURONEWS[/COLOR] (pt)
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]C-SPAN NEWS[/COLOR] HQ
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]C-SPAN NEWS 2[/COLOR] HQ
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]BLOOMBERG NEWS[/COLOR]
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]Food Network[/COLOR] (usa)
-http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]NHK WORLD TV[/COLOR] (usa)
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green]Tiemps em directo[/COLOR] (esp)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/master.m3u8
-#EXTINF:-1 group-title="PORTUGAL",[COLOR green] Weather Nation[/COLOR] (pedido)
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 ######################################################################################################################
 #EXTINF:-1 tvg-logo="tuga.png" group-title="TOROS&CAZA&PESCA", [COLOR white][B][COLOR red]||[/COLOR]toros & caça & pesca [COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
@@ -343,45 +247,306 @@ http://jerrymoz.wordpress.com
 ####################################################################################################################################
 
 #EXTINF:-1,[COLOR green]Disney Channel[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR]envie um email[/COLOR]
-http://151.80.97.112:8000/sarah/sarah/1162.ch
+http://
 #EXTINF:-1,[COLOR green]Panda[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR]envie um email[/COLOR] 
-http://151.80.97.112:8000/live/sarah/sarah/1165.ts
+http://
 #EXTINF:-1,[COLOR green]SIC_K[COLOR red] (SE PRETENDER ESTE CANAL)[/COLOR]envie um email[/COLOR]
-http://151.80.97.112:8000/sarah/sarah/1164.ch
+http://
 
-
-#EXTINF:-1 group-title="INFANTIS",[COLOR green]Cartoon Network[/COLOR] UK
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Cartoon Network[/COLOR] |UK|
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Cartoon Network[/COLOR] |UK|
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",[COLOR green] TELE ARAQUA [/COLOR](esp)
-http://stream.telearagua.com/telearagua/telearagua_240p/inspirationlinks.m3u8
-
-#EXTINF:-1 group-title="INFANTIS",[COLOR green]South Park - Uncensored[/COLOR] (ingles)
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]South Park - Uncensored[/COLOR] |UK|
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
-#EXTINF:-1 group-title="INFANTIS",[COLOR green]Simpsons [/COLOR](ingles)
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Simpsons [/COLOR]|UK|
 http://154.57.145.183:80/hls/52dada61bdf13/stream.m3u8
-#EXTINF:-1 group-title="INFANTIS",[COLOR green]Simpsons [/COLOR](ingles)
+#EXTINF:-1 group-title="INFANTIS",[COLOR green]Simpsons [/COLOR] |UK|
 http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 
-#EXTINF:-1 group-title="INFANTIS",[COLOR green]Disney [/COLOR] (esp) (rtmp)
-rtmp://31.220.0.82/privatestream playpath=disneyy1?keys=nWoA21Fm1Sm7irAPfUe7jQ&keyt=1448245912 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+####################################################################################################################################
+#EXTINF:-1, [COLOR yellow][B][COLOR red]||| [/COLOR]||| [COLOR white]MULTI-CHANNELS (multi language) [/COLOR][COLOR yellow] |||[/COLOR][COLOR red] |||[/B][/COLOR]
+http://
+####################################################################################################################################
 
-####################################################################################################################################
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR white][B][COLOR red]||[/COLOR] DOCUMENTARIOS & VIDA SELVAGEM [COLOR red]||[/COLOR][COLOR yellow] (Multi Language) [/COLOR][COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com
-####################################################################################################################################
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]HISTORIA[/COLOR] ESP (rtmp)
-rtmp://31.220.0.196/privatestream/ playpath=historia93?keys=INKr3qteKnAufPd-ky7jyg&keyt;=1448247276 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1,La 1 HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1690.m3u8
+#EXTINF:-1,La 2
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/27.m3u8
+#EXTINF:-1,Antena 3 HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1687.m3u8
+#EXTINF:-1,Cuatro HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1686.m3u8
+#EXTINF:-1,Telecinco HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1685.m3u8
+#EXTINF:-1,La Sexta HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1689.m3u8
+#EXTINF:-1,NEOX
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/95.m3u8
+#EXTINF:-1,NOVA
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/96.m3u8
+#EXTINF:-1,FDF
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/303.m3u8
+#EXTINF:-1,Divinity
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/305.m3u8
+#EXTINF:-1,Energy
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/304.m3u8
+#EXTINF:-1,A3Series HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1713.m3u8
+#EXTINF:-1,MEGA
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/26.m3u8
+#EXTINF:-1,7RM Murcia
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/757.m3u8
+#EXTINF:-1,13 TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/753.m3u8
+#EXTINF:-1,TV3 HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1688.m3u8
+#EXTINF:-1,Levante TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/755.m3u8
+#EXTINF:-1,Mirame TV Tenerife
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1815.m3u8
+#EXTINF:-1,Andalucia TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1776.m3u8
+#EXTINF:-1,TV Canaria
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/264.m3u8
+#EXTINF:-1,Intereconomia
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/754.m3u8
+#EXTINF:-1,TVE 24 Horas
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/752.m3u8
+#EXTINF:-1,#0 HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/415.m3u8
+#EXTINF:-1,Canal+ Series HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/417.m3u8
+#EXTINF:-1,Canal+ Series Xtra HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/418.m3u8
+#EXTINF:-1,Canal+ Accion HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/419.m3u8
+#EXTINF:-1,Canal+ Comedia HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/420.m3u8
+#EXTINF:-1,Canal+ DCine HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/421.m3u8
+#EXTINF:-1,Canal+ DCine ES
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/227.m3u8
+#EXTINF:-1,Canal+ Estrenos HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/416.m3u8
+#EXTINF:-1,Canal+ Xtra HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/436.m3u8
+#EXTINF:-1,Cine 3D
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1723.m3u8
+#EXTINF:-1,AMC HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/429.m3u8
+#EXTINF:-1,TCM HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/2051.m3u8
+#EXTINF:-1,AXN HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/433.m3u8
+#EXTINF:-1,AXN White HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1695.m3u8
+#EXTINF:-1,Calle 13 HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/669.m3u8
+#EXTINF:-1,Hollywood HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/668.m3u8
+#EXTINF:-1,Cosmo HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/671.m3u8
+#EXTINF:-1,FOX HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/434.m3u8
+#EXTINF:-1,FOX Life
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/48.m3u8
+#EXTINF:-1,FOX Life HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/435.m3u8
+#EXTINF:-1,TNT
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/9.m3u8
+#EXTINF:-1,TNT HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/432.m3u8
+#EXTINF:-1,Comedy Central
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/47.m3u8
+#EXTINF:-1,Comedy Central HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/670.m3u8
+#EXTINF:-1,Syfy
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/44.m3u8
+#EXTINF:-1,Syfy HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/675.m3u8
+#EXTINF:-1,Digitele Deportes
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/272.m3u8
+#EXTINF:-1,Digitele Tikitaka
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/36.m3u8
+#EXTINF:-1,Digitele Tikitaka 2
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/406.m3u8
+#EXTINF:-1,Digitele Tikitaka 3
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/411.m3u8
+#EXTINF:-1,Digitele Tikitaka 4
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/673.m3u8
+#EXTINF:-1,Digitele Tikitaka 5
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/674.m3u8
+#EXTINF:-1,Canal+ Deportes
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/51.m3u8
+#EXTINF:-1,Canal+ Deportes HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/425.m3u8
+#EXTINF:-1,Canal+ Deportes 2
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/55.m3u8
+#EXTINF:-1,Canal+ Deportes 2 HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/426.m3u8
+#EXTINF:-1,Canal+ Futbol
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/15.m3u8
+#EXTINF:-1,Canal+ Futbol LQ
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/399.m3u8
+#EXTINF:-1,Canal+ Futbol HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/424.m3u8
+#EXTINF:-1,Canal+ Liga
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/16.m3u8
+#EXTINF:-1,Canal+ Liga LQ
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/384.m3u8
+#EXTINF:-1,Canal+ Liga HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/422.m3u8
+#EXTINF:-1,Canal+ Liga Multi
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/307.m3u8
+#EXTINF:-1,Canal+ Liga Multi HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1683.m3u8
+#EXTINF:-1,Canal+ Liga 2
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/308.m3u8
+#EXTINF:-1,Canal+ Liga 2 HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/423.m3u8
+#EXTINF:-1,Canal+ Partidazo
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/17.m3u8
+#EXTINF:-1,Canal+ Partidazo LQ
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/413.m3u8
+#EXTINF:-1,Canal+ Partidazo HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/437.m3u8
+#EXTINF:-1,Abono Futbol HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1716.m3u8
+#EXTINF:-1,Canal+ Golf
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/18.m3u8
+#EXTINF:-1,Canal+ Golf HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/427.m3u8
+#EXTINF:-1,Bein Sports EspaÃ±a HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1681.m3u8
+#EXTINF:-1,Bein Sports MAX 1 EspaÃ±a HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/5857.m3u8
+#EXTINF:-1,Bein Sports MAX 2 EspaÃ±a HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/5860.m3u8
+#EXTINF:-1,Bein Sports MAX 3 EspaÃ±a HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/5859.m3u8
+#EXTINF:-1,Bein Sports MAX 4 EspaÃ±a HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/5858.m3u8
+#EXTINF:-1,Movistar F1
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/56.m3u8
+#EXTINF:-1,Movistar GP
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/57.m3u8
+#EXTINF:-1,Eurosport
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/58.m3u8
+#EXTINF:-1,Eurosport HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1691.m3u8
+#EXTINF:-1,Eurosport 2
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/59.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1711.m3u8
+#EXTINF:-1,Teledeporte
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/97.m3u8
+#EXTINF:-1,Teledeporte HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1712.m3u8
+#EXTINF:-1,Barca TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/273.m3u8
+#EXTINF:-1,Real Madrid TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/41.m3u8
+#EXTINF:-1,AE
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/86.m3u8
+#EXTINF:-1,Canal Cocina
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/89.m3u8
+#EXTINF:-1,CI
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/88.m3u8
+#EXTINF:-1,Discovery Channel
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/85.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/2052.m3u8
+#EXTINF:-1,Discovery MAX
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/251.m3u8
+#EXTINF:-1,Caza y Pesca
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/379.m3u8
+#EXTINF:-1,Iberalia TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/87.m3u8
+#EXTINF:-1,Odisea
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/244.m3u8
+#EXTINF:-1,Odisea HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/5863.m3u8
+#EXTINF:-1,Historia
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/45.m3u8
+#EXTINF:-1,Historia HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1722.m3u8
+#EXTINF:-1,Viajar HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1694.m3u8
+#EXTINF:-1,National Geographic
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/46.m3u8
+#EXTINF:-1,National Geographic HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/430.m3u8
+#EXTINF:-1,National Geographic Wild
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/11.m3u8
+#EXTINF:-1,National Geographic Wild HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/431.m3u8
+#EXTINF:-1,Baby TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/90.m3u8
+#EXTINF:-1,Boing
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/243.m3u8
+#EXTINF:-1,Clan TVE
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/306.m3u8
+#EXTINF:-1,Canal Panda
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1447.m3u8
+#EXTINF:-1,Nickelodeon
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/49.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1692.m3u8
+#EXTINF:-1,Nick Junior
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/14.m3u8
+#EXTINF:-1,Disney Channel
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/12.m3u8
+#EXTINF:-1,Disney Channel HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1693.m3u8
+#EXTINF:-1,Disney Junior
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/13.m3u8
+#EXTINF:-1,Disney XD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/42.m3u8
+#EXTINF:-1,40 TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/75.m3u8
+#EXTINF:-1,Sol Musica
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/148.m3u8
+#EXTINF:-1,MTV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/93.m3u8
+#EXTINF:-1,NonStop People
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1724.m3u8
+#EXTINF:-1,Mezzo HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/5861.m3u8
+#EXTINF:-1,Kiss TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/750.m3u8
+#EXTINF:-1,Blue Hustler
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/76.m3u8
+#EXTINF:-1,Hustler TV
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/224.m3u8
+#EXTINF:-1,Redlight HD
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/2049.m3u8
+#EXTINF:-1,Playboy TV ES
+http://georgeofthejungle.ddns.net:8000/live/Emiliano/Emiliano/1446.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]RT Documentary[/COLOR] (UK)
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]RT Documentary[/COLOR] (ru)
+#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR green]RT Documentary[/COLOR] |RU|
 http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:-1,[COLOR green] English Club tv[/COLOR] (usa)
+http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]C-SPAN NEWS[/COLOR] HQ
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]C-SPAN NEWS 2[/COLOR] HQ
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
 
-####################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="HISPÂNICOS", [COLOR white][B][COLOR red]||[/COLOR] CHANNELS ENTRETENIMENTO[COLOR red]||[/COLOR] (Multi Language)[COLOR red]||[/COLOR][/B][/COLOR]
-http://jerrymoz.wordpress.com 
-####################################################################################################################################
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]BLOOMBERG NEWS[/COLOR]
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 group-title="GASTRONOMIA",[COLOR green]Food Network[/COLOR] (usa)
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]NHK WORLD TV[/COLOR] (usa)
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green]Tiemps em directo[/COLOR] (esp)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/master.m3u8
+#EXTINF:-1 group-title="PORTUGAL",[COLOR green] Weather Nation[/COLOR] (pedido)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1,The Simpsons"
 http://iptvnation.com/simpsons.mp
@@ -412,14 +577,6 @@ http://iptvnation.com/modern.mp4
 #EXTINF:-1,The Three Stooges"
 http://iptvnation.com/stooges.mp4
 
-#EXTINF:-1,[COLOR green] SYFY [/COLOR] (usa)
-http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR green] CANAL CINE[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,[COLOR green] English Club tv[/COLOR] (usa)
-http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
-
 ####################################################################################################################################
 #EXTINF:-1,[COLOR white][B][COLOR red]||[/COLOR] SPORTS INTERNACIONAIS [COLOR yellow] (Multi Language) [/COLOR][COLOR red]||[/COLOR][/B][/COLOR]
 http://google.pt
@@ -444,17 +601,6 @@ http://bit.do/Arenass4
 http://bit.do/Arenass5
 
 ####################################################################################################################################
-#EXTINF:-1,NTV FUTBOL 1
-http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/124/index.m3u8
-#EXTINF:-1,NTV FUTBOL 2
-http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/530/index.m3u8
-#EXTINF:-1,NTV FUTBOL 3
-http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/522/index.m3u8
-#EXTINF:-1,NTV PLUS Sport
-http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/107/index.m3u8
-#EXTINF:-1,NTV Sport
-http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8
-####################################################################################################################################
 
 #EXTINF:-1,[COLOR green]Motores Tv[/COLOR] (uk) (rtmp)
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z
@@ -475,7 +621,7 @@ http://motorsport.hopto.org:8084/
 #EXTINF:-1,[COLOR green]WinSports[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
-#EXTINF:-1,[COLOR green] AYM Sports[/COLOR]
+#EXTINF:-1,[COLOR green]AYM Sports[/COLOR]
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2F.ts
 #EXTINF:-1,[COLOR green]DXTV [/COLOR](esp)
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=
@@ -487,20 +633,10 @@ http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR gold]Nova Sport 1[/COLOR]
 http://213.81.153.241/live001/channel028_p3.stream/DVR.m3u8
 
-####################################################################################################################################
-#EXTINF:0,DOLCE SPORT 1 
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
-#EXTINF:0,DOLCE SPORT 2 
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:0,DOLCE SPORT 3 
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
-
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Viasat Sport[/COLOR] HQ
 http://vs7.cdn.ott.otautv.kz/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8
 
-#EXTINF:-1,[COLOR green] trace sports[/COLOR]
-http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8
-#EXTINF:-1,[COLOR green] Football Report[/COLOR]
+#EXTINF:-1,[COLOR green]Football Report[/COLOR]
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 
 ####################################################################################################################################
