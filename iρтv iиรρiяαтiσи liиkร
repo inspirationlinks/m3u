@@ -199,11 +199,11 @@ http://live.impresa.pt/live/siccaras/siccaras540p.m3u8?wowzasessionid=inspiratio
 #EXTINF:-1 tvg-id="tvi.pt" group-title="Portugal" tvg-logo="http://i.imgur.com/doTfHuK.png", TVIᴴᴰ  🇵🇹
 https://bit.ly/2K1Lb0K
 #EXTINF:-1 tvg-id="tvi.pt" group-title="Portugal" tvg-logo="http://i.imgur.com/doTfHuK.png", TVI ¹ 🇵🇹
-https://ptiptv.tk/tvi.m3u8?t0iYEfJ6pG0d9FBUQRScwFdXnRM
+https://ptiptv.tk/tvi.m3u8?vUiYEfJ6pG0d9FBUi5C0GL-LwSs
 #EXTINF:-1 tvg-id="tvi24.pt" group-title="Portugal" tvg-logo="http://i.imgur.com/F4w3M86.png", TVI 24  🇵🇹 
-https://ptiptv.tk/tvi24.m3u8?t0iYEfJ6pG0d9FBUQRScwFdXnRM
+https://ptiptv.tk/tvi24.m3u8?vUiYEfJ6pG0d9FBUi5C0GL-LwSs
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png", TVI REALITY  🇵🇹 
-https://ptiptv.tk/tvi-direct.m3u8?t0iYEfJ6pG0d9FBUQRScwFdXnRM
+https://ptiptv.tk/tvi-direct.m3u8?vUiYEfJ6pG0d9FBUi5C0GL-LwSs
 
 #EXTINF:-1 group-title="Portugal"  tvg-logo="http://logo.premium-ott.com:8000/logo/mediasetextra.png", Grande Fratello Vip 🇮🇹 
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
@@ -482,8 +482,9 @@ http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
 
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhx6Sn1FvNRTiny_BxWXjOlNoV9SOFZd1iL-r6sSw=s48-c-k-c0xffffffff-no-rj-mo", Pica Pau 🇧🇷
 https://youtu.be/63skBZ9CRqE
-#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/1Zb1lr8.png", TV FUNTELPA 🇧🇷
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/1Zb1lr8.png", TV Cultura 🇧🇷
 http://177.74.1.38:80/funtelpa/tv_funtelpa/live.m3u8
+
 
 
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonito.png", Cartoonito 🇮🇹
@@ -495,7 +496,7 @@ http://188.35.9.11:21151/udp/210d
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://graph.facebook.com/pocoyo/picture?width=200&height=200", Pocoyóᴴᴰ 🇪🇸 [youtube]
 https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320", Boingᴴᴰ 🇪🇸
-https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8?wowzasessionid=inspiration
+http://cdn2.interlibre.net/hls/193/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png",  Boing 🇮🇹
 https://boingapp-media.akamaized.net/ab3269db-ac5b-4dd1-a7ab-652c5d8bdc3f/8336958e-67f3-4215-bbbc-c0be5e3d1026.ism/manifest(format=m3u8-aapl)
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png",  Boing 🇮🇹
@@ -635,7 +636,8 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playli
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
 
-
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png", TV Tropical 🇧🇷
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", Rede TV 🇧🇷
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png", Tv Gazetaᴴᴰ 🇧🇷
@@ -648,6 +650,9 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://listaiptvbrasil.com/logo/tvers.png", TVEᴴᴰ 🇧🇷
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?wowzasessionid=inspiration
+
+#EXTINF:-1 group-title="Brasil" tvg-logo="http://i.imgur.com/kai6F2R.png", TV Cultura PR 🇧🇷
+http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://listaiptvbrasil.com/logo/tvers.png", Tv Brasilᴴᴰ 🇧🇷
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://listaiptvbrasil.com/logo/tvers.png", Tv Brasilᴴᴰ 🇧🇷
@@ -744,21 +749,33 @@ https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png", Cuatroᴴᴰ 🇪🇸
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320", Antena 3ᴴᴰ 🇪🇸
-https://livestartover.atresmedia.com/antena3/master.m3u8
+http://cdn2.interlibre.net/hls/149/index.m3u8
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320", Antena 3ᴴᴰ 🇪🇸
-https://livestartover.atresmedia.com/geoantena3/master.m3u8
+http://84.112.18.204:8001/1:0:1:772c:416:1:c00000:0:0:0:
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinityᴴᴰ 🇪🇸
 http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+#EXTINF:-1 group-title="Espanha" tvg-logo="https://pbs.twimg.com/profile_images/1147998436039581698/R1dQQSxB_200x200.jpg", Atreseries 🇪🇸
+http://cdn2.interlibre.net/hls/101/index.m3u8
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320", Neox 🇪🇸
-https://livestartover.atresmedia.com/geoneox/master.m3u8
+http://cdn2.interlibre.net/hls/153/index.m3u8
+#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/neox/picture?width=320&height=320", Neox 🇪🇸
+http://84.112.18.204:8001/1:0:1:75fe:408:1:c00000:0:0:0:
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200", Nova 🇪🇸
-https://livestartover.atresmedia.com/geonova/master.m3u8
+http://cdn2.interlibre.net/hls/154/index.m3u8
+#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200", Nova 🇪🇸
+http://84.112.18.204:8001/1:0:1:7469:3f0:1:c00000:0:0:0:
 #EXTINF:-1 group-title="Espanha" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320", Telecincoᴴᴰ 🇪🇸
-https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8?wowzasessionid=inspiration
+http://cdn2.interlibre.net/hls/190/index.m3u8
+#EXTINF:-1 group-title="Espanha" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320", Telecincoᴴᴰ 🇪🇸
+http://84.112.18.204:8001/1:0:1:778c:424:1:c00000:0:0:0:
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png", La Sexta 🇪🇸
-https://livestartover.atresmedia.com/geolasexta/master.m3u8
+http://cdn2.interlibre.net/hls/151/index.m3u8
+#EXTINF:-1 group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png", La Sexta 🇪🇸
+http://188.35.9.26:7031/udp/104z
+#EXTINF:-1 group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png", La Sexta 🇪🇸
+http://84.112.18.204:8001/1:0:1:74a6:41c:1:c00000:0:0:0:
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png", Energyᴴᴰ 🇪🇸
-https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8?wowzasessionid=inspiration
+http://84.112.18.204:8001/1:0:1:749f:41c:1:c00000:0:0:0:
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FDFESPANHA.png", fdf 🇪🇸
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png", Bmadᴴᴰ 🇪🇸
@@ -926,6 +943,10 @@ http://23.237.29.98:2095/209FoxLife/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 
 #EXTINF:-1 group-title="cinema" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/FoxComedy.png", Fox Comedy 🇺🇸
 http://188.35.9.11:21161/udp/173c
+
+#EXTINF:-1 group-title="cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg", Fox Movies Familyᴴᴰ 🇺🇸
+http://103.130.186.138:8800/getstream.php?channel=foxmovies
+http://103.130.186.138:8800/getstream.php?channel=trans7
 
 #EXTINF:-1 group-title="cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg", Fox Moviesᴴᴰ 🇺🇸
 http://185.186.81.150:8023/play/a0ew
