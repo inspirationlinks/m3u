@@ -6,7 +6,7 @@
 http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8?wowzasessionid=inspiration?isnpiration=nosrupt&rebase=on
 #EXTINF:-1 group-title="Indice" tvg-logo="https://goo.gl/wYPLrH",       WWW.INSPIRATIONLINKS.BOARDS.NET 
 https://INSPIRATIONLINKS.BOARDS.NET 
-#EXTINF:-1 group-title="Indice" tvg-logo="https://goo.gl/wYPLrH",       Update  23|01|21
+#EXTINF:-1 group-title="Indice" tvg-logo="https://goo.gl/wYPLrH",       Update  25|01|21
 http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8?wowzasessi=inspiration
 ##########################################################################################################################
 ##                        FOLLOW INSPIRATION  HTTPS://INSPIRATIONLINKS.BOARDS.NET                                       ##
@@ -201,8 +201,8 @@ https://ptiptv.tk/tvi-direct.m3u8?20iYEfJ6pG0d9FBUwigjPBrEDyk
 
 #EXTINF:-1 group-title="Portugal"  tvg-logo="http://logo.premium-ott.com:8000/logo/mediasetextra.png", Grande Fratello Vip 🇮🇹 
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/69/A_Fazenda_4.jpg", A fazenda
-http://rec2.distv.net:80/pablo/123/553
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/69/A_Fazenda_4.jpg", A fazenda 🇧🇷 [ON]
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
 
 
 
@@ -257,8 +257,13 @@ rtmp://live4.tdm.com.mo:80/ch2/_definst_/ch2.live
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8?wowzasessionid=inspiration
 
 
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://www.fatima.pt/img/upload/maio/2018-05-12_Monograma_2.jpg", Santuário de Fátima 🇵🇹
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://github.com/teamblue65/LOGO/raw/master/FATIMATV.png", Santuário de Fátima 🇵🇹
 https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Canc%C3%A3o%20Nova%20TV.png", Cancao Nova 🇧🇷
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://pbs.twimg.com/profile_images/378800000256543676/cad59d963ae7777d7ba7c1ac0db7c001_400x400.png", Tv Universal 🇧🇷
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_4f6bfa64-7106-4c69-b72e-412228f62166.m3u8
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://adalmada.org/wp-content/uploads/2018/10/logo-cores.png", AD Almada TV 🇵🇹
 http://88.198.22.8:1935/adalmada_tv/ngrp:adalmada_tv_all/playlist.m3u8?wowzasessionid=inspiration
 
@@ -593,6 +598,8 @@ https://www.facebook.com/simple.tv.pt/
 
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Record.png", RN Record Newsᴴᴰ 🇧🇷 
 https://youtu.be/VQRH6xM6T2o
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Globo.png", Globo 🇧🇷 
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Globo.png", Globo RJ 🇧🇷 [simpletv]
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globorj/video.m3u8$OPT:http-referrer=https://canaismax.com
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Record.png", Record tvᴴᴰ 🇧🇷 [simpletv]
@@ -1405,18 +1412,43 @@ http://inspirationlinks.boards.net/board/13/poll-inspir-tion-links
 
 
 
+#EXTINF:-1 group-title="Sport" tvg-logo="", Sportv 1
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png", M. La Liga 🇪🇸
+http://matiasstornini00.shortcm.li/shio1.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png", M. La Liga 🇪🇸
+http://84.112.18.204:8001/1:0:1:7797:424:1:c00000:0:0:0:
+#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png", Liga Campeones 🇪🇸 
+http://84.112.18.204:8001/1:0:1:757b:412:1:c00000:0:0:0:
+
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png", tdp 🇪🇸
+http://84.112.18.204:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Sport" tvg-logo=", Esport 3
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/teamblue65/LOGO/raw/master/GOL.png", Gol tv 🇪🇸
+http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
+
+
+###################################################################
+
+
+
+
+
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/NBA%20HD.png", NBA 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 #EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/NBA%20HD.png", NBA 🇺🇸
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/85D9kPy.png", Rugby World TV 🇺🇸
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/BTSport.png", BT sport 1 🇺🇸
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/BTSport.png", BT sport 2 🇺🇸
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
 
@@ -1434,22 +1466,6 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #################################################################
 
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png", M. La Liga 🇪🇸
-http://84.112.18.204:8001/1:0:1:7797:424:1:c00000:0:0:0:
-#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png", Liga Campeones 🇪🇸 
-http://84.112.18.204:8001/1:0:1:757b:412:1:c00000:0:0:0:
-
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png", tdp 🇪🇸
-http://84.112.18.204:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Sport" tvg-logo=", Esport 3
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/teamblue65/LOGO/raw/master/GOL.png", Gol tv 🇪🇸
-http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
-
-
-###################################################################
 
 
 
