@@ -1270,10 +1270,7 @@ https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
 #EXTINF:-1 group-title="cinema" tvg-logo="https://sck.pm/wI9B",🎥 &Prive 🇺🇸
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="cinema" tvg-logo="https://sck.pm/8W5C",🎥 &Flix 🇺🇸
-#EXTINF:-1,Flix
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-
-
 #EXTINF:-1 group-title="cinema" tvg-logo="https://sck.pm/8W5C",🎥 &Flix 🇺🇸
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
@@ -1420,7 +1417,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",|🇺🇸| Insight tv
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentario" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",|🇺🇸| Insight tv
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",|🇺🇸| Insight tv
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",|🇺🇸| Introuble tv
 https://introuble-samsungau.amagi.tv/playlist.m3u8
@@ -1527,8 +1524,7 @@ https://bit.ly/3cVSdjy
 
 
 
-#EXTINF:-1,Discovery Channels
-http://1
+
 ============================================================= Index Discovery Channels ===============================================================
 
 
@@ -1854,7 +1850,7 @@ http://inspirationlinks.boards.net/board/13/poll-inspir-tion-links
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",⚽️|🇵🇹| Canal 11 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",⚽️|🇵🇹| Canal 11 
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
 
