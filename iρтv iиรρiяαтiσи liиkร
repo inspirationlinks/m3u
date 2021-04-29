@@ -33,13 +33,14 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 
 
 
-#EXTINF:-1 tvg-logo="https://iinfacts.cespu.pt/sites/default/files/COVID-19.PNG" group-title="Portugal", COVID19 Count 🇺🇸
-https://www.youtube.com/watch?v=NMre6IAAAiU
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/EstudoEmCasaEnsinoBasico.png" group-title="Portugal",|🇵🇹| #EstudoEmCasa [Ensino Basica]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/EstudoEmCasaEnsinoSecundario.png" group-title="Portugal",|🇵🇹| #EstudoEmCasa [Ensino Secundario] 
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/EstudoEmCasaEnsinoSecundario.png" group-title="Portugal",|🇵🇹| #EstudoEmCasa [Ensino Secundario]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
 https://live-streaming.rtp.pt/liverepeater/smil:estudoemcasa2.smil/inspiration.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/aprendeemcasa.png",|🇪🇸| #AprendeEnCasa III
 http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8
@@ -68,7 +69,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/inspiration.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/inspiration.m3u8
 #EXTINF:-1 tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpmadeira.png" group-title="Portugal",|🇵🇹| RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/master.m3u8?wowzasessionid=inspiration
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
 #EXTINF:-1 tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpacores.png" group-title="Portugal",|🇵🇹| RTP Acores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/inspiration.m3u8
@@ -278,10 +279,6 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
 #EXTINF:-1 group-title="Info" tvg-logo="https://www.winescholarguild.org/media/k2/items/cache/b2580c8013b9b11cb22b7b3e60685368_XL.jpg",|🇮🇹| Rai News 24  
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="Info" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0e/BBC_World_News_%282019-.n.v.%29.png/revision/latest?cb=20190715171938",|🇬🇧| BBC Scotland
-http://51.52.156.22:8888/http/001
-#EXTINF:-1 group-title="Info" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0e/BBC_World_News_%282019-.n.v.%29.png/revision/latest?cb=20190715171938",|🇬🇧| BBC News
-http://51.52.156.22:8888/http/004
 #EXTINF:-1 group-title="Info" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0e/BBC_World_News_%282019-.n.v.%29.png/revision/latest?cb=20190715171938",|🇬🇧| BBC News 
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 group-title="Info" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0e/BBC_World_News_%282019-.n.v.%29.png/revision/latest?cb=20190715171938",|🇬🇧| BBC World [ace]
@@ -296,8 +293,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="Info" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",|🇺🇸| CNN 
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Info" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",|🇺🇸| CNN 
-http://217.169.242.166:5056/udp/226.2.2.40:1234
 #EXTINF:-1 group-title="Info" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",|🇺🇸| CNN [ace]
 http://127.0.0.1:6878/ace/getstream?id=a94663619c928aacf01fedbf2e10c2de1ae758b2
 #EXTINF:-1 group-title="Info" tvg-logo="https://graph.facebook.com/NBCNews/picture?width=200&height=200",|🇺🇸| CBS News
@@ -320,10 +315,6 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 http://f24hls-i.akamaihd.net:80/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.imgur.com/zY7VbFh.png",|🇺🇸| FRANCE 24 
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="Info" tvg-logo="https://sck.pm/7fc",|🇫🇷| TV5 Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?wowzasessionid=inspiration 
-#EXTINF:-1 group-title="Info" tvg-logo="https://liberador.net/media/images/FranceTv_Info.max-640x640.jpg",|🇫🇷| France Info [youtube]
-https://www.youtube.com/embed/wwNZKfBLAsc?autoplay=1
 #EXTINF:-1 group-title="Info" tvg-logo="https://liberador.net/media/images/FranceTv_Info.max-640x640.jpg",|🇫🇷| France Info  
 http://www.filmon.com/vr-streams/3887.high/playlist.m3u8
 #EXTINF:-1 group-title="Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",|🇪🇸| DW
