@@ -56,14 +56,8 @@ http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP_Internacional.png" group-title="Portugal",|🇵🇹| RTP Internacional ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/inspiration.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1HD.png" group-title="Portugal",|🇵🇹| RTPᴴᴰ 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://ptiptv.tk/rtp1.m3u8?NUmYEfJ6pG0d9FBUzm-FOWC1WTM
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1HD.png" group-title="Portugal",|🇵🇹| RTPᴴᴰ 1 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?token=1619755200_ae048ffec2d1157140647262e05f1cb31dea482a
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="Portugal",|🇵🇹| RTP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://ptiptv.tk/rtp2.m3u8?NUmYEfJ6pG0d9FBUzm-FOWC1WTM
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="Portugal",|🇵🇹| RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/inspiration.m3u8
@@ -114,18 +108,9 @@ http://127.0.0.1:6878/ace/getstream?id=4901f802e15fd126a64b281f7ea7fd2b20110a62
 
 
 
-#EXTINF:-1 tvg-id="tvi.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tviinternacional.png",|🇵🇹| TVI Internacionalᴴᴰ
-https://ptiptv.tk/tvi-internacional.m3u8?NUmYEfJ6pG0d9FBUzm-FOWC1WTM
-#EXTINF:-1 tvg-id="tvi.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",|🇵🇹| TVI
-https://ptiptv.tk/tvi.m3u8?NUmYEfJ6pG0d9FBUzm-FOWC1WTM
-#EXTINF:-1 tvg-id="tvi24.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVI%2024.png",|🇵🇹| TVI 24 
-https://ptiptv.tk/tvi24.m3u8?NUmYEfJ6pG0d9FBUzm-FOWC1WTM
-
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png",|🇵🇹| TVI REALITY 
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?inspiration.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png",|🇵🇹| TVI REALITY
-https://ptiptv.tk/tvi-direct.m3u8?NUmYEfJ6pG0d9FBUzm-FOWC1WTM
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png",|🇵🇹| Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?wowzasessionid=inspiration
