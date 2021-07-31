@@ -574,10 +574,8 @@ http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",⚽️🇲🇽 ESPN 2
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",⚽️🇦🇷 ESPN 2
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-video=1900000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",⚽️🇲🇽 ESPN 2
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/ESPN3-audio_132128_spa=128000-video=1900000.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",⚽️🇺🇸 ESPN
 http://stream2.grandma.fit/fs2.m3u8
@@ -868,7 +866,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/tracks-v2a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BBC_Entertainment_Logo.svg/1280px-BBC_Entertainment_Logo.svg.png",🇺🇸 BBC Entertainment
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=wkTgQnbl1mbpFGdyVGduVEIDJkQ
 
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/blaze.png",🇺🇸 Blaze 
 http://185.99.253.46:8000/play/a04a
