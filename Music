@@ -53,6 +53,9 @@ http://c2.manasat.com:1935/kmusic/kmusic3/inspiration.m3u8?wowzasessionid=inspir
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2019/06/25234451/cropped-favicon-180x180.png", ONFMᴴᴰ 🇵🇹
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?wmsAuthSign=InspirationLinks
 
+#EXTINF:-1 group-title="Music" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/570684b39f1b4362b87aeb98fccfa3b6.png, SEXY KPOP TV  [test]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
 
 
 
@@ -66,11 +69,14 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?wmsAuthSign=I
 
 
 
-
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV Club
 http://98.158.107.22:8080/stream/043/hls/playlist.m3u8?st=WPi4_z7KayDF6y3Nw9MHTw&e=1628785065
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV Club
 http://185.97.150.19:8082/842
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV Live
+http://92.119.251.239/udp_mtv_live/video.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV Hits 
+http://193.106.29.244:80/mtv_hits/index.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV Hits [simpletv]
 http://xittv.net/mtv-hits.html
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV Hits
@@ -109,26 +115,45 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/42bd8e0f644431d.m3u8$OPT:http-user-agent=stream
 
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nutatv.png", Nuta Tv
-http://89.160.178.236:8080/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nutatv.png", Nuta Tv
-http://91.218.60.3:8001/play/a04d
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png", Trace Hits
-http://5.101.140.110:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png", Trace Latinos
-http://45.90.106.7:7778/play/RYn5hW9JbZ@3iQ6M3U
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",MTV 00s
+http://92.119.251.239/udp_vh1_sd/video.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",MTV 00s 
+http://200.107.234.74:8000/play/a0es
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",MTV 00s 
+http://98.158.107.22:8080/stream/059/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",MTV 00s 
+http://bluepoint/3328
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",MTV 00s 
+http://185.97.150.19:8082/89
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png", MTV 00s  [simpletv]
+https://www.voka.tv/c87e2737-5fe5-4f3d-b0c5-3292b2b1bc69
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png", MTV 00s  [simpletv]
+http://xittv.net/vh1.html
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png", MTV 00s 
+http://78.83.191.18:8000/play/a03n
+
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s 
+http://188.40.68.167/russia/mtv_dance/playlist.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s [simpletv]
+https://www.voka.tv/a2867550-987e-4773-8edc-295bc5c30b4d
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s [simpletv]
+http://xittv.net/mtv-dance.html
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s 
+http://50.7.231.221:8081/207/index.m3u8?wmsAuthSign=okad
 
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png", VEVO 80's
-https://bit.ly/2PhPTu7?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png", VEVO 90's
-https://bit.ly/3fofNac?wmsAuthSign=InspirationLinks
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png", Ocko Star 🇨🇿 
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://i.imgur.com/P8cVMle.jpg", QMusic Holanda
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s 
+http://200.107.234.74:8000/play/a0ev
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s [simpletv]
+https://www.voka.tv/cc89b83c-5345-4235-990e-e7a49e07e294
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s [simpletv]
+http://xittv.net/vh1clas.html
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s 
+http://46.10.218.219:8000/play/a06q
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s
+http://37.17.14.149:8903/play/a008
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s
+http://78.83.191.18:8000/play/a06q
 
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/now90.png", NOW 90
@@ -139,14 +164,51 @@ http://localgroupalive.xyz:8080/ipq35P72/wa0pcxMj/96900
 http://185.99.253.46:8000/play/a041
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/now80.png", NOW 80
 http://84.200.70.178:4542/bysid/50306
-
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/now80.png", NOW 70
 http://5.101.140.110:8000/play/a03k/index.m3u8?wmsAuthSign=InspirationLinks
 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png", VEVO 80's
+https://bit.ly/2PhPTu7?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png", VEVO 90's
+https://bit.ly/3fofNac?wmsAuthSign=InspirationLinks
 
+
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vh1.png", VH1ᴴᴰ 🇮🇹
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vh1.png", VH1 I Love Reality 
+https://bit.ly/3waz5pG
+
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/virgintv.png", Virgin Radio
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8?wmsAuthSign=InspirationLinks
+
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png", Retro tv 
+http://odenfull.co:2086/YKZzvFJb55/IlMx8Rt4vx/36249
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png", Retro tv 🇨🇿
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png", Retro tv 🇨🇿
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png", Retro tv 🇨🇿
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w381000196_b750000.m3u8?wmsAuthSign=InspirationLinks
+
+
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/capital%20tivu.png",|🇮🇹| Capital Tivù 
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/51Radio.png",|🇮🇹| 51 Radio Tv
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/51Radio.png",|🇮🇹| 51 Radio Tv 
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?wmsAuthSign=InspirationLinks
+
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/gotv.png", GO TV
+https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8?wmsAuthSign=InspirationLinks
+
+
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://192tv.tv/wp-content/uploads/2019/05/nieuwsbrief2.jpg", 192 tv
+http://46.149.191.219:9100/play/a004
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://192tv.tv/wp-content/uploads/2019/05/nieuwsbrief2.jpg", 192 tv
 http://87.126.155.253:4000/play/a013
 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="http://ritsatv.ru/files/poster/medium/700809.png", Dance Hits of the 90
+http://v2.catcast.tv/content/39500/index.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="http://ritsatv.ru/files/poster/medium/700809.png", Eurodance90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
@@ -161,69 +223,23 @@ https://loop-hip-hop-1.roku.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://storage.googleapis.com/loopmedia/website/icons/favicon-196x196.png",Loop Party
 https://loop-party-1.roku.wurl.com/manifest/3000.m3u8
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/90retrodance.png", Retro Dance 90
-https://retro-dance.online/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vintagemusic.png", Vintage Music Tv
 https://cloudietv.broadcastcdn.net/CLOUDIETV-VINTAGEMUSICTVUK/tracks-v5a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png", Ocko Star 🇨🇿 
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=InspirationLinks
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://i.imgur.com/P8cVMle.jpg", QMusic Holanda
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",MTV 00s 
-http://98.158.107.22:8080/stream/059/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",MTV 00s 
-http://bluepoint/3328
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",MTV 00s 
-http://185.97.150.19:8082/89
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png", MTV 00s  [simpletv]
-https://www.voka.tv/c87e2737-5fe5-4f3d-b0c5-3292b2b1bc69
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png", MTV 00s  [simpletv]
-http://xittv.net/vh1.html
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s 
-http://188.40.68.167/russia/mtv_dance/playlist.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s [simpletv]
-https://www.voka.tv/a2867550-987e-4773-8edc-295bc5c30b4d
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s [simpletv]
-http://xittv.net/mtv-dance.html
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png",MTV 90s 
-http://50.7.231.221:8081/207/index.m3u8?wmsAuthSign=okad
-
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s [simpletv]
-https://www.voka.tv/cc89b83c-5345-4235-990e-e7a49e07e294
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s [simpletv]
-http://xittv.net/vh1clas.html
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s 
-http://46.10.218.219:8000/play/a06q
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s
-http://37.17.14.149:8903/play/a008
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",MTV 80s
-http://78.83.191.18:8000/play/a06q
-
-
-
-
-
-============================================================= VH1 CHANNELS ================================================================================
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vh1.png", VH1ᴴᴰ
-http://50.7.34.155:2200/BR/VH1_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vh1.png", VH1ᴴᴰ 🇪🇸
-http://84.112.18.204:8001/1:0:1:6FF0:436:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vh1.png", VH1
-http://78.83.191.18:8000/play/a03n
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vh1.png", VH1ᴴᴰ 🇮🇹
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vh1.png", VH1 I Love Reality 
-https://bit.ly/3waz5pG
-
-
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nutatv.png", Nuta Tv
+http://89.160.178.236:8080/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nutatv.png", Nuta Tv
+http://91.218.60.3:8001/play/a04d
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png", Trace Hits
+http://5.101.140.110:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png", Trace Latinos
+http://45.90.106.7:7778/play/RYn5hW9JbZ@3iQ6M3U
 
 
 
@@ -314,18 +330,7 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vivamusic.png", Vivaᴴᴰ 🇷🇺
 https://stream.funcontent.ru/hls/vivarussia/index.m3u8
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/virgintv.png", Virgin Radio
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8?wmsAuthSign=InspirationLinks
 
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png", Retro tv 
-http://odenfull.co:2086/YKZzvFJb55/IlMx8Rt4vx/36249
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png", Retro tv 🇨🇿
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png", Retro tv 🇨🇿
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png", Retro tv 🇨🇿
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w381000196_b750000.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="http://ritsatv.ru/files/poster/medium/900227.png", Aiva
 http://194.190.78.91:8080/aivaya/index.m3u8
@@ -334,13 +339,6 @@ http://194.190.78.91:8080/aivaya/index.m3u8
 http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8?wmsAuthSign=InspirationLinks
 
 
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/capital%20tivu.png",|🇮🇹| Capital Tivù 
-https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/51Radio.png",|🇮🇹| 51 Radio Tv
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/51Radio.png",|🇮🇹| 51 Radio Tv 
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Flashback%2070x.png", Stingray 70s
 https://stirr.ott-channels.stingray.com/115/master.m3u8
@@ -377,8 +375,7 @@ https://infolink/52
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/gotv.png", GO TV
-https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8?wmsAuthSign=InspirationLinks
+
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Jukebox.png", Jukeboxᴴᴰ
 http://84.112.18.204:8001/1:0:16:191:9:85:C00000:0:0:0:
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://i.imgur.com/xsspfDW.png", Contac Musicᴴᴰ 🇫🇷
@@ -779,6 +776,21 @@ http://stream3.radio.is:443/80flashback
 http://stream3.radio.is:443/90flashback
 
 
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",🎧🇪🇸 Cassete fm
+https://stream.mediasector.es/radio/8180/cassettefm.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="",🎧🇪🇸 Antena Huelva
+http://stm1.emiteonline.com:8024/antenahuelva
+#EXTINF:-1 group-title="Radio" tvg-logo="",🎧🇪🇸 Loca FM Loca 80's
+http://s02.fjperezdj.com:8075/live
+#EXTINF:-1 group-title="Radio" tvg-logo="",🎧🇪🇸 Loca FM Loca 90's
+http://s02.fjperezdj.com:8000/live
+#EXTINF:-1 group-title="Radio" tvg-logo="",🎧🇪🇸 Lola FM
+http://srv0510.lcinternet.com:8053/stream
+#EXTINF:-1 group-title="Radio" tvg-logo="",🎧🇪🇸 LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="",🎧🇪🇸 SOL FM Radio
+https://eu1.lhdserver.es:9135/stream
 #EXTINF:-1 group-title="Radio" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200",🎧 Rock FM 🇪🇸
 https://rockfm-cope.flumotion.com/playlist.m3u8?wmsAuthSign=InspirationLinks
 #EXTINF:-1 group-title="Radio" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200",🎧 LOS40 Classic 🇪🇸
