@@ -414,7 +414,7 @@ http://91.126.141.13:1935/live/31/playlist.m3u8
 http://137.101.89.247:9981/stream/channelid/1153338200?profile=pass
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/iberalia.png",🇪🇸 Iberalias
 http://137.101.89.247:9981/stream/channelid/372944582?profile=pass
-#EXTINF:-1 group-title="Caza" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",🇪🇸 Cacavision 
+#EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",🇪🇸 Cacavision 
 http://188.166.1.125:9981/stream/channelid/2046277363?profile=pass
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",🇪🇸 Caza y pesca
 http://137.101.89.247:9981/stream/channelid/263887022?profile=pass
@@ -552,6 +552,10 @@ http://46.149.191.219:9101/play/a006
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",🇺🇸🏀 NBA tv
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TennisChannel.png",🇺🇸🥎 Tennis Plusᴴᴰ
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/skysports%20F1.jpg",🇬🇧🏎️ Sky F1
 http://wagnet.club:7000/sb/sb/675599
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸🏎️ F1
@@ -655,6 +659,9 @@ http://190.119.176.141:8000/play/a00f
 http://195.181.163.39/DEP_FOX_SPORTS_3_ARG/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",🇷🇺⚽️ Telekanal Futbol
+http://serv25.vintera.tv:8081/restream/football/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
+
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://iptv.live/images/logo/channel/crops/76f7f684ff82b23ef5a2d282b6758ea9.png",🇨🇭⚽️ C More Live
 http://37.123.183.241:9981/stream/channelid/1800225484?profile=pass
@@ -687,24 +694,15 @@ http://195.230.19.33:8003/play/a03k
  
  
 
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TennisChannel.png",🇺🇸🥎 Tennis Plusᴴᴰ
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png",🇺🇸 Sports TV Plus
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsportstvplus/chunks.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://static.epg.best/dk/TV2SportX.dk.png",🇩🇰⚽️ TV2 Sport X
 https://tv.dansk.live:8443/T5ZYdgzEc6/3qYGesgNaG/26
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://static.epg.best/dk/TV3Sport.dk.png",🇩🇰⚽️ TV3 Sport
 https://tv.dansk.live:8443/T5ZYdgzEc6/3qYGesgNaG/53
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://iptv.live/images/logo/channel/crops/3b30ca54bf7e00fd0a2a94731df2cec2.png",🇧🇬⚽️ Diema Sport
-http://85.187.243.80:8000/play/a03l
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://iptv.live/images/logo/channel/crops/3b30ca54bf7e00fd0a2a94731df2cec2.png",🇧🇬⚽️ Diema Sport 2
-http://85.187.243.80:8000/play/a03m
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://iptv.live/images/logo/channel/crops/3b30ca54bf7e00fd0a2a94731df2cec2.png",🇧🇬⚽️ Diema Sport 3
-http://83.228.75.166:8000/play/a0e8
- 
+
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png",🇺🇸 TVMatic Sport
 http://cdn.tvmatic.net/sport.m3u8
 
@@ -712,11 +710,6 @@ http://cdn.tvmatic.net/sport.m3u8
 http://46.149.191.219:9108/play/a003
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/sport1ger.png",🇩🇪⚽️ SPORT1
 http://93.241.75.134:19981/stream/channelid/944649193
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png",🇵🇱⚽️ Canal+ Sport 3
-http://89.160.178.236:8080/play/a042
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png",🇵🇱⚽️ Canal+ Sport 4
-http://89.160.178.236:8080/play/a044
 
 
 
@@ -743,8 +736,6 @@ http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="",🇨🇭⚽️ Svt 1 Sport
 http://37.123.183.241:9981/stream/channelid/199692779?profile=pass
 
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",🇷🇺⚽️ Telekanal Futbol
-http://serv25.vintera.tv:8081/restream/football/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 
 
 
@@ -871,8 +862,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?wowzasessionid=inspiration
 http://201.220.141.118:8000/play/a05x
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://my.golfid.io/build/img/dark-nbc-golf.svg",🇫🇷⛳ Golf Channel
 http://185.93.1.39/FRCH_GOLF_CHANNEL_HD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.golfchannel.com/themes/custom/golfchannel/logo.svg",🇺🇸⛳ Golf Channel
-http://159.192.73.198:1072/golf
+
 
 
 
@@ -889,8 +879,6 @@ http://159.192.73.198:1072/golf
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="http://img.vintera.tv/img/ico/sportivniy.png",🇷🇺🤼 Shamo Boxing
 http://serv25.vintera.tv:8081/restream/sportivniy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png",🇺🇸🤼 Sports TV Plus
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsportstvplus/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://vhx.imgix.net/mmatv/assets/934c8894-7122-43d5-9e56-5d2d29a98245.jpg",🇺🇸🤼  MMA tv
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",🇺🇸🤼  WWE
