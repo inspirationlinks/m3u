@@ -52,8 +52,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/inspiration.m3u8
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 RTP 1ᴴᴰ [simpletv]
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/chunklist_b1290000_slpor.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 RTP 1ᴴᴰ 
-http://95.94.215.77:9981/stream/channelid/1119009173
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 RTP 2 ˢᵈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/rtp2.smil/chunklist_b1290000_slpor.m3u8
@@ -104,12 +102,10 @@ http://78.142.2.56:9981/stream/channelid/314827913
 http://live.impresa.pt/live/sicint/sicint270p.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="sic.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 SICᴴᴰ
 http://213.164.212.58:9981/stream/channelid/439107053?profile=pass
-#EXTINF:-1 tvg-id="" tvg-id="sic.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 SICᴴᴰ 
-http://95.94.215.77:9981/stream/channelid/1379228569
 #EXTINF:-1 tvg-id="" tvg-id="sic.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 SIC ˢᵈ [Geoblock]   
 http://live.impresa.pt/live/sic/sic540p.m3u8?inspiration.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 SIC Noticiasᴴᴰ 
-http://95.94.215.77:9981/stream/channelid/935375657
+https://bit.ly/3ku8P4x?inspiration.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 SIC Noticias ˢᵈ [Geoblock]
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?inspiration.m3u8
 
@@ -141,11 +137,11 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?inspiration.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",🇵🇹 TVI ˢᵈ
 https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",🇵🇹 TVIᴴᴰ
-http://95.94.215.77:9981/stream/channelid/836107867
+https://bit.ly/3sTIDny?inspiration.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVI%2024.png",🇵🇹 TVI 24 ˢᵈ
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVI%2024.png",🇵🇹 TVI 24ᴴᴰ 
-http://95.94.215.77:9981/stream/channelid/482255333
+https://bit.ly/3BoGl31?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png",🇵🇹 TVI REALITY ˢᵈ
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?inspiration.m3u8
 
@@ -226,7 +222,7 @@ https://bit.ly/2WuaVJF?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.abola.pt/img/logoabola.png",🇵🇹 A Bola tv
 https://bit.ly/2UNMHsT?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CMTV.png",🇵🇹 CMTV
-http://95.94.215.77:9981/stream/channelid/467883627
+https://bit.ly/2WuBM8a?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png",🇵🇹 Porto Canal ˢᵈ
 http://213.13.26.11:1935/live/portocanal/inspirationlinks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/11.png",🇵🇹⚽️ Canal 11 Internacionalᴴᴰ
@@ -324,6 +320,10 @@ https://bit.ly/3rUCg15
 https://bit.ly/3cXQNoL
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png",🇧🇷🧒 Pluto Baby Firts 
 https://bit.ly/3uuuEnH
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1280px-Logo_The_Simpsons.svg.png",🇪🇸🧒 Los Simpsons
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png",🇪🇸🧒 Cinco tv Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://image.roku.com/developer_channels/prod/a9e3632f062bfcb43ad169ace64fae05b653d386c37f98d148979b412e269b9d.png",🇺🇸🧒 Lego Channelᴴᴰ
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://i.pinimg.com/736x/dd/14/76/dd147623043742b8b120f71371162adf.jpg",🇺🇸🧒 Lego Toons
@@ -498,11 +498,10 @@ https://the-pet-collective-samsung.plex.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://iptv.live/images/logo/channel/crops/cb9ca7ca922c5a2e5772d398a8cfcfbf.png", RTP Internacional
 http://pvserver.link:8080/mkZ5D3DteY/6178378546/59041
 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇬🇧⚽️ Premier Sports 1
+https://bit.ly/3zkM5Kp?inspiration.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇬🇧⚽️ BT Sport ESPN
-https://bit.ly/3Be7TYB?inspiration.m3u8
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇪🇸⚽️ Goltv
-http://pvserver.link:8080/mkZ5D3DteY/6178378546/58611
+https://bit.ly/3yoUzim?inspiration.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇧🇷⚽️ ESPN Extra
 http://200.194.238.229:8000/udp/225.1.1.14:1234
@@ -587,16 +586,17 @@ http://91.126.141.13:1935/live/91/playlist.m3u8
 http://51.91.73.99:25461/spain/XDWu1KatRP/21668
 
 
+
+
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ La Liga TV
+https://bit.ly/3Dsf1CA?inspiration.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇺🇸⚽️ La Liga TV
 https://bit.ly/3kushxS?inspiration.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png",🇪🇸⚽️ Liga Campeones
+https://bit.ly/2UVgf89?inspiration.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png",🇪🇸⚽️ Liga Campeones 
 http://51.91.73.99:25461/spain/XDWu1KatRP/21768
 
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DirecTV_Sports.png",🇪🇨⚽️ DirecTV Sports 1
-http://195.181.163.39/ECU-DIRECTTV_SP1/index.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DirecTV_Sports.png",🇪🇨⚽️ DirecTV Sports 2
-http://195.181.163.39/ECU-DIRECTTV_SP2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇪🇸⚽️ Bein Sport ñ
@@ -627,9 +627,6 @@ http://wagnet.club:7000/sb/sb/643581
 http://wagnet.club:7000/sb/sb/643584
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://img01.bt.co.uk/s/assets/290321/images/logo/logo-2018.svg",🇬🇧⚽️ BT Sport 3
 http://wagnet.club:7000/sb/sb/643582
-
-
-
 
 
 
@@ -734,7 +731,8 @@ http://79.106.48.2:4578/live/sport_mob_ppp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Halowtv.jpg",🇺🇸⚽️ Halowᴴᴰ Sport
 http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
 
-
+#EXTINF:-1 tvg-id="" group-title="Sport"  tvg-logo="https://i.imgur.com/5m0i9if.png",🇺🇸 Eleven Sports
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://i.imgur.com/fwOuEBl.png",🇮🇹 SportOutdoor
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/1200.m3u8
