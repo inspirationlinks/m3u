@@ -101,6 +101,8 @@ http://78.142.2.56:9981/stream/channelid/314827913
 
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-id="sic.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC%20Internacional.png",🇵🇹 SIC Internacional ˢᵈ [Geoblock] 
 http://live.impresa.pt/live/sicint/sicint270p.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="sic.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 SICᴴᴰ
@@ -176,11 +178,14 @@ https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="http://www.kuriakos-tv.com/img/logo.png",🇵🇹 Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/inspirationlinks.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://stv.co.mz/wp-content/uploads/2021/01/logo-STV-PHC.bmp",🇵🇹 Soico TV Mocambique
+#EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://www.tvzimbo.ao/fotos/frontends/logo-tvzimbo.png",🇵🇹🇦🇴 Tv Zimbo
+https://player-api.new.livestream.com/accounts/29819666/events/9254936/broadcasts/225474306.secure.m3u8
+https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
+#EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://stv.co.mz/wp-content/uploads/2021/01/logo-STV-PHC.bmp",🇵🇹🇦🇴 Soico TV Mocambique
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/index_153_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_5.png",🇵🇹 TVM Internacional ˢᵈ
+#EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_5.png",🇵🇹🇦🇴 TVM Internacional ˢᵈ
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/chunklist_w1739191580_b714000_slpor.m3u8
-#EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_5.png",🇵🇹 TVM ˢᵈᴸᴼᵂ
+#EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_5.png",🇵🇹🇦🇴 TVM ˢᵈᴸᴼᵂ
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w1894321815_b714000_slpor.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png",🇵🇹 Macau Tv
 http://61.244.22.4:80/ch2/ch2.live/chunklist_w325220396.m3u8?wowzasessionid=inspiration
@@ -991,10 +996,16 @@ http://203.154.243.89:11205
 http://90.255.245.4:9981/stream/channelid/1917572166?profile=pass
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ParamountChannel.jpg",🇪🇸🎥 Paramount Networkᴴᴰ ¹
 http://flus1.sanpedrowifi.com/live/paramount.sd.ird/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://img.apksum.com/34/com.weathergroup.localnow/4.5.0/icon.png",🇺🇸🎥 Local Now 90s Moviesᴴᴰ
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://img.apksum.com/34/com.weathergroup.localnow/4.5.0/icon.png",🇺🇸🎥 Local Now 80s Moviesᴴᴰ
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://cinevaulttv.com/images/cinevault_master_logo.png",🇺🇸🎥 Cinevault 80sᴴᴰ
 https://gsn-cinevault-80s-1-us.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://cinevaulttv.com/images/cinevault_master_logo.png",🇺🇸🎥 Cinevault 70sᴴᴰ
 https://gsn-cinevault-70s-1-us.vizio.wurl.tv/2000.m3u8
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://media.unreel.me/prod/popcornflix/general/f91d27fb-2b17-4cd6-b308-cf06c00e36cc",🇺🇸🎥 PopCornFlix Action ᴴᴰ
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://discover.film/wp-content/uploads/2020/12/film-logo.png",🇺🇸🎥 Discover Fimᴴᴰ
@@ -1003,8 +1014,7 @@ https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
 http://halowtv.online:8080/HalowTV/FSyzHfEhvb/138
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="",🇺🇸🎥 Filmstream
 https://spi-filmstream-1-au.samsung.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://img1.wsimg.com/isteam/ip/d657f278-1d55-4f25-8434-d92320aeffc0/logo/c49d6f7c-fa09-4386-adaa-b627c62bef45.png",🇺🇸🎥 Smash Entertainmentᴴᴰ
-http://a3.smashmalta.com:82/live/smash/smash/27.ts
+
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://prod1-kraken-cloudfront.rakuten.tv/images/favicons/favicon-503f333345.png",🇺🇸🎥 Rakuten Tv Action Moviesᴴᴰ
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://prod1-kraken-cloudfront.rakuten.tv/images/favicons/favicon-503f333345.png",🇺🇸🎥 Rakuten Tv Comedy Moviesᴴᴰ
