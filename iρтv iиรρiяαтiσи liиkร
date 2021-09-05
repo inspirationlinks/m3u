@@ -831,8 +831,6 @@ http://37.221.122.86:8383/hls/trspor/playlist.m3u8
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg",🇮🇩 TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Motors" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/00f4d0be3ac342bda2cfa69262eeb3ab_202010050919.svg",🇦🇱⚽️ RTSH Sport
-http://79.106.48.2:4578/live/sport_mob_ppp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/GAMR365_190x190.png",🇵🇸 PTV
 http://live.btv2020.com:1935/live/btv/chunklist_w1848779921.m3u8
 
@@ -1209,7 +1207,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Historia.png",🇺🇸 Historyᴴᴰ
 http://83.228.75.166:8000/play/a0bp
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/H2.png",🇪🇸 H2ᴴᴰ
-http://45.5.8.78:8000/play/
+http://45.5.8.78:8000/play/a027
 
 
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery%20Channel.png",🇺🇸 Discoveryᴴᴰ 
@@ -1543,8 +1541,6 @@ https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://github.com/teamblue65/LOGO/raw/master/SKYNEWS.png",🇺🇸 SKY NEWS ᴴᴰ
 http://skynews-go-hls.ak-cdn.skydvn.com:80/skynews/1404/05.m3u8
-#EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="http://tv.10dailythings.com/images/channels/US/yahoo-news-720p/normal.png",🇺🇸 Yahoo News
-https://content-aeuf1.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b/g.m3u8?pbs=068ef38f6a2540078d9e5e5e8db2a7fa
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png",🇬🇧 NHK Worldᴴᴰ 
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://www.aljazeera.com/static/media/aj-footer-logo.bac952ad.svg",🇬🇧 Al Jazeeraᴴᴰ
@@ -1561,8 +1557,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chu
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="",🇬🇧 CGTNᴴᴰ
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200",🇺🇸 ABC News Liveᴴᴰ
-https://content-aeuf1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?pbs=f81d7db788234b16a25398e92d163ae7
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200",🇺🇸 CBS Newsᴴᴰ
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://www.abc.net.au/news-web/assets/favicon-32x32.png",🇺🇸 ABC News Australiaᴴᴰ
@@ -1606,15 +1600,14 @@ http://bit.ly/2WwEp5W////
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="http://tv.10dailythings.com/images/channels/US/vh1-1080p/normal.png",🇺🇸🎶 VH1
-https://content-aeui1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=9429cd5a866d46ebab4aa536fc1147f0
+
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="http://tv.10dailythings.com/images/channels/US/local-now-music-720p/normal.png",🇺🇸🎶 Local Now|Music
 https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/97adec7fda9fe405dbfe80745d07ec9b.webp",🎶 WHAM TV 
 https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w2005040847.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://qello.com/static/images/logos/logo-qello-horizontal.svg",🎶 Qello Concerts Stingray
-https://csm-e-ces1eurxaws102j8-ydwefizndw5.tls1.yospace.com/csm/live/211935407/6.m3u8;jsessionid=946A46B06EC2C01BFAAED1C59A60C1D5.csm-e-ces1eurxaws102j8-ydwefizndw5.tls1.yospace.com
+https://csm-e-ces1eurxaws102j8-ydwefizndw5.tls1.yospace.com/csm/live/211935407.m3u8?Token=Inspiration
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png",🎶 World Street Music [new]
 https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8
 
