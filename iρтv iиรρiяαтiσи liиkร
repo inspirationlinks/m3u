@@ -46,13 +46,13 @@ https://bit.ly/31s29L6
 
 
 
-#EXTINF:-1 tvg-id="" tvg-id="RTP1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP_Internacional.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠●RTP Internacional ²
+#EXTINF:-1 tvg-id="" tvg-id="RTP1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP_Internacional.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠●RTP Internacionalˢᵈ²
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="" tvg-id="RTP1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP_Internacional.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠●RTP Internacional ˢᵈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/inspiration.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%201.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠●RTP 1ᴴᴰ 
-http://93.152.174.144:4000/play/rtp1
+http://93.152.174.144:4000/play/rtp1/index.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%201.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠●RTP 1ᴴᴰ [simpletv]
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/chunklist_b1290000_slpor.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠●RTP 2 ˢᵈ
@@ -1240,7 +1240,7 @@ http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png",🇺🇸🎬 ╠●&Flixᴴᴰ ²
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://i.imgur.com/Wad6CD4.png",🇺🇸🎬 ╠●Netmax tv
+#EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png",🇺🇸🎬 ╠●Netmax tv
 http://live.netmaxtv.com:8080/live/live/chunklist_w1439240750.m3u8
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/290px-Rock_Entertainment.png",🇺🇸🎬 ╠●Rock Entertainment
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
@@ -1968,11 +1968,11 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=Inspiration
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://www.carolina.cl/_templates/desktop/includes/img/fixed-head-logo.png",🇪🇸🎼 ╠●Carolina Tv  
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="",🇪🇸🎼 ╠●Mola hits tv
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://mola01.koicdn.com/assets-global/images/mola-text-horizontal-white2.png",🇪🇸🎼 ╠●Mola hits tv
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png",🇪🇸🎼 ╠●Music Latina 
 https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://www.urbanrevolution.es/videos/userPhoto/logo.png?1614528474",🇪🇸🎼 ╠●Urban Revolution tv
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://www.urbanrevolution.es/wp-content/uploads/2021/09/cropped-simbolo_negativo-192x192.png",🇪🇸🎼 ╠●Urban Revolution tv
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
 
