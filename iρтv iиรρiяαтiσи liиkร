@@ -152,7 +152,7 @@ http://93.152.174.144:4000/play/tvi24/index.m3u8
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png",🇵🇹 ╠●TVI REALITY ˢᵈ
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?inspiration.m3u8
-#EXTINF:-1 tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_7706.jpeg",🇧🇷 ╠●A Fazenda 13 [Only simpletv]
+#EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_7706.jpeg",🇧🇷 ╠●A Fazenda 13 [Only simpletv]
 https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_1000/index.m3u8
 
 
@@ -2054,15 +2054,15 @@ https://stream.vagalume.fm
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
 #EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio80.jpg",🇪🇸🎧 ╠●Los 40 Classic 
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ╠●Flashback 80s
+#EXTINF:-1 group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ╠●Flashback 80s
 http://stream3.radio.is:443/80flashback
-#EXTINF:-1 group-title="Radio" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ╠●Energy 80s
+#EXTINF:-1 group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ╠●Energy 80s
 http://energy80s.ice.infomaniak.ch/energy80s-high.mp3
 #EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🇧🇷🎧 ╠●Rádio Anos 80
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ╠●All Euro 80's
+#EXTINF:-1 group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ╠●All Euro 80's
 http://strm112.1.fm/80s_90s_mobile_mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ╠●UK 80s
+#EXTINF:-1 group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ╠●UK 80s
 http://sc2b-sjc.1.fm:7032/
 #EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio90s.png",🇧🇷🎧 ╠●Rádio Anos 90
 https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
