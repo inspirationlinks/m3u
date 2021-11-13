@@ -251,9 +251,12 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcelebrityscene/chunks.m3u8
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hola.jpg",🇪🇸 ╠● iHola Playᴴᴰ
 https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hola.jpg",🇭🇳 ╠● Hola! [off]
-#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MasChic.png",🇲🇽 ╠● Mas Chic [off]
-
+#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hola.jpg",🇭🇳 ╠● Hola! [ON]
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/94
+#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MasChic.png",🇲🇽 ╠● Mas Chic [ON]
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/95
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/decasa.png",🇪🇸 ╠● DeCasa
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/1205
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/decasa.png",🇪🇸 ╠● DeCasa
 http://37.132.188.10:8001/1:0:1:7795:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2021/03/TRAVELBOXBRAZIL_LOGO_ROSA.png",🇧🇷✈️ ╠● Travel tv
@@ -576,15 +579,21 @@ http://91.126.141.13:1935/live/31/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/toros.png",🇪🇸 ╠● Toros tvᴴᴰ
 http://37.132.188.10:8001/1:0:1:7570:412:1:C00000:0:0:0:
+
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/iberalia.png",🇪🇸 ╠● Iberalias
 http://rv.imax.re:80/TAZAGHJGHJGH/cBh02OGks6/172011
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/iberalia.png",🇪🇸 ╠● Iberalias
 http://winges-4k.com:25461/ABDELAZIZ@REGHID/xtpTttmFlQ/12277
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/iberalia.png",🇪🇸 ╠● Iberalias
 http://37.132.188.10:8001/1:0:1:746a:3f0:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",🇪🇸 ╠● Cacavision
+
+#EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",🇵🇹🇪🇸 ╠● Cacavision
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/226707
+#EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",🇵🇹🇪🇸 ╠● Cacavision
 http://188.166.1.125:9981/stream/channelid/2046277363?profile=pass
 
+#EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",🇪🇸 ╠● Caza y pesca
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/1189
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",🇪🇸 ╠● Caza y pesca
 http://37.132.188.10:8001/1:0:1:772B:416:1:C00000:0:0:0:
 
@@ -659,10 +668,11 @@ http://45.148.147.13:8007/play/a02j
 http://45.148.147.13:8007/play/a02l
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷⚽️ ╠● Premiere 
 http://45.148.147.13:8007/play/a02m																																						
-
-
+#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇵🇪⚽️ ╠● Goltv
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/382
 #EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇵🇪⚽️ ╠● Goltv 
 http://ytv.plus:25461/Liliana/Liliana/151
+
 
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇫🇷⚽️ ╠● Rmc sport 1
@@ -829,6 +839,8 @@ http://84.22.33.214/nbatv/mpegts?token=test
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TennisChannel.png",🇺🇸🥎 ╠● Tennis Plusᴴᴰ
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TennisChannel.png",🇺🇸🥎 ╠● Tennis Channel
+http://oscartv.mine.nu:25461/jmr1234/jmr1234/582
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true",🇺🇸♠️ ╠● Poker tv
 http://51.210.199.17:80/hls/stream.m3u8
 
@@ -861,6 +873,8 @@ http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ ╠● La Liga bar
 http://winges-4k.com:25461/ABDELAZIZ@REGHID/xtpTttmFlQ/12288
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ ╠● Movistar La Liga
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/1211
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ ╠● Movistar La Liga
 https://bit.ly/3kushxS?inspiration.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ ╠● Movistar La Liga
 http://37.132.188.10:8001/1:0:1:7797:424:1:C00000:0:0:0:
@@ -885,8 +899,8 @@ http://4.26.188.2:8081/udp/239.193.10.101:23901
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png",🇺🇸⚽️ ╠●  FS2
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 
-
-
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇪🇸⚽️ ╠● Bein Sports ñ
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/40963
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧⚽️ ╠● Bein Sport
 http://213.7.193.54:4000/play/a002
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷⚽️ ╠● Bein Sports 1ᴴᴰ
@@ -918,7 +932,8 @@ http://rv.imax.re:80/TAZAGHJGHJGH/cBh02OGks6/79297
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸🏎️ ╠● DAZN F1
 http://37.132.188.10:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
 
-
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/motogp.svg",🇬🇧🏍 ╠● Moto GP
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/263317
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/skysports%20F1.jpg",🇬🇧🏎️ ╠● Sky F1
 http://213.226.69.11:8080/skysportf1/index.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/skysports%20F1.jpg",🇬🇧🏎️ ╠● Sky F1
@@ -1354,6 +1369,8 @@ http://45.225.93.154:8000/play/a01q
 #EXTINF:-1 group-title="cinema&Series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",🇲🇽🇺🇸🎬 ╠● Star Life
 http://190.61.37.9:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="cinema&Series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",🇲🇽🇺🇸🎬 ╠● Star Series
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/263346
+#EXTINF:-1 group-title="cinema&Series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",🇲🇽🇺🇸🎬 ╠● Star Series
 http://45.232.178.10:8000/play/a00h
 
 #EXTINF:-1 tvg-id="" group-title="cinema&Series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png",🇺🇸🎬 ╠● &Flixᴴᴰ 
@@ -1586,8 +1603,10 @@ https://crimetimebamca-roku.amagi.tv/playlist1080-p.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x360_440000/index.m3u8
 
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",🇺🇸 ╠● Crime Investigation
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/245
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",🇺🇸 ╠● Crime Investigation²
 http://78.83.191.18:8000/play/a03p
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",🇺🇸 ╠● Crime Investigation
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",🇺🇸 ╠● Crime Investigation²
 http://46.149.191.243:8999/play/a009
 
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png",🇺🇸 ╠● IDiscovery+1
@@ -1602,6 +1621,11 @@ http://58.65.171.202:8000/play/10509
 http://195.222.7.26:7001/play/a02d
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png",🇺🇸 ╠● Discovery Turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery%20Channel.png",🇺🇸 ╠● Discoveryᴴᴰ 
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/312
+
+
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/HGTV_US_Logo_2015.svg",🇺🇸 ╠● Discovery HGTVᴴᴰ 
 http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/HGTV_US_Logo_2015.svg",🇺🇸 ╠● HGTVᴴᴰ 
@@ -1636,12 +1660,15 @@ http://58.65.171.202:8000/play/3119
 https://tv.dansk.live:8443/enba/enba/81
 
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/H2.png",🇺🇸 ╠● H2ᴴᴰ
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/36912
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/H2.png",🇺🇸 ╠● H2ᴴᴰ
 http://78.83.191.18:8000/play/a06j
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/H2.png",🇺🇸 ╠● H2ᴴᴰ
 https://tv.dansk.live:8443/enba/enba/82
 
-
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Odisseia.png",🇪🇸 ╠● Od!seia [ON]
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Odisseia.png",🇪🇸 ╠● Od!seia
+http://51.222.43.170:36995/Luisapk/Si0yNffK39/1187
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Odisseia.png",🇪🇸 ╠● Od!seia
 http://rv.imax.re:80/TAZAGHJGHJGH/cBh02OGks6/79254
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic.png",🇺🇸🇷🇴 ╠● Nat Geographicᴴᴰ [Double audio]
 http://79.115.140.86:18000/play/a01c
