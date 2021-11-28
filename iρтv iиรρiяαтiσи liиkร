@@ -384,6 +384,8 @@ https://www.imdb.com/
 http://185.186.81.150:9777/24kitchen
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Food%20Network.png",🇺🇸🍽️ ●| Food Network 
 http://83.78.23.248:7000/play/a031
+#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png",🇺🇸🍽️ ●| BBC Food [Pluto]
+https://bit.ly/bbcfood_inspiration_m3u8
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg",🇺🇸🍽️ ●| Bon Appetitᴴᴰ
 https://bonappetit-samsung.amagi.tv/master1080p.m3u8
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://www.sbs.com.au/global/profiles/sbsdistribution/themes/global/images/logo/colours/green-1.png",🇺🇸🍽️ ●| SBS Foodᴴᴰ 
@@ -616,6 +618,9 @@ http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14067
 http://51.222.43.170:36995/Luisapk/Si0yNffK39/1189
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",🇪🇸 ●| Caza y pesca
 http://62.37.6.216:8001/1:0:1:772B:416:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png",🇺🇸 ●| Fishing [Pluto]
+https://bit.ly/Fishing_inspiration_m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png",🇮🇹 ●| Fishing TV [off]
 
@@ -961,7 +966,7 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/717
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",🇪🇸⚽️ ●| Sky Sports Premier League
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",🇪🇸⚽️ ●| Sky Sports Premier
 http://45.166.95.30:8000/play/6001lwstream
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",🇩🇪⚽️ ●| Sky Sport 1
 http://coronaservers.com:8080/hdlt1sCASk/iT6vi2lNnTxx2/19519
@@ -990,16 +995,6 @@ http://coronaservers.com:8080/hdlt1sCASk/iT6vi2lNnTxx2/7231
 http://62.37.6.216:8001/1:0:19:74D8:3F8:1:C00000:0:0:0
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 4
 http://62.37.6.216:8001/1:0:19:74D6:3F8:1:C00000:0:0:0
-
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tivibuSpor.png",🇹🇷⚽️ ●| Tivibu Spor 1
-http://coronaservers.com:8080/hdlt1sCASk/iT6vi2lNnTxx2/378
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tivibuSpor.png",🇹🇷⚽️ ●| Tivibu Spor 2
-http://coronaservers.com:8080/hdlt1sCASk/iT6vi2lNnTxx2/377
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tivibuSpor.png",🇹🇷⚽️ ●| Tivibu Spor 3
-http://coronaservers.com:8080/hdlt1sCASk/iT6vi2lNnTxx2/376
-
-
 
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/sport%F0%9F%87%AD%F0%9F%87%BA2.png",🇺🇦⚽️ ●| Спорт 2
@@ -1357,12 +1352,14 @@ https://vk.com/luky74////////
 
 
 
-
-
-#EXTINF:-1 group-title="films&series" tvg-logo="https://www.cbsjustice.tv/grfx/stuff/cbs-justice-logo.png",🇺🇸🎬 ●|CBS Justice
+#EXTINF:-1 group-title="films&series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/CSI_Logo.png",🇺🇸🎬 ●| CSI [Pluto]
+https://bit.ly/csi_inspiration_m3u8
+#EXTINF:-1 group-title="films&series" tvg-logo="https://www.cbsjustice.tv/grfx/stuff/cbs-justice-logo.png",🇺🇸🎬 ●| CBS Justice
 http://83.78.23.248:7000/play/a02d
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://www.cbsdrama.tv/grfx/stuff/cbs-drama-logo.png",🇺🇸🎬 ●| CBS Drama
+#EXTINF:-1 group-title="films&series" tvg-logo="https://www.cbsdrama.tv/grfx/stuff/cbs-drama-logo.png",🇺🇸🎬 ●| CBS Drama
 http://83.78.23.248:7000/play/a02c
+#EXTINF:-1 group-title="films&series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/5Star_logo_2019.svg",🇬🇧 ●| 5Star
+http://83.78.23.248:7000/play/a025
 
 #EXTINF:-1 group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/FOX.png",🇺🇸🇷🇺🎬 ●|Foxᴴᴰ [Double audio]
 http://94.101.225.142:9981/stream/channelid/1430677251
@@ -1415,7 +1412,7 @@ https://uksono1-samsunguk.amagi.tv/playlist1080p.m3u8
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hbo.png",🇺🇸🎬 ●| HBOᴴᴰ
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hbo.png",🇺🇸🇵🇱🎬 ●| HBO ² [Duble audio]
+#EXTINF:-1 group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hbo.png",🇺🇸🇵🇱🎬 ●| HBO Original [Duble audio]
 http://195.206.253.157:20300/hbo
 #EXTINF:-1 group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hbo.png",🇺🇸🇵🇱🎬 ●| HBO 2 [Duble audio]
 http://195.206.253.157:19100/hbo2
@@ -1460,6 +1457,8 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_sleng.m3u8
 
 
+#EXTINF:-1 group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/horror.png",🇺🇸🎬 ●| Horror [Pluto]
+https://bit.ly/horrorterror
 #EXTINF:-1 group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/horror.png",🇺🇸🎬 ●| Horror Channel
 http://ac.traveliptv.nl:80/Winges4K/chupYX1144/13889
 #EXTINF:-1 group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/horror.png",🇺🇸🎬 ●| Horror Channel
@@ -1584,10 +1583,8 @@ https://bit.ly/2WwEp5W
 
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/teamblue65/LOGO/raw/master/CBSREALITY.png",🇺🇸 ●| CBS Reality ²
 http://83.78.23.248:7000/play/a02i
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://www.channel5.com/wp-content/themes/channel5/images/channel5-logo-flat.png",🇬🇧 ●| 5Star+1
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/5Star_logo_2019.svg",🇬🇧 ●| 5Star+1
 http://83.78.23.248:7000/play/a027
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://www.channel5.com/wp-content/themes/channel5/images/channel5-logo-flat.png",🇬🇧 ●| 5Star
-http://83.78.23.248:7000/play/a025
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://dmax.de/apple-touch-icon.png",🇬🇧 ●| Dmax
 http://83.78.23.248:7000/play/a032
 
@@ -1636,6 +1633,10 @@ https://dangertv.samsung.wurl.com/manifest/3000.m3u8
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/07.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/crime%20300.png",🇺🇸 ●| Crime 360ᴴᴰ
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/crime%20300.png",🇺🇸 ●| Crime 360ᴴᴰ [Pluto]
+https://bit.ly/crime360_inspiration_m3u8
+#EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5L00bR7foVeiElBRCknr95wwlcw1GhggxWBdO=s900-c-k-c0x00ffffff-no-rj",🇺🇸 ●| FBI Filesᴴᴰ [Pluto]
+https://bit.ly/fbi_inspiration_m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/crimetime.png",🇺🇸 ●| Crime Timeᴴᴰ
 https://crimetimebamca-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://i.imgur.com/BDtkjpS.png",🇺🇸 ●| Filmrise Crime
@@ -1800,7 +1801,12 @@ http://195.78.104.250:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",🇺🇸 ●| Animal Planetᴴᴰ³
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",🇺🇸 ●| Animalsᴴᴰ [Pluto]
+https://bit.ly/animals_inspiration_m3u8
 
+
+#EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://www.animauxtv.fr/upload/media/animaux-600af678206e1.png",🇫🇷 ●| Animaux [Pluto]
+https://bit.ly/animaux_inspiration_m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://www.animauxtv.fr/upload/media/animaux-600af678206e1.png",🇫🇷 ●| Animaux
 http://s1.iptvstream.net:8000/carterami/LGkyVAuNti/1144
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://www.animauxtv.fr/upload/media/animaux-600af678206e1.png",🇫🇷 ●| Animaux
@@ -2127,6 +2133,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",🇺🇸 ●| CNNᴴᴰ
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",🇺🇸 ●| CNN
+https://bit.ly/cnn_inspiration
 http://93.241.75.134:19981/stream/channelid/1775336695?profile=pass
 #EXTINF:-1 group-title="Informação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",🇬🇧 ●| CGTN 
 http://93.241.75.134:19981/stream/channelid/1073463379?profile=pass
@@ -2204,8 +2211,8 @@ http://bit.ly/2WwEp5W////
 
 
 
-
-
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",🎼 ●| MTV en Vivo
+https://bit.ly/mtvlive_inspiration_m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",🎼 ●| MTV 00s
 http://195.206.253.157:18000/vh1
 
