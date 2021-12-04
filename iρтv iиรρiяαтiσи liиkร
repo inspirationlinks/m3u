@@ -160,8 +160,6 @@ http://94.61.44.29:7500/play/a04u/index.m3u8
 https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://cnnportugal.iol.pt/icons/apple-touch-icon-144x144.png",🇵🇹 ●| CNN Portugalˢᵈ
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://cnnportugal.iol.pt/icons/apple-touch-icon-144x144.png",🇵🇹 ●| CNN Portugalᴴᴰ [off]
-
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png",🇵🇹 ●| TVI REALITY ˢᵈ
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/A_Fazenda.png",🇧🇷 ●| A Fazenda
@@ -875,12 +873,10 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
 
 
 
-
-
-http://rv.imax.re:80/TAZAGHJGHJGH/cBh02OGks6/199949
-
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ ●| La Liga Bar
 http://45.166.95.30:8000/play/a0ll
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ ●| La Liga Bar
+http://rv.imax.re:80/TAZAGHJGHJGH/cBh02OGks6/199949
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ ●| Movistar La Liga
 http://51.222.43.170:36995/Luisapk/Si0yNffK39/1211
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/movistarfutebol.png",🇪🇸⚽️ ●| Movistar La Liga
@@ -2053,6 +2049,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",🇺🇸 ●| CNN
 https://bit.ly/cnn_inspiration
+#EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",🇺🇸 ●| CNN
 http://93.241.75.134:19981/stream/channelid/1775336695?profile=pass
 #EXTINF:-1 group-title="Informação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",🇬🇧 ●| CGTN 
 http://93.241.75.134:19981/stream/channelid/1073463379?profile=pass
@@ -2203,11 +2200,11 @@ https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/playlist.m3
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://sck.pm/aazR",🎼 ●| VIVA
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Rock_TV.png",🎶 ╠● Rock tv 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Rock_TV.png",🎼 ●| Rock tv 
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://www.rockland.de/typo3conf/ext/ch_radio21/Resources/Public/icons/rockland/apple-icon-120x120.png",🎶 ╠● Rocklandᴴᴰ 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://www.rockland.de/typo3conf/ext/ch_radio21/Resources/Public/icons/rockland/apple-icon-120x120.png",🎼 ●| Rocklandᴴᴰ 
 http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",🎶 ╠● Muzzik Rockᴴᴰ 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",🎼 ●| Muzzik Rockᴴᴰ 
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8?wmsAuthSign=InspirationLinks
 
 
