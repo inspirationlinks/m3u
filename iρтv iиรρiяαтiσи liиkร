@@ -396,7 +396,7 @@ https://www.imdb.com/
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/24%20Kitchen%20HD.png",🇺🇸🍽️ ●| 24Kitchenᴴᴰ
 http://91.236.251.50:8090/play/a01e
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Food%20Network.png",🇺🇸🍽️ ●| Food Network 
-http://83.78.23.248:7000/play/a031
+http://83.78.23.248:7000/play/FoodNetwork
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png",🇺🇸🍽️ ●| BBC Food [Pluto]
 https://bit.ly/bbcfood_inspiration_m3u8
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg",🇺🇸🍽️ ●| Bon Appetitᴴᴰ
@@ -876,9 +876,6 @@ http://154.62.74.29:1935/live/barza/chunklist.m3u8
 http://154.62.74.29:1935/live/gol/chunklist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",🇪🇸⚽️ ●| tdp
-http://79.116.8.84:9981/stream/channelid/1451587760?profile=pass
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",🇪🇸⚽️ ●| tdp
 http://91.126.141.13:1935/live/91/playlist.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",🇪🇸⚽️ ●| tdp
@@ -2008,8 +2005,6 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",🇪🇸 ●| Clan
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/clan/dash/clan.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=077b500a05379a2e5ac15897d8a96f8640f4c30a2
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",🇪🇸 ●| Energy
-http://79.116.8.84:9981/stream/channelid/1400149774?profile=pass
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",🇪🇸 ●| Energy
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/energy/dash/energy.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0778f31a36b9167da2ac914efdcd9ceeed5c22767
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",🇪🇸 ●| DKiss
 http://79.116.8.84:9981/stream/channelid/1884118474?profile=pass
@@ -2022,11 +2017,7 @@ http://95.19.236.113:8001/1:0:1:7587:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",🇪🇸 ●| Neoxᴴᴰ
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=03fab75a9287d0b2dd1aaca726d9d06ad2f64e769
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png",🇪🇸 ●| Bmadᴴᴰ
-http://79.116.8.84:9981/stream/channelid/36481004?profile=pass
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png",🇪🇸 ●| Bmadᴴᴰ
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=00b33e3f25c50bcd09f64efb9d49f78a431779e78
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",🇪🇸 ●| Mega
-http://79.116.8.84:9981/stream/channelid/692533256?profile=pass
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",🇪🇸 ●| Mega
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0b2c7333d5b73ad0d55785822992f7772763885bc
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200",🇪🇸 ●| Divinityᴴᴰ 
@@ -2051,12 +2042,6 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 http://174.138.118.252/live/trece_src.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://imgur.com/68LNS8e.png",🇪🇸 ●| Televisión Canariaᴴᴰ
 https://rtvc-live1-rm.flumotion.com/rtvc-rm/live1-rm_high/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://statics.ccma.cat/img/logos/logo_bondiaTV.svg",🇪🇸 ●| Bon Dia tv
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.cyltv.es/img/la8Burgos.svg",🇪🇸 ●| La 8 Burgosᴴᴰ
-https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200",🇪🇸 ●| TV3CATᴴᴰ
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b4128000_DVR.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://beteve.cat/wp-content/themes/beteve/img/logo.svg",🇪🇸 ●| betevéᴴᴰ
@@ -2073,6 +2058,10 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&r
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8?sd=8&rebase=on
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320",🇪🇸 ●| Canal 45 TVᴴᴰ
 https://cdn01.yowi.tv/503L6OKTE2/live-1500.m3u8
+#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://statics.ccma.cat/img/logos/logo_bondiaTV.svg",🇪🇸 ●| Bon Dia tv
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.cyltv.es/img/la8Burgos.svg",🇪🇸 ●| La 8 Burgosᴴᴰ
+https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.tvcubana.icrt.cu/images/television.jpg",🇨🇺 ●| Cubavision Internacional
 http://93.241.75.134:19981/stream/channelid/660821106?profile=pass
 
