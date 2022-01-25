@@ -98,7 +98,7 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ADVANCE.jpg",🇵🇹 ●| ADVANCE SIC [off]
-#EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC%20Internacional.png",🇵🇹 ●| SIC Internacional ˢᵈ [Geo blocked] 
+#EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC%20Internacional.png",🇵🇹 ●| SIC Internacional ˢᵈ OFF [Geo blocked] 
 http://live.impresa.pt/live/sicint/sicint270p.m3u8
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SICᴴᴰ 
 https://bit.ly/sicportugal?/3000k.m3u8
@@ -130,8 +130,6 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png",🇵🇹 ●| CNN Portugalˢᵈ
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png",🇵🇹 ●| CNN Portugalᴴᴰ
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDIyIDg6MTg6NTkgUE0maGFzaF92YWx1ZT1YUmhkZE0wYTVHT2xtZkRuZDE0Z0ZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTFiMTFiOWEtOWFjNy00N2E0LTkyMmEtMTYwNmIzMjhlYjE1/
-#EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png",🇵🇹 ●| CNN Portugalˢᵈ
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDIyIDg6MTg6NTkgUE0maGFzaF92YWx1ZT1YUmhkZE0wYTVHT2xtZkRuZDE0Z0ZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTFiMTFiOWEtOWFjNy00N2E0LTkyMmEtMTYwNmIzMjhlYjE1/
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png",🇧🇷 ●| CNN Brasilᴴᴰ
 https://bit.ly/cnnBrasil?/chunks.m3u8
@@ -233,6 +231,9 @@ http://82.114.83.86:8006/playlist.m3u8
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",🇧🇷🎬 ●| Star Channel
 http://189.91.128.146:4444/udp/227.10.20.139:1234
+#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Porta-dos-Fundos.jpg",🇧🇷 ●| Porta dos Fundos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg",🇧🇷🎬 ●| Tv Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w900580339.m3u8
 #EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://encrypted-tbn0.gstatic.com//images?q=tbn:ANd9GcTCXt-lpoYxZCOLPO517eyGfKuWfTQWgJYIIg&usqp=CAU",🇧🇷🎬 ●| Cine tv 3
