@@ -214,13 +214,19 @@ https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
 https://bit.ly/3otT401?/index.m3u8
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nosstudios.png",🇵🇹 ●| NOS Studiosᴴᴰ
 http://supportstreams.net:80/558585765/n4ySrfoH20/6380.ch
+#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVCine.gif",🇵🇹 ●| TvCine Top
+http://203.101.170.220:8000/play/a00p
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",🇵🇹 ●| Netflixᴴᴰ
 https://bit.ly/Netflixinsp?/playlist720p.m3u8
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://hboportugal.com/assets/favicon-pt/apple-touch-icon.png",🇵🇹 ●| HBO Portugalᴴᴰ
 http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137492
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Simpsons_Logo.svg",🇵🇹 ●| Os Simpsonsᴴᴰ
 http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137510
-#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/FoxLife%20HD.png",🇵🇹 ●|Fox Lifeᴴᴰ 
+#EXTINF:-1 group-title="cinema" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN%20White.png",🇵🇹 ●| AXN Whiteᴴᴰ
+http://203.101.170.220:8000/play/a00v
+#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/FoxCrime.png",🇵🇹 ●| Fox Crimeᴴᴰ 
+http://203.101.170.220:8000/play/a00q
+#EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/FoxLife%20HD.png",🇵🇹 ●| Fox Lifeᴴᴰ 
 http://190.2.143.146/foxlife/index.m3u8
 #EXTINF:-1 group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SYFY.png",🇵🇹🎬 ●| SYFYᴴᴰ
 http://supportstreams.net:80/558585765/n4ySrfoH20/6378.ch
@@ -635,6 +641,8 @@ https://bit.ly/3ssv2Uy?/mono.m3u8
 
 ==============
 
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://fastpic.co/images/Tom_and_Jerry.png",🧒 ●| Mix Tom and Jerry 
+http://maxq.live:25461/123/123/737
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://fastpic.co/images/Tom_and_Jerry.png",🧒 ●| Tom and Jerry [Only Simpletv]
 rtmp://5.8.52.88/live/tomdj$OPT:avio-options={rtmp_pageurl=http://ovego.tv/}
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nick_juniorclub.png",🇧🇷🧒 ●| Nick Jr. Club [Pluto]
@@ -739,6 +747,9 @@ https://vk.com/luky74
 
 
 
+
+#EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b2ea7831-d127-4de1-963f-6b7cf2baf18f-profile_image-70x70.png",🇧🇷🎮 ●| R6esports
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/r6esportsbr
 #EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png",🇺🇸🎮 ●| GamePlay CallofDuty
 https://bit.ly/3nvh9n1?/playlist720Rlp.m3u8
 #EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c8cbfde-5e42-433b-a930-f3fba4bc3c29-profile_image-70x70.png",🇺🇸🎮 ●| Game Revolution
@@ -857,6 +868,8 @@ http://189.91.128.150:4444/udp/227.10.20.81:1234
 http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22731
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇧🇷⚽️ ●| ESPN 2
 http://189.91.128.150:4444/udp/227.10.20.128:1234
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇧🇷⚽️ ●| ESPN 2
+http://189.91.128.150:4444/udp/227.10.20.152:1234
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇧🇷⚽️ ●| ESPN 2
 http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22729
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇧🇷⚽️ ●| ESPN 2
@@ -994,6 +1007,8 @@ https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://bandsports.band.uol.com.br/assets/bandsports/bandsports_logo.png",🇧🇷⚽️ Band Sport
+http://189.91.128.146:4444/udp/227.10.20.119:1234
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://bandsports.band.uol.com.br/assets/bandsports/bandsports_logo.png",🇧🇷⚽️ Band Sport
 http://189.91.128.150:4444/udp/227.10.20.119:1234
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://bandsports.band.uol.com.br/assets/bandsports/bandsports_logo.png",🇧🇷⚽️ Band Sport
 http://177.104.160.101:8000/play/a006
@@ -1005,7 +1020,6 @@ http://tv.mylatinplay.xyz:25461/kZAkSqk8cD/guFjEjz8ja/9413
 http://189.91.128.150:4444/udp/227.10.20.102:1234
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷⚽️ ●| Premiere 2
 http://189.91.128.150:4444/udp/227.10.20.104:1234
-
 
 ==============
 
@@ -1045,6 +1059,8 @@ http://orbyt.xyz:8080/UeSWAC2Lpsb9/BfbRUykgqs4t/94591
 http://37.14.202.156:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/skysports%20F1.jpg",🇬🇧🏎️ ●| Sky F1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/skysports%20F1.jpg",🇬🇧🏎️ ●| Sky F1
+http://203.101.170.220:8000/play/a009
 
 
 ==============
