@@ -103,9 +103,13 @@ https://bit.ly/36usb5W?/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SICᴴᴰ 
 https://bit.ly/36wB2nQ?/index.m3u8
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SICᴴᴰ 
+http://93.152.174.144:4000/play/sic/index.m3u8
+#EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SICᴴᴰ 
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SIC ѕᴅ [Geo blocked]
 https://sic.live.impresa.pt/sic540p.m3u8
+#EXTINF:-1 tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticiasᴴᴰ
+http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
 #EXTINF:-1 tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticiasᴴᴰ
 https://bit.ly/3JskNa4?/index.m3u8
 #EXTINF:-1 tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticias ѕᴅ [Geo blocked] 
@@ -998,7 +1002,7 @@ http://189.91.128.146:4444/udp/227.10.20.104:1234
 ==============
 
 
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇲🇽⚽️ ●| ESPN 
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇦🇷⚽️ ●| ESPN 
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png",🇲🇽⚽️ ●| ESPN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -1010,11 +1014,14 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&s=hkc
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",🇦🇷⚽️ ●| TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",🇦🇷⚽️ ●| TyC Sports ѕᴅ
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 
-
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",⚽️ SK 1
+http://194.15.225.98:8000/play/a2qu
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",⚽️ SK 2
+http://194.15.225.98:8000/play/a2qz
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",⚽️ SK 3
+http://194.15.225.98:8000/play/a2qt
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://thumb.canalplus.pro/static/canalplus-logo.svg",🇵🇱⚽️ ●| Canal + Sport
 http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=63a4f4d6df863812c2e3325f44a89f19ed7ad0f61021f813f2695843a46226498b110559cd4d99ade7d75910129ca64211d981ccf9cec720547f4e6cfa049ca8
@@ -1110,16 +1117,6 @@ https://bit.ly/BeinSportXtra?/master.m3u8
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇪🇸⚽️ ●| Bein Sports Xtra ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-
-
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://www.looksport.ro/assets/imgs/favicon.png",⚽️🇷🇴 LookSport +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://www.looksport.ro/assets/imgs/favicon.png",⚽️🇷🇴 LookSport
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://www.looksport.ro/assets/imgs/favicon.png",⚽️🇷🇴 LookSport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://www.looksport.ro/assets/imgs/favicon.png",⚽️🇷🇴 LookSport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
 
 ==============
