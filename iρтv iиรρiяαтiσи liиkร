@@ -53,7 +53,7 @@ https://
 
 
 
-#EXTINF:-1 tvg-id="" tvg-id="RTP 1" tvg-logo="https://arena.rtp.pt/wp-content/uploads/2019/02/cropped-512x512-192x192.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ●| RTP Arena
+#EXTINF:-1 tvg-id="" tvg-id="RTP 1" tvg-logo="https://arena.rtp.pt/wp-content/uploads/2019/02/cropped-512x512-192x192.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ●| RTP Arena [test]
 https://bit.ly/3u01M9y?/chunklist_b1290000_slpor.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ●| RTP Internacional
 http://162.212.178.69:41042/bysid/608
@@ -103,15 +103,13 @@ http://200.4.96.59:8004/play/a0f4/index.m3u8
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/ADVNCE/logo.png",🇵🇹 ●| SIC Advanceᴴᴰ [test] 
 https://bit.ly/36usb5W?/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SICᴴᴰ 
-http://93.152.174.144:4000/play/sic/index.m3u8
-#EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SICᴴᴰ 
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SICᴴᴰ 
+https://bit.ly/3u28UCf?/index.m3u8
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ●| SIC ѕᴅ [Geo blocked]
 https://sic.live.impresa.pt/sic540p.m3u8
 #EXTINF:-1 tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticiasᴴᴰ
-http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
-#EXTINF:-1 tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticiasᴴᴰ
-https://bit.ly/3JskNa4?/index.m3u8
+https://bit.ly/3LEV7b2?/index.m3u8
 #EXTINF:-1 tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticias ѕᴅ [Geo blocked] 
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
 
@@ -122,9 +120,7 @@ https://sicnot.live.impresa.pt/sicnot540p.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",🇵🇹 ●| TVI ѕᴅ 
 https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png",🇵🇹 ●| CNN Portugal ѕᴅ
-http://yeahiptv.vip:8080/jfu179v6eu/t7om7xcd0b/7463
 #https://video-auth4.iol.pt/live_edge/cnn_abr/edge_servers/cnn-480p/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png",🇵🇹 ●| TVI Reality  ѕᴅ
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png",🇧🇷 ●| BBB 22ᴴᴰ
@@ -402,6 +398,8 @@ http://62.37.6.216:8001/1:0:1:778A:424:1:C00000:0:0:0:
 https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png",🇺🇸 ●| IDiscovery
 http://ky-iptv.com:80/duke2/duke2/175883.ts
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png",🇺🇸 ●| IDiscovery
+http://195.222.7.26:7001/play/a00v
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",🇺🇸 ●| Crime Investigationᴴᴰ
 http://ky-iptv.com:80/duke2/duke2/175822.ts
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",🇺🇸 ●| Crime Investigationᴴᴰ²
@@ -493,6 +491,8 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png",🇺🇸🇧🇬 ●| Nat Geo Wildᴴᴰ
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png",🇺🇸🇧🇬 ●| Nat Geo Wildᴴᴰ
+http://51.195.6.191:8080/NatGeoWild/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png",🇺🇸 ●| WildEarthᴴᴰ
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",🇺🇸 ●| Animals tv [Pluto]
@@ -933,13 +933,19 @@ http://189.91.128.146:4444/udp/227.10.20.132:1234
 http://200.24.159.179:8500/play/a03b
 #EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇵🇪⚽️ ●| Goltv
 http://ky-iptv.com:80/duke2/duke2/176324.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇵🇪⚽️ ●| Goltv
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2258
 
 
 ==============
 
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena Sport 1
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena 1 Premium
 http://46.29.169.15:4001/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena 2 Premium
+http://46.29.169.15:4001/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena 3 Premium
+http://46.29.169.15:4001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena Sport 2
 http://46.29.169.15:4001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena Sport 3
@@ -950,12 +956,7 @@ http://46.29.169.15:4001/play/a005/index.m3u8
 http://46.29.169.15:4001/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena Sport 6
 http://46.29.169.15:4001/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena 1 Premium
-http://46.29.169.15:4001/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena 2 Premium
-http://46.29.169.15:4001/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",⚽️🇭🇷 Arena 3 Premium
-http://46.29.169.15:4001/play/a00i/index.m3u8
+
 
 
 
@@ -1008,6 +1009,8 @@ http://ky-iptv.com:80/duke2/duke2/220448.ts
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true",🇺🇸♠️ ●| Poker tv
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://wst.tv/apple-touch-icon.png",🇺🇸🎱 ●| World Billiards tv
+https://bit.ly/3JYZmO5?/playlist720_p.m3u8
 
 
 ==============
@@ -1508,6 +1511,11 @@ https://www.raiplay.it
 
 #EXTINF:-1 group-title="Italia" tvg-logo="https://github.com/inspirationlinks/inspiration-1/blob/master/rai1.webp?raw=true",🇮🇹 ●| Rai Italiaᴴᴰ
 http://ky-iptv.com:80/duke2/duke2/175922.ts
+#EXTINF:-1 group-title="Italia" tvg-logo="https://github.com/inspirationlinks/inspiration-1/blob/master/rai1.webp?raw=true",🇮🇹 ●| Rai 1ᴴᴰ
+http://185.204.32.4:9981/stream/channelid/2078368351
+#EXTINF:-1 group-title="Italia" tvg-logo="https://github.com/inspirationlinks/inspiration-1/blob/master/rai2.webp?raw=true",🇮🇹 ●| Rai 2ᴴᴰ
+http://185.204.32.4:9981/stream/channelid/1898434900
+http://185.204.32.4:9981/stream/channelid/1436727961
 #EXTINF:-1 tvg-id="" group-title="Italia" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662801274Logo-Rai3.png",🇮🇹 ●| Rai 3ᴴᴰ 
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 tvg-id="" group-title="Italia" tvg-logo="https://i.imgur.com/Hp723RU.png",🇮🇹 ●| Nove
