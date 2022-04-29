@@ -63,10 +63,10 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/chunklist_b1290000_s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/chunklist_b1290000_slpor.m3u8?jerry1
 #EXTINF:-1 tvg-id="RTP 2" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 2ᴴᴰ [only simpletv] 
-https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/chunklist_b1290000_slpor.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP 2" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 2ᴴᴰ [ON|VLC] 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/chunklist_b1290000_slpor.m3u8?jerry2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP 3" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 3ᴴᴰ 
 https://bit.ly/rtp3_pt?/index.m3u8
 #EXTINF:-1 tvg-id="RTP 3" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 3ᴴᴰ [ON|VLC]
@@ -94,8 +94,7 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 ==============
 
 
-#EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC%20Internacional.png",🇵🇹 ➾ SIC Internacionalᴴᴰ
-http://200.4.96.59:8004/play/a0f4/index.m3u8
+
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/ADVNCE/logo.png",🇵🇹⭐ ➾ SIC Advanceᴴᴰ [test] 
 https://bit.ly/36usb5W?/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ➾ SICᴴᴰ 
@@ -120,10 +119,6 @@ https://sicnot.live.impresa.pt/sicnot540p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",🇵🇹 ➾ TVI ѕᴅ 
 https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png",🇵🇹 ➾ CNN Portugal ѕᴅ
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDU6MjM6NTAgUE0maGFzaF92YWx1ZT1uM20zYTlHS1RvVC9jQW96UHNoeTZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTFkNTVlNTctZTQ4MC00M2QxLTg1ZDctNDA3MWQzNjM5ZTQ0/
-
-
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png",🇵🇹 ➾ TVI Reality  ѕᴅ
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png",🇧🇷 ➾ BBB 22ᴴᴰ
@@ -1046,8 +1041,11 @@ http://62.37.6.216:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",🇺🇸 🏀⚽️➾ NBA
 https://d1k4ybyeycgihx.cloudfront.net/hls/abc/chunks.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",🇺🇸 🏀⚽️➾ NBA
+http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/49691
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",🇺🇸 🏀⚽️➾ NBA tv
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/2873
+
 
 
 ==============
@@ -1403,6 +1401,8 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",🇧🇷 ➾ SBTᴴᴰ
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1280624010_b176000_sleng.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",🇧🇷 ➾ SBTᴴᴰ
+https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png",🇧🇷 ➾ Yeeaah TV 
 https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w674309773.m3u8
