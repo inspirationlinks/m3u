@@ -64,32 +64,32 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="RTPInternacional.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Internacional
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="" tvg-id="RTPInternacional.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Internacional ²
-#EXTVLCOPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 1ᴴᴰ [only simpletv]
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8$OPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8$OPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 1ᴴᴰ [ON|VLC]
-#EXTVLCOPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 2ᴴᴰ [only simpletv] 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 2ᴴᴰ [ON|VLC] 
-#EXTVLCOPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 3ᴴᴰ [ON|VLC]
-#EXTVLCOPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8?jerry3
 #EXTINF:-1 tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/RTP%20Memoria.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Memoria  ѕᴅ [ON|VLC]
-#EXTVLCOPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
 #EXTINF:-1 tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Acores.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Açoresᴴᴰ [ON|VLC]
-#EXTVLCOPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
 #EXTINF:-1 tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Madeira.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Madeira ѕᴅ [ON|VLC]
-#EXTVLCOPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
 #EXTINF:-1 tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Africa.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP África ѕᴅ [ON|VLC]
-#EXTVLCOPT:http-user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://www.cases.pt/wp-content/uploads/2017/03/qypyvv1437950573.png",🇵🇹 ➾ ARTV ѕᴅ
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
@@ -952,8 +952,8 @@ https://vk.com/luky74/
 
 
 
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png",🇪🇸 ⚽️➾ Liga Campeonesᴴᴰ
-http://154.54.220.247:51323/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",🇷🇺 ⚽️➾ Футбол 3ᴴᴰ
+http://176.56.48.32:9990/udp/224.0.223.126:1234
 
 
 #EXTINF:-1 tvg-id="canal11hd.tv.vodafone.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/11.png",🇵🇹 ⚽️➾ Canal 11 Internacionalᴴᴰ
@@ -966,6 +966,10 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 =======GOLTV=======
 
 
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇪🇨 ⚽️➾ Goltv
+http://204.12.247.162:8080/premium59/mono.m3u8
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇪🇨 ⚽️➾ Goltv
+http://179.43.82.250:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇪🇨 ⚽️➾ Goltv
 http://170.83.242.155:5350/play/a00v
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇪🇨 ⚽️➾ Goltv
@@ -1970,4 +1974,4 @@ http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_26
 
 
 
-Inspi[я]ation Links © 2023 All rights reserved
+Inspi[я]ation Links © 2022 All rights reserved
