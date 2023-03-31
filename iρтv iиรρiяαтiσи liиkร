@@ -71,39 +71,39 @@ http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 1ᴴᴰ [only simpletv]
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8$OPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 1ᴴᴰ [ON|VLC]
+#EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 1ᴴᴰ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 2ᴴᴰ [only simpletv] 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 2ᴴᴰ [ON|VLC] 
+#EXTINF:-1 tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 2ᴴᴰ  
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 3ᴴᴰ [ON|VLC]
+#EXTINF:-1 tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP 3ᴴᴰ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8?jerry3
-#EXTINF:-1 tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/RTP%20Memoria.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Memoria  ѕᴅ [ON|VLC]
+#EXTINF:-1 tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/RTP%20Memoria.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Memoria  ѕᴅ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
-#EXTINF:-1 tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Acores.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Açoresᴴᴰ [ON|VLC]
+#EXTINF:-1 tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Acores.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Açoresᴴᴰ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
-#EXTINF:-1 tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Madeira.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Madeira ѕᴅ [ON|VLC]
+#EXTINF:-1 tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Madeira.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP Madeira ѕᴅ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
-#EXTINF:-1 tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Africa.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP África ѕᴅ [ON|VLC]
+#EXTINF:-1 tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%20Africa.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ➾ RTP África ѕᴅ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
@@ -114,11 +114,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 
 
-==============
+====== SIC ========
 
 
-#EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/ADVNCE/logo.png",🇵🇹⭐ ➾ SIC Advanceᴴᴰ [Offline] 
-https://bit.ly/36usb5W?/playlist.m3u8
 #EXTINF:-1 tvg-id="sichd.tv.vodafone.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ➾ SICᴴᴰ 
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 #EXTINF:-1 tvg-id="sichd.tv.vodafone.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png",🇵🇹 ➾ SIC ѕᴅ [Geo blocked]
@@ -127,7 +125,7 @@ https://sic.live.impresa.pt/sic540p.m3u8
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
 
 
-==============
+====== TVI ========
 
 
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tviinternacional.png",🇵🇹 TVI Internacionalᴴᴰ
@@ -286,10 +284,7 @@ https://bit.ly/bbcfood_inspiration_m3u8
 https://bonappetit-samsung.amagi.tv/master1080p.m3u8
 #EXTINF:-1 group-title="Gastronomia" tvg-logo="https://webraga.pt/wp-content/uploads/2020/04/66822479_10162074923580367_7253832045023985664_o.jpg",🇺🇸 🍽️ ➾ Bon Appetitᴴᴰ [redboxtv]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Gastronomia" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ifood.tv.png",🇺🇸 🍽️ ➾ ifoodᴴᴰ
-https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="Gastronomia" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",🇬🇧 🍽️ ➾ Gusto tv [localnow]
-https://linear-139.frequency.stream/dist/localnow/139/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Gastronomia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTTHQ498oK3st_ixmdSQjHkDoWhb_4jD2lFxNKwA=s88-c-k-c0x00ffffff-no-rj",🇺🇸 🍽️ ➾ Taste It TV [BumblebeeTV]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Gastronomia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTTHQ498oK3st_ixmdSQjHkDoWhb_4jD2lFxNKwA=s88-c-k-c0x00ffffff-no-rj",🇺🇸 🍽️ ➾ Taste It TV [BumblebeeTV]
@@ -879,11 +874,12 @@ https://vk.com/luky74/
 
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇧🇷 ⚽️➾ ESPN
+http://xcui.vitvabc.xyz:8880/2879940253ca/2879940253ca/31034
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇧🇷 ⚽️➾ ESPN 2
+http://xcui.vitvabc.xyz:8880/2879940253ca/2879940253ca/16716
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇧🇷 ⚽️➾ ESPN 3
+http://xcui.vitvabc.xyz:8880/2879940253ca/2879940253ca/16725
 
 
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇪🇨 ⚽️➾ Goltv
