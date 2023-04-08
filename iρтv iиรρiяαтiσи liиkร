@@ -396,6 +396,16 @@ https://github.com/inspirationlinks
 
 
 
+#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png",🇺🇸 🎬➾ Cine Premiere [Pluto]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png",🇲🇽🇺🇸 🎬➾ CineLifeᴴᴰ [Plex]
+https://magselect-stirr.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png",🇲🇽 🎬➾ Cine Realᴴᴰ [Plex]
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png",🇲🇽 🎬➾ Top Cine [Plex]
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_6.m3u8
+#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png",🇲🇽 🎬➾ Cine Realᴴᴰ [Plex]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 #EXTINF:-1 group-title="films&series" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",🇺🇸 🎬➾ AMC [Plex]
@@ -479,13 +489,8 @@ https://bit.ly/ParamountNetwork?/chunklist.m3u8
 https://bit.ly/ParamountMovie_m3u8
 #EXTINF:-1 group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moviesphere_logo_dark.png",🇬🇧 🎬➾ Movie Sphere [Pluto]
 https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png",🇲🇽🇺🇸 🎬➾ CineLifeᴴᴰ [Plex]
-https://magselect-stirr.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png",🇲🇽 🎬➾ Cine Realᴴᴰ [Plex]
-https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
-#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png",🇲🇽 🎬➾ Top Cine [Plex]
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_6.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Colosal.png",🇲🇽 🎬🎶➾ Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1199481911.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg",🇧🇷 🎬➾ Tv Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w900580339.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/DemaisTV-Logo.jpg",🇧🇷 🎬➾ D+ TV
@@ -1496,17 +1501,7 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/1280x7
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w807150064.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png",🇪🇸 🎶➾ Cadena Elite España
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Colosal.png",🎶➾ Colosal TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1199481911.m3u8
 
-
-==============
-
-
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Rock_TV.png",🎶➾ Rock tv
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w703139391_b1600000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://www.rockland.de/typo3conf/ext/ch_radio21/Resources/Public/icons/rockland/apple-icon-120x120.png",🎶➾ Rocklandᴴᴰ
-http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
 
 ==============
