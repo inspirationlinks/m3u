@@ -154,8 +154,6 @@ https://stream-02.sv4.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0o7P7b54TQZqiGMfLV
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fuel%20TV.png",🇺🇸 🏄➾ Fuel tvᴴᴰ [samsungtv]
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-id="euronw.tv.vodafone.pt" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EuronewsPT.png",🇵🇹 ➾ Euronewsᴴᴰ [Pluto]
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://prod-kuato.rakuten.tv/favicon.ico",🇧🇷🇵🇹 ➾ Rakuten Family [Rakuten]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -165,6 +163,8 @@ https://rakuten-family-14-pt.samsung.wurl.tv/3000.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="euronw.tv.vodafone.pt" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EuronewsPT.png",🇵🇹 ➾ Euronewsᴴᴰ [Pluto]
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
 
 
 
@@ -370,6 +370,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="" group-title="Dogs&Cats" tvg-logo="https://goo.gl/wYPLrH", ╭─➤ 🇬🇧🇺🇸 Dogs&Cats ▼
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8?inspiration
 
@@ -406,8 +410,19 @@ https://bit.ly/Cats24-7?/3000.m3u8
 
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" group-title="films&series" tvg-logo="https://goo.gl/wYPLrH", ╭─➤ 🇬🇧🇺🇸 Filmes & Series  ▼
 https://github.com/inspirationlinks
+
+
+
+
+
 
 
 
@@ -866,7 +881,8 @@ https://vk.com/luky74
 
 
 
-
+#EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://uploads-ssl.webflow.com/605d30d204b9a4582f828426/605e81d7393ed246eb367d7c_256.png",🇺🇸 🎮➾ Estv
+https://estv-rakuten-samsung.amagi.tv/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c8cbfde-5e42-433b-a930-f3fba4bc3c29-profile_image-70x70.png",🇺🇸 🎮➾ Game Revolution
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 #EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png",🇺🇸 🎮➾ ESR 24x7 eSports Network
