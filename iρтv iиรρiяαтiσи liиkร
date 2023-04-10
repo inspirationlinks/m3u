@@ -122,6 +122,10 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://sic.live.impresa.pt/sic540p.m3u8
 #EXTINF:-1 tvg-id="sicnhd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ➾ SIC Noticias ѕᴅ [Geo blocked]
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png",🇵🇹 ➾ SIC Novelas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion7y/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 
 ====== TVI ========
@@ -142,12 +146,26 @@ https://video-auth2.iol.pt/edge_servers/tvireality-720_passthrough/playlist.m3u8
 ==============
 
 
-#EXTINF:-1 tvg-id="portochd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png",🇵🇹 ➾ Porto Canal ѕᴅ
-http://213.13.26.11:1935/live/portocanal/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id="portochd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png",🇵🇹 ➾ Porto Canalᴴᴰ 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream-02.sv4.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0o7P7b54TQZqiGMfLVA12I6xpQcl1ErBdMp_G8eROSHh)/dm/3/x8egnb8/s/live-2.m3u8
+#EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fuel%20TV.png",🇧🇷🇵🇹 🏄➾ Fuel tvᴴᴰ 
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fuel%20TV.png",🇺🇸 🏄➾ Fuel tvᴴᴰ [samsungtv]
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="euronw.tv.vodafone.pt" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EuronewsPT.png",🇵🇹 ➾ Euronewsᴴᴰ [Pluto]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://prod-kuato.rakuten.tv/favicon.ico",🇧🇷🇵🇹 ➾ Rakuten Family [Rakuten]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rakuten-family-14-pt.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://prod-kuato.rakuten.tv/favicon.ico",🇧🇷🇵🇹 ➾ Rakuten Documentaries [Rakuten]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
+
 
 
 ======MODA=======
@@ -530,7 +548,7 @@ https://www.motogp.com/
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBoatShow.us" group-title="Documentários" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",🇺🇸 ➾ The Boat Show [Pluto]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://www.mastershowtv.com/admin/assets/img/logo.png",🇧🇷 🎬➾ Master show tv
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://www.mastershowtv.com/admin/assets/img/logo.png",🇧🇷 ➾ Master show tv
 http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/voyagerDocu.png",🇺🇸 ➾ Voyager Documentaries
 https://bit.ly/3mAWlc5?/playlist720p.m3u8
@@ -1354,7 +1372,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net:443/egress/chandler/telema
 https://laotrahls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ Canal Sur Andaluciaᴴᴰ
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://rtvc.es/storage/2021/03/c152.png",🇪🇸 ➾ Televisión Canariaᴴᴰ
+#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",🇪🇸 ➾ Televisión Canariaᴴᴰ
 https://www.youtube.com/embed/6LlZXt8nk4s?autoplay=1
 
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",🇻🇪 ➾ TeleSurᴴᴰ
@@ -1562,81 +1580,79 @@ http://stream.vagalume.fm
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-152x152.png",🎧 ➾ ZigZag fm
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-152x152.png",🎧 ➾ ZigZag fm
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/103-551119141305.png",🎧 ➾ Antena 1 Vida
-https://streaming-live.rtp.pt/liveradio/vida80a/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png",🎧 ➾ Antena 2 Jazzin
-https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png",🎧 ➾ Antena 3
-https://streaming-live.rtp.pt/liveradio/antena380a/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://cidade.iol.pt/images/logoCIDADE_amarelo_small.png",🎧 ➾ Cidade fm
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://cidade.fm/favicon.ico?v=2",🎧 ➾ Cidade fm
 http://mcrscast.mcr.iol.pt/cidadefm
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radiomeo.png",🎧 ➾ Radio Meo
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radiomeo.png",🎧 ➾ Radio Meo
 http://centova.radios.pt:8495/stream/1/
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/radios-150px/LqBRhemRSn.png",🎧 ➾ NovaEra
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://radionovaera.pt/resources/img/favicon/apple-icon-144x144.png",🎧 ➾ NovaEra
 http://centova.radios.pt:9478/stream/1/
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://pbs.twimg.com/profile_images/1070712926301011968/RmoHHL2J.jpg",🎧 ➾ SuperbockSuperRock
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://superbocksuperrock.pt/static/media/sbsr_logo.03f9bedf5b9fab799429.png",🎧 ➾ SuperbockSuperRock
 http://centova.radios.pt:8435/stream/1/
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2018/01/Normal_semfundo.png",🎧 ➾ Nove3cinco
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2018/01/Normal_semfundo.png",🎧 ➾ Nove3cinco
 http://centova.radios.pt:9522/stream/1/
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://cdn.sintonizate.net/r/s/M80.jpg",🎧 ➾ Radio M80
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://m80.pt/images/logo-m80.svg",🎧 ➾ Radio M80
 http://mcrscast.mcr.iol.pt/m80
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://cdn.sintonizate.net/r/s/Radio-Comercial.png",🎧 ➾ Radio Comercial
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://bauermedia.pt/static/radiocomercial/images/logos/logo_big.png",🎧 ➾ Radio Comercial
 http://mcrscast.mcr.iol.pt/comercial
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://cdn.sintonizate.net/r/s/RFM.png",🎧 ➾ RFM
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://cdn.sintonizate.net/r/s/RFM.png",🎧 ➾ RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png",🎧 ➾ RFM 80
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://rfmsite-images.azureedge.net/images/webrads/RFM-80s_lg.svg",🎧 ➾ RFM 80
 https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFM_SC
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://cdn.sintonizate.net/r/s/oceano-pacifico-rfm.png",🎧 ➾ RFM Oceano Pacifico
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://cdn.sintonizate.net/r/s/oceano-pacifico-rfm.png",🎧 ➾ RFM Oceano Pacifico
 https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Log%C3%B3tipo_Antena_Sul.png",🎧 ➾ Antena Sul Alentejo
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Log%C3%B3tipo_Antena_Sul.png",🎧 ➾ Antena Sul Alentejo
 http://213.239.218.99:7116/stream
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://static.radio.pt/images/broadcasts/0f/e6/116143/1/c300.png",🎧 ➾ Radio Nostalgia
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://static.radio.pt/images/broadcasts/0f/e6/116143/1/c300.png",🎧 ➾ Radio Nostalgia
 http://centova.radios.pt:8435/;
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png",🎧 ➾ Hiper FM
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png",🎧 ➾ Hiper FM
 http://195.23.85.126:9500/stream/1/
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png",🎧 ➾ Orbital
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://www.orbital.pt/icon.png",🎧 ➾ Orbital
 http://195.23.85.126:8401/stream/1/
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k3Lc69GMYE.png",🎧 ➾ Placard
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k3Lc69GMYE.png",🎧 ➾ Placard
 http://213.239.218.99:7098/;?1475760096281.aac
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",🎧 ➾ Rádio Observador
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",🎧 ➾ Rádio Observador
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://radiosdePortugal.com/wp-content/uploads/2012/02/logo_smooth-300x184.png",🎧 ➾ Smooth fm
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://smoothfm.pt/images/logo-SFM-red.svg",🎧 ➾ Smooth fm
 http://mcrscast.mcr.iol.pt/smoothfm
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://radiosdePortugal.com/wp-content/uploads/2012/09/vodafone-300x174.jpg",🎧 ➾ Vodafone
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://vodafone.fm/favicon.ico",🎧 ➾ Vodafone
 http://195.23.102.207/vodafone
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://radiosdePortugal.com/wp-content/uploads/2012/09/vodafone-300x174.jpg",🎧 ➾ Vodafone
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://vodafone.fm/favicon.ico",🎧 ➾ Vodafone
 http://mcrscast.mcr.iol.pt/vodafone
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://radiosdePortugal.com/wp-content/uploads/2012/02/marginal.jpg",🎧 ➾ Radio Marginal
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://marginal.fm/images/favicon/apple-touch-icon.png",🎧 ➾ Radio Marginal
 http://centova.radios.pt:8499/stream/1/
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/radios-150px/jR9UrPxUeH.png",🎧 ➾ TSF
-http://tsfdirecto.tsf.pt/tsfdirecto.mp3
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://cdn.sintonizate.net/r/s/Renascenca.png",🎧 ➾ RResnascenca
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",🎧 ➾ Antena 1
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",🎧 ➾ Antena 1
 http://radiocast.rtp.pt/antena180a.mp3
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",🎧 ➾ Antena 1
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",🎧 ➾ Antena 1
 http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2012/02/Antena3-logo2.jpg",🎧 ➾ Antena 3
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/103-551119141305.png",🎧 ➾ Antena 1 Vida
+https://streaming-live.rtp.pt/liveradio/vida80a/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png",🎧 ➾ Antena 2 Jazzin
+https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png?w=180",🎧 ➾ Antena 3
 http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png",🎧 ➾ Diana fm (Évora)
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://www.tsf.pt/common/images/favicons/apple-touch-icon-114x114.png",🎧 ➾ TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://cdn.sintonizate.net/r/s/Renascenca.png",🎧 ➾ RResnascenca
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png",🎧 ➾ Diana fm (Évora)
 https://centova.radios.com.pt/proxy/460?mp=/stream
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",🎧 ➾ Rádio Portalegre
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",🎧 ➾ Rádio Portalegre
 http://centova.radios.pt:9492/stream
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://www.radiodespertar.net/player/imagens/logo.png",🎧 ➾ Radio Despertar Voz de Estremoz
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://www.radiodespertar.net/storage/app/media/radio-despertar/radio-despertar-logo2.jpg",🎧 ➾ Radio Despertar Voz de Estremoz
 https://stream.zeno.fm/fx5n4m0xkwzuv
 
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://imgur.com/hq8WWQ6.png",🎧 ➾ Hunter fm POP
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://imgur.com/hq8WWQ6.png",🎧 ➾ Hunter fm POP
 https://hls.hunter.fm/pop/192.m3u8?shtl=dHgWQg9SkLWNn2xfDkXT7Blc.Q1%2BYIHWEf%2Bx15rno%2BU4SLO3%2FgilkyftcOYx3e5REDRM
 
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://imgur.com/hq8WWQ6.png",🎧 ➾ Sertanejo
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://imgur.com/hq8WWQ6.png",🎧 ➾ Sertanejo
 https://hls.hunter.fm/sertanejo/192.m3u8?shtl=KjWfgTVf0o6Ge4z2kuB2uwQs.s98m0N4EKuf70vfj7KMs95we9e2%2BTRFpEOLLNMY%2FSgU
 
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://imgur.com/hq8WWQ6.png",🎧 ➾ Tropical
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://imgur.com/hq8WWQ6.png",🎧 ➾ Tropical
 https://hls.hunter.fm/tropical/192.m3u8?shtl=KjWfgTVf0o6Ge4z2kuB2uwQs.s98m0N4EKuf70vfj7KMs95we9e2%2BTRFpEOLLNMY%2FSgU
 
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://imgur.com/hq8WWQ6.png",🎧 ➾ Hunter POP2
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://imgur.com/hq8WWQ6.png",🎧 ➾ Hunter POP2
 https://hls.hunter.fm/pop2k/192.m3u8?shtl=KjWfgTVf0o6Ge4z2kuB2uwQs.s98m0N4EKuf70vfj7KMs95we9e2%2BTRFpEOLLNMY%2FSgU
 
 
@@ -1645,7 +1661,16 @@ https://hls.hunter.fm/pop2k/192.m3u8?shtl=KjWfgTVf0o6Ge4z2kuB2uwQs.s98m0N4EKuf70
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://goo.gl/wYPLrH",   ╭─➤ Rádios Anos 80s|90s|00s ▼
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://goo.gl/wYPLrH",   ╭─➤ Rádios Anos 80s|90s|00s ▼
 https://stream.vagalume.fm
 
 
@@ -1661,25 +1686,25 @@ https://stream.vagalume.fm
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://i.imgur.com/MmJBR9j.png",🎧 ➾ Classic Hits
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ➾ Classic Hits
 https://edge2.audioxi.com/CLASSIC
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://i.imgur.com/MmJBR9j.png",🇧🇷🎧 ➾ Rádio Pop Rock
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🇧🇷🎧 ➾ Rádio Pop Rock
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio80.jpg",🇪🇸🎧 ➾ Los 40 Classic
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio80.jpg",🇪🇸🎧 ➾ Los 40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
 #EXTINF:-1 group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ➾ Flashback 80s
 http://stream3.radio.is:443/80flashback
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🇧🇷🎧 ➾ Rádio Anos 80
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🇧🇷🎧 ➾ Rádio Anos 80
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ➾ All Euro 80's
 http://strm112.1.fm/80s_90s_mobile_mp3
 #EXTINF:-1 group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/80s.png",🎧 ➾ UK 80s
 http://sc2b-sjc.1.fm:7032/
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio90s.png",🇧🇷🎧 ➾ Rádio Anos 90
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio90s.png",🇧🇷🎧 ➾ Rádio Anos 90
 https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio80.jpg",🇧🇷🎧 ➾ Rádio Anos 00
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio80.jpg",🇧🇷🎧 ➾ Rádio Anos 00
 https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio80.jpg",🎧 ➾ Anos 2000
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio80.jpg",🎧 ➾ Anos 2000
 http://6d9a.webradio.upx.net.br:9940/stream?
 
 
