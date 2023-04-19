@@ -802,6 +802,8 @@ http://vk.com/video_ext.php?oid=432851568&id=456239017&hash=78c72a2626a861a?
 
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://imgur.com/3bvMvx2.png",🇧🇷 🧒➾ Família [Rakuten]
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png",🧒➾ Duck tv 
+http://iptv.prosto.tv:7000/ch209/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png",🇧🇷 🧒➾ Baby Firts [Pluto]
 https://bit.ly/BabyFirts?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/escola.png",🇧🇷 🧒➾ Tv Escolaᴴᴰ
@@ -895,7 +897,8 @@ https://vk.com/luky74
 
 
 
-
+#EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/gametoon.png",🇺🇸🎮 GameToonᴴᴰ 
+http://iptv.prosto.tv:7000/ch256/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://uploads-ssl.webflow.com/605d30d204b9a4582f828426/605e81d7393ed246eb367d7c_256.png",🇺🇸 🎮➾ Estv
 https://estv-rakuten-samsung.amagi.tv/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Games Play" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c8cbfde-5e42-433b-a930-f3fba4bc3c29-profile_image-70x70.png",🇺🇸 🎮➾ Game Revolution
@@ -1166,13 +1169,21 @@ https://bit.ly/BeinSportXtra?/master.m3u8
 
 
 
-======FUT CLUB NEWS========
-
-
 #EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",🇪🇸 ⚽️➾ Real Madrid Tv [Pluto]
 https://bit.ly/RealMadridtv?/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",🇪🇸 ⚽️➾ Real Madrid Tv
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://www.cartv.es/theme/cartv-2017/images/deportes/mainheader/logo-aragondeporte.png",🇪🇸 ⚽️➾   Aragon Deportes
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://www.cartv.es/theme/cartv-2017/images/deportes/mainheader/logo-aragondeporte.png",🇪🇸 ⚽️➾   Aragon Deportes ²
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://www.cartv.es/theme/cartv-2017/images/deportes/mainheader/logo-aragondeporte.png",🇪🇸 ⚽️➾   Aragon Deportes ³
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://www.cartv.es/theme/cartv-2017/images/deportes/mainheader/logo-aragondeporte.png",🇪🇸 ⚽️➾   Aragon Deportes 4
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://scontent.flis5-4.fna.fbcdn.net/v/t39.30808-1/339750594_5671468152953248_5829243584225107186_n.jpg",🇪🇸 ⚽️➾   Las palmas tv
+https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8
 
 
 ======TENNIS GOLF=======
@@ -1477,6 +1488,9 @@ https://bit.ly/3A67lFz?/playlist.m3u8
 http://78.83.191.18:8000/play/a03n
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV80s.png",🎶➾ MTV 80s
 http://78.83.191.18:8000/play/a06q
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://seeklogo.com/images/M/mcm-top-logo-3649B48C16-seeklogo.com.png",🇫🇷🎶 ●| MCM Top 
+http://iptv.prosto.tv:7000/ch137/video.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png",🎶➾ Power Love
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="localnow_Box Playlist" group-title="Music" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62193d7b462f855c4901c83b",🇪🇸 🎶➾ Box Playlist
