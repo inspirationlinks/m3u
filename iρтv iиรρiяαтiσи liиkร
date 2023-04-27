@@ -155,6 +155,8 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 ==============
 
 
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png",🇵🇹 ➾ Porto Canal ᴴᴰ
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
 #EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CMTV.png",🇵🇹 ➾ CMTVᴴᴰ [TEMP]
 http://tvmate.icu:8080/Sjohnson352/352Sjohnson/78441.ch
 #EXTINF:-1 tvg-id="euronw.tv.vodafone.pt" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EuronewsPT.png",🇵🇹 ➾ Euronewsᴴᴰ [Pluto]
@@ -220,7 +222,8 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w157567615
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png",🇧🇷 ➾ Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/el-pais.svg",EL PAIS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="" group-title="Italia" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662801274Logo-Rai3.png",🇮🇹 ➾ Rai 3ᴴᴰ
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="Inglês" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbc%20home%26garden.png",🇬🇧 ⭐➾ BBC Home & Garden [Pluto]
@@ -270,7 +273,7 @@ https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid
 
 
 #EXTINF:-1 tvg-id="" group-title="Vip Life & Lifestyle" tvg-logo="https://goo.gl/wYPLrH", ╭─➤ Travel & Lifestyle ▼
-https://wordpress.com/
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 
 
@@ -748,8 +751,8 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://api.tv5monde.com/resources/consent/images/logo-tv5monde.png",🇫🇷 ➾ TV5 Monde Infoᴴᴰ
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/07.m3u8
-#EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/el-pais.svg",EL PAIS
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 group-title="Info" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/launcher-120x120-2e45ada1.png",🇫🇷 ➾ France Info
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="tve24.tv.vodafone.pt" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-24h.png",🇪🇸 ➾ 24hᴴᴰ
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",🇺🇸 ➾ CNNᴴᴰ [Pluto]
@@ -860,6 +863,8 @@ https://infantil-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",🇪🇸 🧒➾ Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",🇧🇷 🧒➾ Cartoon Network 
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",🇪🇸 🧒➾ Cartoon Network Latino 2
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png",🇪🇸 🧒➾ TeleRed
@@ -1275,8 +1280,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 =======POKER & BILLHAR=======
 
 
-#EXTINF:-1 tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Poker%20Central.jpg",🇺🇸 ♠️➾ Poker tv [Stirr]
-https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 #EXTINF:-1 tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Poker%20Central.jpg",🇺🇸 ♠️➾ Poker tv [Distrotv]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="" group-title="Billhar & Poker" tvg-logo="https://wst.tv/apple-touch-icon.png",🇺🇸 🎱➾ World Billiards tv
@@ -1518,6 +1521,12 @@ https://bit.ly/3ABt1tq?/playlist_1920x1080.m3u8
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://iptv.live/images/logo/channel/crops/4c195f383716e75cef9e06b745148b9e.png",🎶➾ MTV 00s  
+http://195.24.89.82/VH1_SD/index.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",🇬🇧 🎶➾ MTV 
+http://195.24.89.82/MTV_SD/index.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",🇫🇷 🎶➾ MTV Hits
+http://178.170.47.109/MTVHITS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/now70.png",🎶➾ NOW 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/now80.png",🎶➾ NOW 80
@@ -1533,6 +1542,7 @@ https://bit.ly/3A67lFz?/playlist.m3u8
 http://iptv.prosto.tv:7000/ch137/video.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",🎶➾ Deluxe Musicᴴᴰ
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",🎶➾ Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",🎶➾ Trace Latina
@@ -1553,6 +1563,8 @@ https://peer.tdiradio.com/static/streaming-playlists/hls/f43b4b5e-7e2e-442d-85a0
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?wmsAuthSign=InspirationLinks
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/R%C3%A1dioSines.png",🇵🇹 🎶➾ Rádio Sines
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio-birikina.png",🇮🇹 🎶➾ Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/virgintv.png",🇮🇹 🎶➾ Virgin Radio
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Afrobeats.png",🎶➾ Afrobeats TV
@@ -1564,8 +1576,7 @@ https://bit.ly/3twVIny?/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320",🇵🇪 🎶➾ Turbo Mix tv
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/200px-Top_TV_logo.svg.png",🇧🇷 🎶➾ Top tv
-https://cast.cdnseguro.com:19360/8092/8092.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/brasamusic.png",🎶➾ Brasa Music
 https://salto-streams.nl/hls/sotv1_high.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png",🎶➾ Zapping Music
@@ -1594,7 +1605,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4431b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8e137865c590007ecae3c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/220px-VH1_2020.svg.png",🇮🇹 🎶➾ VH1ᴴᴰ
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
-
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",🇧🇷🇺🇸 🎶➾ MTV Are you the One? [Pluto]
@@ -1655,8 +1665,7 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8?wmsAuthSign=Ins
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/1280x720_2855600/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.lorini.net/streaming/clientes/OXIGENO%20TV.png",🎶➾ Oxigeno tv
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w807150064.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png",🇪🇸 🎶➾ Cadena Elite España
-https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
 
 
 
