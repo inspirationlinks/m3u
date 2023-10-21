@@ -43,12 +43,6 @@ https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/Old%20Films
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸 🏎️ ➾ DAZN F1 
-http://167.114.156.136:25461/INFINITV/ZX89NM22/196
-
-
-
-
 
 
 
@@ -152,8 +146,6 @@ https://eventos.live.impresa.pt/opto_in1.m3u8
 https://bit.ly/42ySDn4?/index_5.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="sicnhd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ➾ SIC Noticiasᴴᴰ [Geo blocked]
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="sicnhd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ➾ SIC Noticiasᴴᴰ [temporario]
-http://50.7.66.234:8080/martinmesa/123456MM/1072124
 #EXTINF:-1 tvg-name="" group-title="Portugal" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png",🇵🇹 ➾ SIC Novelasᴴᴰ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -163,8 +155,6 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 ====== TVI ======
 
 
-#EXTINF:-1 tvg-name="" tvg-id="tvihd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",🇵🇹 ➾ TVIᴴᴰ [temporario]
-http://50.7.66.234:8080/martinmesa/123456MM/1072125
 #EXTINF:-1 tvg-name="" tvg-id="cnnpthd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png",🇵🇹 ➾ CNN Portugalᴴᴰ
 https://bit.ly/41Pufgt?/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="TVIFIC.meo.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvificcao.png",🇵🇹 ➾ TVI Ficçãoᴴᴰ
@@ -249,8 +239,7 @@ https://bit.ly/3NgxEB4?/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Lifestyle" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/yoga.png",🇫🇷⭐ ➾ Yoga tv [Pluto]
 https://bit.ly/45xvpjd?/chunklist_b1290000_slpt.m3u8
-#EXTINF:-1 tvg-name="" group-title="Lifestyle" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fitness.png",🇧🇷⭐ ➾ Fitnessᴴᴰ [Pluto]
-https://bit.ly/3OB8CwZ?/playlist1080p.m3u8
+
 
 
 ====== FILMES & SERIES  =======
@@ -1230,18 +1219,11 @@ http://162.212.178.69:41042/bysid/608
 
 
 
-#EXTINF:-1 tvg-id="SportTV1.pt" group-title="Liga Bwin" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.svg" group-title="Liga Bwin",🇵🇹 ⚽️➾ Sport TV 1
-http://50.7.66.234:8080/martinmesa/123456MM/1072130
+
 
 
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇵🇪 ⚽️➾ Goltv
 http://167.114.156.136:25461/INFINITV/ZX89NM22/208
-
-
-#EXTINF:-1 tvg-id="Eleven1Portugal.pt" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ElevenSports.png" group-title="Premium Sports",🇵🇹 ⚽️➾ Eleven 1 
-http://50.7.66.234:8080/martinmesa/123456MM/1147316
-#EXTINF:-1 tvg-id="Eleven2Portugal.pt" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ElevenSports.png" group-title="Premium Sports",🇵🇹 ⚽️➾ Eleven 2
-http://50.7.66.234:8080/martinmesa/123456MM/1147317
 
 
 
@@ -1282,6 +1264,9 @@ https://www.tugastream.club/
 
 
 
+
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸 🏎️ ➾ DAZN F1 
+http://167.114.156.136:25461/INFINITV/ZX89NM22/196
 
 
 #EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/640px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Premium Sports",🇪🇸 ⚽️➾ M LaLiga
