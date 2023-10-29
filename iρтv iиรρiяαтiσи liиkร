@@ -44,8 +44,8 @@ https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/Old%20Films
 
 
 
-
-
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/H2.png",🇧🇷 ➾ H2ᴴᴰ
+https://bit.ly/49ettOp?/index.m3u8
 
 
 
@@ -255,14 +255,15 @@ https://bit.ly/3OyVjNs?/playlist.m3u8
 ====== 🇺🇸 DOCUMENTARIOS =======
 
 
+
 #EXTINF:-1 tvg-name="" group-title="Documentários" tvg-logo="https://prod-kuato.rakuten.tv/favicon.ico",🇧🇷🇺🇸 ➾ Rakuten Documentaries [Rakuten]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbc%20home%26garden.png",🇬🇧 ➾ BBC Home & Garden [Pluto]
 https://bit.ly/3xGj8e5?/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbcamerica.png",🇺🇸 ➾ BBC América [off]
-https://bit.ly/3OxeRlC?/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/bbcamerica.png",🇺🇸 ➾ BBC América [Only Simpletv]
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679$OPT:http-user-agent=UniversoSport
 #EXTINF:-1 tvg-id="" group-title="wild life" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png",🇺🇸 ➾ Nat Geo Wildᴴᴰ
 https://bit.ly/45HQebV?/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="wild life" tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/lovenature.png",🇧🇷⭐ ➾ Love Nature
@@ -1221,8 +1222,8 @@ http://89.38.96.234:14525/
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_1000/index.m3u8$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36$OPT:http-referrer=https://futemax.gratis 
 
 
-
-
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇵🇪 ⚽️➾ Goltv [only simpletv]
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559$OPT:http-user-agent=UniversoSport
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇵🇪 ⚽️➾ Goltv
 http://167.114.156.136:25461/INFINITV/ZX89NM22/208
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇵🇪 ⚽️➾ Goltv
@@ -1290,8 +1291,40 @@ https://www.tugastream.club/
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸 🏎️ ➾ DAZN F1 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/480px-Copa_Libertadores_logo.svg.png",🇦🇷 ⚽️➾ Deportes Copa Libertadores
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png",🇪🇸 ⚽️➾ Liga Campeonesᴴᴰ
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png",🇪🇸 ⚽️➾ Liga Campeonesᴴᴰ [only simpletv]
+https://3.ultimate2019.com/stream/hls/367$OPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png",🇪🇸 ⚽️➾ Liga Campeones 2ᴴᴰ [only simpletv]
+https://3.ultimate2019.com/stream/hls/890$OPT:http-user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png" group-title="Premium Sports",🇪🇸 ⚽️➾ DAZN La Liga
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Sports"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",🇺🇸 🏀➾ NBA tv [only simpletv]
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600$OPT:http-user-agent=UniversoSport
+
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸 🏎️⚽️ ➾ DAZN F1 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/196
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/FSPremium.png",🇦🇷 🏎️ ➾ FS Premium [only simpletv]
+https://3.ultimate2019.com/stream/hls/512$OPT:http-user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Sports"  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",🇬🇧 🏎️⚽️ ➾ Sky Sports
+https://donelfantastic.github.io/live/ssportsNZ.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇮🇹 ⚽️➾ DAZN_CHANNEL
 http://51.38.128.109:18000/DAZN_CHANNEL/hls/playlist.m3u8
@@ -1304,19 +1337,6 @@ https://sc2022.stream-link.org/tv2306.php?id=s19
 https://sc2022.stream-link.org/tv2306.php?id=s20
 #EXTINF:-1 tvg-id=" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AstroSuperSpor.webp",🇬🇪 ⚽️➾ Astro Super Sport 3
 https://sc2022.stream-link.org/tv2306.php?id=s21
-
-
-#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png" group-title="Premium Sports",🇪🇸 ⚽️➾ DAZN La Liga
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png",🇪🇸 ⚽️➾ Liga Campeonesᴴᴰ
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
 
 
@@ -1343,6 +1363,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs
 
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://i.imgur.com/bvRubp2.png",🇧🇷 ⚽️➾ Band Sport
 http://187.95.95.18/Band-Sports/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://i.imgur.com/bvRubp2.png",🇧🇷 ⚽️➾ Band Sport
+http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp",🇧🇷 ⚽️➾ Sportv 1 
