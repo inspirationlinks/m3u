@@ -812,12 +812,7 @@ https://bit.ly/3E8MwLL?/chunklist_w1467371165.m3u8
 https://bit.ly/DocumentarioPluto?/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="DistroTV_Documentary+" group-title="Documentários" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png",🇺🇸 ➾ Documentary+ [Distrotv]
 https://bit.ly/documentarymais?/playlist720-p.m3u8
-#EXTINF:-1 tvg-name="" group-title="Documentários" tvg-logo="https://sck.pm/zSOi",🇺🇸 ➾ Docs Channel [Flix]
-https://bit.ly/DocCnhannel?/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/docurama.png",🇺🇸 ➾ Docurama [Stirr]
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1 tvg-name="" group-title="Documentários" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_so_real_1.png",🇺🇸 ➾ So Real [localnow]
-https://soreal-localnow.cinedigm.com/playlist1080p.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GoUSA.png",🇺🇸 ➾ GoUSA TVᴴᴰ [Plex]
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV//playlist.m3u8
 
@@ -1367,20 +1362,16 @@ http://hubby.bz:80/Evolution10/mCepPgBIOt/19000
 
 #EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp",🇧🇷 ⚽️➾ Sportv 1 
 http://51.83.238.223:16437/
-#EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp",🇧🇷 ⚽️➾ Sportv 2 
-http://51.83.238.223:16457/
 #EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp",🇧🇷 ⚽️➾ Sportv [only simpletv]
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8$OPT:http-referrer=https://futemax.gratis
+
+#EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp",🇧🇷 ⚽️➾ Sportv 2 
+http://51.83.238.223:16457/
 #EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp",🇧🇷 ⚽️➾ Sportv 2 [only simpletv]
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8$OPT:http-referrer=https://futemax.gratis
-#EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷 ⚽️➾  Sportv4
+#EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷 ⚽️➾  Premiere 
 http://185.150.190.225:16476/
 
-
-#EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷 ⚽️➾  Premiere 1
-http://185.150.190.225:16460
-#EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷 ⚽️➾  Premiere 2
-http://185.150.190.225:16464/
 #EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷 ⚽️➾  Premiere 3
 http://185.150.190.225:16468
 #EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",🇧🇷 ⚽️➾  Premiere 4
@@ -1412,7 +1403,8 @@ https://bit.ly/BeinSportXtra?/master.m3u8
 ======= VARIOS SPORTS =======
 
 
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-trt-spor-645.png",🇹🇷 ⚽️➾ TRT Sport http://176.65.146.129:8035/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-trt-spor-645.png",🇹🇷 ⚽️➾ TRT Sport
+http://176.65.146.129:8035/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/sport1.png",🇨🇿 ⚽️➾ Sport 1
 http://185.188.188.235/live/sport1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/sport2.png",🇨🇿 ⚽️➾ Sport 2
