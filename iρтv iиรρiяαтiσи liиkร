@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/Old%20Films
 https://bit.ly/3tWqMRr?/hd2-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",🇪🇸 ⚽️➾ tdp [Pluto]
 https://bit.ly/49obbKU?/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SolMusica.png",🇪🇸 🎶➾ 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SolMusica.png",🇪🇸 🎶➾ Sol Musica
 https://bit.ly/47gjVkn?/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Conan%20O'Brien.png",🇺🇸 ➾ Conan O'Brienᴴᴰ [Pluto]
 https://bit.ly/3QsvP3A?/playlist.m3u8
@@ -404,8 +404,8 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://bit.ly/3pXfx9q?/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://www.atrescine.com/public/img/atrescine/android-chrome-192x192.png",🇪🇸 ➾ AtreCine Internacionalᴴᴰ
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",🇪🇸 ➾ Antena 3ᴴᴰ
-http://budtvlight.com:25461/Daniel/0000/64521
+#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",🇪🇸 ➾ Antena 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
 #EXTINF:-1 group-title="Espanha" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",🇪🇸 ➾ Telecincoᴴᴰ
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
 #EXTINF:-1 group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png",🇪🇸 ➾ La Sextaᴴᴰ
@@ -1249,13 +1249,6 @@ https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
 https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",🇷🇺 ⚽️➾ Матч ТВ футбол
-http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",🇷🇺 ⚽️➾ Матч ТВ футбол 2
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",🇷🇺 ⚽️➾ Матч ТВ футбол 3
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Arenasport.png",🇭🇷 ⚽️➾ Arena Sport 1
 http://80.252.37.194:5000/udp/233.233.233.3:12000
@@ -1326,7 +1319,7 @@ http://budtvlight.com:25461/Daniel/0000/15453
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Sports"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",🇺🇸 🏀➾ NBA tv [only simpletv]
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NBA"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",🇺🇸 🏀➾ NBA tv [only simpletv]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600$OPT:http-user-agent=UniversoSport
 
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸 🏎️⚽️ ➾ DAZN F1 
@@ -1337,10 +1330,39 @@ https://3.ultimate2019.com/stream/hls/512$OPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Sports"  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Skysports.png",🇬🇧 🏎️⚽️ ➾ Sky Sports
 https://donelfantastic.github.io/live/ssportsNZ.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇮🇹 ⚽️➾ DAZN_CHANNEL
-http://51.38.128.109:18000/DAZN_CHANNEL/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇮🇹 ⚽️➾ DAZN_CHANNEL
-http://51.38.128.109:18000/ZDAZNBRASIL/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 2
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 3
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 4
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 5
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 6
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 7
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 9
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 10
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 11
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 12
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo",Event Sport 13
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 14
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports"  tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/5825ae8f-055c-4010-9f75-6379acb306eb/3907484757/live-sports-plus-hd-logo", Event Sport 15
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id=" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AstroSuperSpor.webp",🇬🇪 ⚽️➾ Astro Super Sport 1
 https://sc2022.stream-link.org/tv2306.php?id=s19
@@ -1445,21 +1467,37 @@ http://173.225.246.25:8889/udp/239.203.20.149:4001
 
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",🇹🇭 ⚽️➾ True Premier Footbal 1 [only simpletv]
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8$OPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",🇹🇭 ⚽️➾ True Sport 1 [only simpletv]
+https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8$OPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
+
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",🇹🇭 ⚽️➾ True Premier Footbal 2 [only simpletv]
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8$OPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",🇹🇭 ⚽️➾ True Sport 2 [only simpletv]
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8$OPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
+
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",🇹🇭 ⚽️➾ True Premier Footbal 3 [only simpletv]
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8$OPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",🇹🇭 ⚽️➾ True Sport 3 [only simpletv]
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8$OPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
+
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",🇹🇭 ⚽️➾ True Premier Footbal 4 [only simpletv]
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8$OPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",🇹🇭 ⚽️➾ True Sport 4 [only simpletv]
+https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8$OPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png",🇷🇺 ⚽️➾ футбол 1 Украина
 http://188.191.160.238:7780/udp/239.195.3.16:1234
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png",🇷🇺 ⚽️➾ футбол 1 Украина
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png",🇷🇺 ⚽️➾ футбол 2 Украина
 http://188.191.160.238:7780/udp/239.195.3.17:1234
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png",🇷🇺 ⚽️➾ футбол 2 Украина
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png",🇷🇺 ⚽️➾ футбол 3 Украина
 http://188.191.160.238:7780/udp/239.195.3.18:1234
-
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png",🇷🇺 ⚽️➾ футбол 3 Украина
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Cytavision%20Sports.png",🇬🇷 🏄🏀⚽️➾ Cytavision Sports 
 http://213.7.193.54:4000/play/a005/index.m3u8
@@ -1504,6 +1542,8 @@ https://wp.me/p11I1T-4tq
 ====== FUTBOOL CLUB CHANNELS =======
 
 
+
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="World Sports" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",🇪🇸 ⚽️➾ Real Madrid Tv [Pluto]
 https://bit.ly/RealMadridtv?/chunklist.m3u8
 #EXTINF:-1 tvg-name="" group-title="World Sports" tvg-logo="https://www.udinesetv.it/wp-content/uploads/2022/03/udineselogo-e1648112420168.png",🇮🇹 ⚽️➾ Udinese TV 
@@ -1536,7 +1576,8 @@ http://173.225.246.25:8889/udp/239.203.20.111:4002
 ====== TENNIS & GOLF =======
 
 
-https://sc2022.stream-link.org/tv2306.php?id=s01
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Tennis" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",🇺🇸 🎾➾ 
+http://203.154.243.88:899/TENNIS?u=hh:p=hh@1234
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Tennis" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20tennis.webp",🇹🇭 🎾➾ True Tennis [only simpletv]
 https://sport.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8$OPT:http-referrer=https://www.youdooball.com/
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Tennis" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",🇺🇸 🎾➾ Tennis Channel 
