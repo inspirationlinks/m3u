@@ -258,11 +258,11 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://bit.ly/3HVorus?/master_720.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Record.png",🇧🇷 ➾ Record tv
 https://bit.ly/477RVzv?/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Globo.png",🇧🇷 ➾ Globo
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/globo.webp",🇧🇷 ➾ Globo
 https://bit.ly/3QUKxBT?/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Globo.png",🇧🇷 ➾ Globo MG
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/globo.webp",🇧🇷 ➾ Globo MG
 http://185.150.190.225:16263/
-#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Globo.png",🇧🇷 ➾ Globo ES
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/globo.webp",🇧🇷 ➾ Globo ES
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vivatv.png",🇧🇷⭐ ➾ Viva
 http://64.31.40.14:14884/
@@ -274,8 +274,7 @@ https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/recordnews.png",🇧🇷⭐ ➾ Record News ²
 https://cdn2.connectbr.com.br/Record-News-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="euronw.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EuronewsPT.png",🇵🇹 ➾ Euronewsᴴᴰ [Pluto]
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
-
+https://bit.ly/3SMPLBc?/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EnglishClub.png",🇬🇧⭐ ➾ English Club TVᴴᴰ
 http://iptv.prosto.tv:7000/ch206/video.m3u8
 
@@ -1355,6 +1354,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs
 
 
 
+
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇵🇪 ⚽️➾ Goltv 
+http://167.114.156.136:25461/INFINITV/ZX89NM22/208.ch
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇵🇪 ⚽️➾ Goltv [only simpletv]
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559$OPT:http-user-agent=UniversoSport
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",🇵🇪 ⚽️➾ Goltv
@@ -1401,12 +1403,16 @@ https://www.tugastream.club/
 
 
 
-
-
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/uefa_championsleague.png",🇳🇱 ⚽️➾ Ziggo Select
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73731.ch
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/uefa_championsleague.png",🇳🇱 ⚽️➾ Ziggo Select
 http://78.130.250.2:8023/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/uefa_championsleague.png",🇳🇱 ⚽️➾ Ziggo Voetbal
 http://78.130.250.2:8023/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/uefa_championsleague.png",🇳🇱 ⚽️➾ Ziggo Voetbal
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73732.ch
+
+
 
 
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",🇪🇸 ⚽️➾ tdp [Pluto]
@@ -1463,7 +1469,7 @@ http://8.242.126.186:7777/play/a00w/index.m3u8
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇨🇴 ⚽️➾ ESPN 2
 http://8.242.126.186:7777/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇲🇽 ⚽️➾ ESPN 3
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇦🇷 ⚽️➾ ESPN 3
 http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇦🇷 ⚽️➾ ESPN 3
 http://167.114.156.136:25461/INFINITV/ZX89NM22/187
