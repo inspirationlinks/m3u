@@ -97,6 +97,8 @@ https://pastebin.com/rPeLq8tr
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EnglishClub.png",🇬🇧⭐ ➾ English Club TVᴴᴰ
+http://iptv.prosto.tv:7000/ch206/video.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="RTPInternacional.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32" group-title="Portugal",🇵🇹 ➾ RTP Internacional ²
 #KODIPROP:inputstream=inputstream.adaptive
@@ -142,6 +144,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
 
 
+#EXTINF:-1 tvg-name="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png",🇵🇹 ➾ Porto Canalᴴᴰ [vlc]
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/z.m3u8
+https://ddh1.hlsjs.ru:443/ddh1/premium718/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png",🇵🇹 ➾ Porto Canalᴴᴰ [dailymotion]
+https://www.dailymotion.com/video/x8egnb8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ARTV.png",🇵🇹 ➾ ARTVᴴᴰ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -178,10 +185,6 @@ https://bit.ly/3tWqMRr?/hd2-1080p/chunks.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png",🇵🇹 ➾ Porto Canalᴴᴰ [dailymotion]
-https://www.dailymotion.com/video/x8egnb8
 
 
 
@@ -223,6 +226,9 @@ https://pastebin.com/iF3cq1wG
 
 
 
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trailers.png",🇺🇸🇮🇹⭐ 🎬 ➾ Trailersᴴᴰ
 https://bit.ly/4324sCN?/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trailers.png",🇺🇸🇪🇸⭐ 🎬 ➾ Trailersᴴᴰ
@@ -231,23 +237,25 @@ https://bit.ly/3WChqoj?/chunklist_b1290000_slpt.m3u8
 https://bit.ly/3QLfTvi?/playlist.m3u8
 
 
-====== 🇵🇹🇧🇷🇬🇧🇫🇷🇺🇸 CNANNELS  =======
+====== 🇵🇹🇧🇷🇬🇧🇫🇷🇺🇸 Channels  =======
 
 
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Record.png",🇧🇷 ➾ Record tv
 https://bit.ly/477RVzv?/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Record.png",🇧🇷 ➾ Record tv
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Record.png",🇧🇷 ➾ Record tv ᴍᴛ
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Record.png",🇧🇷 ➾ Record tv ᴍᴛ
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/globo.webp",🇧🇷 ➾ Globo
 https://bit.ly/3QUKxBT?/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/globo.webp",🇧🇷 ➾ Globo MG
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/globo.webp",🇧🇷 ➾ Globo ᴍɢ
 http://185.150.190.225:16263/
-#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/globo.webp",🇧🇷 ➾ Globo ES
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/globo.webp",🇧🇷 ➾ Globo ᴇs
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vivatv.png",🇧🇷⭐ ➾ Viva
 http://64.31.40.14:14884/
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/vivatv.png",🇧🇷⭐ ➾ Viva wᴇʙ
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Informação" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",🇧🇷 ➾ CNN Brasilᴴᴰ
@@ -258,16 +266,10 @@ https://bit.ly/3HVorus?/master_720.m3u8
 https://bit.ly/465XM7r?/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="Brasil" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/BandNews.png",🇧🇷⭐ ➾ BAND News
 https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/recordnews.png",🇧🇷⭐ ➾ Record News ²
-https://cdn2.connectbr.com.br/Record-News-HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-id="euronw.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EuronewsPT.png",🇵🇹 ➾ Euronewsᴴᴰ [Pluto]
 https://bit.ly/3SMPLBc?/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="euronw.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EuronewsPT.png",🇵🇹 ➾ Euronewsᴴᴰ [Youtube]
-https://www.youtube.com/live/fLtn2L7OdeI?si=zHSQ1v0PZEHrvULS
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EnglishClub.png",🇬🇧⭐ ➾ English Club TVᴴᴰ
-http://iptv.prosto.tv:7000/ch206/video.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Conan%20O'Brien.png",🇺🇸⭐ ➾ Conan O'Brienᴴᴰ [Pluto]
 https://bit.ly/3QsvP3A?/playlist.m3u8
@@ -283,7 +285,7 @@ https://bit.ly/3otczsO?/playlist1080p.m3u8
 https://bit.ly/3KOTj0Y?/chunklist_w1467371165.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Lifestyle" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/yoga.png",🇫🇷⭐ ➾ Yoga tv [Pluto]
 https://bit.ly/45xvpjd?/chunklist_b1290000_slpt.m3u8
-#EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png",⭐🎶 ➾ /lubbing tv ᴴᴰ [Pluto]
+#EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png",⭐🎶 ➾ Clubbing tv ᴴᴰ [Pluto]
 https://bit.ly/321b7yZ?/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="fueltvhd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/fueltv_red.png",🇧🇷🇵🇹⭐ 🏄➾ Fuel tvᴴᴰ [Pluto]
 https://bit.ly/3NgxEB4?/playlist1080p.m3u8
@@ -1009,6 +1011,11 @@ https://vk.com/
 
 
 
+
+#EXTINF:-1 tvg-name="" tvg-id="euronw.tv.vodafone.pt" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EuronewsPT.png",🇵🇹 ➾ Euronewsᴴᴰ [Youtube]
+https://www.youtube.com/live/fLtn2L7OdeI?si=zHSQ1v0PZEHrvULS
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/recordnews.png",🇧🇷⭐ ➾ Record News ²
+https://cdn2.connectbr.com.br/Record-News-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",🇺🇸 ➾ CNNᴴᴰ [Pluto]
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="tve24.tv.vodafone.pt" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-24h.png",🇪🇸 ➾ 24hᴴᴰ
