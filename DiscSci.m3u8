@@ -9,6 +9,9 @@ https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/i
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_15.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=509660,AVERAGE-BANDWIDTH=472079,RESOLUTION=416x240,FRAME-RATE=25.000,CODECS="avc1.4D401E,mp4a.40.2",AUDIO="audio_0"
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_16.m3u8
+
+###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=1024x768
+##http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=749984,CODECS="avc1.64001F",RESOLUTION=720x576,URI="https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_18.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_8_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Hindi",LANGUAGE="hin",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_9_0.m3u8"
