@@ -1040,9 +1040,10 @@ The Country Networkᴴᴰ [Stirr]
 
 <a href="https://jerrymoz.wordpress.com/">📌 Blog</a></p>
 <a href="https://inspirationlinks.boards.net/">📌 Fórum</a></p>
+[📌Repositorio Simpletv](https://app.mediafire.com/czkxrvi7putvx)
 
 
-# Notas
+# ✏️ Notas
 
 🇬🇧 ➾ RTP channels don't open in some players.
 SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
