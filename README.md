@@ -1,3 +1,6 @@
+## ⭐ GitHub stars
+[![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 # 📺Inspi[я]ation 🇵🇹
 
