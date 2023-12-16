@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.gz" url-tvg="https://i.mjh.nz/Roku/epg.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" url-tvg="https://i.mjh.nz/Stirr/all.xml.gz"
+#EXTM3U 
 
 
 
@@ -25,6 +25,35 @@ https://app.mediafire.com/czkxrvi7putvx
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Lifestyle" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Glamour%20tv.png",Glamour 🇺🇸 (redboxtv)
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="",Cubavisión Internacional ᴴᴰ 🇨🇺 (not working in Simpletv)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1 ᴴᴰ 🇪🇸
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1 ᴴᴰ 🇪🇸
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-2.png",La 2 ᴴᴰ 🇪🇸
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Brasil" tvg-logo="",Band Pará RBA TV (PA)
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Celebrities" tvg-logo="https://younghollywood.com/templates/yh2016/images/logo.png",Young Hollywoodᴴᴰ 🇺🇸 (tcl)
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Celebrities" tvg-logo="https://younghollywood.com/templates/yh2016/images/logo.png",Young Hollywoodᴴᴰ 🇺🇸 (Rakuten)
+https://younghollywood-rakuten-samsung.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", test
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/masala-entertainment-plus/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", test
+https://aa6ac80ce06c44f28dd012eb4413f160.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/SportsTV_PerfectGameTV/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", test 2
+https://i.mjh.nz/PlutoTV/15ddf901280e3550009139c86-alt.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" group-title="Motors Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DiscoveryTurbo.png",Discovery Turbo 🇺🇸
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-name="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/sportvbr.webp",Sportv 🇧🇷 (Only Simpletv)
@@ -33,6 +62,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://edge-fast.evrideo.tv/ea8e88dd-90d0-471d-9958-4df61396c098_0_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png",IDiscovery ᴴᴰ 🇺🇸 ²
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+
+
 #EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/HGTV.png",HGTV ᴴᴰ 🇮🇳🇺🇸
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TLC.png",TLC ² 
