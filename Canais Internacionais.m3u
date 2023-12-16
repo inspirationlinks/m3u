@@ -24,7 +24,8 @@ https://app.mediafire.com/czkxrvi7putvx
 
 
 
-
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Record.png",Record tv ᴍᴛ 🇧🇷
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Lifestyle" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Glamour%20tv.png",Glamour 🇺🇸 (redboxtv)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="",Cubavisión Internacional ᴴᴰ 🇨🇺 (not working in Simpletv)
@@ -99,10 +100,14 @@ http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trailers.png",The Preview Channelᴴᴰ 🇺🇸 (Rakuten)
 https://previewchannel-previewchannel-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/CNN.png",CNN 🇺🇸 (Pluto)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bit.ly/cnn_inspiration
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="films&series" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GotTalent.png",🇺🇸 ➾ Got Talentᴴᴰ [Pluto]
 https://bit.ly/goo-talents?/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Lifestyle" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Glamour%20tv.png",🇺🇸 ➾ Glamour [redboxtv]
-https://bit.ly/3HePfDk?768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Documentários" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/crime%20300.png",🇺🇸 Crime 360ᴴᴰ [Pluto]
+https://bit.ly/crime360_inspiration_m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Documentários" tvg-logo="https://images.pluto.tv/channels/61409b5108ae6e0007f9b189/colorLogoPNG.png",🇺🇸 ➾ Biografy tvᴴᴰ [Pluto]
 https://bit.ly/3hK7llv?/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Classic%20Arts%20Showcase.png",🇺🇸 🎶➾  Classic Arts Showcaseᴴᴰ
@@ -155,6 +160,8 @@ https://shoutfactory-xumo.amagi.tv/playlistR720P.m3u8
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 #EXTINF:-1 tvg-name="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ParamountChannel.jpg",Paramount Network [Pluto]
 https://bit.ly/ParamountNetwork?/chunklist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SportsMax.png",SportsMax 🇬🇧
+http://103.121.60.170:8027/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="localnow_True History" group-title="Documentários" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png",True History [Localnow]
 https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Entretenimento" tvg-logo="",Movie Sphere [Pluto]
