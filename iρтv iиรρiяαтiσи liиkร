@@ -312,7 +312,6 @@ https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3
 https://i.mjh.nz/PlutoTV/15f32d2db0af67400077f29c4-alt.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ʙʀᴀzɪʟ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Band.png",BAND ᴴᴰ 🇧🇷
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1464711203.m3u8
-https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:-1 tvg-name="" group-title="ʙʀᴀzɪʟ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/curta.png",Curta! 🇧🇷
 https://bit.ly/3qaKU0h?/chunklist_w1922194739.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ʙʀᴀzɪʟ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",Tv Gazeta ᴴᴰ 🇧🇷
@@ -1424,10 +1423,11 @@ https://twitter.com/jmsn74/
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",Caza y pesca 🇪🇸
-https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:39_HD.smil/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7a%20e%20Pesca.png",Caza y pesca ² 🇪🇸 
 http://xcm.budtv-ultra.com:25461/live/eventosiptv/mnyuHhAMk4zS/80694.m3u8
+#EXTINF:-1 group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",Cacavision 🇪🇸🇵🇹
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:39_HD.smil/index.m3u8
 #EXTINF:-1 group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ca%C3%A7avision.png",Cacavision 🇪🇸🇵🇹
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63293_&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Caça Desportiva" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/iberalia.png",Iberalias 🇪🇸🇵🇹
@@ -1506,7 +1506,8 @@ https://3.ultimate2019.com/stream/hls/686
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",Goltv 🇺🇸
 http://xcm.budtv-ultra.com:25461/live/eventosiptv/mnyuHhAMk4zS/46507.ts
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",Goltv 🇺🇸
 http://31.42.185.216:8000/wbgs/5QDJ15CYWF/152495
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GolTV.png",Goltv 🇵🇪
 http://190.92.25.125:8000/play/a06x/index.m3u8
@@ -1658,7 +1659,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/ 
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png"True Premier Footbal 5 (OTTNavigator)
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/true%20sports.png",True Premier Footbal 5 (OTTNavigator)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/ 
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
@@ -1941,7 +1942,7 @@ https://bit.ly/47Qde9k?wurl.tv/3000.m3u8
 https://i.mjh.nz/PlutoTV/164b79c057d934100080b3583-alt.m3u8
 #EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png",Claro Sports (Pluto)
 https://i.mjh.nz/PlutoTV/163a0e33a45264d000850ed7e-alt.m3u8
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Chilevision%20Deportes.webp", Chilevision Deportes 🇨🇱 (Pluto)
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/Chilevision%20Deportes.webp",Chilevision Deportes 🇨🇱 (Pluto)
 https://bit.ly/3tv1REG?/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/FTFsports.png",FTF Sports 🇺🇸 (Plex)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8
@@ -1961,7 +1962,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png", PBR RidePass ᴴᴰ 🇺🇸 (Pluto)
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png",PBR RidePass ᴴᴰ 🇺🇸 (Pluto)
 https://bit.ly/41rtHyn?/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="🐴" tvg-id="" group-title="horse Channel" tvg-logo="https://horseandcountry.tv/img/logo/hnc-desktop-white.png",Horse and Country 🇺🇸 (Localnow)
 https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
