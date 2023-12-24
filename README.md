@@ -1,3 +1,5 @@
+<a href='https://ko-fi.com/R6R5SJ5L8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+
 ## ⭐ GitHub stars
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
 
@@ -1053,5 +1055,7 @@ Some streams only work on Simple tv.
 🇵🇹 ➾ Os canais da RTP não abrem em alguns leitores.
 A SIC Notícias só funciona com IP português, quem vive fora de Portugal terá de usar uma VPN.
 Alguns streams só funcionam no Simple tv.
+
+<a href='https://ko-fi.com/R6R5SJ5L8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
 
