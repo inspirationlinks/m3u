@@ -2,6 +2,20 @@
 
 <img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=200' border='0' alt='Buy Me a Coffee' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_forum.png?w=200' border='0' alt='' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200' border='0' alt='' /></a>
 
+#
+
+# 🎥 Recommended IPTV players
+
+
+<h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3>
+
+[✔️ Download Simple tv](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
+
+
+<h3> 🥇 OTT Navigator IPTV v1.7.1.2 </h3>
+
+[✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+
 
 
 # 📺Inspi[я]ation 🇵🇹
@@ -1018,20 +1032,7 @@ The Country Networkᴴᴰ [Stirr]
 
 🔞💥 ➾ Venus tv [Nem sempre Disponível]
 
-
-
-# 🎥 Recommended IPTV players
-
-
-<h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3>
-
-[✔️ Download Simple tv](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
-
-
-<h3> 🥇 OTT Navigator IPTV v1.7.1.2 </h3>
-
-[✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
-
+#
 
 
 # 🔗 Links to Follow us
