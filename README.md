@@ -9,11 +9,14 @@
 
 <h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3><h5>PARA WINDOWS: E ja tem a lista iptv Inspiration icorporada</h5>
 
+![SIMPLETV IPTV screenshot](/Logos/simple2023.png "SIMPLETV IPTV screenshot")
 
 [✔️ Download Simple tv](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
 
 
 <h3> 🥇 OTT Navigator IPTV v1.7.1.2 </h3><h5>PARA ANDROID: E Não tem a lista iptv Adicionada, tera que a adicionar</h5>
+
+![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
 [✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
 
