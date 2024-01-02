@@ -2,21 +2,26 @@
 
 <img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=200' border='0' alt='Buy Me a Coffee' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_forum.png?w=200' border='0' alt='' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200' border='0' alt='' /></a>
 
-#
+---
 
 # 🎥 Recommended IPTV players
 
 
-<h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3>
+<h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3> <h5>Para Windowns e ja tem a lista iptv Inspiration icorporada</h5>
 
 [✔️ Download Simple tv](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
 
 
-<h3> 🥇 OTT Navigator IPTV v1.7.1.2 </h3>
+<h3> 🥇 OTT Navigator IPTV v1.7.1.2 </h3><h5>Para Android e Nao tem a lista iptv Adicionada, tera que a adicionar</h5>
 
 [✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
 
 
+<h3> 🥇 Lista Inspiration Links m3u </h3>
+
+[✔️ Lista iptv](https://bit.ly/41B7IFk)
+
+---
 
 # 📺Inspi[я]ation 🇵🇹
 
@@ -27,7 +32,6 @@ Oferecendo igualmente uma lista de canais oriundo de plataformas de streaming gr
 Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex and Roku)
 
 
------------------------------------------------------------------------------------------------
 
 # 🎯 Purpose
 
@@ -36,7 +40,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 🇬🇧 ➾ It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels.
 
 
------------------------------------------------------------------------------------------------
+---
 
 
 # ❓ Why?
@@ -46,7 +50,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 🇬🇧 ➾ Mainly aimed at emigrants living abroad, thus maintaining contact with their culture and country. This project can also help anyone who is interested in Portugal or just curious about the language. Furthermore, it is a very viable, low-cost alternative for watching TV.
 
------------------------------------------------------------------------------------------------
+---
 
 
 # 📺 Main Portuguese TV channels 🇵🇹
@@ -1032,7 +1036,7 @@ The Country Networkᴴᴰ [Stirr]
 
 🔞💥 ➾ Venus tv [Nem sempre Disponível]
 
-#
+---
 
 
 # 🔗 Links to Follow us
@@ -1041,6 +1045,7 @@ The Country Networkᴴᴰ [Stirr]
 <a href="https://inspirationlinks.boards.net/">📌 Fórum</a></p>
 [📌Repositorio Simpletv](https://app.mediafire.com/czkxrvi7putvx)
 
+---
 
 # ✏️ Notas
 
