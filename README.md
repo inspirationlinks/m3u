@@ -54,6 +54,8 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 🇬🇧 ➾ Mainly aimed at emigrants living abroad, thus maintaining contact with their culture and country. This project can also help anyone who is interested in Portugal or just curious about the language. Furthermore, it is a very viable, low-cost alternative for watching TV.
 
+---
+
 * Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline e a secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
 
 ---
