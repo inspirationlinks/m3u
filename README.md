@@ -7,7 +7,7 @@
 # 🎥 Recommended IPTV players
 
 
-<h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3>**Windows**<h5>Para e ja tem a lista iptv Inspiration icorporada</h5>
+<h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3><h5>Windows Para e ja tem a lista iptv Inspiration icorporada</h5>
 
 [✔️ Download Simple tv](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
 
@@ -19,7 +19,7 @@
 
 <h3> 🥇 Lista Inspiration Links m3u </h3>
 
-[✔️ Lista iptv](https://bit.ly/41B7IFk)
+[🄸🄿🅃🅅 Lista iptv](https://bit.ly/41B7IFk)
 
 ---
 
