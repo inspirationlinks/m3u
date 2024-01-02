@@ -1044,7 +1044,6 @@ The Country Networkᴴᴰ [Stirr]
 
 <a href="https://jerrymoz.wordpress.com/">📌 Blog</a></p>
 <a href="https://inspirationlinks.boards.net/">📌 Fórum</a></p>
-[📌Repositorio Simpletv](https://app.mediafire.com/czkxrvi7putvx)
 
 ---
 
