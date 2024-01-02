@@ -1030,7 +1030,7 @@ The Country Networkᴴᴰ [Stirr]
 
 <h3> 🥇 OTT Navigator IPTV v1.7.1.2 </h3>
 
-[✔️ Download OTT]([https://www.mediafire.com/file/am6dw9cvuvd52b2/OTT_Navigator_v1.7.1.2__Premium.apk/file](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+[✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
 
 
 
