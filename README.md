@@ -1025,14 +1025,12 @@ The Country Networkᴴᴰ [Stirr]
 
 <h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3>
 
-<p dir="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/inspirationlinks/inspiration-1/blob/master/kodi.jpg?raw=true"><img src="https://github.com/inspirationlinks/inspiration-1/blob/master/kodi.jpg?raw=true" alt="Kodi" title="Kodi" style="max-width: 100%;"></a></p>
-
-[📌 Simple tv Download](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
+[✔️ Simple tv Download](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
 
 
 <h3> 🥇 OTT Navigator IPTV v1.7.1.2 </h3>
 
-[📌 OTT Download](https://www.mediafire.com/file/am6dw9cvuvd52b2/OTT_Navigator_v1.7.1.2__Premium.apk/file)
+[✔️ OTT Download](https://www.mediafire.com/file/am6dw9cvuvd52b2/OTT_Navigator_v1.7.1.2__Premium.apk/file)
 
 
 
