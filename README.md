@@ -19,7 +19,7 @@
 
 <h3> 🥇 Lista Inspiration Links m3u </h3>
 
-[🄸🄿🅃🅅 Lista iptv](https://bit.ly/41B7IFk)
+[🌍 Lista iptv](https://bit.ly/41B7IFk)
 
 ---
 
