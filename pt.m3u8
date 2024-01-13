@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.gz" url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" url-tvg="https://i.mjh.nz/Stirr/all.xml.gz" url-tvg="https://i.mjh.nz/Roku/epg.xml.gz" 
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" url-tvg="https://i.mjh.nz/Stirr/all.xml.gz" url-tvg="https://i.mjh.nz/Roku/epg.xml.gz" 
 
 
 
@@ -168,9 +168,11 @@ https://bit.ly/486K5GO?/playlist.m3u8?ads.xumo_channelId=99951215
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
 
-====☛ ☆ LEGENDADOS ☆ ☚====
 
 
+#EXTINF:-1 group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",REELZ Famous & Infamousᴴᴰ (Plex)
+https://i.mjh.nz/SamsungTVPlus/USBB3200001MG.m3u8
+https://d3serb1fmh623s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Reelz-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",H2ᴴᴰ 🇧🇷
 http://187.95.95.247/h2/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="wɪʟᴅ ʟɪғᴇ" tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature 🇧🇷 (Audio 🇧🇷)
@@ -1253,6 +1255,8 @@ https://timeline-samsung-uk.amagi.tv/playlist720-p.m3u8
 ====☛ 🇺🇸🇪🇸 Paranormal ☚====
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ᴘᴀʀᴀɴoʀᴍᴀʟ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a878ba27-c8d8-46dc-8e89-73e8e0909417/GhostHunters_Logo_White_1500x1000_Chris.png",Ghost Hunters Channel 🇺🇸 (plex)
+https://6aba28ce.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfR2hvc3RIdW50ZXJzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ᴘᴀʀᴀɴoʀᴍᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HauntTV.webp",Haunt tv 🇺🇸 (tlc)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttvus-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ᴘᴀʀᴀɴoʀᴍᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MysteryTv.png",Mystery TVᴴᴰ 🇺🇸 (Samsungtv)
@@ -1470,6 +1474,9 @@ http://vk.com/video_ext.php?oid=432851568&id=456239017&hash=78c72a2626a861a?
 
 
 
+
+
+
 #EXTINF:-1 group-title="ɪɴғᴀɴᴛɪʟ" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",kuriakos kidsᴴᴰ 🇵🇹
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ɪɴғᴀɴᴛɪʟ" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Família 🇵🇹 (Rakuten)
@@ -1571,6 +1578,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ɢᴀᴍɪɴɢ" tvg-logo="https://goo.gl/wYPLrH",➽   ☛ 🇺🇸 🕹🎮 Games Play ☚
 https://vk.com/luky74
+
+
+
+
 
 
 
