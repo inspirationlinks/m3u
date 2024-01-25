@@ -69,7 +69,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/RTP_%C3%81frica_%282016%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP África
+#EXTINF:-1 tvg-name="" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/RTP_%C3%81frica_%282016%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP África ѕᴅ 🇵🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
@@ -101,6 +101,8 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sic.pt
 https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-id="sicchd.tv.vodafone.pt" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-caras-pt.png",Sic Carasᴴᴰ 🇵🇹 🟡
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=250592&extension=ts
 #EXTINF:-1 tvg-id="sicrhd.tv.vodafone.pt" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sicradical.png",Sic Radicalᴴᴰ 🇵🇹 🟡
 http://cord-cutter.net:8080/68163537/23517227/164826.ch
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ 🇵🇹 
@@ -144,11 +146,10 @@ https://bit.ly/3tWqMRr?profile=inspirationlivetv.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="" tvg-id="portochd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canalᴴᴰ 🇵🇹 🟡
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=250603&extension=ts
 #EXTINF:-1 tvg-name="" tvg-id="portochd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canalᴴᴰ 🇵🇹 ▶️
 https://dai.ly/x8egnb8
-#EXTINF:-1 tvg-name="" tvg-id="portochd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canalᴴᴰ 🇵🇹 ❗❔ 🟢
-https://ddh1.hlsjs.ru:443/ddh1/premium718/tracks-v1a1/mono.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
-
 
 #EXTINF:-1 tvg-name="" tvg-id="euronw.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Euronews.png",Euronewsᴴᴰ 🇵🇹 🟠
 https://bit.ly/46RyCcU?profile=inspirationlivetv.m3u8
@@ -371,7 +372,7 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Bʀᴀzɪʟ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV! Tocantinsᴴᴰ 🇧🇷
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w1575676158.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Bʀᴀzɪʟ" tvg-country="" tvg-language=""tvg-logo="https://framerusercontent.com/images/6CG3YuZb7rqjKawM1pXwWsWNGuY.png",Olhatv 🇧🇷
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Bʀᴀzɪʟ" tvg-country="" tvg-language=""tvg-logo="https://framerusercontent.com/images/6CG3YuZb7rqjKawM1pXwWsWNGuY.png",tvOlha 🇧🇷
 https://serv4.videovox.pw/video55103/video55103/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Bʀᴀzɪʟ" tvg-logo="https://sck.pm/0RIi",Mega Fatos 🇧🇷 
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1313069576.m3u8
@@ -1802,11 +1803,13 @@ https://twitter.com/jmsn74/
 
 
 #EXTINF:-1 tvg-id="CazayPesca.es" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Caza%20y%20Pesca.png",Caza y pesca ² 🇪🇸 🟡
-http://xcm.budtv-ultra.com:25461/live/eventosiptv/mnyuHhAMk4zS/80694.ts
-#EXTINF:-1 tvg-id="Cacavision.es" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cazavisi%C3%B3n.png",Cacavision 🇪🇸🇵🇹
-https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:39_HD.smil/index.m3u8
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13168&extension=ts
+#EXTINF:-1 tvg-id="Cacavision.es" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cazavisi%C3%B3n.png",Cacavision 🇪🇸🇵🇹 🟡
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=746793&extension=ts
 #EXTINF:-1 tvg-id="Cacavision.es" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cazavisi%C3%B3n.png",Cacavision 🇪🇸🇵🇹 🟡
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63293_&extension=ts
+#EXTINF:-1 tvg-id="Cacavision.es" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cazavisi%C3%B3n.png",Cacavision 🇪🇸🇵🇹 🟡
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1144739&extension=ts
 #EXTINF:-1 tvg-id="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Iberalia%20caza.png",Iberalias 🇪🇸🇵🇹
 https://bit.ly/4aacGg2?profile=inspirationlivetv.m3u8
 
@@ -2013,7 +2016,37 @@ http://89.187.179.242:12397
 http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=65df4b105d30b4b9573333
 
 
-====☛ 🇧🇷🇦🇷🇲🇽 ESPN & FOX SPORTS ☚====
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg",M LaLigaᴴᴰ 🇪🇸 🟡
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:7A:FE:9B&stream=107564&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Liga%20de%20Campeones.png",Liga Campeonesᴴᴰ 🇪🇸
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Liga%20de%20Campeones.png",Liga Campeonesᴴᴰ 🇪🇸 🟢
+torrent://INFOHASH=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
+#EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Deportes.png",Movistar Deportes 🇪🇸 🟡
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/203.ch
+#EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Deportes.png",Movistar Deportes 🇪🇸
+http://177.128.113.8:4443/play/a0ax
+
+
+#EXTINF:-1 tvg-id="sptvnba.tv.vodafone.pt" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SportTVNBA.png",NBA tv 🟡
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63308_&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv 🇺🇸
+http://38.96.178.201/live/NBA/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv 🇺🇸 🟡
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12722.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv 🇺🇸 🟡
+http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/285847.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NBA_DIGITAL_Mono.png",Bein sports NBA 🇺🇸
+http://185.252.100.23:9091/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 🇺🇸
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="F1" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/skySportF1.png",Sky Sports F1 🇬🇧 🟡
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20828&amp;f=.ch
+#EXTINF:-1 tvg-id="" group-title="F1" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZN%20F1.png",DAZN F1 🇪🇸 🟡
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/45.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN Extra 🇧🇷 🟡
@@ -2048,31 +2081,8 @@ http://208.115.225.174:14464/Premiere2
 http://185.150.190.225:16468/Premiere3
 
 
-====☛  🏀⚽️🏎️ 🇪🇸🇫🇷🇺🇸🇬🇧 LIGAS SPORTS ☚====
-
-
-#EXTINF:-1 tvg-id="sptvnba.tv.vodafone.pt" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SportTVNBA.png",NBA tv 🟡
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63308_&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv 🇺🇸
-http://38.96.178.201/live/NBA/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv 🇺🇸 🟡
-https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12722.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv 🇺🇸 🟡
-http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/285847.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nʙᴀ"  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NBA_DIGITAL_Mono.png",Bein sports NBA 🇺🇸
-http://185.252.100.23:9091/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 🇺🇸
-http://38.96.178.201:80/live/ESPNHD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="F1" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/skySportF1.png",Sky Sports F1 🇬🇧 🟡
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20828&amp;f=.ch
-#EXTINF:-1 tvg-id="" group-title="F1" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZN%20F1.png",DAZN F1 🇪🇸 🟡
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/45.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZNWomensFootball.png",DAZN Womens Football 🇬🇧 🟠
 https://r.mjh.nz/PlutoTV/659bfdc66e4f6a0008ae4a3c-alt.m3u8
-
-
 #EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://images.pluto.tv/channels/64b79c057d934100080b3583/colorLogoPNG.png",DAZN INTL Football 🇩🇪 🟠 ❌
 https://bit.ly/3U68NTM?profile=inspirationlivetv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://images.pluto.tv/channels/64b79c057d934100080b3583/colorLogoPNG.png",DAZN Heldinnen 🇩🇪🇬🇧 🟠 ❌
@@ -2092,18 +2102,6 @@ http://143.255.35.223:8000/play/a00g
 http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧
 http://91.132.74.4:7374/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Liga%20de%20Campeones.png",Liga Campeonesᴴᴰ 🇪🇸
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Liga%20de%20Campeones.png",Liga Campeonesᴴᴰ 🇪🇸 🟢
-torrent://INFOHASH=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
-#EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Deportes.png",Movistar Deportes 🇪🇸 🟡
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/203.ch
-#EXTINF:-1 tvg-id="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Deportes.png",Movistar Deportes 🇪🇸
-http://177.128.113.8:4443/play/a0ax
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pʀᴇᴍɪuᴍ Sᴘoʀᴛs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Major_League_Baseball_logo.svg",MLB 🇺🇸
 http://38.96.178.201/live/MLB/index.m3u8
@@ -2712,11 +2710,11 @@ https://bit.ly/3HkdHVC?profile=inspirationlivetv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Mυsɪc" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Logotipo_da_Kiss_FM.png",Kiss tv
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Mυsɪc" tvg-id="DeluxeMusic" tvg-name="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",Deluxe Rock
+#EXTINF:-1 tvg-id="" group-title="Mυsɪc" tvg-id="DeluxeMusic" tvg-name="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",Deluxe Rock 🇩🇪
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Mυsɪc" tvg-id="DeluxeMusic" tvg-name="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",Deluxe Flashback 
+#EXTINF:-1 tvg-id="" group-title="Mυsɪc" tvg-id="DeluxeMusic" tvg-name="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",Deluxe Flashback  🇩🇪
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Mυsɪc" tvg-id="DeluxeMusic" tvg-name="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",Deluxe Music
+#EXTINF:-1 tvg-id="" group-title="Mυsɪc" tvg-id="DeluxeMusic" tvg-name="Deluxe Rock" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",Deluxe Music 🇩🇪
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Mυsɪc" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/30atv.png",30a tv
 https://30a-tv.com/feeds/720p/6.m3u8
