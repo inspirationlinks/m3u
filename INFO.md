@@ -1,5 +1,5 @@
 
-# ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
+# 📺🖥️📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv 
 
 ☕💰 Pagar um café
 🔗 https://ko-fi.com/R6R5SJ5L8
@@ -12,6 +12,7 @@
 Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 🇵🇹 O teu apoio incentiva-me a dedicar mais tempo a este projeto que ja perdora a mais de 10 Anos. Precisamos de apoio e estimulo para continuar a trabalhar em prol de todos poderem usufruir de uma lista gratuita.
+
 📌 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
 
 ---
@@ -62,6 +63,8 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)
+
+---
 
 # 🗃️ CATEGORIAS|GRUPOS
 
