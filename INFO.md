@@ -69,42 +69,79 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 ⮘✨⮚ Poʀᴛᴜɢᴀʟ
+
 ⮘✨⮚ Bʀᴀzɪʟ
+
 ⮘✨⮚ Esᴘᴀɴʜᴀ
+
 ⮘✨⮚ Eɴɢʟᴀɴᴅ
+
 ⮘✨⮚ Usᴀ
+
 ⮘✨⮚ Fʀᴀɴcᴀ
+
 ⮘✨⮚ Iᴛᴀʟɪᴀ
+
 ⮘✨⮚ Tʀᴀvᴇʟ
+
 ⮘✨⮚ Cᴇʟᴇʙʀɪᴛɪᴇs
+
 ⮘✨⮚ Lɪғᴇsᴛʏʟᴇ
+
 ⮘✨⮚ Pᴀɪɴᴛɪɴɢ
+
 ⮘✨⮚ Gᴀsᴛʀᴏɴoᴍɪᴀ
+
 ⮘✨⮚ Pᴇᴛs
+
 ⮘✨⮚ Tᴇʀʀoʀ
+
 ⮘✨⮚ Docuᴍᴇɴᴛᴀʀɪos
+
 ⮘✨⮚ Pᴀʀᴀɴoʀᴍᴀʟ
+
 ⮘✨⮚ Wɪʟᴅ Lɪғᴇ
+
 ⮘✨⮚ Mᴇᴛᴇoʀoʟoɢɪᴀ
+
 ⮘✨⮚ Nᴇws
+
 ⮘✨⮚ Iɴғᴀɴᴛɪʟ
+
 ⮘✨⮚ Gᴀᴍɪɴɢ
+
 ⮘✨⮚ Fᴀɴɴʏ vɪᴅᴇos
+
 ⮘✨⮚ Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ
+
 ⮘✨⮚ Lɪɢᴀ Bwɪɴ
+
 ⮘✨⮚ Pʀᴇᴍɪuᴍ Sᴘoʀᴛs
+
 ⮘✨⮚ Nʙᴀ
+
 ⮘✨⮚ F1
+
 ⮘✨⮚ Tᴇɴɴɪs
+
 ⮘✨⮚ Goʟғ
+
 ⮘✨⮚ Woʀʟᴅ Sᴘoʀᴛs
+
 ⮘✨⮚ Pokᴇʀ
+
 ⮘✨⮚ Bɪʟʟнᴀʀ
+
 ⮘✨⮚ Moᴛoʀs Sᴘoʀᴛs
+
 ⮘✨⮚ Rᴀᴅɪcᴀʟ Sᴘoʀᴛs
+
 ⮘✨⮚ Coᴍʙᴀᴛ
+
 ⮘✨⮚ Mυsɪc
+
 ⮘✨⮚ Rᴀᴅɪos Sᴛᴀᴛɪoɴs
+
 ⮘✨⮚ +18
 
 
