@@ -9,8 +9,9 @@
 
 ## 🔗 Links to Follow us
 
-*[📌 Blog](https://jerrymoz.wordpress.com/)
-*[📌 Telegram](https://t.me/inspirationlivetv/)
+[📌 Blog](https://jerrymoz.wordpress.com/)
+
+[📌 Telegram](https://t.me/inspirationlivetv/)
 
 ---
 
