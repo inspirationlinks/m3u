@@ -45,13 +45,15 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# 🔔 INDICE DA LISTA INSPIRATION LIVE TV
+# 🔔 Indice da lista inspiration live tv
+* 👇 Para perceber como está organizada a lista m3u em termos de estrutura, clique nas ligação em baixo 👇
 
 [📝 INDICE](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
 ---
 
-# 🔔 CATEGORIAS DA LISTA INSPIRATION LIVE TV
+# 🔔 Categorias da lista inspiration live tv
+* 👇 Para perceber como está organizada a lista m3u em termos de estrutura, clique nas ligação em baixo 👇
 
 [🗃️ CATEGORIAS](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categoriasgrupos)
 
