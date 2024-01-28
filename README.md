@@ -47,7 +47,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 ### 🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020 
 *PARA WINDOWS: Ja tem a lista InspirationLiveTv icorporada*
 
-![SIMPLETV IPTV screenshot](/Logos/simple2023.png "SIMPLETV IPTV screenshot")
+![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
 
 [✔️ Download Simple tv](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
 
