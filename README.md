@@ -56,7 +56,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ### ❗❗ INFO E VERSÃO DO SIMPLE TV: (v0.5.0 b12.8.12) 
 
-* <b>Lista M3U Inspiration live tv</b> Incluída (Actualizaçao automática e manual ativadas)
+* <b>Lista M3U Inspiration live tv Incluída</b> (Atualização automática e manual ativadas)
 
 * <b>TV SOURCES</b> (TVSources v3.81)
 
@@ -81,12 +81,17 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ## 🥇 OTT Navigator IPTV v1.7.1.2 
 
+
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
-* <b>Sistema Android:</b> <b>Não tem a lista Inspiration Adicionada</b>, terá que a adicionar manualmente...
+[👉 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+
+* <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
 
-[👉 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+### 📢 ❗ NO OTT NAVIGATOR, existem canais onde só tem som, mas não aparece a imagem, (ou em outras situações), terão que alterar o codec do vídeo.
+
+* ╭─➤ CAMINHO: Configurações ➤ Player ➤ Configurar preferências dos codecs ➤ Configurações de codec ➤ (depois é só escolher um codec diferente e testar se a imagem já aparece.)
 
 ---
 
@@ -103,7 +108,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# ✏️ Notas
+# ✏️ 📋 Notas
 
 * ➾ RTP channels don't open in some players.
 * ➾ SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
