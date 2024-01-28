@@ -1,1 +1,183 @@
-# 📺🖥️📱 Inspiration Live tv 🇵🇹
+
+
+  _              _          _   _            _ _           _       
+#(_)_ _  ____ __(_)_ _ __ _| |_(_)___ _ _   | (_)_ _____  | |___ __
+ | | ' \(_-< '_ \ | '_/ _` |  _| / _ \ ' \  | | \ V / -_) |  _\ V /
+ |_|_||_/__/ .__/_|_| \__,_|\__|_\___/_||_| |_|_|\_/\___|  \__|\_/ 
+           |_|                                                     
+
+
+☕💰 Pagar um café
+🔗 https://ko-fi.com/R6R5SJ5L8
+
+✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou POR transferência bancaria.
+[O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
+
+✅ 🇬🇧 If you are interested, you can contribute through the link indicated above through KO-FI, or by MBWAY, or BY bank transfer.
+[IBAN OR MOBILE NUMBER will be provided by private message]
+Please help fund the bandwidth costs to provide frequent updates to m3u
+
+📌 🇵🇹 O teu apoio incentiva-me a dedicar mais tempo a este projeto que ja perdora a mais de 10 Anos. Precisamos de apoio e estimulo para continuar a trabalhar em prol de todos poderem usufruir de uma lista gratuita.
+📌 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
+_______________________________________________________________________________________________________________________________________________________________
+
+🚩 Telegram
+🔗 https://t.me/inspirationlivetv
+
+(criei um grupo no telegram, o Canal do projecto ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv. Para ser mais fácil interagirmos e falar de variadíssimos assuntos e conteúdos sobre ɪᴘᴛv e não só)
+_______________________________________________________________________________________________________________________________________________________________
+
+  _      _                  ____     
+ (_)_ __| |___ __     _ __ |__ /_  _ 
+ | | '_ \  _\ V /    | '  \ |_ \ || |
+ |_| .__/\__|\_/     |_|_|_|___/\_,_|
+   |_|                               
+   
+(Basta copiar e colar num player compatível com m3u)
+ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
+🔗 https://bit.ly/41B7IFk
+
+❗❗❗ 📢 A lista que elaboro é construida em base para 2 Players. (Simpletv e OTTNavigator). No entanto a lista é universal e é aceite e compatível com a maioria dos playeres que suportem (m3u). Mas... nalguns casos possa existir canais que não funcionem e não abram em determinados Players, Boxs, etc ...
+
+_______________________________________________________________________________________________________________________________________________________________
+
+   ___                _           _      _ _    _                  _        
+  / __|__ _ _ _  __ _(_)___      /_\  __| (_)__(_)___ _ _  __ _ __| |___ ___
+ | (__/ _` | ' \/ _` | (_-<     / _ \/ _` | / _| / _ \ ' \/ _` / _` / _ (_-<
+  \___\__,_|_||_\__,_|_/__/    /_/ \_\__,_|_\__|_\___/_||_\__,_\__,_\___/__/
+                                                        
+
+
+                                        ✔️ Update: 27-01-24
+										
+										
+
+
+🟢 OneToroᴴᴰ 🇪🇸 [Poʀᴛᴜɢᴀʟ]
+🟢 AXN Whiteᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+🟢 AXN Moviesᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
+
+
+
+________________________________________________________________________________________________________________________________________________________________
+
+  ___                     _            _         _ 
+ |_ _|_ __  _ __  ___ _ _| |_ __ _ _ _| |_ ___  | |
+  | || '  \| '_ \/ _ \ '_|  _/ _` | ' \  _/ -_) |_|
+ |___|_|_|_| .__/\___/_|  \__\__,_|_||_\__\___| (_)
+           |_|                                     
+
+
+📢 🚨❗ Não se esqueçam, para verem os canais Acestream no simpletv, têm que ter o player Acestream instalado no vosso Windons. 
+🔗 https://www.acestream.org
+
+📢 🚨❗ NO OTT NAVIGATOR, existem canais onde só tem som, mas não aparece a imagem, (ou em outras situações), terão que alterar o codec do vídeo.
+
+╭─➤ CAMINHO: Configurações ➤ Player ➤ Configurar preferências dos codecs ➤ Configurações de codec ➤ (depois é só escolher um codec diferente e testar se a imagem já aparece.)
+
+
+_______________________________________________________________________________________________________________________________________________________________
+
+  __        _ _            __  _                      _      
+ /_/_ _  __| (_)__ ___    / / | |___ __ _ ___ _ _  __| |__ _ 
+ | | ' \/ _` | / _/ -_)  / /  | / -_) _` / -_) ' \/ _` / _` |
+ |_|_||_\__,_|_\__\___| /_/   |_\___\__, \___|_||_\__,_\__,_|
+                                    |___/                    
+
+
+
+📌 Se encontrar à frente do nome do canal, (ᴴᴰ). Significa que o canal é de boa qualidade.
+
+📌 Se encontrar à frente do nome do canal, (ѕᴅ). Significa que o canal é de má qualidade.
+
+📌 Se encontrar à frente do nome do canal a flag de um País, exemplo:(🇵🇹,🇧🇷,🇪🇸,🇺🇸). Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do(áudio e legendas) que possua um determinado canal
+
+📌 Se encontrar à frente do nome do canal este símbolo desta cor(🔵). Significa que o canal não abre no simpletv, mas abre no OTTNavigator e noutros players também...
+
+📌 Se encontrar à frente do nome do canal este símbolo desta cor,(🟢). Significa que o canal só abre no simpletv.
+
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, (🟡). Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
+
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🟤. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: (Plutotv, Samsungtv, plex, roku, etc...)
+
+📌 Se encontrar à frente do nome do canal este símbolo, ▶️. Significa que o canal é oriundo do (Youtube, Dailymotion, etc...)
+
+📌 Se encontrar à frente do nome do canal este símbolo ⚽️. Significa que o canal é de Entretenimento, mas transmite em directo eventos desportivos.
+
+📌 Se encontrar à frente do nome do canal este símbolo ❗❔. Significa que o canal em questão é instável, tão depressa esta ON como fica OFF.
+
+📌 Se encontrar à frente do nome do canal este símbolo 💀. Significa que o canal em questão está a ser testado para sabermos se vale a pena te-lo na lista
+
+📌 Se encontrar à frente do nome do canal este símbolo ❌. Significa que o canal está indisponível de momento.
+
+
+📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)
+
+
+________________________________________________________________________________________________________________________________________________________
+
+
+          _                    _                                         
+  __ __ _| |_ ___ __ _ ___ _ _(_)__ _ ___     __ _ _ _ _  _ _ __  ___ ___
+ / _/ _` |  _/ -_) _` / _ \ '_| / _` (_-<    / _` | '_| || | '_ \/ _ (_-<
+ \__\__,_|\__\___\__, \___/_| |_\__,_/__/    \__, |_|  \_,_| .__/\___/__/
+                 |___/                       |___/         |_|           
+
+
+📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de 800 canais de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
+
+
+⮘✨⮚ [Poʀᴛᴜɢᴀʟ]
+⮘✨⮚ Bʀᴀzɪʟ
+⮘✨⮚ Esᴘᴀɴʜᴀ
+⮘✨⮚ Eɴɢʟᴀɴᴅ
+⮘✨⮚ Usᴀ
+⮘✨⮚ Fʀᴀɴcᴀ
+⮘✨⮚ Iᴛᴀʟɪᴀ
+⮘✨⮚ Tʀᴀvᴇʟ
+⮘✨⮚ Cᴇʟᴇʙʀɪᴛɪᴇs
+⮘✨⮚ Lɪғᴇsᴛʏʟᴇ
+⮘✨⮚ Pᴀɪɴᴛɪɴɢ
+⮘✨⮚ Gᴀsᴛʀᴏɴoᴍɪᴀ
+⮘✨⮚ Pᴇᴛs
+⮘✨⮚ Tᴇʀʀoʀ
+⮘✨⮚ Docuᴍᴇɴᴛᴀʀɪos
+⮘✨⮚ Pᴀʀᴀɴoʀᴍᴀʟ
+⮘✨⮚ Wɪʟᴅ Lɪғᴇ
+⮘✨⮚ Mᴇᴛᴇoʀoʟoɢɪᴀ
+⮘✨⮚ Nᴇws
+⮘✨⮚ Iɴғᴀɴᴛɪʟ
+⮘✨⮚ Gᴀᴍɪɴɢ
+⮘✨⮚ Fᴀɴɴʏ vɪᴅᴇos
+⮘✨⮚ Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ
+⮘✨⮚ Lɪɢᴀ Bwɪɴ
+⮘✨⮚ Pʀᴇᴍɪuᴍ Sᴘoʀᴛs
+⮘✨⮚ Nʙᴀ
+⮘✨⮚ F1
+⮘✨⮚ Tᴇɴɴɪs
+⮘✨⮚ Goʟғ
+⮘✨⮚ Woʀʟᴅ Sᴘoʀᴛs
+⮘✨⮚ Pokᴇʀ
+⮘✨⮚ Bɪʟʟнᴀʀ
+⮘✨⮚ Moᴛoʀs Sᴘoʀᴛs
+⮘✨⮚ Rᴀᴅɪcᴀʟ Sᴘoʀᴛs
+⮘✨⮚ Coᴍʙᴀᴛ
+⮘✨⮚ Mυsɪc
+⮘✨⮚ Rᴀᴅɪos Sᴛᴀᴛɪoɴs
+⮘✨⮚ +18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inspi[я]ation ʟɪvᴇ ᴛv © 2024 All rights reserved
