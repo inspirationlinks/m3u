@@ -49,7 +49,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 ## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
-* Para <b>Windows:</b> Já tem a <b>lista InspirationLiveTv</b> incorporada.
 
 ![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
 
