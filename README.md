@@ -7,10 +7,11 @@
 
 ---
 
-# 🎥 Recommended IPTV players
+## 🎥 Recommended IPTV players
 
 
-<h3>🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020</h3><h5>PARA WINDOWS: E ja tem a lista iptv Inspiration icorporada</h5>
+### 🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020 
+*PARA WINDOWS: Ja tem a lista InspirationLiveTv icorporada*
 
 ![SIMPLETV IPTV screenshot](/Logos/simple2023.png "SIMPLETV IPTV screenshot")
 
@@ -24,13 +25,13 @@
 [✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
 
 
-<h3> 🥇 Lista Inspiration Links m3u </h3>
+## 🥇 Lista Inspiration Links m3u </h3>
 
 * **🌍M3U**: <https://bit.ly/41B7IFk>
 
 ---
 
-# 📺Inspi[я]ation 🇵🇹
+# 📺 Inspi[я]ation 🇵🇹
 
 🇵🇹 ➾ Playlist IPTV em formato M3U com 📺 canais de TV e 📻 estações de rádio em 🇵🇹 português. Somente streams públicos e oficiais.
 Oferecendo igualmente uma lista de canais oriundo de plataformas de streaming gratuitos, tais como: (Pluto tv, SamsungTVPlus, Stirr, Plex e Roku)
