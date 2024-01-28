@@ -46,7 +46,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 ---
 
 # 🔔 Indice da lista inspiration live tv
-* 👇 Para perceber como está organizada a lista m3u em termos de estrutura, clique nas ligação em baixo 👇
+* 👇 Para perceber como está organizada a lista m3u em termos de estrutura, clique na ligação em baixo 👇
 
 [📝 INDICE](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
