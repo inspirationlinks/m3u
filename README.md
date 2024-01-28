@@ -5,6 +5,16 @@
 
 <img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=200' border='0' alt='Buy Me a Coffee' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_forum.png?w=200' border='0' alt='' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200' border='0' alt='' /></a>
 
+✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou POR transferência bancaria.
+[O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
+
+✅ 🇬🇧 If you are interested, you can contribute through the link indicated above through KO-FI, or by MBWAY, or BY bank transfer.
+[IBAN OR MOBILE NUMBER will be provided by private message]
+Please help fund the bandwidth costs to provide frequent updates to m3u
+
+📌 🇵🇹 O teu apoio incentiva-me a dedicar mais tempo a este projeto que ja perdora a mais de 10 Anos. Precisamos de apoio e estimulo para continuar a trabalhar em prol de todos poderem usufruir de uma lista gratuita.
+📌 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
+
 ---
 
 ## 🔗 Links to Follow us
@@ -45,8 +55,8 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 ## 🎥 Recommended IPTV players
 
 
-### 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020 [Update: 28/01/24]
-* PARA WINDOWS: Ja tem a lista InspirationLiveTv icorporada
+### 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
+* Para <b>Windows:</b> Já tem a <b>lista InspirationLiveTv</b> incorporada.
 
 ![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
 
@@ -72,9 +82,9 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-### 🌍 List of Main TV channels 🇵🇹🇧🇷🇪🇸🇺🇸🇬🇧🇫🇷🇮🇹
+### 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-[📺 lISTA COMPLETA CANAIS](https://pastebin.com/raw/hjJK1cYD)
+[📺 CONFIRA A lISTA COMPLETA CANAIS](https://pastebin.com/raw/hjJK1cYD)
 
 ---
 
