@@ -46,7 +46,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 
 ### 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020 [Update: 28/01/24]
-* PARA WINDOWS: Ja tem a lista InspirationLiveTv icorporada*
+* PARA WINDOWS: Ja tem a lista InspirationLiveTv icorporada
 
 ![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
 
@@ -55,9 +55,9 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 ---
 
 ### 🥇 OTT Navigator IPTV v1.7.1.2 
-* PARA ANDROID: Não tem a lista Inspiration Adicionada, terá que a adicionar manualmente*
+* PARA ANDROID: Não tem a lista Inspiration Adicionada, terá que a adicionar manualmente
+* 
 [O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar e colocar a lista Inspiration e seguir os passos]
-
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
