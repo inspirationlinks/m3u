@@ -12,8 +12,9 @@
 [IBAN OR MOBILE NUMBER will be provided by private message]
 Please help fund the bandwidth costs to provide frequent updates to m3u
 
-📌 🇵🇹 O teu apoio incentiva-me a dedicar mais tempo a este projeto que ja perdora a mais de 10 Anos. Precisamos de apoio e estimulo para continuar a trabalhar em prol de todos poderem usufruir de uma lista gratuita.
-📌 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
+✅ 🇵🇹 O teu apoio incentiva-me a dedicar mais tempo a este projeto que ja perdora a mais de 10 Anos. Precisamos de apoio e estimulo para continuar a trabalhar em prol de todos poderem usufruir de uma lista gratuita.
+
+✅ 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
 
 ---
 
@@ -52,10 +53,10 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-## 🎥 Recommended IPTV players
+# Inspi[я]ation ʟɪvᴇ ᴛv Recommended IPTV players
 
 
-### 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
+## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
 * Para <b>Windows:</b> Já tem a <b>lista InspirationLiveTv</b> incorporada.
 
 ![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
@@ -64,8 +65,8 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-### 🥇 OTT Navigator IPTV v1.7.1.2 
-* PARA ANDROID: Não tem a lista Inspiration Adicionada, terá que a adicionar manualmente
+## 🥇 OTT Navigator IPTV v1.7.1.2 
+* <b>Para Android:</b> <b>Não tem a lista Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
 
 
@@ -75,20 +76,20 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-## 🥇 Lista Inspiration Live TV M3U
+# 🥇 Lista Inspiration Live TV M3U
 (Basta copiar e colar)
 
 * **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
 
 ---
 
-### 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+## 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
 [📺 CONFIRA A lISTA COMPLETA CANAIS](https://pastebin.com/raw/hjJK1cYD)
 
 ---
 
-## ✏️ Notas
+# ✏️ Notas
 
 * ➾ RTP channels don't open in some players.
 * ➾ SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
