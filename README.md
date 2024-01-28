@@ -56,7 +56,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ### 🥇 OTT Navigator IPTV v1.7.1.2 
 * PARA ANDROID: Não tem a lista Inspiration Adicionada, terá que a adicionar manualmente
-  *[O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos]
+* (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
 
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
