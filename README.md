@@ -79,7 +79,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 # ✅ Lista Inspiration Live TV M3U
 (Basta copiar e colar)
 
-## * **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
+###  **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
 
 ---
 
