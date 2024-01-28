@@ -79,10 +79,10 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ## ✏️ Notas
 
-➾ RTP channels don't open in some players.
-➾ SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
-➾ Some streams only work on Simple tv.
-➾ Some streams dont work on Simple tv.
+* ➾ RTP channels don't open in some players.
+* ➾ SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
+* ➾ Some streams only work on Simple tv.
+* ➾ Some streams dont work on Simple tv.
 
 ---
 
