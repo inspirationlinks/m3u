@@ -53,7 +53,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-# Inspi[я]ation ʟɪvᴇ ᴛv Recommended IPTV players
+# 👍🏻 Inspi[я]ation ʟɪvᴇ ᴛv Recommended IPTV players
 
 
 ## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
@@ -76,7 +76,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-# 🥇 Lista Inspiration Live TV M3U
+# ✅ Lista Inspiration Live TV M3U
 (Basta copiar e colar)
 
 * **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
@@ -85,7 +85,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ## 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-[📺 CONFIRA A lISTA COMPLETA CANAIS](https://pastebin.com/raw/hjJK1cYD)
+[📺 Confira a Lista Completa Canais](https://pastebin.com/raw/hjJK1cYD)
 
 ---
 
