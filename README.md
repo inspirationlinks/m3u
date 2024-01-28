@@ -5,9 +5,12 @@
 
 <img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=200' border='0' alt='Buy Me a Coffee' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_forum.png?w=200' border='0' alt='' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200' border='0' alt='' /></a>
 
+---
+
 ## 🔗 Links to Follow us
 
 [📌 Blog](https://jerrymoz.wordpress.com/)
+[📌 Telegram](https://t.me/inspirationlivetv/)
 
 ---
 
@@ -50,8 +53,10 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-## 🥇 OTT Navigator IPTV v1.7.1.2 
-*PARA ANDROID: E Não tem a lista iptv Adicionada, tera que a adicionar*
+### 🥇 OTT Navigator IPTV v1.7.1.2 
+*PARA ANDROID: Não tem a lista Inspiration Adicionada, terá que a adicionar manualmente*
+[O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar e colocar a lista Inspiration e seguir os passos]
+
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
@@ -59,7 +64,8 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-## 🥇 Lista Inspiration Live TV
+## 🥇 Lista Inspiration Live TV M3U
+(Basta copiar e colar)
 
 * **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
 
@@ -67,11 +73,11 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ### 🌍 List of Main TV channels 🇵🇹🇧🇷🇪🇸🇺🇸🇬🇧🇫🇷🇮🇹
 
-[📺 lIST](https://pastebin.com/raw/hjJK1cYD)
+[📺 lISTA COMPLETA CANAIS](https://bit.ly/4bbbVnx)
 
 ---
 
-# ✏️ Notas
+## ✏️ Notas
 
 ➾ RTP channels don't open in some players.
 ➾ SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
