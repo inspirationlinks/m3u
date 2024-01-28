@@ -9,8 +9,8 @@
 
 ## 🔗 Links to Follow us
 
-[📌 Blog](https://jerrymoz.wordpress.com/)
-[📌 Telegram](https://t.me/inspirationlivetv/)
+*[📌 Blog](https://jerrymoz.wordpress.com/)
+*[📌 Telegram](https://t.me/inspirationlivetv/)
 
 ---
 
@@ -37,7 +37,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline e a secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.*
+* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline e a secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
 
 ---
 
@@ -82,7 +82,6 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 * ➾ RTP channels don't open in some players.
 * ➾ SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
 * ➾ Some streams only work on Simple tv.
-* ➾ Some streams dont work on Simple tv.
 
 ---
 
