@@ -1,5 +1,5 @@
 
-# 📺🖥️📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv 
+# 📺 💻 📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv 
 
 ☕💰 Pagar um café
 🔗 https://ko-fi.com/R6R5SJ5L8
@@ -43,11 +43,11 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal a flag de um País, exemplo:(🇵🇹,🇧🇷,🇪🇸,🇺🇸). Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do(áudio e legendas) que possua um determinado canal
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor(🔵). Significa que o canal não abre no simpletv, mas abre no OTTNavigator e noutros players também...
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🔵. Significa que o canal não abre no simpletv, mas abre no OTTNavigator e noutros players também...
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor,(🟢). Significa que o canal só abre no simpletv.
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🟢. Significa que o canal só abre no simpletv.
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, (🟡). Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🟡. Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🟤. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: (Plutotv, Samsungtv, plex, roku, etc...)
 
