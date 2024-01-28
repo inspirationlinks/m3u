@@ -7,30 +7,6 @@
 
 ---
 
-## 🎥 Recommended IPTV players
-
-
-### 🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020 
-*PARA WINDOWS: Ja tem a lista InspirationLiveTv icorporada*
-
-![SIMPLETV IPTV screenshot](/Logos/simple2023.png "SIMPLETV IPTV screenshot")
-
-[✔️ Download Simple tv](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
-
-
-<h3> 🥇 OTT Navigator IPTV v1.7.1.2 </h3><h5>PARA ANDROID: E Não tem a lista iptv Adicionada, tera que a adicionar</h5>
-
-![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
-
-[✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
-
-
-## 🥇 Lista Inspiration Links m3u </h3>
-
-* **🌍M3U**: <https://bit.ly/41B7IFk>
-
----
-
 # 📺 Inspi[я]ation 🇵🇹
 
 🇵🇹 ➾ Playlist IPTV em formato M3U com 📺 canais de TV e 📻 estações de rádio em 🇵🇹 português. Somente streams públicos e oficiais.
@@ -39,17 +15,11 @@ Oferecendo igualmente uma lista de canais oriundo de plataformas de streaming gr
 🇬🇧 ➾ IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
 Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex and Roku)
 
-
-
 # 🎯 Purpose
 
 🇵🇹 ➾ Oferece uma playlist IPTV Free em formato M3U, destacando canais de TV e rádios essencialmente em português, canais Hispânicos, Norte Americanos e ingleses.
 
 🇬🇧 ➾ It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels.
-
-
----
-
 
 # ❓ Why?
 
@@ -60,10 +30,36 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline e a secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
+* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline e a secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.*
 
 ---
 
+## 🎥 Recommended IPTV players
+
+
+### 🥇 Simpletv_ Simpletv_V12.8.10 x32 vlc3020 
+*PARA WINDOWS: Ja tem a lista InspirationLiveTv icorporada*
+
+![SIMPLETV IPTV screenshot](/Logos/simple2023.png "SIMPLETV IPTV screenshot")
+
+[✔️ Download Simple tv](https://www.mediafire.com/file/80m8xiox1tpi8sr/simpleTV_V12.8.10_%2528x32_vlc3020%2529.7z/file)
+
+---
+
+## 🥇 OTT Navigator IPTV v1.7.1.2 
+*PARA ANDROID: E Não tem a lista iptv Adicionada, tera que a adicionar*
+
+![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
+
+[✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+
+---
+
+## 🥇 Lista Inspiration Live TV
+
+* **🌍M3U**: <https://bit.ly/41B7IFk>
+
+---
 
 # 📺 Main Portuguese TV channels 🇵🇹
 
