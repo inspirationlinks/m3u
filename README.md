@@ -5,7 +5,7 @@
 
 <img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=200' border='0' alt='Buy Me a Coffee' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_forum.png?w=200' border='0' alt='' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200' border='0' alt='' /></a>
 
-✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou POR transferência bancaria.
+✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou Por transferência bancaria.
 [O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
 
 ✅ 🇬🇧 If you are interested, you can contribute through the link indicated above through KO-FI, or by MBWAY, or BY bank transfer.
@@ -69,9 +69,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 ---
 
 # ✅ Lista Inspiration Live TV M3U
-(Basta copiar e colar)
 
 ## **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
+(Basta copiar e colar)
 
 ---
 
