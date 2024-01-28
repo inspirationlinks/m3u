@@ -55,6 +55,8 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 [👉 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
 
+### [📢 ⚙️ Configurações e Tutoriais no Simpletv](https://inspirationlinks.boards.net/board/16/simple-tv)
+
 ---
 
 ## 🥇 OTT Navigator IPTV v1.7.1.2 
