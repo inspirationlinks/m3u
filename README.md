@@ -74,7 +74,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ### 🌍 List of Main TV channels 🇵🇹🇧🇷🇪🇸🇺🇸🇬🇧🇫🇷🇮🇹
 
-[📺 lISTA COMPLETA CANAIS](https://bit.ly/4bbbVnx)
+[📺 lISTA COMPLETA CANAIS](https://pastebin.com/raw/hjJK1cYD)
 
 ---
 
