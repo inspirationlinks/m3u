@@ -50,7 +50,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
 
-[✔️ Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
+[👉 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
 
 ---
 
@@ -61,7 +61,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
-[✔️ Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+[👉 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
 
 ---
 
