@@ -26,7 +26,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # CANAIS ADICIONADOS ✔️ Update: 27-01-24
 
 🟢 OneToroᴴᴰ 🇪🇸 [Poʀᴛᴜɢᴀʟ]
+
 🟢 AXN Whiteᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
 🟢 AXN Moviesᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
 ---
