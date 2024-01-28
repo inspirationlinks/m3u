@@ -37,29 +37,29 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # 📝 INDICE | LEGENDAS
 
 
-📌 Se encontrar à frente do nome do canal, (ᴴᴰ). Significa que o canal é de boa qualidade.
+📌 Se encontrar à frente do nome do canal, <b>(ᴴᴰ)</b>. Significa que o canal é de boa qualidade, no mínimo de 720p.
 
-📌 Se encontrar à frente do nome do canal, (ѕᴅ). Significa que o canal é de má qualidade.
+📌 Se encontrar à frente do nome do canal, <b>(ѕᴅ)</b>. Significa que o canal é de media qualidade ou baixa qualidade.
 
-📌 Se encontrar à frente do nome do canal a flag de um País, exemplo:(🇵🇹,🇧🇷,🇪🇸,🇺🇸). Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do(áudio e legendas) que possua um determinado canal
+📌 Se encontrar à frente do nome do canal a flag de um País, exemplo:<b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do(áudio e legendas) que possua um determinado canal
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🔵. Significa que o canal não abre no simpletv, mas abre no OTTNavigator e noutros players também...
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔵</b>. Significa que o canal não abre no simpletv, mas abre no OTTNavigator e noutros players também...
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🟢. Significa que o canal só abre no simpletv.
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só abre no simpletv.
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🟡. Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, 🟤. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: (Plutotv, Samsungtv, plex, roku, etc...)
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟤</b>. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: (Plutotv, Samsungtv, plex, roku, etc...)
 
-📌 Se encontrar à frente do nome do canal este símbolo, ▶️. Significa que o canal é oriundo do (Youtube, Dailymotion, etc...)
+📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do (Youtube, Dailymotion, etc...)
 
-📌 Se encontrar à frente do nome do canal este símbolo ⚽️. Significa que o canal é de Entretenimento, mas transmite em directo eventos desportivos.
+📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de Entretenimento, mas transmite em directo eventos desportivos.
 
-📌 Se encontrar à frente do nome do canal este símbolo ❗❔. Significa que o canal em questão é instável, tão depressa esta ON como fica OFF.
+📌 Se encontrar à frente do nome do canal este símbolo <b>❗❔</b>. Significa que o canal em questão é instável, tão depressa esta ON como fica OFF.
 
-📌 Se encontrar à frente do nome do canal este símbolo 💀. Significa que o canal em questão está a ser testado para sabermos se vale a pena te-lo na lista
+📌 Se encontrar à frente do nome do canal este símbolo <b>💀</b>. Significa que o canal em questão está a ser testado para sabermos se vale a pena te-lo na lista
 
-📌 Se encontrar à frente do nome do canal este símbolo ❌. Significa que o canal está indisponível de momento.
+📌 Se encontrar à frente do nome do canal este símbolo <b>❌</b>. Significa que o canal está indisponível de momento.
 
 
 📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)
