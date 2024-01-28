@@ -56,7 +56,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 # 👍🏻 Inspi[я]ation ʟɪvᴇ ᴛv Recommended IPTV players
 
 
-## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
+### 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
 * Para <b>Windows:</b> Já tem a <b>lista InspirationLiveTv</b> incorporada.
 
 ![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
@@ -65,7 +65,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-## 🥇 OTT Navigator IPTV v1.7.1.2 
+### 🥇 OTT Navigator IPTV v1.7.1.2 
 * <b>Para Android:</b> <b>Não tem a lista Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
 
