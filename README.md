@@ -26,19 +26,11 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# 📺 Inspi[я]ation ʟɪvᴇ ᴛv 🇵🇹
-
-🇵🇹 ➾ Playlist IPTV em formato M3U com 📺 canais de TV e 📻 estações de rádio em 🇵🇹 português. Somente streams públicos e oficiais.
-Oferecendo igualmente uma lista de canais oriundo de plataformas de streaming gratuitos, tais como: (Pluto tv, SamsungTVPlus, Stirr, Plex e Roku)
-
-🇬🇧 ➾ IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
-Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex and Roku)
-
 # 🎯 Purpose
 
-🇵🇹 ➾ Oferece uma playlist IPTV Free em formato M3U, destacando canais de TV e rádios essencialmente em português, canais Hispânicos, Norte Americanos e ingleses.
+🇵🇹 ➾ Oferece uma playlist IPTV Free em formato M3U, destacando canais de TV e rádios essencialmente em português, canais Hispânicos, Norte Americanos e ingleses. Oferecendo igualmente uma lista de canais oriundo de plataformas de streaming gratuitos, tais como: (Pluto tv, SamsungTVPlus, Stirr, Plex, Roku, etc...)
 
-🇬🇧 ➾ It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels.
+🇬🇧 ➾ It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, etc...)
 
 # ❓ Why?
 
@@ -56,7 +48,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 # 👍🏻 Inspi[я]ation ʟɪvᴇ ᴛv Recommended IPTV players
 
 
-## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
+### 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
 * Para <b>Windows:</b> Já tem a <b>lista InspirationLiveTv</b> incorporada.
 
 ![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
@@ -65,7 +57,7 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 
 ---
 
-## 🥇 OTT Navigator IPTV v1.7.1.2 
+### 🥇 OTT Navigator IPTV v1.7.1.2 
 * <b>Para Android:</b> <b>Não tem a lista Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
 
@@ -79,13 +71,13 @@ Also offering a list of channels from free streaming platforms, such as: (Pluto 
 # ✅ Lista Inspiration Live TV M3U
 (Basta copiar e colar)
 
-##  **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
+## * **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
 
 ---
 
-# 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+## 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-## [📺 Confira a Lista Completa Canais](https://pastebin.com/raw/hjJK1cYD)
+### [📺 Confira a Lista Completa Canais](https://pastebin.com/raw/hjJK1cYD)
 
 ---
 
