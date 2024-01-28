@@ -89,9 +89,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 * <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
 
-* 📢 ❗ NO OTT NAVIGATOR, existem canais onde só tem som, mas não aparece a imagem, (ou em outras situações), terão que alterar o codec do vídeo.
+* 📢 ❗ <b>NO OTT NAVIGATOR</b>, existem canais onde só tem som, mas não aparece a imagem, (ou em outras situações), terão que alterar o codec do vídeo.
 
- ╭─➤ CAMINHO: Configurações ➤ Player ➤ Configurar preferências dos codecs ➤ Configurações de codec ➤ (depois é só escolher um codec diferente e testar se a imagem já aparece.)
+ <b>╭─➤ CAMINHO:</b> Configurações ➤ Player ➤ Configurar preferências dos codecs ➤ Configurações de codec ➤ (depois é só escolher um codec diferente e testar se a imagem já aparece.)
 
 ---
 
