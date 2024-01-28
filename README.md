@@ -55,6 +55,27 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 [👉 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
 
+### INFO E VERSÃO DO SIMPLE TV: (v0.5.0 b12.8.12) 
+
+* Lista M3U Inspiration live tv Incluída (Actualizaçao automática e manual ativadas)
+
+* TV SOURCES: (TVSources v3.81)
+
+* Weather (v0.34)
+
+* Skins: (DarkMod - "modificada por ɪɴsᴘɪʀᴀᴛɪᴏɴ") 
+
+* Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ [Idioma automático do Áudio Predefinido] - (eng,prt,bra,esp,ita)
+
+* Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ [Idioma  automático de Legenda Predefinido] - (eng,prt,bra,esp,ita)
+
+* Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ [EPG] - (Adicionado 2 fonte 🇵🇹 "by LITUATUI". Contem fontes de EPG de Pluto tv e SamsungTVPlus)
+
+* Sistema: Windows 32 bits (funciona muito bem num sistema de 64 bits).
+
+* VLC: (v3020)
+
+
 ### [📢 ⚙️ Configurações e Tutoriais no Simpletv](https://inspirationlinks.boards.net/board/16/simple-tv)
 
 ---
