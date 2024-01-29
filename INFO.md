@@ -24,6 +24,18 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
+# CANAIS ADICIONADOS ✔️ Update: 29-01-24
+
+
+
+🟢 As Aventuras de Jackie Chanᴴᴰ 🇧🇷 [Iɴғᴀɴᴛɪʟ]
+
+🟢 Foxᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
+🟢 Netflixᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
+🟢 AMCᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
 # CANAIS ADICIONADOS ✔️ Update: 27-01-24
 
 🟢 OneToroᴴᴰ 🇪🇸 [Poʀᴛᴜɢᴀʟ]
