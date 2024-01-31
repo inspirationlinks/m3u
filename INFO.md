@@ -24,9 +24,10 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# CANAIS ADICIONADOS ✔️ Update: 31-01-24
+# ➡︎ CANAIS ADICIONADOS
 
 
+Update: 31-01-24
 
 🟢 Eleven Sports 6 🇵🇹
 
@@ -54,7 +55,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só abre no simpletv.
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔴</b>. Significa que o canal é Acestream.
+📌 Se encontrar à frente do nome do canal estes símbolos destas cores, <b>🟢🔴</b>. Significa que o canal so abre no Simpletv e é um canal Acestream.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
