@@ -24,9 +24,11 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# CANAIS ADICIONADOS ✔️ Update: 29-01-24
+# CANAIS ADICIONADOS ✔️ Update: 31-01-24
 
 
+
+🟢 Eleven Sports 6 🇵🇹
 
 🟢 As Aventuras de Jackie Chanᴴᴰ 🇧🇷 [Iɴғᴀɴᴛɪʟ]
 
@@ -36,13 +38,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🟢 AMCᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
-# CANAIS ADICIONADOS ✔️ Update: 27-01-24
-
-🟢 OneToroᴴᴰ 🇪🇸 [Poʀᴛᴜɢᴀʟ]
-
-🟢 AXN Whiteᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
-
-🟢 AXN Moviesᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
 ---
 
@@ -59,6 +54,8 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só abre no simpletv.
 
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔴</b>. Significa que o canal é Acestream.
+
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟤</b>. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: (Plutotv, Samsungtv, plex, roku, etc...)
@@ -66,8 +63,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do (Youtube, Dailymotion, etc...)
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de Entretenimento, mas transmite em directo eventos desportivos.
-
-📌 Se encontrar à frente do nome do canal este símbolo <b>❗❔</b>. Significa que o canal em questão é instável, tão depressa esta ON como fica OFF.
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>💀</b>. Significa que o canal em questão está a ser testado para sabermos se vale a pena te-lo na lista
 
