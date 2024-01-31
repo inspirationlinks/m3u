@@ -24,10 +24,10 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# ➡︎ CANAIS ADICIONADOS
+# ✅ CANAIS ADICIONADOS
 
 
-Update: 31-01-24
+ ➡︎ Update: 31-01-24
 
 🟢 Eleven Sports 6 🇵🇹
 
