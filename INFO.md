@@ -16,6 +16,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 📌 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
 
 ---
+---
 
 🚩 Telegram
 🔗 https://t.me/inspirationlivetv
@@ -29,7 +30,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
  ➡︎ Update: 31-01-24
 
-🟢 Eleven Sports 6 🇵🇹
+🟢 Eleven Sports 6 🇵🇹 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
 🟢 As Aventuras de Jackie Chanᴴᴰ 🇧🇷 [Iɴғᴀɴᴛɪʟ]
 
@@ -39,7 +40,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🟢 AMCᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
-
 ---
 
 # 📝 INDICE | LEGENDAS
@@ -47,7 +47,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal, <b>(ᴴᴰ)</b>. Significa que o canal é de boa qualidade, no mínimo de 720p.
 
-📌 Se encontrar à frente do nome do canal, <b>(ѕᴅ)</b>. Significa que o canal é de media qualidade ou baixa qualidade.
+📌 Se encontrar à frente do nome do canal, <b>(ѕᴅ)</b>. Significa que o canal é de media ou baixa qualidade.
 
 📌 Se encontrar à frente do nome do canal a flag de um País, exemplo:<b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do(áudio e legendas) que possua um determinado canal
 
@@ -74,7 +74,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# 🗃️ CATEGORIAS|GRUPOS
+# 🗃️ CATEGORIAS
 
 📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de 800 canais de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
 
