@@ -28,11 +28,15 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # ✅ CANAIS ADICIONADOS
 
 
- ➡︎ Update: 31-01-24
+ ➡︎ Update: 1-02-24
+
+
 
 🟢 Eleven Sports 6 🇵🇹 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
 🟢 As Aventuras de Jackie Chanᴴᴰ 🇧🇷 [Iɴғᴀɴᴛɪʟ]
+
+🟢 SYFYᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
 🟢 Foxᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
