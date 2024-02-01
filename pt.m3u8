@@ -514,8 +514,6 @@ http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
 http://45.159.14.109:4022/udp/239.194.0.27:3301
 #EXTINF:-1 group-title="Esᴘᴀɴʜᴀ" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecincoᴴᴰ 🇪🇸
 http://45.159.14.109:4022/udp/239.194.0.26:3301
-
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/203.m3u8
 #EXTINF:-1 group-title="Esᴘᴀɴʜᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Sexta.png",La Sextaᴴᴰ 🇪🇸
 https://bit.ly/3NbhtVf?profile=inspirationlivetv.m3u8
 #EXTINF:-1 group-title="Esᴘᴀɴʜᴀ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg",Energyᴴᴰ 🇪🇸
@@ -713,9 +711,9 @@ http://77.137.35.165:8000/play/a079/index.m3u8
 http://77.137.35.165:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="" group-title="Usᴀ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA 🇺🇸 ⚽️
 http://38.96.178.201/live/USA/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="" group-title="Usᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cinemax.svg",Cinemax East 🇺🇸 ❌
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="" group-title="Usᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cinemax.svg",Cinemax East 🇺🇸
 http://nextlevelvpn.nl:8080/play/iXwoUbujsJ5Nkt7IDB2q8s8PI6UgGExNp1tvdEsTd8OGcSAzuoE4yXCVXIHqUNSf/m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="" group-title="Usᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cinemax.svg",Cinemax West 🇺🇸 ❌
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="" group-title="Usᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cinemax.svg",Cinemax West 🇺🇸
 http://nextlevelvpn.nl:8080/play/iXwoUbujsJ5Nkt7IDB2q8s8PI6UgGExNp1tvdEsTd8O1PqC0o9w1tzN55VXMrlVn/m3u8
 #EXTINF:-1 tvg-id="TNT.us" group-title="Usᴀ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png",TNT East 🇺🇸
 http://38.96.178.201:80/live/TNTHD/index.m3u8
@@ -749,8 +747,8 @@ https://bit.ly/4858KeF?profile=inspirationlivetv.m3u8
 http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 #EXTINF:-1 tvg-id="" group-title="Usᴀ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Showtime.svg",Showtime 🇺🇸
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/189.m3u8
-#EXTINF:-1 tvg-id="" group-title="Usᴀ" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20230728_101805.png",MGM+ Hits 🇺🇸
-http://136.175.8.181:18000/a037e2a30fd249b98d09fbb56dfdeb3f/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="MGM.us" group-title="Usᴀ" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20230728_101805.png",MGM+ 🇺🇸
+http://nextlevelvpn.nl:8080/play/iXwoUbujsJ5Nkt7IDB2q8qtnwC5_G8x9VR-9Wb7L4zpKHGrosMQu2ijKdueh7FDA/m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usᴀ" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸 🟤
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
@@ -922,8 +920,6 @@ http://144.217.72.24/rai1/mono.m3u8
 http://144.217.72.24/rai/mono.m3u8
 #EXTINF:-1 tvg-id="rai3.tv.vodafone.pt" tvg-id="" tvg-name="" group-title="Iᴛᴀʟɪᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3.webp",Rai 3ᴴᴰ 🇮🇹
 https://bit.ly/3OyVjNs?profile=inspirationlivetv.m3u8
-#EXTINF:-1 tvg-id="" group-title="Iᴛᴀʟɪᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3Bis.png",Rai Bis 3ᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Iᴛᴀʟɪᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai4.png",Rai 4ᴴᴰ 🇮🇹
 http://37.18.239.36:8888/RAI_4/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Iᴛᴀʟɪᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai5.webp",Rai 5ᴴᴰ 🇮🇹
