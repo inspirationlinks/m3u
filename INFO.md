@@ -1,5 +1,5 @@
 
-# 📺 💻 📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv 
+# 📺 💻 📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv 📺 💻 📱 
 
 ☕💰 Pagar um café
 🔗 https://ko-fi.com/R6R5SJ5L8
@@ -21,16 +21,23 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 🚩 Telegram
 🔗 https://t.me/inspirationlivetv
 
-(criei um grupo no telegram, o Canal do projecto ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv. Para ser mais fácil interagirmos e falar de variadíssimos assuntos e conteúdos sobre ɪᴘᴛv e não só)
+📣 (criei um grupo no telegram, o Canal do projecto ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv. Para ser mais fácil interagirmos e falar de variadíssimos assuntos e conteúdos sobre ɪᴘᴛv e não só)
 
 ---
 
 # ✅ CANAIS ADICIONADOS
 
 
- ➡︎ Update: 1-02-24
+
+ ➡︎ Update: 2-02-24 ⬅️ 
+ 
 
 
+🟢 AMC+ East 🇺🇸 [Usᴀ]
+
+🟢 Tv Globo Premium 🇧🇷 [Poʀᴛᴜɢᴀʟ]
+
+🟢 Tv Cine Emotionᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
 🟢 Eleven Sports 6 🇵🇹 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
@@ -44,9 +51,11 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🟢 AMCᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
+🟢 Brazzers TV Europe [+18]
+
 ---
 
-# 📝 INDICE | LEGENDAS
+# 📝 INDICE | LEGENDAS 📝 
 
 
 📌 Se encontrar à frente do nome do canal, <b>(ᴴᴰ)</b>. Significa que o canal é de boa qualidade, no mínimo de 720p.
@@ -78,7 +87,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# 🗃️ CATEGORIAS
+# 🗃️ CATEGORIAS 🗃️ 
 
 📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de 800 canais de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
 
