@@ -65,13 +65,13 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal, <b>(ѕᴅ)</b>. Significa que o canal é de media ou baixa qualidade.
 
-📌 Se encontrar à frente do nome do canal a flag de um País, exemplo:<b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do(áudio e legendas) que possua um determinado canal
+📌 Se encontrar à frente do nome do canal a <b>flag de um País</b>, exemplo: <b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do (áudio e legendas) que possua um determinado canal tv.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔵</b>. Significa que o canal não abre no simpletv, mas abre no OTTNavigator e noutros players também...
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só abre no simpletv.
 
-📌 Se encontrar à frente do nome do canal estes símbolos destas cores, <b>🟢🔴</b>. Significa que o canal so abre no Simpletv e é um canal Acestream.
+📌 Se encontrar à frente do nome do canal estes 2 símbolos destas cores, <b>🟢🔴</b>. Significa que o canal só abre no Simpletv e é um canal Acestream.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
@@ -92,7 +92,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # 🗃️ CATEGORIAS 🗃️ 
 
-📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de 800 canais de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
+📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de <b>800 canais</b> de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
 
 
 ⮘✨⮚ Poʀᴛᴜɢᴀʟ
