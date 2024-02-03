@@ -58,8 +58,8 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 [🗃️ CATEGORIAS](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categoriasgrupos)
 
 ---
-
-# 👍🏻 Inspi[я]ation ʟɪvᴇ ᴛv Recommended IPTV players
+ ɪɴsᴘɪʀᴀᴛɪᴏɴ
+# 👍🏻 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv Recommended IPTV players
 
 
 ## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
@@ -72,7 +72,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 * <b>Lista M3U Inspiration live tv Incluída</b> (Atualização automática e manual ativadas)
 
-* <b>TV SOURCES</b> (TVSources v3.81)
+* <b>TV SOURCES</b> (v3.81)
 
 * <b>Weather</b> (v0.34)
 
