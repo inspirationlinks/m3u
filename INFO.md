@@ -30,31 +30,11 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
- ➡︎ Update: 2-02-24 ⬅️ 
- 
- 
+ ➡︎ Update: 3-02-24 ⬅️ 
  
 
+🟢 SIC Internacional 🇵🇹  [Poʀᴛᴜɢᴀʟ]
 
-🟢 AMC+ East 🇺🇸 [Usᴀ]
-
-🟢 Tv Globo Premium 🇧🇷 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Tv Cine Emotionᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Eleven Sports 6 🇵🇹 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
-
-🟢 As Aventuras de Jackie Chanᴴᴰ 🇧🇷 [Iɴғᴀɴᴛɪʟ]
-
-🟢 SYFYᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Foxᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Netflixᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
-
-🟢 AMCᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Brazzers TV Europe [+18]
 
 ---
 
