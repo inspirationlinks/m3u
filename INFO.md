@@ -4,6 +4,8 @@
 ☕💰 Pagar um café
 🔗 https://ko-fi.com/R6R5SJ5L8
 
+---
+
 ✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou POR transferência bancaria.
 [O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
 
@@ -15,7 +17,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
 
----
 ---
 
 🚩 Telegram
@@ -47,26 +48,26 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal a <b>flag de um País</b>, exemplo: <b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do (áudio e legendas) que possua um determinado canal tv.
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔵</b>. Significa que o canal não abre no simpletv, mas abre no OTTNavigator e noutros players também...
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔵</b>. Significa que o canal <b>não abre no simpletv</b>, mas <b>abre no OTTNavigator</b> e noutros players também...
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só abre no simpletv.
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só <b>abre no simpletv</b>.
 
-📌 Se encontrar à frente do nome do canal estes 2 símbolos destas cores, <b>🟢🔴</b>. Significa que o canal só abre no Simpletv e é um canal Acestream.
+📌 Se encontrar à frente do nome do canal estes 2 símbolos destas cores, <b>🟢🔴</b>. Significa que o canal só <b>abre no Simpletv</b> e é um canal <b>Acestream</b>.
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de teste e temporário. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de <b>teste e temporário</b>. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟤</b>. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: (Plutotv, Samsungtv, plex, roku, etc...)
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟤</b>. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: <b>(Plutotv, Samsungtv, plex, roku, etc...)</b>
 
-📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do (Youtube, Dailymotion, etc...)
+📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do </b>(Youtube, Dailymotion, etc...)<b>
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de Entretenimento, mas transmite em directo eventos desportivos.
+📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>directo eventos desportivos</b>.
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>💀</b>. Significa que o canal em questão está a ser testado para sabermos se vale a pena te-lo na lista
+📌 Se encontrar à frente do nome do canal este símbolo <b>💀</b>. Significa que o canal em questão está a ser <b>testado</b> para sabermos se vale a pena te-lo na lista
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>❌</b>. Significa que o canal está indisponível de momento.
+📌 Se encontrar à frente do nome do canal este símbolo <b>❌</b>. Significa que o canal está <b>indisponível</b> de momento.
 
 
-📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)
+<b>📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)</b>
 
 ---
 
@@ -75,81 +76,81 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de <b>800 canais</b> de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
 
 
-⮘✨⮚ Poʀᴛᴜɢᴀʟ
+✨ Poʀᴛᴜɢᴀʟ
 
-⮘✨⮚ Bʀᴀzɪʟ
+✨ Bʀᴀzɪʟ
 
-⮘✨⮚ Esᴘᴀɴʜᴀ
+✨ Esᴘᴀɴʜᴀ
 
-⮘✨⮚ Eɴɢʟᴀɴᴅ
+✨ Eɴɢʟᴀɴᴅ
 
-⮘✨⮚ Usᴀ
+✨ Usᴀ
 
-⮘✨⮚ Fʀᴀɴcᴀ
+✨ Fʀᴀɴcᴀ
 
-⮘✨⮚ Iᴛᴀʟɪᴀ
+✨ Iᴛᴀʟɪᴀ
 
-⮘✨⮚ Tʀᴀvᴇʟ
+✨ Tʀᴀvᴇʟ
 
-⮘✨⮚ Cᴇʟᴇʙʀɪᴛɪᴇs
+✨ Cᴇʟᴇʙʀɪᴛɪᴇs
 
-⮘✨⮚ Lɪғᴇsᴛʏʟᴇ
+✨ Lɪғᴇsᴛʏʟᴇ
 
-⮘✨⮚ Pᴀɪɴᴛɪɴɢ
+✨ Pᴀɪɴᴛɪɴɢ
 
-⮘✨⮚ Gᴀsᴛʀᴏɴoᴍɪᴀ
+✨ Gᴀsᴛʀᴏɴoᴍɪᴀ
 
-⮘✨⮚ Pᴇᴛs
+✨ Pᴇᴛs
 
-⮘✨⮚ Tᴇʀʀoʀ
+✨ Tᴇʀʀoʀ
 
-⮘✨⮚ Docuᴍᴇɴᴛᴀʀɪos
+✨ Docuᴍᴇɴᴛᴀʀɪos
 
-⮘✨⮚ Pᴀʀᴀɴoʀᴍᴀʟ
+✨ Pᴀʀᴀɴoʀᴍᴀʟ
 
-⮘✨⮚ Wɪʟᴅ Lɪғᴇ
+✨ Wɪʟᴅ Lɪғᴇ
 
-⮘✨⮚ Mᴇᴛᴇoʀoʟoɢɪᴀ
+✨ Mᴇᴛᴇoʀoʟoɢɪᴀ
 
-⮘✨⮚ Nᴇws
+✨ Nᴇws
 
-⮘✨⮚ Iɴғᴀɴᴛɪʟ
+✨ Iɴғᴀɴᴛɪʟ
 
-⮘✨⮚ Gᴀᴍɪɴɢ
+✨ Gᴀᴍɪɴɢ
 
-⮘✨⮚ Fᴀɴɴʏ vɪᴅᴇos
+✨ Fᴀɴɴʏ vɪᴅᴇos
 
-⮘✨⮚ Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ
+✨ Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ
 
-⮘✨⮚ Lɪɢᴀ Bwɪɴ
+✨ Lɪɢᴀ Bwɪɴ
 
-⮘✨⮚ Pʀᴇᴍɪuᴍ Sᴘoʀᴛs
+✨ Pʀᴇᴍɪuᴍ Sᴘoʀᴛs
 
-⮘✨⮚ Nʙᴀ
+✨ Nʙᴀ
 
-⮘✨⮚ F1
+✨ F1
 
-⮘✨⮚ Tᴇɴɴɪs
+✨ Tᴇɴɴɪs
 
-⮘✨⮚ Goʟғ
+✨ Goʟғ
 
-⮘✨⮚ Woʀʟᴅ Sᴘoʀᴛs
+✨ Woʀʟᴅ Sᴘoʀᴛs
 
-⮘✨⮚ Pokᴇʀ
+✨ Pokᴇʀ
 
-⮘✨⮚ Bɪʟʟнᴀʀ
+✨ Bɪʟʟнᴀʀ
 
-⮘✨⮚ Moᴛoʀs Sᴘoʀᴛs
+✨ Moᴛoʀs Sᴘoʀᴛs
 
-⮘✨⮚ Rᴀᴅɪcᴀʟ Sᴘoʀᴛs
+✨ Rᴀᴅɪcᴀʟ Sᴘoʀᴛs
 
-⮘✨⮚ Coᴍʙᴀᴛ
+✨ Coᴍʙᴀᴛ
 
-⮘✨⮚ Mυsɪc
+✨ Mυsɪc
 
-⮘✨⮚ Rᴀᴅɪos Sᴛᴀᴛɪoɴs
+✨ Rᴀᴅɪos Sᴛᴀᴛɪoɴs
 
-⮘✨⮚ +18
+✨ +18
 
 
 
