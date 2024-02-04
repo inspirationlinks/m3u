@@ -31,10 +31,31 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
- ➡︎ Update: 3-02-24 ⬅️ 
+ ➡︎ Update: 4-02-24 ⬅️ 
  
 
-🟢 SIC Internacional 🇵🇹  [Poʀᴛᴜɢᴀʟ]
+🟢 The Ed Sullivan Show 🇧🇷🇺🇸 [Usᴀ]
+
+🟢 PremierSports 1 🇬🇧 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 PremierSports 2 🇬🇧 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 DAZN 1 🇩🇪 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 DAZN 2 🇩🇪 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 DAZN 2 🇩🇪 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 bein Sport 1ᴴᴰ 🇫🇷 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 bein Sport 2ᴴᴰ 🇫🇷 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 bein Sport 3ᴴᴰ 🇫🇷 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+Ziggo Voetbal 🇳🇱 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+Ziggo Select 🇳🇱 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
 
 
 ---
