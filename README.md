@@ -18,14 +18,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-## 🔗 Links to Follow us
-
-[📌 Blog](https://jerrymoz.wordpress.com/)
-
-[📌 Telegram](https://t.me/inspirationlivetv/)
-
----
-
 # 🎯 Purpose
 
 🇵🇹 ➾ Oferece uma playlist IPTV Free em formato M3U, destacando canais de TV e rádios essencialmente em português, canais Hispânicos, Norte Americanos e ingleses. Oferecendo igualmente uma lista de canais oriundo de plataformas de streaming gratuitos, tais como: (Pluto tv, SamsungTVPlus, Stirr, Plex, Roku, etc...)
@@ -58,7 +50,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 [🗃️ CATEGORIAS](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categoriasgrupos)
 
 ---
- ɪɴsᴘɪʀᴀᴛɪᴏɴ
+
 # 👍🏻 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv Recommended IPTV players
 
 
@@ -66,7 +58,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
 
-[👉 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
+[👉 🖧 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
 
 ### ❗❗ INFO E VERSÃO DO SIMPLE TV: (v0.5.0 b12.8.12) 
 
@@ -98,7 +90,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
-[👉 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+[👉 🖧 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
 
 * <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
@@ -118,7 +110,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-## [📺 📋 Confira a Lista Completa Canais](https://pastebin.com/raw/hjJK1cYD)
+## [📺 📋 Confira a Lista Completa Canais](https://bit.ly/3UvMvuP)
 
 ---
 
