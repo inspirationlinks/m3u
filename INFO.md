@@ -52,9 +52,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🟢 bein Sport 3ᴴᴰ 🇫🇷 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
-Ziggo Voetbal 🇳🇱 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+🟢 Ziggo Voetbal 🇳🇱 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
-Ziggo Select 🇳🇱 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+🟢 Ziggo Select 🇳🇱 🟢🔴 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
 
 
