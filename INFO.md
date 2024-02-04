@@ -58,7 +58,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟤</b>. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: <b>(Plutotv, Samsungtv, plex, roku, etc...)</b>
 
-📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do <b>(Youtube, Dailymotion, etc...)<b>
+📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do <b>(Youtube, Dailymotion, etc...)</b>
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>direto eventos desportivos</b>.
 
