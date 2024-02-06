@@ -5,6 +5,8 @@
 
 <img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=210' border='0' alt='Buy Me a Coffee' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200' border='0' alt='' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2024/02/qrtelegram.jpg?w=200' border='0' alt='' /></a><img height='150' style='border:0px;height:150px;' src='https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200' border='0' alt='' /></a>
 
+<p><a href="https://ko-fi.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=210" alt="Buy Me a Coffee" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="" height="150" border="0" /></a><a href="https://t.me/inspirationlivetv/" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2024/02/qrtelegram.jpg?w=200" alt="" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="" height="150" border="0" /></a></p>
+
 ✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou Por transferência bancaria.
 [O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
 
