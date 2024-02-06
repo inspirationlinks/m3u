@@ -29,18 +29,20 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # ✅ CANAIS ADICIONADOS
 
 
- ➡︎ Update: 5-02-24 ⬅️ 
+ ➡︎ Update: 6-02-24 ⬅️ 
 
 
 
-🟢 HBO Xtreme Leg 🇧🇷 🟡 [Poʀᴛᴜɢᴀʟ]
+🟢 Qwest Jazzᴴᴰ 🟤 [Music]
 
-🟢 HBO Mundiᴴᴰ Leg 🇧🇷 🟡 [Poʀᴛᴜɢᴀʟ]
+
 
 
 
  ➡︎ Update: 4-02-24 ⬅️ 
  
+ 
+🟢 HBO Mundiᴴᴰ Leg 🇧🇷 🟡 [Poʀᴛᴜɢᴀʟ]
 
 🟢 The Ed Sullivan Show 🇧🇷🇺🇸 [Usᴀ]
 
@@ -77,7 +79,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal a <b>flag de um País</b>, exemplo: <b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do (áudio e legendas) que possua um determinado canal tv.
 
-📌 Se encontrar à frente do nome do canal a abreviatura, (<b>Leg</b>). Significa que o canal não é Português, mas é legendado em (<b>🇵🇹🇧🇷</b>).
+📌 Se encontrar à frente do nome do canal a abreviatura, (<b>Leg</b>). Significa que o canal nap é Portugues, mas é legendado em (<b>🇵🇹🇧🇷</b>).
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔵</b>. Significa que o canal <b>não abre no simpletv</b>, mas <b>abre no OTTNavigator</b> e noutros players também...
 
