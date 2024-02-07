@@ -56,7 +56,8 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
 
-![SIMPLETV IPTV screenshot](/Logos/BannersSimple/simpletv1.png "SIMPLETV IPTV screenshot")
+![SIMPLETV](/Logos/simple2023.png "SIMPLETV IPTV")
+live/Logos/simple2023.png
 
 [👉 🖧 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
 
