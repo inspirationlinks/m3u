@@ -45,7 +45,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 ---
 
 # 🔔 Categorias da lista inspiration live tv
-* 👇 Para perceber como está organizada a lista m3u em termos de estrutura, clique em <b>"CATEGORIAS"</b> 👇
+* 👇 Para perceber como está organizada a lista m3u em termos de Grupos, clique em <b>"CATEGORIAS"</b> 👇
 
 [🗃️ CATEGORIAS](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categoriasgrupos)
 
@@ -57,7 +57,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 ## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
 
 ![SIMPLETV](/Logos/simple2023.png "SIMPLETV IPTV")
-
 
 [👉 🖧 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
 
@@ -111,7 +110,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-## [📺 📋 Confira a Lista Completa Canais](https://bit.ly/3UvMvuP)
+## [📺 📋 Confira a Lista Completa Canais](https://bit.ly/ListTotalCanais)
 
 ---
 
