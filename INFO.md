@@ -29,25 +29,24 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # ✅ CANAIS ADICIONADOS
 
 
- ➡︎ Update: 8-02-24 ⬅️ 
+
+ ➡︎ Update: 10-02-24 ⬅️ 
 
 
+🟢 Sky Sports LaLigaᴴᴰ 🇪🇸 🟡 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
-🟢 Prime Moviesᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
+🟢 The Retro Channel sᴅ 🇵🇷 [Music]
 
-🟢 Apple Moviesᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
+🟢 La Rock 22ᴴᴰ 🇳🇮 [Music]
 
-🟢 The Horror Channelᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
+🟢 Rockland TV 🇩🇪 [Music]
 
-🟢 Star Movies Channelᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
+🟢 Blues tv 🇺🇸 [Music]
 
-🟢 SIC Mulherᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
+🟢 Motorvision (Leg) 🇵🇹🇧🇷🇺🇸 🟤 [Poʀᴛᴜɢᴀʟ]
 
-🟢 Opto SICᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Kiss Kiss tv 🇮🇹 [Music]
-
-
+🟢 JP Newsᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
+ 
 
 ---
 
@@ -60,7 +59,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal a <b>flag de um País</b>, exemplo: <b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do (áudio e legendas) que possua um determinado canal.
 
-📌 Se encontrar à frente do nome do canal a abreviatura, (<b>Leg</b>). Significa que o canal não faz parte do pacote canais de Portugal, mas é legendado em (<b>🇵🇹🇧🇷</b>).
+📌 Se encontrar à frente do nome do canal a abreviatura, (<b>(Leg)</b>). Significa que o canal não faz parte do pacote canais de Portugal, mas é legendado em (<b>🇵🇹🇧🇷</b>).
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔵</b>. Significa que o canal <b>não abre no simpletv</b>, mas <b>abre no OTTNavigator</b> e noutros players também...
 
