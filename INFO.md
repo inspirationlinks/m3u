@@ -19,10 +19,12 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
+<a href="https://t.me/inspirationlivetv/" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2024/02/qrtelegram.jpg?w=200" alt="" height="150" border="0" /></a>
+
 🚩 Telegram
 🔗 https://t.me/inspirationlivetv
 
-📣 (criei um grupo no telegram, o Canal do projecto ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv. Para ser mais fácil interagirmos e falar de variadíssimos assuntos e conteúdos sobre ɪᴘᴛv e não só)
+📣 (O Grupo ficou Privado, mas se pretenderem entrar, comuniquem!)
 
 ---
 
@@ -47,6 +49,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🟢 JP Newsᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
  
+ 
+
+✠ By Inspi[я]ation ʟɪnks ©
 
 ---
 
