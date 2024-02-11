@@ -32,12 +32,20 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
- ➡︎ Update: 10-02-24 ⬅️ 
+ ➡︎ Update: 11-02-24 ⬅️ 
 
+
+
+
+🟢 ToroLé tvᴴᴰ 🇪🇸 🟡 [Poʀᴛᴜɢᴀʟ]
+
+🟢 Cinemundoᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
+
+🟢 Star Crimeᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
+
+🟢 Montagna!ᴴᴰ 🇮🇹 🟤 [Travel]
 
 🟢 Sky Sports LaLigaᴴᴰ 🇪🇸 🟡 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
-
-🟢 The Retro Channel sᴅ 🇵🇷 [Music]
 
 🟢 La Rock 22ᴴᴰ 🇳🇮 [Music]
 
@@ -48,6 +56,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 🟢 Motorvision (Leg) 🇵🇹🇧🇷🇺🇸 🟤 [Poʀᴛᴜɢᴀʟ]
 
 🟢 JP Newsᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
+
  
  
 
