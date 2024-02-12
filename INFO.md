@@ -32,30 +32,19 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
- ➡︎ Update: 11-02-24 ⬅️ 
+ ➡︎ Update: 12-02-24 ⬅️ 
 
 
 
+🟢 CHD TV Rock [Music]
+
+🟢 Deluxe Winter Time 🇩🇪 [Music]
 
 🟢 ToroLé tvᴴᴰ 🇪🇸 🟡 [Poʀᴛᴜɢᴀʟ]
 
 🟢 Cinemundoᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
 
 🟢 Star Crimeᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Montagna!ᴴᴰ 🇮🇹 🟤 [Travel]
-
-🟢 Sky Sports LaLigaᴴᴰ 🇪🇸 🟡 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
-
-🟢 La Rock 22ᴴᴰ 🇳🇮 [Music]
-
-🟢 Rockland TV 🇩🇪 [Music]
-
-🟢 Blues tv 🇺🇸 [Music]
-
-🟢 Motorvision (Leg) 🇵🇹🇧🇷🇺🇸 🟤 [Poʀᴛᴜɢᴀʟ]
-
-🟢 JP Newsᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
 
  
  
