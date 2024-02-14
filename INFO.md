@@ -28,11 +28,30 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# ✅ CANAIS ADICIONADOS
+# ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 12-02-24 ⬅️ 
+ ➡︎ Update: 14-02-24 ⬅️ 
+ 
+ 
+🟢 Mundo Viajeroᴴᴰ 🇪🇸 🟤 [Tʀᴀvᴇʟ]
+
+🟢 CHD TV Rock [Music]
+
+🟢 Oxygen True Crime [ᴴᴰ] [Documentarios]
+
+🟢 Deluxe Winter Time 🇩🇪 [Music]
+
+🟢 Miami TV [+18]
+ 
+ 
+ 
+
+# ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
+
+ ➡︎ Update: 14-02-24 ⬅️ 
 
 
+🟢 Mundo Viajeroᴴᴰ 🇪🇸 🟤 [Tʀᴀvᴇʟ]
 
 🟢 CHD TV Rock [Music]
 
@@ -49,7 +68,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 🟢 Miami TV [+18]
 
 
-✠ By Inspi[я]ation ʟɪnks ©
+By Inspi[я]ation ʟɪnks ©
 
 ---
 
