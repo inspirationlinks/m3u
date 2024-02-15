@@ -24,48 +24,30 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 🚩 Telegram
 🔗 https://t.me/inspirationlivetv
 
-📣 (O Grupo ficou Privado, mas se pretenderem entrar, comuniquem!)
+📣 (O Grupo ficou Privado, mas se pretenderem entrar, comuniquem! A unica forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv, fazerem parte do Grupo Telegram)
 
 ---
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 14-02-24 ⬅️ 
+ ➡︎ Update: 15-02-24 ⬅️ 
  
  
-🟢 Mundo Viajeroᴴᴰ 🇪🇸 🟤 [Tʀᴀvᴇʟ]
-
-🟢 CHD TV Rock [Music]
-
-🟢 Oxygen True Crime [ᴴᴰ] [Documentarios]
-
-🟢 Deluxe Winter Time 🇩🇪 [Music]
-
-🟢 Miami TV [+18]
  
+🟢 ICI Television [Poʀᴛᴜɢᴀʟ]
+
  
  
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 14-02-24 ⬅️ 
+ ➡︎ Update: 15-02-24 ⬅️ 
 
 
-🟢 Mundo Viajeroᴴᴰ 🇪🇸 🟤 [Tʀᴀvᴇʟ]
 
-🟢 CHD TV Rock [Music]
+🟢 Telecine Premiumᴴᴰ (Leg) 🇧🇷 🟡 [Poʀᴛᴜɢᴀʟ]
 
-🟢 Oxygen True Crime [ᴴᴰ] [Documentarios]
 
-🟢 Deluxe Winter Time 🇩🇪 [Music]
-
-🟢 ToroLé tvᴴᴰ 🇪🇸 🟡 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Cinemundoᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Star Crimeᴴᴰ 🇵🇹 🟡 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Miami TV [+18]
 
 
 By Inspi[я]ation ʟɪnks ©
