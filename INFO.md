@@ -30,22 +30,34 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 15-02-24 ⬅️ 
- 
- 
- 
-🟢 ICI Television [Poʀᴛᴜɢᴀʟ]
+ ➡︎ Update: 17-02-24 ⬅️ 
 
+
+🟢 Wedo Big Stories ᴴᴰ 🇺🇸 🟤 [Docuᴍᴇɴᴛᴀʀɪos]
  
+🟢 Bein SportXtra ñ 🇪🇸ᴴᴰ 🟤 [Woʀʟᴅ Sᴘoʀᴛs]
+ 
+
  
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 15-02-24 ⬅️ 
+ ➡︎ Update: 17-02-24 ⬅️ 
 
 
 
-🟢 Telecine Premiumᴴᴰ (Leg) 🇧🇷 🟡 [Poʀᴛᴜɢᴀʟ]
+🟢 Life Minute TV 🇺🇸 🟤 [Cᴇʟᴇʙʀɪᴛɪᴇs]
+
+🟢 XFC MMA 🇺🇸 🟤 [Combat]
+
+🟢 FrightFlix 🇺🇸 🟤 [Tᴇʀʀoʀ]
+
+🟢 Wedo Big Stories ᴴᴰ 🇺🇸 🟤 [Docuᴍᴇɴᴛᴀʀɪos]
+
+🟢 Bein SportXtra ñ 🇪🇸ᴴᴰ 🟤 [Woʀʟᴅ Sᴘoʀᴛs]
+
+🟢 IFC Films Picksᴴᴰ 🇺🇸 🟤 [usa]
+
 
 
 
