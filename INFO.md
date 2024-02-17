@@ -33,6 +33,10 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
  ➡︎ Update: 17-02-24 ⬅️ 
 
 
+🟢 SIC Replayᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
+🟢 SIC Alta Definiçãoᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
 🟢 Wedo Big Stories ᴴᴰ 🇺🇸 🟤 [Docuᴍᴇɴᴛᴀʀɪos]
  
 🟢 Bein SportXtra ñ 🇪🇸ᴴᴰ 🟤 [Woʀʟᴅ Sᴘoʀᴛs]
@@ -45,6 +49,10 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
  ➡︎ Update: 17-02-24 ⬅️ 
 
 
+
+🟢 SIC Replayᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
+🟢 SIC Alta Definiçãoᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
 🟢 Life Minute TV 🇺🇸 🟤 [Cᴇʟᴇʙʀɪᴛɪᴇs]
 
