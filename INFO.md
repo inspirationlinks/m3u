@@ -82,7 +82,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 🟢 XY Mix [+18]
 
 
-
+💬 Alguns Canais foram retirados por estarem Off, outros por terem pouco Fluxo de utilização
 
 
 ʙʏ Inspi[я]ation ʟɪnks ©
