@@ -30,23 +30,22 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 17-02-24 ⬅️ 
+ ➡︎ Update: 18-02-24 ⬅️ 
+
 
 
 🟢 SIC Replayᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
 🟢 SIC Alta Definiçãoᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
-🟢 Wedo Big Stories ᴴᴰ 🇺🇸 🟤 [Docuᴍᴇɴᴛᴀʀɪos]
- 
-🟢 Bein SportXtra ñ 🇪🇸ᴴᴰ 🟤 [Woʀʟᴅ Sᴘoʀᴛs]
+🟢 Ring 🇧🇬 [Lɪɢᴀ Bwɪɴ]
  
 
  
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 17-02-24 ⬅️ 
+ ➡︎ Update: 18-02-24 ⬅️ 
 
 
 
@@ -54,17 +53,25 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🟢 SIC Alta Definiçãoᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
-🟢 Life Minute TV 🇺🇸 🟤 [Cᴇʟᴇʙʀɪᴛɪᴇs]
+🟢 4Music 🇬🇧 [Music]
 
-🟢 XFC MMA 🇺🇸 🟤 [Combat]
+🟢 Kiss 🇬🇧 [Music]
 
-🟢 FrightFlix 🇺🇸 🟤 [Tᴇʀʀoʀ]
+🟢 Magic TV 🇬🇧 [Music]
 
-🟢 Wedo Big Stories ᴴᴰ 🇺🇸 🟤 [Docuᴍᴇɴᴛᴀʀɪos]
+🟢 Ring 🇧🇬 [Lɪɢᴀ Bwɪɴ]
 
-🟢 Bein SportXtra ñ 🇪🇸ᴴᴰ 🟤 [Woʀʟᴅ Sᴘoʀᴛs]
+🟢 seXtreme [+18]
 
-🟢 IFC Films Picksᴴᴰ 🇺🇸 🟤 [usa]
+🟢 Sexy Hot [+18]
+
+🟢 Barely Legal tv [+18]
+
+🟢 Passion XXX [+18]
+
+🟢 XY Max [+18]
+
+🟢 XY Mix [+18]
 
 
 
