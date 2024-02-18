@@ -39,6 +39,8 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 🟢 SIC Alta Definiçãoᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
 🟢 Ring 🇧🇬 [Lɪɢᴀ Bwɪɴ]
+
+🟢 Antena1ᴴᴰ 🇧🇷 [Music]
  
 
  
@@ -52,6 +54,12 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 🟢 SIC Replayᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
 
 🟢 SIC Alta Definiçãoᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+
+🟢 TV Novelasᴴᴰ 🇧🇷 [Poʀᴛᴜɢᴀʟ]
+
+🟢 FrightFlix 🇺🇸 🟤 [Tᴇʀʀoʀ]
+
+🟢 MotorTrend Fast TV 🇺🇸 🟤 [Moᴛoʀs Sᴘoʀᴛs]
 
 🟢 4Music 🇬🇧 [Music]
 
@@ -77,7 +85,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
-By Inspi[я]ation ʟɪnks ©
+ʙʏ Inspi[я]ation ʟɪnks ©
 
 ---
 
