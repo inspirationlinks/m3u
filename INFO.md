@@ -30,56 +30,27 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 18-02-24 ⬅️ 
+ ➡︎ Update: 21-02-24 ⬅️ 
 
 
 
-🟢 SIC Replayᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
-
-🟢 SIC Alta Definiçãoᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
-
-🟢 Ring 🇧🇬 [Lɪɢᴀ Bwɪɴ]
-
-🟢 Antena1ᴴᴰ 🇧🇷 [Music]
- 
+🟢 Tom & Jerry 🇺🇸 [infantil]
 
  
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 18-02-24 ⬅️ 
+ ➡︎ Update: 21-02-24 ⬅️ 
 
 
 
-🟢 SIC Replayᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+🟢 Scoooreᴴᴰ 🇩🇪 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
-🟢 SIC Alta Definiçãoᴴᴰ 🇵🇹 [Poʀᴛᴜɢᴀʟ]
+🟢 TV Novelasᴴᴰ 🇲🇽 [Portugal]
 
-🟢 TV Novelasᴴᴰ 🇧🇷 [Poʀᴛᴜɢᴀʟ]
+🟢 Tom & Jerry 🇺🇸 [infantil]
 
-🟢 FrightFlix 🇺🇸 🟤 [Tᴇʀʀoʀ]
 
-🟢 MotorTrend Fast TV 🇺🇸 🟤 [Moᴛoʀs Sᴘoʀᴛs]
-
-🟢 4Music 🇬🇧 [Music]
-
-🟢 Kiss 🇬🇧 [Music]
-
-🟢 Magic TV 🇬🇧 [Music]
-
-🟢 Ring 🇧🇬 [Lɪɢᴀ Bwɪɴ]
-
-🟢 seXtreme [+18]
-
-🟢 Sexy Hot [+18]
-
-🟢 Barely Legal tv [+18]
-
-🟢 Passion XXX [+18]
-
-🟢 XY Max [+18]
-
-🟢 XY Mix [+18]
 
 
 💬 Alguns Canais foram retirados por estarem Off, outros por terem pouco Fluxo de utilização
