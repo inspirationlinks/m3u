@@ -30,30 +30,51 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 21-02-24 ⬅️ 
+ ➡︎ Update: 24-02-24 ⬅️ 
 
 
 
-🟢 Tom & Jerry 🇺🇸 [infantil]
+🟢 Europa Play Filmes Nacionaisᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
 
+🟢 Live Events Sports 🇺🇸 [Woʀʟᴅ Sᴘoʀᴛs]
+
+🟢 NPC TV (Nascido para Cantar) 🇵🇹 [Music]
+
+
+ 
+ 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
  
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 21-02-24 ⬅️ 
+ ➡︎ Update: 24-02-24 ⬅️ 
 
 
 
-🟢 Scoooreᴴᴰ 🇩🇪 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+🟢 HBO 🇧🇷 [Bʀᴀzɪʟ]
 
-🟢 TV Novelasᴴᴰ 🇲🇽 [Portugal]
+🟢 HBO+ 🇧🇷 [Bʀᴀzɪʟ]
 
-🟢 Tom & Jerry 🇺🇸 [infantil]
+🟢 HBO Pop 🇧🇷 [Bʀᴀzɪʟ]
+
+🟢 HBO Mundi 🇧🇷 [Bʀᴀzɪʟ]
+
+🟢 HBO Signatureᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
+
+🟢 HBO Xtreamᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
+
+🟢 Europa Play Filmes Nacionaisᴴᴰ 🇧🇷 [Portugal]
+
+🟢 Outdoor Channelᴴᴰ 🇺🇸 [Travel]
+
+🟢 Outdoorᴴᴰ 🇺🇸 [Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ]
+
+🟢 NPC TV (Nascido para Cantar) 🇵🇹 [Music]
 
 
 
+💬 O Canal (Todo Novelasᴴᴰ 🇲🇽) é um canal Mexicano que transmite varias novelas Portuguesas, dobradas em Espanhol :D
 
-💬 Alguns Canais foram retirados por estarem Off, outros por terem pouco Fluxo de utilização
 
 
 ʙʏ Inspi[я]ation ʟɪnks ©
