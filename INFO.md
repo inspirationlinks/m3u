@@ -1,8 +1,11 @@
 
 # 📺 💻 📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv 📺 💻 📱 
 
-☕💰 Pagar um café
+☕💰 Pagar um café 💰☕
+
 🔗 https://ko-fi.com/R6R5SJ5L8
+
+🔗 https://t.me/Jerrymoz
 
 ---
 
@@ -22,6 +25,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 <a href="https://t.me/inspirationlivetv/" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2024/02/qrtelegram.jpg?w=200" alt="" height="150" border="0" /></a>
 
 🚩 Telegram
+
 🔗 https://t.me/Jerrymoz
 
 📣 (O Grupo ficou Privado, mas se pretenderem entrar, comuniquem! A unica forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv, fazerem parte do Grupo Telegram)
