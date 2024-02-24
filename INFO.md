@@ -22,7 +22,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 <a href="https://t.me/inspirationlivetv/" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2024/02/qrtelegram.jpg?w=200" alt="" height="150" border="0" /></a>
 
 🚩 Telegram
-🔗 https://t.me/inspirationlivetv
+🔗 https://t.me/Jerrymoz
 
 📣 (O Grupo ficou Privado, mas se pretenderem entrar, comuniquem! A unica forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv, fazerem parte do Grupo Telegram)
 
@@ -34,15 +34,17 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
-🟢 Europa Play Filmes Nacionaisᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
+🟢 SSC 1|2|3|4|5 4K 🇦🇪 [Woʀʟᴅ Sᴘoʀᴛs]
 
 🟢 Live Events Sports 🇺🇸 [Woʀʟᴅ Sᴘoʀᴛs]
+
+🟢 Europa Play Filmes Nacionaisᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
 
 🟢 NPC TV (Nascido para Cantar) 🇵🇹 [Music]
 
 
  
- 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
+📢 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
  
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
@@ -73,8 +75,8 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
-💬 O Canal (Todo Novelasᴴᴰ 🇲🇽) é um canal Mexicano que transmite varias novelas Portuguesas, dobradas em Espanhol :D
-
+📢 💬 O Canal (Todo Novelasᴴᴰ 🇲🇽) é um canal Mexicano que transmite varias novelas Portuguesas, dobradas em Espanhol :D
+📢 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
 
 
 ʙʏ Inspi[я]ation ʟɪnks ©
@@ -96,7 +98,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só <b>abre no simpletv</b>.
 
-📌 Se encontrar à frente do nome do canal estes 2 símbolos destas cores, <b>🟢🔴</b>. Significa que o canal só <b>abre no Simpletv</b> e é um canal <b>Acestream</b>.
+📌 Se encontrar à frente do nome do canal este símbolo destas core, <b>🔴</b>. Significa que o canal é um canal <b>Acestream</b>.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de <b>teste e temporário</b>. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
@@ -106,7 +108,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>direto eventos desportivos</b>.
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>💀</b>. Significa que o canal em questão está a ser <b>testado</b> para sabermos se vale a pena te-lo na lista
+📌 Se encontrar à frente do nome do canal este símbolo <b>💀</b>. Significa que o canal em questão está a ser <b>testado</b> para saber a estabilidade ou se vale a pena te-lo na lista
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>❌</b>. Significa que o canal está <b>indisponível</b> de momento.
 
