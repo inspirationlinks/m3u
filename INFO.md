@@ -37,6 +37,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
  ➡︎ Update: 24-02-24 ⬅️ 
 
 
+🟢 Wedo Big Doc ᴴᴰ 🇺🇸 [Docuᴍᴇɴᴛᴀʀɪos]
 
 🟢 SSC 1|2|3|4|5 4K 🇦🇪 [Woʀʟᴅ Sᴘoʀᴛs]
 
@@ -56,6 +57,19 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
  ➡︎ Update: 24-02-24 ⬅️ 
 
 
+
+
+🟢 Azteca 7ᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
+
+🟢 Unimasᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
+
+🟢 Canal 5ᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
+
+🟢 Univisionᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
+
+🟢 Telemundoᴴᴰ 🇲🇽🇺🇸 [Esᴘᴀɴʜᴀ]
+
+🟢 TUDN 🇲🇽 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
 
 🟢 HBO 🇧🇷 [Bʀᴀzɪʟ]
 
