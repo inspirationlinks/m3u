@@ -29,14 +29,18 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🔗 https://t.me/Jerrymoz
 
-📣 (O Grupo ficou Privado, mas se pretenderem entrar, comuniquem! A unica forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv, fazerem parte do Grupo Telegram)
+📣 (O Grupo ficou Privado do Telegram. Mas se pretenderem entrar, comuniquem! É a única forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv!)
 
 ---
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 24-02-24 ⬅️ 
+ ➡︎ Update: 25-02-24 ⬅️ 
 
+
+
+
+🟢 Clan 🇪🇸 [Infantil]
 
 🟢 Wedo Big Doc ᴴᴰ 🇺🇸 [Docuᴍᴇɴᴛᴀʀɪos]
 
@@ -55,10 +59,29 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 24-02-24 ⬅️ 
+ ➡︎ Update: 25-02-24 ⬅️ 
 
 
 
+
+
+🟢 USA Network 🇧🇷 [Brazil]
+
+🟢 Paramount Network 🇧🇷 [Brazil]
+
+🟢 Telecine touchᴴᴰ 🇧🇷 [Brazil]
+
+🟢 Prime Box Brazil 🇧🇷 [Brazil]
+
+🟢 This Old Houseᴴᴰ 🇺🇸 [Lɪғᴇsᴛʏʟᴇ]
+
+🟢 Popcornᴴᴰ 🇫🇷 [Cᴇʟᴇʙʀɪᴛɪᴇs]
+
+🟢 MHz Nowᴴᴰ 🇺🇸 [Portugal]
+
+🟢 Pronto Socorroᴴᴰ 🇧🇷 [Portugal]
+
+🟢 Investigação tv 🇧🇷 [Portugal]
 
 🟢 Azteca 7ᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
 
@@ -94,8 +117,11 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
+📢 💬 O canal (FlouCaribe Fit Dance 🇲🇽), manten-se na lista mas agira esta no seu lugar. Esta na Categoria [Mυsɪc]
+
 📢 💬 O Canal (Todo Novelasᴴᴰ 🇲🇽) é um canal Mexicano que transmite varias novelas Portuguesas, dobradas em Espanhol :D
-📢 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
+
+📢 💬 Os canais, (Live Events Sports). Na lista (InspirationFreetv), só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
 
 
 ʙʏ Inspi[я]ation ʟɪnks ©
