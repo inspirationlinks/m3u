@@ -1670,68 +1670,100 @@ https://bit.ly/3dcUGVE?profile=inspirationFreeTV.m3u8
 
 
 
-# 🔰 Rádios Portuguesas 🎧   🔰 
+
+
+#  🔰  Estações de Rádios Portuguesas 🎧  🔰 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-152x152.png",ZigZag fm
+
+
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/ZigZag.png",ZigZag fm
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cidade.fm/favicon.ico?v=2",Cidade fm
-https://stream-icy.bauermedia.pt/cidade.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radiomeo.png",Radio Meo
-http://centova.radios.pt:8495/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://radionovaera.pt/resources/img/favicon/apple-icon-144x144.png",NovaEra
-http://centova.radios.pt:9478/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://superbocksuperrock.pt/static/media/sbsr_logo.03f9bedf5b9fab799429.png",SuperbockSuperRock
-http://centova.radios.pt:8435/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2018/01/Normal_semfundo.png",Nove3cinco
-http://centova.radios.pt:9522/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://m80.pt/images/logo-m80.svg",Radio M80
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://onfm.pt/wp-content/uploads/2023/09/logo-on-fm.png",ONfm
+http://shoutcast.lunabroadcasting.net:8052/stream
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/M80_Radio_2003.svg",Radio m80
 https://stream-icy.bauermedia.pt/m80.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://bauermedia.pt/static/radiocomercial/images/logos/logo_big.png",Radio Comercial
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/7wmm7lubabjn.png",m80 80's
+https://stream-icy.bauermedia.pt/m8080.aac
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Syuakphjzank.png",M80pop
+https://stream-icy.bauermedia.pt/m80pop.aac
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/R%C3%A1dio_Comercial_2023.svg",Radio Comercial
 https://stream-icy.bauermedia.pt/comercial.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://cdn.sintonizate.net/r/s/RFM.png",RFM
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Rc-2000s.jpg",Comercial best 00's
+https://stream-icy.bauermedia.pt/rcbest2000.aac
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/RFM.svg",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://rfmsite-images.azureedge.net/images/webrads/RFM-80s_lg.svg",RFM 80
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://rfmsite-images.azureedge.net/images/webrads/RFM-80s_lg.svg",RFM 80
 https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFM_SC
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://cdn.sintonizate.net/r/s/oceano-pacifico-rfm.png",RFM Oceano Pacifico
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn.popcasts.pt/wp-content/uploads/2023/02/webradios_rfm-oceano-pacifico.png",RFM Oceano Pacifico
 https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.radio.pt/images/broadcasts/0f/e6/116143/1/c300.png",Radio Nostalgia
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://www.radio.pt/images/broadcasts/09/f1/110226/1/c300.png",RFM On the Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFMONTHEROCKAAC_SC
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://images.rfm.sapo.pt/dancefloor64295da3_socialshare.png",RFM Dance
+https://stream-icy.bauermedia.pt/m80dance.aac
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://www.radio.pt/images/broadcasts/5b/65/121316/1/c300.png",RFM Dancefloor
+https://25543.live.streamtheworld.com/DANCEONTHEFLOORAAC_SC
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2C5DZ9pVXS.jpeg",Wonder 80's
+https://80.streeemer.com/listen/80s/radio.mp3
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Batida_FM.svg",Batida fm
+https://stream-icy.bauermedia.pt/batidafm.mp3
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Cdd_fm.jpg",Cidade fm
+https://stream-icy.bauermedia.pt/cidade.mp3
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn6.aptoide.com/imgs/d/e/5/de5c79b747e468a8a7718608927a8bcd_icon.png",Radio Meo Sudoeste
+http://centova.radios.pt:8495/stream/1/
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://radionovaera.pt/resources/img/favicon/apple-icon-144x144.png",NovaEra
+http://centova.radios.pt:9478/stream/1/
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://superbocksuperrock.pt/static/media/sbsr_logo.03f9bedf5b9fab799429.png",SuperbockSuperRock
+http://centova.radios.pt:8435/stream/1/
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2018/01/Normal_semfundo.png",Nove3cinco
+http://centova.radios.pt:9522/stream/1/
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.radio.pt/images/broadcasts/0f/e6/116143/1/c300.png",Radio Nostalgia
 http://centova.radios.pt:8435/;
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png",Hiper FM
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png",Hiper FM
 http://195.23.85.126:9500/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://www.orbital.pt/icon.png",Orbital
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn-profiles.tunein.com/s15270/images/logod.png",Orbital
 http://195.23.85.126:8401/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k3Lc69GMYE.png",Placard
-http://213.239.218.99:7098/;?1475760096281.aac
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",Rádio Observador
-https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://smoothfm.pt/images/logo-SFM-red.svg",Smooth fm
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://hiphopradio.pt/wp-content/uploads/2019/09/HHR-LOGO-07-1024x724.png",Hip Hop Radio
+https://rs2.ptservidor.com/proxy/hiphopp?mp=%2Fstream
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://smoothfm.pt/images/logo-SFM-red.svg",Smooth fm
 https://stream-icy.bauermedia.pt/smooth.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://marginal.fm/images/favicon/apple-touch-icon.png",Radio Marginal
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://marginal.fm/images/favicon/apple-touch-icon.png",Radio Marginal
 http://centova.radios.pt:8499/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",Antena 1
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",Rádio Observador
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",Antena 1
 http://radiocast.rtp.pt/antena180a.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",Antena 1
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",Antena 1
 http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/103-551119141305.png",Antena 1 Vida
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/103-551119141305.png",Antena 1 Vida
 https://streaming-live.rtp.pt/liveradio/vida80a/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png",Antena 2 Jazzin
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png",Antena 2 Jazzin
 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png?w=180",Antena 3
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png?w=180",Antena 3
 http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://www.tsf.pt/common/images/favicons/apple-touch-icon-114x114.png",TSF
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/TSF_RN.png",TSF
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://cdn.sintonizate.net/r/s/Renascenca.png",RResnascenca
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo.png",Rádio Sines
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://cdn.sintonizate.net/r/s/Renascenca.png",RResnascenca
+https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo.png",Rádio Sines
 https://ssl.evsPoʀᴛᴜɢᴀʟ.net:7166/stream
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png",Diana fm (Évora)
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png",Diana fm (Évora)
 https://centova.radios.com.pt/proxy/460?mp=/stream
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",Rádio Portalegre
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",Rádio Portalegre
 http://centova.radios.pt:9492/stream
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://radiodespertar.net/storage/app/media/radio-despertar/radio-despertar-logo2.jpg",Radio Despertar Voz de Estremoz
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://radiodespertar.net/storage/app/media/radio-despertar/radio-despertar-logo2.jpg",Radio Despertar Voz de Estremoz
 https://stream.zeno.fm/fx5n4m0xkwzuv
+
+
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://imgur.com/hq8WWQ6.png",Sertanejo
+https://hls.hunter.fm/sertanejo/192.m3u8?shtl=KjWfgTVf0o6Ge4z2kuB2uwQs.s98m0N4EKuf70vfj7KMs95we9e2%2BTRFpEOLLNMY%2FSgU
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://imgur.com/hq8WWQ6.png",Hunter fm POP
+https://hls.hunter.fm/pop/192.m3u8?shtl=dHgWQg9SkLWNn2xfDkXT7Blc.Q1%2BYIHWEf%2Bx15rno%2BU4SLO3%2FgilkyftcOYx3e5REDRM
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://imgur.com/hq8WWQ6.png",Tropical
+https://hls.hunter.fm/tropical/192.m3u8?shtl=KjWfgTVf0o6Ge4z2kuB2uwQs.s98m0N4EKuf70vfj7KMs95we9e2%2BTRFpEOLLNMY%2FSgU
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" radio="true" group-title="Rᴀᴅɪos Sᴛᴀᴛɪoɴs" tvg-logo="https://imgur.com/hq8WWQ6.png",Hunter POP2
+https://hls.hunter.fm/pop2k/192.m3u8?shtl=KjWfgTVf0o6Ge4z2kuB2uwQs.s98m0N4EKuf70vfj7KMs95we9e2%2BTRFpEOLLNMY%2FSgU
 
 
 
