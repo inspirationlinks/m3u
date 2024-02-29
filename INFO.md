@@ -39,7 +39,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
-
 🟢 Clan 🇪🇸 [Infantil]
 
 🟢 Wedo Big Doc ᴴᴰ 🇺🇸 [Docuᴍᴇɴᴛᴀʀɪos]
@@ -53,67 +52,26 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 🟢 NPC TV (Nascido para Cantar) 🇵🇹 [Music]
 
 
+
  
 📢 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
  
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 25-02-24 ⬅️ 
+ ➡︎ Update: 30-03-24 ⬅️ 
 
 
 
+🟢 Campo Pequeno tvᴴᴰ 🇵🇹 [Portugal]
 
+🟢 FXᴴᴰ 🇧🇷 (Leg) [Portugal]
 
-🟢 USA Network 🇧🇷 [Brazil]
+🟢 Disney+ᴴᴰ 🇵🇹 [Infantil]
 
-🟢 Paramount Network 🇧🇷 [Brazil]
+🟢 Exclusive Disney Pixarᴴᴰ 🇵🇹 [Infantil]
 
-🟢 Telecine touchᴴᴰ 🇧🇷 [Brazil]
-
-🟢 Prime Box Brazil 🇧🇷 [Brazil]
-
-🟢 This Old Houseᴴᴰ 🇺🇸 [Lɪғᴇsᴛʏʟᴇ]
-
-🟢 Popcornᴴᴰ 🇫🇷 [Cᴇʟᴇʙʀɪᴛɪᴇs]
-
-🟢 MHz Nowᴴᴰ 🇺🇸 [Portugal]
-
-🟢 Pronto Socorroᴴᴰ 🇧🇷 [Portugal]
-
-🟢 Investigação tv 🇧🇷 [Portugal]
-
-🟢 Azteca 7ᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
-
-🟢 Unimasᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
-
-🟢 Canal 5ᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
-
-🟢 Univisionᴴᴰ 🇲🇽 [Esᴘᴀɴʜᴀ]
-
-🟢 Telemundoᴴᴰ 🇲🇽🇺🇸 [Esᴘᴀɴʜᴀ]
-
-🟢 TUDN 🇲🇽 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
-
-🟢 HBO 🇧🇷 [Bʀᴀzɪʟ]
-
-🟢 HBO+ 🇧🇷 [Bʀᴀzɪʟ]
-
-🟢 HBO Pop 🇧🇷 [Bʀᴀzɪʟ]
-
-🟢 HBO Mundi 🇧🇷 [Bʀᴀzɪʟ]
-
-🟢 HBO Signatureᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
-
-🟢 HBO Xtreamᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
-
-🟢 Europa Play Filmes Nacionaisᴴᴰ 🇧🇷 [Portugal]
-
-🟢 Outdoor Channelᴴᴰ 🇺🇸 [Travel]
-
-🟢 Outdoorᴴᴰ 🇺🇸 [Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ]
-
-🟢 NPC TV (Nascido para Cantar) 🇵🇹 [Music]
+🟢 Nickelodeonᴴᴰ 🇵🇹 [Infantil]
 
 
 
