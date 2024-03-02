@@ -35,21 +35,26 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 25-02-24 ⬅️ 
+ ➡︎ Update: 2-03-24 ⬅️ 
 
 
 
-🟢 Clan 🇪🇸 [Infantil]
+🟢 On Tour Channel 🇨🇱 [Lifestyle]
 
-🟢 Wedo Big Doc ᴴᴰ 🇺🇸 [Docuᴍᴇɴᴛᴀʀɪos]
+🟢 Ladies TV 🇨🇱 [Lifestyle]
 
-🟢 SSC 1|2|3|4|5 4K 🇦🇪 [Woʀʟᴅ Sᴘoʀᴛs]
+🟢 Sport Ext 🇨🇱 [Extreme Sports]
 
-🟢 Live Events Sports 🇺🇸 [Woʀʟᴅ Sᴘoʀᴛs]
+🟢 Univisión Latinoaméricaᴴᴰ 🇲🇽 [Espanha]
 
-🟢 Europa Play Filmes Nacionaisᴴᴰ 🇧🇷 [Bʀᴀzɪʟ]
+🟢 Telemundo Internacionalᴴᴰ 🇲🇽 [Espanha]
 
-🟢 NPC TV (Nascido para Cantar) 🇵🇹 [Music]
+🟢 RCN Novelasᴴᴰ 🇲🇽 [Espanha]
+
+🟢 Pasionesᴴᴰ 🇲🇽 [Espanha]
+
+🟢 Gaming Ubisoft [Gaming]
+
 
 
 
@@ -59,9 +64,11 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 30-03-24 ⬅️ 
+ ➡︎ Update: 02-03-24 ⬅️ 
 
 
+
+🟢 Las Estrellas +1ᴴᴰ 🇲🇽 [Espanha]
 
 🟢 Campo Pequeno tvᴴᴰ 🇵🇹 [Portugal]
 
@@ -75,11 +82,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
-📢 💬 O canal (FlouCaribe Fit Dance 🇲🇽), manten-se na lista mas agira esta no seu lugar. Esta na Categoria [Mυsɪc]
 
 📢 💬 O Canal (Todo Novelasᴴᴰ 🇲🇽) é um canal Mexicano que transmite varias novelas Portuguesas, dobradas em Espanhol :D
 
-📢 💬 Os canais, (Live Events Sports). Na lista (InspirationFreetv), só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
 
 
 ʙʏ Inspi[я]ation ʟɪnks ©
@@ -135,9 +140,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ✨ Usᴀ
 
-✨ Fʀᴀɴcᴀ
+✨ Fʀᴀɴcᴇ
 
-✨ Iᴛᴀʟɪᴀ
+✨ Iᴛᴀʟy
 
 ✨ Tʀᴀvᴇʟ
 
@@ -169,7 +174,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ✨ Fᴀɴɴʏ vɪᴅᴇos
 
-✨ Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ
+✨ Sᴘoʀᴛ Huɴᴛɪɴɢ
 
 ✨ Lɪɢᴀ Bwɪɴ
 
@@ -191,13 +196,13 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ✨ Moᴛoʀs Sᴘoʀᴛs
 
-✨ Rᴀᴅɪcᴀʟ Sᴘoʀᴛs
+✨ Exᴛʀᴇmᴇ Sᴘoʀᴛs
 
 ✨ Coᴍʙᴀᴛ
 
 ✨ Mυsɪc
 
-✨ Rᴀᴅɪos Sᴛᴀᴛɪoɴs
+✨ Rᴀᴅɪos
 
 ✨ +18
 
