@@ -85,12 +85,12 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-## 🥇 OTT Navigator IPTV v1.7.1.2 
+## 🥇 OTT Navigator IPTV v1.7.1.3 
 
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
-[👉 🖧 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+[👉 🖧 Download OTT](https://www.mediafire.com/file/w39vecwmtdp91hn/OTT_Navigator_v1.7.1.3_Premium.apk/file)
 
 * <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
