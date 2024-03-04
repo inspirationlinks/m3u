@@ -39,6 +39,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
+
 🟢 On Tour Channel 🇨🇱 [Lifestyle]
 
 🟢 Ladies TV 🇨🇱 [Lifestyle]
@@ -64,9 +65,23 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 02-03-24 ⬅️ 
+ ➡︎ Update: 03-03-24 ⬅️ 
 
 
+
+🟢 Netflix Premiumᴴᴰ 🇺🇸🇷🇴 [Portugal]
+
+🟢 Netflix Playᴴᴰ 🇺🇸🇷🇴 [Portugal]
+
+🟢 Netflix Plusᴴᴰ 🇺🇸🇷🇴 [Portugal]
+
+🟢 MTV Hits [Music]
+
+🟢 Sexy Hot [+18]
+
+🟢 Fake Taxi [+18]
+
+🟢 Bein Sports 1|2|3ᴴᴰ 🇬🇧 [Premium Sports]
 
 🟢 Las Estrellas +1ᴴᴰ 🇲🇽 [Espanha]
 
