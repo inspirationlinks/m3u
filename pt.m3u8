@@ -68,10 +68,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ici.png",ICI Television
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fatima.png",Santuário de Fátimaᴴᴰ 🇵🇹
 https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
 
@@ -138,7 +134,10 @@ https://bit.ly/46RyCcU?profile=inspirationFreeTV.m3u8
 # 🔰  ☆ CANAIS EXTRAS ☆  🔰
 
 
-
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ici.png",ICI Television
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Lovewine.png",Love Wineᴴᴰ 🇺🇸 🟤
 https://bit.ly/486K5GO?profile=inspirationFreeTV.m3u8?ads.xumo_channelId=99951215
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Motor Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/motor_vision.png",Motorvision (Leg) 🇵🇹🇺🇸
@@ -446,7 +445,8 @@ https://all3media-homes-under-the-hammer-1-gb.lg.wurl.tv/playlist.m3u8
 
 
 # 🔰  Canais 🇺🇸   🔰 
- 
+
+
 
 
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/previewchannel.webp",The Preview Channelᴴᴰ 🇺🇸 🟤
@@ -1101,6 +1101,8 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://bit.ly/3MFhgrA?profile=inspirationlivetv.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Famíliaᴴᴰ 🇵🇹 🟤
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg",Clanᴴᴰ 🇪🇸 🟤
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/12b63cde9f5a61c7e0ec1e00aa89d058d1a50e44/Logos/Ducktv.svg",Duck tvᴴᴰ 🇪🇸 🟤
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/12b63cde9f5a61c7e0ec1e00aa89d058d1a50e44/Logos/Ducktv.svg",Duck tv
@@ -1793,6 +1795,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playli
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Qwest.png",Qwest Jazzᴴᴰ 🟤
 https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/BBLACK_AFRIKA_2019.png",BBLACK! Africaᴴᴰ 
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="KMBYLD5.us" group-title="Music" tvg-logo="https://i.imgur.com/GlpYAKt.png",Blues tv 🇺🇸
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" group-title="Music" tvg-logo="https://i.imgur.com/L38mC6H.png",California Music Channel 🇺🇸
@@ -1837,8 +1841,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tracebrazuca.webp",Trace Brasil 🟤
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MTV%20Live%20HD.png",MTV Live
-http://93.155.227.38/m3u8/mtvlivehd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png",MTV Made in Spain 🟤
 https://bit.ly/3rrz7ZU?profile=inspirationFreeTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png",MTV Unplugged 🟤
