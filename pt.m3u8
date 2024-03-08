@@ -66,6 +66,7 @@ https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid
 # 🔰  SIC  🔰
 
 
+
 #EXTINF:-1 format="auto" tvg-name="" tvg-id="SIC.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sic.webp",SICᴴᴰ 🇵🇹
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 format="auto" tvg-chno="" tvg-name="" tvg-id="SICNoticias.pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticiasᴴᴰ 🇵🇹 (Geoblocked)
@@ -80,8 +81,6 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a32a3b6cc344dbd6c/ch
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a863b1c5e7e32550b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 format="auto" tvg-chno="" tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ 🇵🇹 
-http://1.raspy1.xyz:80/live/ahmetgold/avusturya.110422m/237623.ts
 #EXTINF:-1 format="auto" tvg-chno="" tvg-name="" tvg-id="sicnovelashd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ 🇵🇹 ❌
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -303,11 +302,6 @@ https://bit.ly/masterchefBR?profile=inspirationFreeTV.m3u8
 
 
 
-#EXTINF:-1 group-title="Espanha" tvg-id="CubavisionInternacional.cu" tvg-logo="",Cubavisión Internacional ᴴᴰ 🇨🇺 🔵
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Multicineᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Clasicosᴴᴰ 🇪🇸
@@ -384,6 +378,12 @@ http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="Pasiones" group-title="Espanha" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj",Pasionesᴴᴰ 🇲🇽
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+
+#EXTINF:-1 group-title="Espanha" tvg-id="CubavisionInternacional.cu" tvg-logo="https://github.com/inspirationlinks/m3u/blob/live/Logos/Cubavisi%C3%B3n%20Internacional.png",Cubavisión Internacional ᴴᴰ 🇨🇺 🔵
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 
 
