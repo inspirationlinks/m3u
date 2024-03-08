@@ -24,7 +24,7 @@ https://github.com/inspirationlinks/
 
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="RTPInternacional.pt" tvg-name="" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹
+#EXTINF:-1 tvg-chno="" tvg-id="RTPInternacional.pt" tvg-name="" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹 ⚽️
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
@@ -134,10 +134,7 @@ https://bit.ly/46RyCcU?profile=inspirationFreeTV.m3u8
 # 🔰  ☆ CANAIS EXTRAS ☆  🔰
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ici.png",ICI Television
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Lovewine.png",Love Wineᴴᴰ 🇺🇸 🟤
 https://bit.ly/486K5GO?profile=inspirationFreeTV.m3u8?ads.xumo_channelId=99951215
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Motor Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/motor_vision.png",Motorvision (Leg) 🇵🇹🇺🇸
@@ -179,6 +176,34 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 
 
 
+
+# 🔰  🇧🇷🇪🇸🇫🇷🇬🇧🇷🇺🇷🇸🇺🇦 Liga Bwin   🔰 
+
+
+
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LiveEventsSports.png",Live Events Sportsᴴᴰ 
+https://soccer.freesportstime.com/live/stream_9.m3u8
+
+
+#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4316&amp;f=.ch
+#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
+http://143.255.35.223:8000/play/a01g
+#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
+http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
+#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
+http://45.179.140.242:8000/play/a0l8
+#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
+http://157.245.117.238:8000/play/a0ur/index.m3u8
+
+
+#EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢
+https://aquagm.qarva.info:8074/CHANNEL634/bitrates.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
+#EXTINF:-1 tvg-id="" tvg-name="Старт" group-title="Liga Bwin" tvg-logo="https://start.ru/static/images/favicon/apple-touch-icon.png",Старт 🇷🇺
+https://strm.yandex.ru/kal/start/start0.m3u8
+
+
+
 # 🔰  cᴀɴᴀis 🇧🇷  🔰
 
 
@@ -186,7 +211,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 #EXTINF:-1 format="auto" tvg-id="" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/recordtv.png",Record tv sᴘᴴᴰ 🇧🇷
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Brazil" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBTᴴᴰ 🇧🇷 ▶️
-https://livestream.zazerconer.workers.dev/channel/UC-kzuB1mP2LnmaXMPniKeyg.m3u8
+https://ythls.armelin.one/video/ed0sSxEtzy4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Brazil" tvg-logo="https://pbs.twimg.com/profile_images/1636079155430211588/e2mDBPJQ_400x400.jpg",TV Zynᴴᴰ 🇧🇷
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/recordtv.png",Record tv sᴘᴴᴰ 🇧🇷
@@ -339,7 +364,7 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/index.m3
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-name="" group-title="Espanha" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",TeleMadrid Internacional 🇪🇸
 https://new-international-23.secure2.footprint.net/index.m3u8
 #EXTINF:-1 tvg-id="Canarias.TV" tvg-name="" group-title="Espanha" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",Televisión Canariaᴴᴰ 🇪🇸 ▶️
-https://livestream.zazerconer.workers.dev/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
+https://ythls.armelin.one/video/6LlZXt8nk4s.m3u8
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Telesur.png",Canal Surᴴᴰ 🇪🇸
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve"  group-title="Espanha" tvg-logo="https://i.imgur.com/P50VjRX.png",TeleSurᴴᴰ 🇻🇪
@@ -591,6 +616,10 @@ http://212.102.60.80/Infosport/index.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="France" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/monacoinfo.jpg",Monaco Info 🇫🇷
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="France" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ici.png",ICI Television
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 
 
@@ -1140,8 +1169,28 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network Latino 🇪🇸
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
+
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg",Clan 🇪🇸 🟤
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg",Adult Swim 🇺🇸 (Rick and Morty Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg",Adult Swim (Samurai Jack Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TomandJerry.png",Tom & Jerry 🇺🇸
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TomandJerry.png",Tom & Jerry 🇺🇸
+https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png",ZooMooᴴᴰ 🇺🇸 🟤
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png",ZooMooᴴᴰ 🇺🇸 🟤
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png",The Lego Channelᴴᴰ 🇺🇸 🟤
+https://bit.ly/3QpzYFN?profile=inspirationFreetv.m3u8
+
+
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",Inspector Gadgetᴴᴰ 🇺🇸 🟤
+https://bit.ly/3FblQIm?profile=inspirationFreetv.m3u8
 #EXTINF:-1 format="auto" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/pitufotv.webp",Smurf tv 🇺🇸 🟤
 https://bit.ly/49A0DIt?profile=inspirationFreetv.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://i.imgur.com/8NsZxiL.png",Los Pitufos Tvᴴᴰ 🇪🇸 🟤
@@ -1153,18 +1202,7 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Mr%20Bean.jpg",Mr Bean 🇪🇸
 http://51.159.104.29:8080/mrbean/index.m3u8
 
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TomandJerry.png",Tom & Jerry 🇺🇸
-http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TomandJerry.png",Tom & Jerry 🇺🇸
-https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png",ZooMooᴴᴰ 🇺🇸 🟤
-https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png",ZooMooᴴᴰ 🇺🇸 🟤
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png",The Lego Channelᴴᴰ 🇺🇸 🟤
-https://bit.ly/3QpzYFN?profile=inspirationFreetv.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",Inspector Gadgetᴴᴰ 🇺🇸 🟤
-https://bit.ly/3FblQIm?profile=inspirationFreetv.m3u8
+
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://sck.pm/sc9k",TVG Infantilᴴᴰ 🇪🇸
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 format="auto" group-title="Infantil" tvg-logo="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png",Pocoyóᴴᴰ 🇪🇸
@@ -1256,26 +1294,6 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?wowzasessi
 
 
 
-# 🔰  🇧🇷🇪🇸🇫🇷🇬🇧🇷🇺🇷🇸🇺🇦 Liga Bwin   🔰 
-
-
-
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
-http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
-http://45.179.140.242:8000/play/a0l8
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
-http://190.90.154.73:8080/play/a08t/index.m3u8
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
-http://157.245.117.238:8000/play/a0ur/index.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢
-https://aquagm.qarva.info:8074/CHANNEL634/bitrates.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
-#EXTINF:-1 tvg-id="" tvg-name="Старт" group-title="Liga Bwin" tvg-logo="https://start.ru/static/images/favicon/apple-touch-icon.png",Старт 🇷🇺
-https://strm.yandex.ru/kal/start/start0.m3u8
-
-
-
 # 🔰   🇧🇷🇪🇸🇫🇷🇺🇸🇦🇷🇲🇽 Word Sports   🔰 
 
 
@@ -1291,7 +1309,7 @@ https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
 
 
 
-https://sportsleading.online/live/stream_2.m3u8
+
 #EXTINF:-1 group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LiveEventsSports.png",Live Events Sports 1ᴴᴰ 🇺🇸
 https://soccer.freesportstime.com/live/stream_1.m3u8
 #EXTINF:-1 group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LiveEventsSports.png",Live Events Sports 2ᴴᴰ 🇺🇸
@@ -1300,20 +1318,16 @@ https://soccer.freesportstime.com/live/stream_6.m3u8
 https://soccer.freesportstime.com/live/stream_7.m3u8
 #EXTINF:-1 group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LiveEventsSports.png",Live Events Sports 4ᴴᴰ 🇺🇸
 https://soccer.freesportstime.com/live/stream_8.m3u8
-#EXTINF:-1 group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LiveEventsSports.png",Live Events Sports 5ᴴᴰ 🇺🇸
-https://soccer.freesportstime.com/live/stream_9.m3u8
 
 
-#EXTINF:-1 group-title="Word Sports" tvg-logo="https://strapi.ssc.tv/uploads/favicon_735e5bd673.svg",SSC 1 4K 🇦🇪
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/5390
-#EXTINF:-1 group-title="Word Sports" tvg-logo="https://strapi.ssc.tv/uploads/favicon_735e5bd673.svg",SSC 2 4K 🇦🇪
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/5391
-#EXTINF:-1 group-title="Word Sports" tvg-logo="https://strapi.ssc.tv/uploads/favicon_735e5bd673.svg",SSC 3 4K 🇦🇪
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/5392
-#EXTINF:-1 group-title="Word Sports" tvg-logo="https://strapi.ssc.tv/uploads/favicon_735e5bd673.svg",SSC 4 4K 🇦🇪
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/5393
-#EXTINF:-1 group-title="Word Sports" tvg-logo="https://strapi.ssc.tv/uploads/favicon_735e5bd673.svg",SSC 5 4K 🇦🇪
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/5394
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein Sports 1ᴴᴰ 🇬🇧
+http://zyniptv.com:8080/kingiptv@/JK!JEJG0oSt@/132297
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein Sports 2ᴴᴰ 🇬🇧
+http://zyniptv.com:8080/kingiptv@/JK!JEJG0oSt@/132298
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Premium Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein Sports 3ᴴᴰ 🇬🇧
+http://zyniptv.com:8080/kingiptv@/JK!JEJG0oSt@/132299
 
 
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",ESPN 🇵🇪
@@ -1333,27 +1347,17 @@ http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports2_t2.stream/playlist.m3u8
 
 
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN sᴅ 🇲🇽
-http://190.149.66.90:4000/play/a03a/index.m3u8
-#EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN sᴅ 🇲🇽
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 2ᴴᴰ 🇲🇽
-http://190.149.66.90:4000/play/a03b/index.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 2ᴴᴰ 🇲🇽
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 2 sᴅ 🇲🇽
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 3ᴴᴰ 🇦🇷
-http://190.149.66.90:4000/play/a04u/index.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 3ᴴᴰ 🇲🇽
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 3 sᴅ 🇲🇽
 http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 4 sᴅ 🇲🇽
 http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 6 🇲🇽
-http://190.149.66.90:4000/play/a04x/index.m3u8
-#EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 7 🇲🇽
-http://179.189.222.226:8000/play/ch20
 
 
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://www.foxsports.com.mx/pf/resources/images/fox-sports-mx/fox-logo.webp?d=198",Fox Sport 🇲🇽 
@@ -1372,10 +1376,12 @@ http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
 
+
+
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sports sᴅ 🇦🇷
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 2 🇵🇱
+http://89.187.179.242:12397
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium1.png",Arena 1 Premium 🇭🇷ᴴᴰ
 http://94.250.2.6:10600/play/gtIDEfibBy
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium2.png",Arena 2 Premium 🇭🇷ᴴᴰ
@@ -1413,10 +1419,7 @@ http://89.187.179.242:12183/canal+sport2
 http://89.187.179.242:1531/canal+sport5
 
 
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 2 🇵🇱
-http://89.187.179.242:12397
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 3 🇵🇱
-http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=65df4b105d30b4b9573333
+
 #EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZN%201.png",DAZN 1  🇩🇪 🔴
 torrent://INFOHASH=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
 #EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZN%202.png",DAZN 2 🇩🇪 🔴
