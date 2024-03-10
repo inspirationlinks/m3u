@@ -35,26 +35,13 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 2-03-24 ⬅️ 
+ ➡︎ Update: 10-03-24 ⬅️ 
 
 
 
 
-🟢 On Tour Channel 🇨🇱 [Lifestyle]
+🟢  Vários Canais da Netflix 🇺🇸🇦🇪🇷🇴 (áudio Original 🇺🇸) [usa]
 
-🟢 Ladies TV 🇨🇱 [Lifestyle]
-
-🟢 Sport Ext 🇨🇱 [Extreme Sports]
-
-🟢 Univisión Latinoaméricaᴴᴰ 🇲🇽 [Espanha]
-
-🟢 Telemundo Internacionalᴴᴰ 🇲🇽 [Espanha]
-
-🟢 RCN Novelasᴴᴰ 🇲🇽 [Espanha]
-
-🟢 Pasionesᴴᴰ 🇲🇽 [Espanha]
-
-🟢 Gaming Ubisoft [Gaming]
 
 
 
@@ -65,35 +52,19 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 03-03-24 ⬅️ 
+ ➡︎ Update: 10-03-24 ⬅️ 
 
 
 
-🟢 Netflix Premiumᴴᴰ 🇺🇸🇷🇴 [Portugal]
 
-🟢 Netflix Playᴴᴰ 🇺🇸🇷🇴 [Portugal]
+🟢 HBO Pop 🇧🇷 (áudio Original 🇺🇸, legendado em 🇵🇹-🇧🇷) [Portugal]
 
-🟢 Netflix Plusᴴᴰ 🇺🇸🇷🇴 [Portugal]
+🟢 Telecine Touchᴴᴰ 🇧🇷 (áudio Original 🇺🇸, legendado em 🇵🇹-🇧🇷) [Portugal]
 
-🟢 MTV Hits [Music]
+🟢 Telecine Touchᴴᴰ 🇧🇷 (áudio Original 🇺🇸, legendado em 🇵🇹-🇧🇷) [Portugal]
 
-🟢 Sexy Hot [+18]
+🟢 Telecine Touchᴴᴰ 🇧🇷 (áudio Original 🇺🇸, legendado em 🇵🇹-🇧🇷) [Portugal]
 
-🟢 Fake Taxi [+18]
-
-🟢 Bein Sports 1|2|3ᴴᴰ 🇬🇧 [Premium Sports]
-
-🟢 Las Estrellas +1ᴴᴰ 🇲🇽 [Espanha]
-
-🟢 Campo Pequeno tvᴴᴰ 🇵🇹 [Portugal]
-
-🟢 FXᴴᴰ 🇧🇷 (Leg) [Portugal]
-
-🟢 Disney+ᴴᴰ 🇵🇹 [Infantil]
-
-🟢 Exclusive Disney Pixarᴴᴰ 🇵🇹 [Infantil]
-
-🟢 Nickelodeonᴴᴰ 🇵🇹 [Infantil]
 
 
 
@@ -109,9 +80,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # 📝 INDICE | LEGENDAS 📝 
 
 
-📌 Se encontrar à frente do nome do canal, <b>[ᴴᴰ]</b>. Significa que o canal é de boa qualidade, no mínimo de 720p.
-
-📌 Se encontrar à frente do nome do canal, <b>[ѕᴅ]</b>. Significa que o canal é de media ou baixa qualidade.
+📌 Se encontrar à frente do nome do canal, <b>[ᴴᴰ] ou [ѕᴅ]</b>. Significa a qualidade de resolução, (imagem) de um determinado canal.
 
 📌 Se encontrar à frente do nome do canal a <b>flag de um País</b>, exemplo: <b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do (áudio e legendas) que possua um determinado canal.
 
@@ -121,7 +90,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só <b>abre no simpletv</b>.
 
-📌 Se encontrar à frente do nome do canal este símbolo destas core, <b>🔴</b>. Significa que o canal é um canal <b>Acestream</b>.
+📌 Se encontrar à frente do nome do canal este símbolo destas core, <b>🔴</b>. Significa que o canal é <b>Acestream</b>.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de <b>teste e temporário</b>. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
@@ -131,7 +100,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>direto eventos desportivos</b>.
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>💀</b>. Significa que o canal em questão está a ser <b>testado</b> para saber a estabilidade ou se vale a pena te-lo na lista
+📌 Se encontrar à frente do nome do canal este símbolo <b>❗❔</b>. Significa que o canal em questão está a ser <b>testado</b> para saber a estabilidade ou se vale a pena te-lo na lista
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>❌</b>. Significa que o canal está <b>indisponível</b> de momento.
 
