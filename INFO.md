@@ -26,9 +26,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🚩 Telegram
 
- 🔗 https://t.me/+nTaPspmA4dllNWY0
+🔗 https://t.me/inspirationfreetv/1
 
-📣 (O Grupo ficou Privado do Telegram. Mas se pretenderem entrar, comuniquem! É a única forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv!)
+📣 (Existe Grupo Privado Inspiration Live Tvndo Telegram. Mas se pretenderem entrar, comuniquem! É a única forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv!)
 
 ---
 
