@@ -21,14 +21,13 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-<a href="https://t.me/+nTaPspmA4dllNWY0" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://github.com/inspirationlinks/m3u/raw/live/Logos/freetv.png?w=150" alt="Grupo telegram" height="150" border="0" /></a>
-<a href="" target="_blank" rel="noopener"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="github Inspiration" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" height="140" border="0" /></a></p>
+<p><a target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 139px;" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="github Inspiration" width="139" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 134px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="134" height="140" border="0" /></a><a href="https://t.me/inspirationfreetv/1" target="_blank" rel="noopener"><img class="alignleft" style="border: 0px; height: 119px;" src="https://github.com/inspirationlinks/m3u/raw/live/Logos/freetv.png?w=210" alt="Grupo Telegram" width="120" height="150" border="0" /></a></p>
 
 🚩 Telegram
 
 🔗 https://t.me/inspirationfreetv/1
 
-📣 (Existe Grupo Privado Inspiration Live Tvndo Telegram. Mas se pretenderem entrar, comuniquem! É a única forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv!)
+📣 (Existe Grupo Privado Inspiration Live Tv no Telegram. Mas se pretenderem entrar, comuniquem! É a única forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv!)
 
 ---
 
