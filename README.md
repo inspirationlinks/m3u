@@ -3,7 +3,8 @@
 
 <a href='https://ko-fi.com/R6R5SJ5L8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
-<p><a href="https://ko-fi.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=210" alt="Buy Me a Coffee" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="" height="150" border="0" /></a></p>
+<a href="https://t.me/+nTaPspmA4dllNWY0" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://github.com/inspirationlinks/m3u/raw/live/Logos/freetv.png?w=150" alt="Grupo telegram" height="150" border="0" /></a>
+<a href="https://ko-fi.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=210" alt="Buy Me a Coffee" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="github Inspiration" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" height="140" border="0" /></a></p>
 
 ✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou Por transferência bancaria.
 [O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
@@ -85,12 +86,12 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-## 🥇 OTT Navigator IPTV v1.7.1.3 
+## 🥇 OTT Navigator IPTV v1.7.1.2 
 
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
-[👉 🖧 Download OTT](https://www.mediafire.com/file/w39vecwmtdp91hn/OTT_Navigator_v1.7.1.3_Premium.apk/file)
+[👉 🖧 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
 
 * <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
