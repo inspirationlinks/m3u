@@ -22,7 +22,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 ---
 
 <a href="https://t.me/+nTaPspmA4dllNWY0" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://github.com/inspirationlinks/m3u/raw/live/Logos/freetv.png?w=150" alt="Grupo telegram" height="150" border="0" /></a>
-<a href="https://ko-fi.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=210" alt="Buy Me a Coffee" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="github Inspiration" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" height="140" border="0" /></a></p>
+<a href="" target="_blank" rel="noopener"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="github Inspiration" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img style="border: 0px; height: 150px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" height="140" border="0" /></a></p>
 
 🚩 Telegram
 
