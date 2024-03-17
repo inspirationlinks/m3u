@@ -33,12 +33,14 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
- ➡︎ Update: 10-03-24 ⬅️ 
+
+ ➡︎ Update: 17-03-24 ⬅️ 
 
 
 
+🟢  Bein Sports 1|2|3ᴴᴰ 🇬🇧 [Word Sports]
 
-🟢  Vários Canais da Netflix 🇺🇸🇦🇪🇷🇴 (áudio Original 🇺🇸) [usa]
+🟢 Canais da Ziggo Sports 🇳🇱 [Word Sports]
 
 
 
@@ -50,18 +52,12 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
- ➡︎ Update: 10-03-24 ⬅️ 
+
+ ➡︎ Update: 17-03-24 ⬅️ 
 
 
 
-
-🟢 HBO Pop 🇧🇷 (áudio Original 🇺🇸, legendado em 🇵🇹-🇧🇷) [Portugal]
-
-🟢 Telecine Touchᴴᴰ 🇧🇷 (áudio Original 🇺🇸, legendado em 🇵🇹-🇧🇷) [Portugal]
-
-🟢 Telecine Touchᴴᴰ 🇧🇷 (áudio Original 🇺🇸, legendado em 🇵🇹-🇧🇷) [Portugal]
-
-🟢 Telecine Touchᴴᴰ 🇧🇷 (áudio Original 🇺🇸, legendado em 🇵🇹-🇧🇷) [Portugal]
+🟢 Disney+ ᴴᴰ 🇵🇹 [Portugal]
 
 
 
