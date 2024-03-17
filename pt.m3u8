@@ -168,16 +168,15 @@ https://bit.ly/3Hpns4O?profile=inspirationFreeTV.m3u8
 
 
 
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4316&amp;f=.ch
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
 http://143.255.35.223:8000/play/a01g
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
 http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
 http://45.179.140.242:8000/play/a0l8
-#EXTINF:-1 format="auto" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
 http://157.245.117.238:8000/play/a0ur/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢
@@ -521,25 +520,77 @@ http://testdns1.com:8008/eugen_mirica/eXzBZ1FmwA/168796
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Plusᴴᴰ 🇺🇸🇷🇴 🟡
 http://testdns1.com:8008/eugen_mirica/eXzBZ1FmwA/168794
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Action 🇺🇸🇮🇳 
+http://77.137.35.165:8000/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Horror 🇺🇸🇮🇳 
+http://77.137.35.165:8000/play/a08l/index.m3u8
 
+#EXTINF:-1 tvg-id="USA.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USAᴴᴰ 🇺🇸 
+http://170.254.18.106/SYFY/index.m3u8
+
+
+#EXTINF:-1 tvg-id=" group-title="Usa" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/AXN.png",AXNᴴᴰ 🇺🇸
+http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg",CineMaxᴴᴰ 🇺🇸 
 http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png",TNT Eastᴴᴰ 🇺🇸
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS Eastᴴᴰ 🇺🇸
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SyFy.png",SYFYᴴᴰ 🇺🇸 ❌
+#
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetimeᴴᴰ 🇺🇸
+http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetimeᴴᴰ 🇺🇸
 http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
-#EXTINF:-1 tvg-id="FXx.us" tvg-name="" group-title="Usa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg",FXxᴴᴰ 🇺🇸
-http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbofamily.png",HBO Family 🇺🇸🇨🇳
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF:-1 tvg-id="HBO2.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2 🇺🇸🇷🇴
-http://193.239.212.17:20007
-#EXTINF:-1 tvg-id="HBO2.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2 🇺🇸🇮🇳
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbomundi.png",HBO Mundi 🇺🇸🇮🇳
-http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/IFC_2018_logo.svg",IFC Eastᴴᴰ 🇺🇸
+https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/IFC_2018_logo.svg",IFC Eastᴴᴰ 🇺🇸
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12733.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="BBCAmericaEast.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bbcAmerica.png",BBC América 🇺🇸
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/166.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="BBCAmericaEast.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bbcAmerica.png",BBC América East 🇺🇸
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸🇲🇽 🟤
+#EXTINF:-1 tvg-id="FX.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FXᴴᴰ 🇺🇸 
+http://170.254.18.106/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FXᴴᴰ 🇺🇸 
+https://epg.pw/stream/3b1ad2f3c2a5fdcde38415ef59f7ffc3d53ca0f6b7ae7329ea650319b7a5630a.ctv
+#EXTINF:-1 tvg-id="FX.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/FXM_Logo.svg",FXMᴴᴰ 🇺🇸
+https://epg.pw/stream/1dfec607a98c979d9ae6ca01913a2d00d53199f3ab8656d3c892507227156680.ctv
+#EXTINF:-1 tvg-id="FXx.us" tvg-name="" group-title="Usa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg",FXxᴴᴰ 🇺🇸
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBO Eastᴴᴰ 🇺🇸 🟡
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12743&amp;f=.ch
+#EXTINF:-1 tvg-id="HBOPLUS.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/blob/live/Logos/hbomais.png",HBO+ᴴᴰ 🇺🇸
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbofamily.png",HBO Familyᴴᴰ 🇺🇸
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbofamily.png",HBO Familyᴴᴰ 🇺🇸🇨🇳
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-id="HBO2.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2ᴴᴰ 🇺🇸
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2ᴴᴰ 🇺🇸🇷🇴
+http://193.239.212.17:20007
+#EXTINF:-1 tvg-id="HBO2.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2ᴴᴰ 🇺🇸🇮🇳
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hboXtreme.png",HBO Xtremeᴴᴰ 🇺🇸
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbomundi.png",HBO Mundiᴴᴰ 🇺🇸
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbosignature.png",HBO Signatureᴴᴰ 🇺🇸
+http://170.254.18.106/HBO_SIG/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC East 🇺🇸
+https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+ East 🇺🇸
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸🇲🇽
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸 🟤
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
@@ -547,10 +598,8 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/amcStorie.webp",AMC Stories 🇺🇸 🟤
 https://bit.ly/3CmcVEq?profile=inspirationlivetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC East 🇺🇸
-https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+ East 🇺🇸
-https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Usa" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/Dmax.m3u8
 #EXTINF:-1 group-title="Usa" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇮🇳🇺🇸
@@ -563,6 +612,9 @@ https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 https://github.com/inspirationlinks/m3u/raw/live/Streams/AGTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTVᴴᴰ 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+#EXTINF:-1 format="auto" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Historia.png",Historyᴴᴰ 🇺🇸
+http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
+
 
 
 
