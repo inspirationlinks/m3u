@@ -172,6 +172,9 @@ http://157.245.117.238:8000/play/a0ur/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/Ring.svg",Ring 🇧🇬
+http://79.124.21.250:9981/play/a00o/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢
 https://aquagm.qarva.info:8074/CHANNEL634/bitrates.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
 #EXTINF:-1 tvg-id="" tvg-name="Старт" group-title="Liga Bwin" tvg-logo="https://start.ru/static/images/favicon/apple-touch-icon.png",Старт 🇷🇺
@@ -409,6 +412,8 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/English%20club%20HD.png",English Club TVᴴᴰ 🇬🇧
 http://iptv.prosto.tv:7000/ch206/video.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 🇬🇧
+http://213.7.193.54:4000/play/itv1/index.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 🇬🇧
 http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 🇬🇧
 http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
@@ -419,6 +424,8 @@ http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=1
 
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/BBC_First_2022.svg",BBC First 🇬🇧🇵🇱
 http://124.29.225.205:8000/play/a05f/index.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Channel_4_%28On_Demand%29_2023.svg",channel 4 🇬🇧
+http://213.7.193.54:4000/play/channel4/index.m3u8
 
 
 
@@ -1509,8 +1516,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png",ESPN 7 🇵🇪
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8
 
-#EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN Deportesᴴᴰ 🇲🇽
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57185
+
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN sᴅ 🇲🇽
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 2 sᴅ 🇲🇽
