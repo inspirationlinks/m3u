@@ -86,19 +86,15 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-## 🥇 OTT Navigator IPTV v1.7.1.2 
+## 🥇 OTT Navigator IPTV v1.7.1.4 
 
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
-[👉 🖧 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
+[👉 🖧 Download OTT](https://www.mediafire.com/file/763a2bwc5foqxnz/OTT_Navigator_v1.7.1.4_Premium.apk/file)
 
-* <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
-* (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
-
-* 📢 ❗ <b>NO OTT NAVIGATOR</b>, existem canais onde só tem som, mas não aparece a imagem, (ou em outras situações), terão que alterar o codec do vídeo.
-
- <b>╭─➤ CAMINHO:</b> Configurações ➤ Player ➤ Configurar preferências dos codecs ➤ Configurações de codec ➤ (depois é só escolher um codec diferente e testar se a imagem já aparece.)
+* 📢 ❗ <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
+* (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista, (Provedor). É só copiar e colar o link da lista Inspiration e seguir os passos)
 
 ---
 
