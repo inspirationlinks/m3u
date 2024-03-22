@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz" refresh="3600" m3uautoload="1" refresh="24"
+#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz" url-tvg="https://github.com/serviciovodflex/nxt-guide/raw/main/epg.xml" refresh="3600" m3uautoload="1" refresh="24"
 
 
 # jerrymoz.wordpress.com - t.me/inspirationfreetv/1 - It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, etc...)
@@ -163,8 +163,17 @@ https://bit.ly/3Hpns4O?profile=inspirationFreeTV.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
+https://nxt.plus:8443/live/olmos/1234guz/53691.m3u8
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153304
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/65431
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
 http://143.255.35.223:8000/play/a01g
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
+http://45.179.164.30:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
 http://45.179.140.242:8000/play/a0l8
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
@@ -174,6 +183,9 @@ http://157.245.117.238:8000/play/a0ur/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/Ring.svg",Ring 🇧🇬
 http://79.124.21.250:9981/play/a00o/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/Ring.svg",Ring 🇧🇬
+http://85.11.144.9:4004/udp/239.100.10.81:5000
+
 
 #EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢
 https://aquagm.qarva.info:8074/CHANNEL634/bitrates.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
@@ -531,13 +543,9 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetimeᴴᴰ 🇺🇸
 http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/IFC_2018_logo.svg",IFC Eastᴴᴰ 🇺🇸
-https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/IFC_2018_logo.svg",IFC Eastᴴᴰ 🇺🇸
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12733.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="BBCAmericaEast.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bbcAmerica.png",BBC América 🇺🇸
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/166.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="BBCAmericaEast.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bbcAmerica.png",BBC América East 🇺🇸
-https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FX.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FXᴴᴰ 🇺🇸 
 http://170.254.18.106/FX/index.m3u8
