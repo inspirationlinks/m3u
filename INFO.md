@@ -48,9 +48,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
-
-
-📢 💬 
  
 📢 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
  
@@ -84,7 +81,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 
 
-📢 💬 Reforço e substituiçao de fontes de canais estáveis! A revisao foi geral na lista Inspiration Live tv, principalmente os canaos 🇵🇹 :D 
+📢 💬 Reforço e substituição de fontes de canais estáveis! A revisão foi geral na lista Inspiration Live tv, principalmente os canais 🇵🇹 :D 
 
 
 
