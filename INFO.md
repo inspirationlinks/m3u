@@ -34,18 +34,23 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
 
 
- ➡︎ Update: 17-03-24 ⬅️ 
+ ➡︎ Update: 22-03-24 ⬅️ 
 
 
 
-🟢  Bein Sports 1|2|3ᴴᴰ 🇬🇧 [Word Sports]
+🟢 Star Channelᴴᴰ 🇵🇹 [Portugal]
 
-🟢 Canais da Ziggo Sports 🇳🇱 [Word Sports]
+🟢 Playboy TV [+18]
+
+🟢 Penthouse Gold [+18]
+
+🟢 Venus tv [+18]
 
 
 
 
 
+📢 💬 
  
 📢 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
  
@@ -53,17 +58,33 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
 
- ➡︎ Update: 17-03-24 ⬅️ 
+ ➡︎ Update: 22-03-24 ⬅️ 
 
 
 
-🟢 Disney+ ᴴᴰ 🇵🇹 [Portugal]
+🟢 Sport tv 1 4k 🇵🇹 [Portugal]
+
+🟢 24 Kitchenᴴᴰ 🇵🇹 [Portugal]
+
+🟢 Sic Kᴴᴰ 🇵🇹 [Portugal]
+
+🟢 Multishowᴴᴰ 🇧🇷 [Brasil]
+
+🟢 Star+ᴴᴰ 🇧🇷 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 Sky Sports Arenaᴴᴰ 🇬🇧 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 Movistar La Ligaᴴᴰ 🇪🇸 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 Movistar #VAMOSᴴᴰ 🇪🇸 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
+
+🟢 Extreme Plus [+18]
+
+🟢 Penthouse Gold [+18]
 
 
 
-
-
-📢 💬 O Canal (Todo Novelasᴴᴰ 🇲🇽) é um canal Mexicano que transmite varias novelas Portuguesas, dobradas em Espanhol :D
+📢 💬 Reforço e substituiçao de fontes de canais estáveis! A revisao foi geral na lista Inspiration Live tv, principalmente os canaos 🇵🇹 :D 
 
 
 
