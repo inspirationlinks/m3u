@@ -179,7 +179,8 @@ https://bit.ly/3Hpns4O?profile=inspirationFreeTV.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154242
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/34573
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
@@ -568,11 +569,19 @@ http://213.7.193.54:4000/play/channel4/index.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Channel_5_%28UK%29_2016.svg",Channel 5 🇬🇧
 http://94.194.203.85:9981/stream/channelid/962052706?ticket=2BB5C94BEE85E5E75C5EDA9DE144860CC5B980A3&profile=pass
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 1 🇬🇧
+http://45.153.35.210:8000/play/UK_bbc_1_HD/index.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
 http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+#EXTINF:-1 tvg-name=" tvg-id=" group-title="ᴇɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/BBC_Four_logo_2021.svg",BBC 4 🇬🇧
+http://45.153.35.210:8000/play/UK_cbeebies_HD/index.m3u8
+
 
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/BBC_First_2022.svg",BBC First 🇬🇧🇵🇱
 http://124.29.225.205:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BBC_Brit.svg",BBC Brit 🇬🇧🇵🇱
+http://178.219.128.68:64889/BBCBRITHD
 
 
 
@@ -582,10 +591,6 @@ http://124.29.225.205:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="England" tvg-logo="https://horseandcountry.tv/img/logo/hnc-desktop-white.png",Horse and Countryᴴᴰ 🇬🇧 🟤
 https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BBC_Brit.svg",BBC Brit 🇬🇧🇵🇱
-http://178.219.128.68:64889/BBCBRITHD
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="England" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/BBC_First_2022.svg",BBC First 🇬🇧🇵🇱 ²
-http://124.29.225.205:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="England" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/emergency!.webp",Emergency!ᴴᴰ 🇬🇧 🟤
 https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="b23f4f8eacf2433bf8ac6cf851477a97" group-title="England" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b23f4f8eacf2433bf8ac6cf851477a97.png",4 Emergencyᴴᴰ 🇬🇧 🟤
@@ -868,6 +873,8 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/RTLbel.m3u8
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png",6ter 🇫🇷
 http://144.217.72.24:80/6ter/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png",6ter 🇫🇷
+http://45.153.35.210:8000/play/FR_6ter_HD/index.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" group-title="France" tvg-logo="https://www.museumtv.art/wp-content/uploads/2021/09/cropped-apple-touch-icon-180x180.png",Museum TV 🇫🇷
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="France24English.fr" group-title="France" tvg-logo="https://i.imgur.com/zY7VbFh.png",France 24ᴴᴰ 🇫🇷
@@ -1634,10 +1641,6 @@ http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683139&extension=ts&play_token=Z0asmpTRTL
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 2ᴴᴰ 🇬🇧
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683138&extension=ts&play_token=Z0asmpTRTL
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 2ᴴᴰ 🇬🇧
-http://zyniptv.com:8080/kingiptv@/JK!JEJG0oSt@/132298
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 3ᴴᴰ 🇬🇧
-http://zyniptv.com:8080/kingiptv@/JK!JEJG0oSt@/132299
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 3ᴴᴰ 🇬🇧
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=941567&extension=ts&play_token=BbebWVmK2D
 
