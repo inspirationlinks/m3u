@@ -570,11 +570,11 @@ http://213.7.193.54:4000/play/channel4/index.m3u8
 http://94.194.203.85:9981/stream/channelid/962052706?ticket=2BB5C94BEE85E5E75C5EDA9DE144860CC5B980A3&profile=pass
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 1 🇬🇧
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 1 🇬🇧
 http://45.153.35.210:8000/play/UK_bbc_1_HD/index.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
 http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
-#EXTINF:-1 tvg-name=" tvg-id=" group-title="ᴇɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/BBC_Four_logo_2021.svg",BBC 4 🇬🇧
+#EXTINF:-1 tvg-name=" tvg-id=" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/BBC_Four_logo_2021.svg",BBC 4 🇬🇧
 http://45.153.35.210:8000/play/UK_cbeebies_HD/index.m3u8
 
 
@@ -1764,47 +1764,10 @@ http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
 
-
- 🔰   Acestream Channels  🔰 
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZN%201.png",DAZN 1 🇩🇪 🔴
-torrent://INFOHASH=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZN%202.png",DAZN 2 🇩🇪 🔴
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Liga%20de%20Campeones.png",Liga Campeonesᴴᴰ 🇪🇸 🔴
-torrent://INFOHASH=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
-#EXTINF:-1 tvg-id="premiersports1.uk" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PremierSport1.png",PremierSports 1 🇬🇧ᴴᴰ 🔴
-torrent://INFOHASH=13ddaf59c0f2d760fd3775acc254e13825206eac
-#EXTINF:-1 tvg-id="premiersports2.uk" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PremierSports2.png",PremierSports 2 🇬🇧ᴴᴰ 🔴
-torrent://INFOHASH=086e4c7ccc0b80e2960a553d04dac1024c7787b9
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",bein Sport 1ᴴᴰ 🇫🇷 🔴
-torrent://INFOHASH=58e454d067b9e25e40f3c62b3430b55ef6fead09
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",bein Sport 2ᴴᴰ 🇫🇷 🔴
-torrent://INFOHASH=fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",bein Sport 3 🇫🇷ᴴᴰ 🔴
-torrent://INFOHASH=519c2159e9228bfe2f94911dfa111b01d0a896e2
-
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ziggoVoetbal.png",Ziggo Voetbal 🇳🇱ᴴᴰ 🔴
-torrent://INFOHASH=988072d7f88e09cd815a42fcd2a15762f0d86a79
-#EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ziggoselect.png",Ziggo Select 🇳🇱ᴴᴰ  🔴
-torrent://INFOHASH=a323b95dfc567990ffa58d48664bd322cf8996eb
-
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/M%2B%20Liga%20de%20Campeones.png",Liga Campeonesᴴᴰ 🇪🇸  🔴
-torrent://INFOHASH=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
 #EXTINF:-1 tvg-id="teledeporte.es" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",tdp 🇪🇸ᴴᴰ 🟤
 https://bit.ly/49obbKU?profile=inspirationFreeTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20231213T032953SQUARE.png_20231213032954.png",La liga Inside 🇪🇸ᴴᴰ 🟤
 https://i.mjh.nz/SamsungTVPlus/ESBD4700001T2.m3u8
-#EXTINF:-1 tvg-id="premiersports1.uk" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PremierSport1.png",PremierSports 1 🇬🇧ᴴᴰ 🔴
-torrent://INFOHASH=13ddaf59c0f2d760fd3775acc254e13825206eac
-#EXTINF:-1 tvg-id="premiersports2.uk" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PremierSports2.png",PremierSports 2 🇬🇧ᴴᴰ 🔴
-torrent://INFOHASH=086e4c7ccc0b80e2960a553d04dac1024c7787b9
-
-#EXTINF:-1 tvg-name=" tvg-id=" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",Telekanal Futbol 🇷🇺ᴴᴰ 🔴
-torrent://INFOHASH=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a
 
 
 
@@ -1851,16 +1814,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ITSF.png",ITSF 🇺🇸ᴴᴰ 🟤
 https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8?ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3875
-
-
-
-
- 🔰   NBA  🔰 
-
-
-
-#EXTINF:-1 tvg-id="sptvnba.tv.vodafone.pt" tvg-name="" group-title="NBA"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA tv 🔴
-torrent://INFOHASH=42832fbf9a1d3bdcca043e09951d6769fbbe04e7
 
 
 
