@@ -1,4 +1,4 @@
-#EXTM3U url-tvg-url="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml" m3uautoload="1" refresh="24"
 
 
 
@@ -478,6 +478,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manife
 https://bit.ly/3u1GriR?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h 🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
+#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h 🇪🇸
+https://sck.pm/Ch2?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-name="Antena3Internacional" tvg-id="Antena 3" group-title="Espanha" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 Internacional sᴅ 🇪🇸
 http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
 #EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
@@ -541,7 +543,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
 
 
-#EXTINF:-1 group-title="Espanha" tvg-id="CubavisionInternacional.cu" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cubavisi%C3%B3n%20Internacional.png",Cubavisión Internacional ᴴᴰ 🇨🇺 🔵
+#EXTINF:-1 group-title="Espanha" tvg-id="Cubavisión" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cubavisi%C3%B3n%20Internacional.png",Cubavisión Internacional ᴴᴰ 🇨🇺 🔵
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://teveo.cu/
@@ -673,44 +675,14 @@ https://bit.ly/3tQHthP?profile=inspirationFreetv.m3u8
 https://bit.ly/3RzVB7W?profile=inspirationFreetv.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://zinatvworld99.com/wp-content/uploads/2023/01/Zina-Tv-World-Footer-Logo.png",Zina Box Officeᴴᴰ 🇺🇸🇦🇪 🟡
-http://62.201.210.84:2110/play/a0eg
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://zinatvworld99.com/wp-content/uploads/2023/01/Zina-Tv-World-Footer-Logo.png",Zina Moviesᴴᴰ 🇺🇸🇦🇪 🟡
-http://62.201.210.84:2110/play/a0dq
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://zinatvworld99.com/wp-content/uploads/2023/01/Zina-Tv-World-Footer-Logo.png",Zina Horrorᴴᴰ 🇺🇸🇦🇪 🟡
-http://62.201.210.84:2110/play/a0ea
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Españaᴴᴰ 🇪🇸 🟡
-http://62.201.210.84:2110/play/a0e0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Franceᴴᴰ 🇫🇷 🟡
-http://62.201.210.84:2110/play/a0dz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Crimeᴴᴰ 🇺🇸🇦🇪 🟡
-http://62.201.210.84:2110/play/a0g2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Dramaᴴᴰ 🇺🇸🇦🇪 🟡
-http://62.201.210.84:2110/play/a0g5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Fantasiaᴴᴰ 🇺🇸🇦🇪 🟡
-http://62.201.210.84:2110/play/a0g6
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Thrillerᴴᴰ 🇺🇸🇦🇪 🟡
-http://62.201.210.84:2110/play/a0g4
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Action 🇺🇸🇮🇳 
-http://77.137.35.165:8000/play/a079/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Horror 🇺🇸🇮🇳 
-http://77.137.35.165:8000/play/a08l/index.m3u8
-
-
 #EXTINF:-1 tvg-id=" group-title="Usa" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/AXN.png",AXNᴴᴰ 🇺🇸
 http://170.254.18.106/AXN/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USAᴴᴰ 🇺🇸
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/191.ts
-
-
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png",Bravoᴴᴰ 🇺🇸
 http://167.114.156.136:25461/INFINITV/ZX89NM22/192
-
-
 #EXTINF:-1 tvg-id="ShowtimeWest.us" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Showtime.svg",Showtime West  🇺🇸
 http://167.114.156.136:25461/INFINITV/ZX89NM22/189
 #EXTINF:-1 tvg-id="CinemaxWest.us" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg",CineMaxᴴᴰ 🇺🇸 
@@ -734,10 +706,11 @@ http://170.254.18.106/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2East.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBOᴴᴰ 🇺🇸 🟡
 http://167.114.156.136:25461/INFINITV/ZX89NM22/223
-
-
+#EXTINF:-1 tvg-id="HBO2East.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBOᴴᴰ 🇺🇸🇹🇭 
+https://edge2.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBOPLUS.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbomais.png",HBO+ᴴᴰ 🇺🇸
 http://170.254.18.106/HBO_PLUS/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOFamily.us" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbofamily.png",HBO Familyᴴᴰ 🇺🇸
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 
@@ -772,6 +745,8 @@ https://bit.ly/3CmcVEq?profile=inspirationFreetv.m3u8
 https://github.com/inspirationlinks/m3u/raw/live/Streams/Dmax.m3u8
 #EXTINF:-1 group-title="Usa" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+
+
 #EXTINF:-1 group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
 #EXTINF:-1 group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇮🇳🇺🇸
@@ -1406,6 +1381,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsu
 https://bit.ly/3TdgLKh?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Wild Life" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300001X9_20230426T031131SQUARE.png_20230426031132.png",The Jack Hanna Channel 🇺🇸 🟤
 https://bit.ly/47IBNVt?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Wild Life" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg",Real Wildᴴᴰ 🇺🇸 🟤
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Wild Life" tvg-logo="https://bit.ly/wildplanett",Wild Planetᴴᴰ 🇺🇸 🟤
 https://bit.ly/41ykXoq?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-name="" group-title="Wild Life" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",Animals tv  🇺🇸 🟤
@@ -1445,26 +1422,22 @@ https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 https://github.com/mimipipi22/lalajo/raw/main/cnnindonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/El_Pa%C3%ADs_logo.svg",El Paisᴴᴰ 🇪🇸
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
-https://sck.pm/Ch2?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-name="3/24" tvg-id="324.es" group-title="News" tvg-logo="https://www.ccma.cat/_resources/logos/3cat_color.svg?v=1.2312.1",3/24 🇪🇸
+
+#EXTINF:-1 tvg-name="3/24" tvg-id="3 24" group-title="News" tvg-logo="https://www.ccma.cat/_resources/logos/3cat_color.svg?v=1.2312.1",3 24 🇪🇸
 https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="raiNews.it.pt" group-title="News" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RaiNews24.png",Rai News 24ᴴᴰ 🇮🇹🇺🇸
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiNews1/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="France24English.fr" group-title="News" tvg-logo="https://i.imgur.com/zY7VbFh.png",France 24ᴴᴰ 🇫🇷
+#EXTINF:-1 tvg-name="" tvg-id="France 24 FR (168).pt" group-title="News" tvg-logo="https://i.imgur.com/zY7VbFh.png",France 24ᴴᴰ 🇫🇷
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://metanav.tv5monde.com/img/logo-tv5monde.svg",Tv5 Monde Info 🇫🇷
+#EXTINF:-1 tvg-id="TV5 Monde (183).pt" tvg-name="" group-title="News" tvg-logo="https://metanav.tv5monde.com/img/logo-tv5monde.svg",Tv5 Monde Info 🇫🇷
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/launcher-120x120-2e45ada1.png",France Info 🇫🇷 ▶️
 https://ythls.armelin.one/video/Z-Nwo-ypKtM.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://www.washingtonpost.com/touch-icon-iphone.png",The Washington Postᴴᴰ 🇺🇸 🟤
-https://bit.ly/3O6LIwr?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="55b285cd2665de274553d66f" group-title="News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png",Sky Newsᴴᴰ 🇬🇧 🟤
+#EXTINF:-1 tvg-name="" tvg-id="Sky News (160).pt" group-title="News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png",Sky Newsᴴᴰ 🇬🇧 🟤
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-a.svg",Fox News Nowᴴᴰ 🇺🇸 🟤
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="bbcwd.it.pt" tvg-name="" group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0e/BBC_World_News_%282019-.n.v.%29.png/revision/latest?cb=20190715171938",BBC News 🇬🇧  🟤
+#EXTINF:-1 tvg-id="BBC World News (161).pt" tvg-name="" group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0e/BBC_World_News_%282019-.n.v.%29.png/revision/latest?cb=20190715171938",BBC News 🇬🇧  🟤
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh5r4JPD9VOR05vRRQWeuiIUpVDN2L5qdZyICr0lEE=s48-c-k-c0x00ffffff-no-rj",TRT Worldᴴᴰ 🇬🇧
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
@@ -1476,10 +1449,12 @@ https://rakuten-africaNews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://www.presstv.ir/custom/images/site/LOGO.gif",Press Tv 
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="NHKWorldJapan.jp" group-title="News" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png",NHK Worldᴴᴰ 🇬🇧
+#EXTINF:-1 tvg-name="" tvg-id="NHK WORLD TV (192).pt" group-title="News" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png",NHK Worldᴴᴰ 🇬🇧
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="AlJazeera.qa" group-title="News" tvg-logo="https://www.aljazeera.com/static/media/aj-footer-logo.bac952ad.svg",Al Jazeeraᴴᴰ 🇬🇧
+#EXTINF:-1 tvg-name="" tvg-id="Al Jazeera English (164).pt" group-title="News" tvg-logo="https://www.aljazeera.com/static/media/aj-footer-logo.bac952ad.svg",Al Jazeeraᴴᴰ 🇬🇧
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://www.washingtonpost.com/touch-icon-iphone.png",The Washington Postᴴᴰ 🇺🇸 🟤
+https://bit.ly/3O6LIwr?profile=inspirationFreetv.m3u8
 
 
 
@@ -1507,7 +1482,7 @@ https://bit.ly/BabyFirts?profile=inspirationFreetv.m3u8
 https://bit.ly/3ssv2Uy?profile=inspirationFreetv.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorksᴴᴰ 🇧🇷
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorks sᴅ 🇲🇽
+#EXTINF:-1 format="auto" tvg-id="Dreamworks" tvg-name="" group-title="Infantil" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorks sᴅ 🇲🇽
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/1920px-Loading_TV.svg.png",loadingtvᴴᴰ 🇧🇷 
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1499921038.m3u8
