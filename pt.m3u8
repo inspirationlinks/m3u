@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml" m3uautoload="1" refresh="24"
 
 
 
@@ -139,7 +139,7 @@ https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Lovewine.png",Love Wineᴴᴰ 🇺🇸 🟤
 https://bit.ly/486K5GO?profile=inspirationFreeTV.m3u8?ads.xumo_channelId=99951215
-#EXTINF:-1 tvg-name="" tvg-id="6144d088516ea8000739076a" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png",Fuel tvᴴᴰ 🇵🇹 🟤
+#EXTINF:-1 tvg-name="" tvg-id="Fuel TV HD (47).pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png",Fuel tvᴴᴰ 🇵🇹 🟤
 https://bit.ly/3vCaVZr?profile=inspirationFreeTV.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="Bike.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Bike_%28TV_channel%29_logo.png",Bikeᴴᴰ 🇮🇹
 https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
@@ -177,8 +177,20 @@ https://bit.ly/3Hpns4O?profile=inspirationFreeTV.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="ESPN.br" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPNᴴᴰ 🇧🇷 🟡
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
+#EXTINF:-1 tvg-id="ESPN.br" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPNᴴᴰ 🇧🇷 🟡
+https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 2ᴴᴰ 🇧🇷 🟡
+https://cdn-2.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 3ᴴᴰ 🇧🇷 🟡
+https://cdn-2.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 4ᴴᴰ 🇧🇷 🟡
+https://cdn-2.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 4 🇧🇷 🟡
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66
 #EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 4ᴴᴰ 🇧🇷 🟡
@@ -209,18 +221,6 @@ http://157.245.117.238:8000/play/a0ur/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/Ring.svg",Ring 🇧🇬
 http://79.124.21.250:9981/play/Ring/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Старт1" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport1Ukraine.png",Sport1 Baltic 🇺🇦
-http://78.26.128.59:9876/play/519/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Старт1" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport1Ukraine.png",Sport1 🇺🇦
-http://78.26.128.59:9876/play/516/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Старт2" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport2Ukraine.png",Sport2 🇺🇦
-http://78.26.128.59:9876/play/517/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Старт3" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sport3Ukraine.png",Sport3 🇺🇦
-http://78.26.128.59:9876/play/535/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Старт4" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sport4ukraine.png",Sport4 🇺🇦
-http://78.26.128.59:9876/play/518/index.m3u8
 
 
 #EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢
@@ -901,16 +901,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&sta
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="France" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TOULON VARᴴᴰ 🇫🇷
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="France" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25 🇫🇷
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="" group-title="France" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/NRJ_12_logo_2015.svg",NRJ12 🇫🇷
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="France" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+ en Clair 🇫🇷
-https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere 🇫🇷
-https://github.com/inspirationlinks/m3u/raw/live/Streams/PaPremiere.m3u8
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere 🇫🇷
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+
 #EXTINF:-1 tvg-id="Teva.fr" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Logo_T%C3%A9va_HD.svg",Téva 🇫🇷
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
 #EXTINF:-1 tvg-id="Teva.fr" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Logo_T%C3%A9va_HD.svg",Téva 🇫🇷
@@ -929,6 +920,20 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 http://144.217.72.24:80/6ter/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png",6ter 🇫🇷
 http://45.153.35.210:8000/play/FR_6ter_HD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="France" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25 🇫🇷
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="" group-title="France" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/NRJ_12_logo_2015.svg",NRJ12 🇫🇷
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="France" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+ en Clair 🇫🇷
+https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere 🇫🇷
+https://github.com/inspirationlinks/m3u/raw/live/Streams/PaPremiere.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere 🇫🇷
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+
+
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" group-title="France" tvg-logo="https://www.museumtv.art/wp-content/uploads/2021/09/cropped-apple-touch-icon-180x180.png",Museum TV 🇫🇷
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="France24English.fr" group-title="France" tvg-logo="https://i.imgur.com/zY7VbFh.png",France 24ᴴᴰ 🇫🇷
@@ -1710,14 +1715,6 @@ http://91.132.74.4:7374/play/a00k/index.m3u8
 http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
 
 
-#EXTINF:1 tvg-id="beINSports1Thailand.th" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png", beIN Sports 1ᴴᴰ 🇬🇧🇹🇭
-https://edge2.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:1 tvg-id="beINSports1Thailand.th" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png", beIN Sports 1ᴴᴰ 🇬🇧🇹🇭
-https://edge2.laotv.la/live/Bsport2/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 1ᴴᴰ 🇬🇧
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683139&extension=ts&play_token=Z0asmpTRTL
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 2ᴴᴰ 🇬🇧
@@ -1738,13 +1735,16 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1282760&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1283311&extension=ts
 
 
-
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png",ESPN 🇵🇪
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png",ESPN 3 🇵🇪
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN3_t2.stream/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png",ESPN 4 🇵🇪
 http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TUDN" group-title="Premium Sports" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽 
+http://45.228.234.77:4430/play/tudn/index.m3u8
 
 
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN sᴅ 🇲🇽
@@ -1817,6 +1817,18 @@ http://89.187.179.242:1626/canal+sport
 http://89.187.179.242:12183/canal+sport2
 #EXTINF:-1 format="auto" tvg-id="" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 5 🇵🇱ᴴᴰ
 http://89.187.179.242:1531/canal+sport5
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Старт1" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport1Ukraine.png",Sport1 Baltic 🇺🇦
+http://78.26.128.59:9876/play/519/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Старт1" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport1Ukraine.png",Sport1 🇺🇦
+http://78.26.128.59:9876/play/516/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Старт2" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport2Ukraine.png",Sport2 🇺🇦
+http://78.26.128.59:9876/play/517/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Старт3" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sport3Ukraine.png",Sport3 🇺🇦
+http://78.26.128.59:9876/play/535/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Старт4" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sport4ukraine.png",Sport4 🇺🇦
+http://78.26.128.59:9876/play/518/index.m3u8
 
 
 #EXTINF:-1 group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MUTV.png",MUTV 🇬🇧ᴴᴰ
@@ -1913,6 +1925,7 @@ http://203.154.243.88:899/Tennis?u=hh:p=hh@1234
 https://sport.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8$OPT:http-referrer=https://www.youdooball.com/
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Tennis" tvg-logo="http://sportcast.com.tw/images/logo.png",Bosi Tennis 🇨🇳 
 http://50.7.238.114:8278/bosiTennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+
 
 
 
