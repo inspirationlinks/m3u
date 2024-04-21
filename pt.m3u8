@@ -31,6 +31,9 @@ https://github.com/inspirationlinks/
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal" tvg-logo="https://is.gd/Jhr1ev",Learn English 🇬🇧  ▶️
+https://ythls.armelin.one/video/wpCs-6xU578.m3u8
+
 #EXTINF:-1 tvg-id="RTP.Internacional.pt" tvg-name="RTP Internacional" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹 ⚽️
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
@@ -90,6 +93,10 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal" tvg-logo="",SIC Testesᴴᴰ 🇵🇹
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+
 
 
 
@@ -212,28 +219,20 @@ http://globo.balance-test.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66
 http://150.136.62.38:8880/channel/3e93380b/index.m3u8
 
 
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
-http://bigline.club:8080/cobra-latino/BkDVQQpBRN/12248
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
-http://redima.pro:8880/VALLE1402/VALLE1402/570
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🟡
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/serviciovodflex/nxt-guide/raw/main/img/deportes/gol-tv.png",Goltv 🇪🇨 🟡
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154242
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
+http://redima.pro:8880/VALLE1402/VALLE1402/570
+#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/145
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🟡
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/34573
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
 https://nxt.plus:8443/live/olmos/1234guz/213160.ts
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/serviciovodflex/nxt-guide/raw/main/img/deportes/gol-tv.png",Goltv 🇪🇨 🟡
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/145
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
 http://143.255.35.223:8000/play/a01g
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 
 http://45.179.164.30:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
 http://45.179.140.242:8000/play/a0l8
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
-http://157.245.117.238:8000/play/a0ur/index.m3u8
 
 
 
@@ -249,10 +248,35 @@ http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=0e318668ba9b1d41dd3333
 http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=0e318668ba9b1d41dd3333
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Старт1" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport1Ukraine.png",Sport1 🇺🇦
-http://78.26.128.59:9876/play/516/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Старт2" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport2Ukraine.png",Sport2 🇺🇦
-http://78.26.128.59:9876/play/517/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 🇧🇦 🔵
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh1/premium453/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 🇧🇦 🟢
+https://webhdrus.onlinehdhls.ru/lb/premium453/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 1 🇧🇦 🔵
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy3/premium101/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 1 🇧🇦 🟢
+https://webhdrus.onlinehdhls.ru/lb/premium101/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 2 🇧🇦 🔵
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy3/premium102/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 2 🇧🇦 🟢
+https://webhdrus.onlinehdhls.ru/lb/premium102/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 3 🇧🇦 🔵
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh1/premium103/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 3 🇧🇦 🟢
+https://webhdrus.onlinehdhls.ru/lb/premium103/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 4 🇧🇦 🔵
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh1/premium104/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SportKlub 4 🇧🇦 🟢
+https://webhdrus.onlinehdhls.ru/lb/premium104/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Старт" group-title="Liga Bwin" tvg-logo="https://start.ru/static/images/favicon/apple-touch-icon.png",Старт 🇷🇺
@@ -260,15 +284,7 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC1 🇦🇪
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC1 🇦🇪
 http://103.121.60.170:8027/play/a002/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SK 2 🇧🇦
-http://57.128.140.155:8000/play/a005
-#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SK 3 🇧🇦
-http://57.128.140.155:8000/play/a006
 
 
 #EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢
@@ -1184,6 +1200,7 @@ https://bit.ly/GoTraveler?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/gousa.webp",GoUSAᴴᴰ 🇺🇸 🟤
 https://brandusa-gousa-1-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travelxp 🇺🇸 🟤
+http://176.65.146.170:8017/play/a07q/index.m3u8
 https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhqCnqNTdS0PrE_H0yC2ZQ9cibQr1-JD4Pg6mCVLQ=s88-c-k-c0x00ffffff-no-rj",Trips Marterᴴᴰ 🇺🇸 
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
@@ -2358,6 +2375,13 @@ https://bit.ly/3B1M54o?profile=inspirationFreetv.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="RocklandTV.de" group-title="Music" tvg-logo="https://i.imgur.com/6ve1FTN.png",Rockland TV 🇩🇪
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="",Best of The 80s 🇬🇧 🟤
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="",Best of The 90s 🇬🇧 🟤
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="",Best of The 00s 🇬🇧 🟤
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV00s.uk" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MTV%2000s.png",MTV 00s
 http://190.149.66.90:4000/play/a02k/index.m3u8
