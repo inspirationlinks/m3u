@@ -1,9 +1,17 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/italypremium.xml" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/italypremium.xml" m3uautoload="1" refresh="24"
 
 
 
 
-# - It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, etc...)
+# (🇬🇧) -  It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, etc...)
+
+
+# (🇵🇹) - Atenção que a lista IPTV (Inspiration Lins), estão configuradas para 2 Players específicos. Para (Android), OTTNAVIGATOR e para (Windows) SIMPLETV. Recomendamos usar as nossas listas nestes players. Porém, as listas estão configuradas para funcionar em qualquer player que suporte M3U, mas... Existe a hipótese de alguns canais não abrirem.
+
+
+# (🇬🇧) - Please note that the IPTV list (Inspiration Lins) is configured for 2 specific Players. For (Android), OTTNAVIGATOR, and for (Windows) SIMPLETV. We recommend using our lists on these players. However, the lists are configured to work on any player that supports M3U, but... There is a chance that some channels will not open.
+
+
 
 
 
@@ -202,7 +210,6 @@ http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66
 #EXTINF:-1 tvg-id="Fox Sports.br" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 4ᴴᴰ 🇧🇷 🟢
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium85/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/
-
 
 
 #EXTINF:-1 tvg-id="GolTVUSA.us" group-title="Liga Bwin" tvg-logo="https://github.com/serviciovodflex/nxt-guide/raw/main/img/deportes/gol-tv.png",Goltv 🇺🇸 🟡
