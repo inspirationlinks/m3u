@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/italypremium.xml,https://xmltv.tvkaista.net/guides/i.mjh.nz_pluto.xml,https://xmltv.tvkaista.net/guides/i.mjh.nz_samsung.xml" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/portugalpremium.xml.gz,https://www.bevy.be/bevyfiles/portugal.xml.gz,https://www.bevy.be/bevyfiles/brazil.xml.gz,https://www.bevy.be/bevyfiles/brazilpremium.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://www.bevy.be/bevyfiles/mexicopremium.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml.gz,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml.gz,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml.gz,https://www.bevy.be/bevyfiles/unitedkingdom.xml.gz,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml.gz,https://www.bevy.be/bevyfiles/francepremium.xml.gz,https://www.bevy.be/bevyfiles/france.xml.gz,https://www.bevy.be/bevyfiles/italypremium.xml.gz" m3uautoload="1" refresh="24"
 
 
 
@@ -160,6 +160,8 @@ https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
  
 
 
+#EXTINF:-1 tvg-id="Nautical Channel (46).pt" group-title="Portugal" tvg-logo="https://nauticalchannel.com/img/ico/LOGO%20nautical%20WHITE.svg",Nautical Channelᴴᴰ 🇺🇸 
+http://78.130.250.2:7023/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Lovewine.png",Love Wineᴴᴰ 🇺🇸 🟤
 https://bit.ly/486K5GO?profile=inspirationFreeTV.m3u8?ads.xumo_channelId=99951215
@@ -1865,6 +1867,8 @@ https://cloudvideo.servers10.com:8081/8184/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1 🇩🇪
+http://176.10.117.3:5000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1 🇩🇪
 http://84.200.70.178:41142/bysid/31200
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1ᴴᴰ 🇵🇱🇺🇸
 http://54.39.17.6:8080/eurosport/playlist.m3u8
@@ -2232,8 +2236,19 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2019/06/25234451/cropped-favicon-180x180.png",ONFM 🇵🇹
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png?2",Rádio Sines 🇵🇹
+https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://pa-str.srvsite.com/arquivos/7016/cabecalho-fundo-7016-20210812180723.png",NPC TV 🇵🇹
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w273627653.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fitdance.png",FlouCaribe Fit Dance 🇲🇽 🟤
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-lgau/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="MEZZO (112).pt" group-title="Musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Mezzo_Live_HD_%282023%29.svg",Mezzoᴴᴰ 
+http://78.130.250.2:7023/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300036R8_20221012T021059SQUARE.png_20221012021100.png",Vivaldiᴴᴰ 🟤
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Qwest.png",Qwest tvᴴᴰ 🟤
@@ -2257,12 +2272,7 @@ https://ythlsgo.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
 #EXTINF:-1 tvg-id="AfroLandTV.us" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Afrobeats.png",AfroLandTV
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://pa-str.srvsite.com/arquivos/7016/cabecalho-fundo-7016-20210812180723.png",NPC TV 🇵🇹
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w273627653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2019/06/25234451/cropped-favicon-180x180.png",ONFM 🇵🇹
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png?2",Rádio Sines 🇵🇹
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+
 #EXTINF:-1 tvg-id="SolMusica.es" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/solmusica.jpg",Sol Musica 🇪🇸 🟤
 https://bit.ly/47gjVkn?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" group-title="Music" tvg-logo="https://i.imgur.com/L38mC6H.png",California Music Channel 🇺🇸
