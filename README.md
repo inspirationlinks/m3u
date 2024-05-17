@@ -55,19 +55,19 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # 👍🏻 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv Recommended IPTV players
 
 
-## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
+## 🥇 Simpletv_ Simpletv_V12.8.14 x32 vlc3020 For Windows
 
 ![SIMPLETV](/Logos/banners/simpletv.png "SIMPLETV IPTV")
 
-[👉 🖧 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
+[👉 🖧 Download Simple tv](https://www.mediafire.com/file/qnjm91dlsdjwckl/simpleTV_InspirationFREE_B12.8.14_%2528x32_vlc3020%2529.7z/file)
 
-### ❗❗ INFO E VERSÃO DO SIMPLE TV: (v0.5.0 b12.8.12) 
+### ❗❗ INFO E VERSÃO DO SIMPLE TV: (v0.5.0 b12.8.14) 
 
-* <b>Lista M3U Inspiration live tv Incluída</b> (Atualização automática e manual ativadas)
+* <b>Lista M3U Inspiration FREETV Incluída</b> (Lista LiveTv só fazendo uma doaçao)
 
-* <b>TV SOURCES</b> (v3.81)
+* (Atualização automática e manual ativadas)
 
-* <b>Weather</b> (v0.34)
+* <b>TV SOURCES</b> (v3.86)
 
 * <b>Skins</b> (DarkMod - "modificada por ɪɴsᴘɪʀᴀᴛɪᴏɴ") 
 
@@ -75,7 +75,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 * <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [Idioma  automático de Legenda Predefinido] - (eng,prt,bra,esp,ita)
 
-* <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [EPG] - (Adicionado 2 fonte 🇵🇹 "by LITUATUI". Contem fontes de EPG de Pluto tv e SamsungTVPlus)
+* <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [EPG] - (Varias fontes de EPG adicionadas de varios Países (🇵🇹 🇧🇷 🇪🇸 🇫🇷 🇮🇹 🇲🇽 🇦🇷 🇺🇸 🇬🇧)
 
 * <b>Sistema Windows 32 bits</b> (funciona muito bem num sistema de 64 bits).
 
