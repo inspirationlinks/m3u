@@ -55,7 +55,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # 👍🏻 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv Recommended IPTV players
 
 
-## 🥇 Simpletv_ Simpletv_V12.8.14 x32 vlc3020 For Windows
+## 🥇 Simpletv V12.8.14 x32 vlc3020 For Windows
 
 ![SIMPLETV](/Logos/banners/simpletv.png "SIMPLETV IPTV")
 
