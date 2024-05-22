@@ -5,7 +5,6 @@
 
 🔗 https://ko-fi.com/R6R5SJ5L8
 
-
 ---
 
 ✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou POR transferência bancaria.
@@ -25,67 +24,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 🚩 Telegram
 
-🔗 https://t.me/inspirationfreetv/1
+🔗 https://t.me/inspirationfreetv/
 
-📣 (Existe Grupo Privado Inspiration Live Tv no Telegram. Mas se pretenderem entrar, comuniquem! É a única forma de terem acesso à Lista ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv!)
-
----
-
-# ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇ ᴛv 
-
-
- ➡︎ Update: 22-03-24 ⬅️ 
-
-
-
-🟢 Star Channelᴴᴰ 🇵🇹 [Portugal]
-
-🟢 Playboy TV [+18]
-
-🟢 Penthouse Gold [+18]
-
-🟢 Venus tv [+18]
-
-
-
- 
-📢 💬 Os canais, (Live Events Sports) só estão ON na hora da transmissão dos jogos. Transmitem varias ligas Incluindo a 🇵🇹
- 
-
-# ✅ CANAIS ADICIONADOS ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
-
-
- ➡︎ Update: 22-03-24 ⬅️ 
-
-
-
-🟢 Sport tv 1 4k 🇵🇹 [Portugal]
-
-🟢 24 Kitchenᴴᴰ 🇵🇹 [Portugal]
-
-🟢 Sic Kᴴᴰ 🇵🇹 [Portugal]
-
-🟢 Multishowᴴᴰ 🇧🇷 [Brasil]
-
-🟢 Star+ᴴᴰ 🇧🇷 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
-
-🟢 Sky Sports Arenaᴴᴰ 🇬🇧 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
-
-🟢 Movistar La Ligaᴴᴰ 🇪🇸 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
-
-🟢 Movistar #VAMOSᴴᴰ 🇪🇸 [Pʀᴇᴍɪuᴍ Sᴘoʀᴛs]
-
-🟢 Extreme Plus [+18]
-
-🟢 Penthouse Gold [+18]
-
-
-
-📢 💬 Reforço e substituição de fontes de canais estáveis! A revisão foi geral na lista Inspiration Live tv, principalmente os canais 🇵🇹 :D 
-
-
-
-ʙʏ Inspi[я]ation ʟɪnks ©
+📣 (Existe um Grupo Privado Inspiration Live Tv no Telegram. Se pretender entrar, comuniquem ao Admin!
 
 ---
 
@@ -112,12 +53,12 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>direto eventos desportivos</b>.
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>❗❔</b>. Significa que o canal em questão está a ser <b>testado</b> para saber a estabilidade ou se vale a pena te-lo na lista
-
 📌 Se encontrar à frente do nome do canal este símbolo <b>❌</b>. Significa que o canal está <b>indisponível</b> de momento.
 
 
 <b>📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)</b>
+
+ʙʏ Inspi[я]ation ʟɪnks ©
 
 ---
 
@@ -201,18 +142,5 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 ✨ Rᴀᴅɪos
 
 ✨ +18
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Inspi[я]ation ʟɪvᴇ ᴛv © 2024 All rights reserved
