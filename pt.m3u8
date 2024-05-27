@@ -40,14 +40,15 @@ https://github.com/inspirationlinks/
 
 
 
-#EXTINF:-1 tvg-id="RTPiAmerica.pt" tvg-name="RTP Internacional" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹 ⚽️
-http://37.17.238.214:8080/udp/239.77.4.11:5000
+
 #EXTINF:-1 tvg-id="RTP.Internacional.pt" tvg-name="RTP Internacional" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 tvg-id="RTP.Internacional.pt" tvg-name="RTP Internacional" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹
-https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w2004413245.m3u8
+https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlivetv.m3u8
+#EXTINF:-1 tvg-id="RTPiAmerica.pt" tvg-name="RTP Internacional" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹 ⚽️
+http://37.17.238.214:8080/udp/239.77.4.11:5000
 
 
 #EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP 1 HD (901).pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal",RTP 1ᴴᴰ 🇵🇹 
@@ -680,9 +681,6 @@ http://51.79.17.168:14613/tntnovelas
 #EXTINF:-1 tvg-name="TNT Novelas" tvg-id="TNTNOVELAS" group-title="Brazil" tvg-logo="http://i.imgur.com/wBvHWB7.png",TNT Novelasᴴᴰ 🇧🇷
 https://brflu.walk-tv.com/5836/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="FX.br" tvg-name="FX.br" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/FX.svg",FXᴴᴰ 🇧🇷
-http://199.127.60.83:16043/FX
 #EXTINF:-1 tvg-id="FX.br" tvg-name="FX.br" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX 🇧🇷
 https://brflu.walk-tv.com/5855/index.m3u8
 
@@ -1210,6 +1208,8 @@ http://iptv.prosto.tv:7000/ch206/video.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCeTVoczn9NOZA9blls3YgUg.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC Oneᴴᴰ 🇬🇧
 http://37.17.238.214:8080/udp/239.77.3.30:5000
 
@@ -1482,8 +1482,6 @@ http://62.129.183.89:9981/stream/channelid/140591709
 https://s14.tntendirect.com/france2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France 2.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1024px-France_2_2018.svg.png",France 2ᴴᴰ 🇫🇷
 http://37.17.238.214:8080/udp/239.77.1.4:5000
-#EXTINF:-1 tvg-id="France2.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png",France 2 🇫🇷
-http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id="France 2.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1024px-France_2_2018.svg.png",France 2ᴴᴰ 🇫🇷
 http://154.58.202.35:8003/play/a0d7/index.m3u8
 
@@ -1610,24 +1608,99 @@ https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="rai1.it.pt" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai1.png",Rai 1ᴴᴰ 🇮🇹
+#EXTINF:-1 tvg-id="Rai 1 HD.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai1.png",Rai 1ᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.19:5000
+#EXTINF:-1 tvg-id="Rai 1 HD.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai1.png",Rai 1ᴴᴰ 🇮🇹
 http://45.65.112.49:8000/play/a078
 #EXTINF:-1 tvg-id="rai1.it.pt" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai1.png",Rai 1ᴴᴰ 🇮🇹
 http://154.54.220.67:34780/play/a046
-#EXTINF:-1 tvg-id="rai2.it.pt" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai2.png",Rai 2ᴴᴰ 🇮🇹
-http://45.65.112.49:8000/play/a079
+
+
 #EXTINF:-1 tvg-id="rai2.it.pt" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai2.png",Rai 2ᴴᴰ 🇮🇹
 http://154.54.220.67:34780/play/a047
+#EXTINF:-1 tvg-id="Rai 2 HD.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai2.png",Rai 2ᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.4:5000
+#EXTINF:-1 tvg-id="Rai 2 HD.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai2.png",Rai 2ᴴᴰ 🇮🇹
+http://45.65.112.49:8000/play/a079
+
+
+#EXTINF:-1 tvg-id="Rai 3 HD.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3.png",Rai 3ᴴᴰ 🇮🇹
+http://45.65.112.49:8000/play/a07a
+#EXTINF:-1 tvg-id="Rai 3 HD.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3.png",Rai 3ᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.5:5000
 #EXTINF:-1 tvg-id="rai3.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3.png",Rai 3ᴴᴰ 🇮🇹
 http://154.54.220.67:34780/play/a048
 #EXTINF:-1 tvg-id="rai3.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3.png",Rai 3ᴴᴰ 🇮🇹
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="rai3.it" tvg-id="" tvg-name="" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3.webp",Rai 3ᴴᴰ 🇮🇹
 https://bit.ly/3OyVjNs?profile=inspirationFreetv.m3u8
+
+
+#EXTINF:-1 tvg-id="Rai 4.it" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai4.png",Rai 4ᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.6:5000
 #EXTINF:-1 tvg-id="rai4.it.pt" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai4png",Rai 4ᴴᴰ 🇮🇹
 http://45.65.112.49:8000/play/a07b
 #EXTINF:-1 tvg-id="rai4.it.pt" group-title="Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai4png",Rai 4ᴴᴰ 🇮🇹
 http://154.54.220.67:34780/play/a04n
+
+#EXTINF:-1 tvg-id="Rai 5.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rai_5_-_Logo_2017.svg",Rai 5ᴴᴰ 🇮🇹
+http://45.65.112.49:8000/play/a0mb
+
+#EXTINF:-1 tvg-id="Rai Italia.pt" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",RAI Italiaᴴᴰ 🇮🇹
+http://168.197.196.98:9981/stream/channelid/126505530?profile=pass
+#EXTINF:-1 tvg-id="Rai Italia.pt" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",RAI Italia Asiaᴴᴰ 🇮🇹
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Rai Movie.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Rai_Movie_-_Logo_2017.svg",Rai Movieᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.36:5000
+#EXTINF:-1 tvg-id="Rai Movie.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Rai_Movie_-_Logo_2017.svg",Rai Movieᴴᴰ 🇮🇹
+http://45.65.112.49:8000/play/a07c
+
+
+#EXTINF:-1 tvg-id="Rai Premium.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Rai_Premium_Logo_%282010%29.svg",Rai Premiumᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.33:5000
+#EXTINF:-1 tvg-id="Rai Premium.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Rai_Premium_Logo_%282010%29.svg",Rai Premiumᴴᴰ 🇮🇹
+http://45.65.112.49:8000/play/a0m6
+
+
+#EXTINF:-1 tvg-id="Italia 1 HD.it" group-title="Italia" tvg-logo="https://api.tv.init7.net/media/logos/Italia_1.png",Italia 1ᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.20:5000
+
+
+#EXTINF:-1 tvg-id="Rete 4 HD.it" group-title="Italia" tvg-logo="https://api.tv.init7.net/media/logos/Rete4.png",Rete4ᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.7:5000
+
+
+#EXTINF:-1 tvg-id="Canale 5 HD.it" group-title="Italia" tvg-logo="https://api.tv.init7.net/media/logos/Canale5.png",Canale5ᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.22:5000
+
+
+#EXTINF:-1 tvg-id="LA7 HD.it" group-title="Italia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/LA7_-_Logo_2011.svg",La7ᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/233.50.230.128:5000
+#EXTINF:-1 tvg-id="LA7 HD.it" group-title="Italia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/LA7_-_Logo_2011.svg",La7ᴴᴰ 🇮🇹
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-id="LA7D.it" group-title="Italia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/La7d.png",La7dᴴᴰ 🇮🇹
+http://45.65.112.49:8000/play/a0n1
+#EXTINF:-1 tvg-id="LA7D.it" group-title="Italia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/La7d.png",La7dᴴᴰ 🇮🇹
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+
+#EXTINF:-1 tvg-id="Iris HD.it" group-title="Italia" tvg-logo="https://api.tv.init7.net/media/logos/IRIS.png",IRISᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.14:5000
+
+
+#EXTINF:-1 tvg-id="Real Time HD.it" group-title="Italia" tvg-logo="https://api.tv.init7.net/media/logos/Realtime.png",Real Timeᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.63:5000
+
+
+#EXTINF:-1 tvg-id="RAI Sport.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Rai_Sport_-_Logo_2017.svg",Rai Sportᴴᴰ 🇮🇹
+http://37.17.238.214:8080/udp/239.77.2.10:5000
+#EXTINF:-1 tvg-id="RAI Sport.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Rai_Sport_-_Logo_2017.svg",Rai Sportᴴᴰ 🇮🇹
+http://45.65.112.49:8000/play/a0ma
+
+
 #EXTINF:-1 tvg-id="rai5.it.pt" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rai_5_-_Logo_2017.svg",Rai 5ᴴᴰ 🇮🇹
 http://45.65.112.49:8000/play/a0mb
 #EXTINF:-1 tvg-id="Rai Italia.pt" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",RAI Italia Asiaᴴᴰ 🇮🇹
@@ -1941,7 +2014,8 @@ https://github.com/mimipipi22/lalajo/raw/main/cnnindonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/El_Pa%C3%ADs_logo.svg",El Paisᴴᴰ 🇪🇸
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
 
-
+#EXTINF:-1 group-title="News" tvg-id="Sky TG24.it" tvg-logo="https://static.sky.it/images/skytg24/configurations/logos/tg24-512x512.png",Sky TG24
+https://livestream.zazerconer.workers.dev/channel/UCz6E3lF72mb6uoJ-mOlNo2A.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="raiNews.it.pt" group-title="News" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RaiNews24.png",Rai News 24ᴴᴰ 🇮🇹🇺🇸
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiNews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="France 24 FR (168).pt" group-title="News" tvg-logo="https://i.imgur.com/zY7VbFh.png",France 24ᴴᴰ 🇫🇷
@@ -2008,43 +2082,111 @@ https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 
 
 
-#EXTINF:-1 tvg-id="FISHTV" group-title="Sport Hunting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg",Fish tv 🇧🇷
+#EXTINF:-1 tvg-id="FISHTV" group-title="Caça & Pesca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg",Fish tv 🇧🇷
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport Hunting" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png",Italian Fishing TV 🇮🇹 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Caça & Pesca" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png",Italian Fishing TV 🇮🇹 🟤
 https://itftv-italianfishingtv-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="20240402T134311SQUARE" tvg-name="" group-title="Sport Hunting" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20240402T134311SQUARE.png",Italian Fishing TV 🇮🇹 🟤
+#EXTINF:-1 tvg-id="20240402T134311SQUARE" tvg-name="" group-title="Caça & Pesca" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20240402T134311SQUARE.png",Italian Fishing TV 🇮🇹 🟤
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sport Hunting" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png",Italian Fishing TV 🇮🇹 
+#EXTINF:-1 tvg-id="" group-title="Caça & Pesca" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png",Italian Fishing TV 🇮🇹 
 http://45.65.112.49:8000/play/a0nq
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-name="" group-title="Sport Hunting" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png",Fishing 🇺🇸 🟤
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-name="" group-title="Caça & Pesca" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png",Fishing 🇺🇸 🟤
 https://bit.ly/Fishing_inspiration_m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport Hunting" tvg-logo="https://assets.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png.webp",Wired2Fish 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Caça & Pesca" tvg-logo="https://assets.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png.webp",Wired2Fish 🇺🇸 🟤
 https://bit.ly/3SzxVBt?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport Hunting" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DarcizzleFishing.png",Darcizzle Offshore Fishingᴴᴰ 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Caça & Pesca" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DarcizzleFishing.png",Darcizzle Offshore Fishingᴴᴰ 🇺🇸
 https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport Hunting" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Caça & Pesca" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America 🇺🇸 🟤
 https://bit.ly/48Wx5ny?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport Hunting" tvg-logo="https://assets.maz.tv/katm23ekcyc7mul347hb5gg3iib4.png",PursuitUp 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Caça & Pesca" tvg-logo="https://assets.maz.tv/katm23ekcyc7mul347hb5gg3iib4.png",PursuitUp 🇺🇸 🟤
 https://bit.ly/47BQfOP?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sport Hunting" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",Waypoint TVᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" group-title="Caça & Pesca" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",Waypoint TVᴴᴰ 🇺🇸 🟤
 https://live-News-manifest.tubi.video/live-News-manifest/csm/extlive/tubiprd01,Waypoint.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport Hunting" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HuntChannel.png",Hunt Channel 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Caça & Pesca" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HuntChannel.png",Hunt Channel 🇺🇸
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?wowzasessionid=inspiration
 
 
 
 
- 🔰   🇧🇷🇪🇸🇫🇷🇺🇸🇦🇷🇲🇽 Word Sports   🔰 
+
+
+
+ 🔰  Sports 🇧🇷  🔰
+ 
 
 
 
 
-#EXTINF:-1 tvg-id="BandSports.br" group-title="Word Sports" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
-http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+
+
 #EXTINF:-1 tvg-id="BandSports.br" group-title="Word Sports" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
 https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" group-title="Word Sports" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1ᴴᴰ 🇧🇷 
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1ᴴᴰ 🇧🇷 🟡
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31169
+
+
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png",Sportv 2ᴴᴰ 🇧🇷
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png",Sportv 2ᴴᴰ 🇧🇷 🟡
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/16751
+
+
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-3-br-hd.png",Sportv 3ᴴᴰ 🇧🇷 🥊
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-3-br-hd.png",Sportv 3ᴴᴰ 🇧🇷 🥊🟡
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31166
+
+
+
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere Clubesᴴᴰ 🇧🇷 🟡
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere Clubesᴴᴰ 🇧🇷 🟡
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31529
+
+
+#EXTINF:-1 tvg-id="PREMIERE2" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 2ᴴᴰ 🇧🇷 
+https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PREMIERE2" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 2ᴴᴰ 🇧🇷 🟡
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31529
+
+
+#EXTINF:-1 tvg-id="PREMIERE3" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 3ᴴᴰ 🇧🇷 
+https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE4" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 4ᴴᴰ 🇧🇷 
+https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PREMIERE4" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 4ᴴᴰ 🇧🇷 🟡
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31537
+
+
+#EXTINF:-1 tvg-id="PREMIERE5" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 5ᴴᴰ 🇧🇷 
+https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="PREMIERE6" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 6ᴴᴰ 🇧🇷 🟡
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
+#EXTINF:-1 tvg-id="PREMIERE6" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 6ᴴᴰ 🇧🇷 
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+ 🔰   Word Sports 🇧🇷🇪🇸🇫🇷🇺🇸🇦🇷🇲🇽  🔰 
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipeᴴᴰ 🇫🇷
@@ -2055,6 +2197,9 @@ https://s14.tntendirect.com/lequipe21/live/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 2 🇫🇷ᴴᴰ 🟤
 https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
+
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="" group-title="Word Sports" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",Sport en Franceᴴᴰ 🇫🇷 
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 
 
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg",Sky Sports La ligaᴴᴰ 🇪🇸🇩🇪 
@@ -2087,7 +2232,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-id="Teledeporte" group-title="Word Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",tdp 🇪🇸ᴴᴰ 🟤
 https://bit.ly/49obbKU?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://play-lh.googleusercontent.com/cpWdFlXAmAfzx6XC7m3BPJ4g-5epEcJvAQqKzQsG1gCBYoVZgMbdKyV7Srv4RnIwRQ=w240-h480-rw",Futsalmafer.tvᴴᴰ 🇪🇸 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://play-lh.googleusercontent.com/cpWdFlXAmAfzx6XC7m3BPJ4g-5epEcJvAQqKzQsG1gCBYoVZgMbdKyV7Srv4RnIwRQ=w240-h480-rw",Futsalmafer.tvᴴᴰ 🇪🇸 🟤
 https://cloudvideo.servers10.com:8081/8184/index.m3u8
 
 
@@ -2096,12 +2241,22 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/25338
 #EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽 🟡
 https://nxt.plus:8443/live/olmos/1234guz/3283.ts
 
+#EXTINF:-1 tvg-id="20240319T021844SQUARE" group-title="Word Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",Zona TUDN 🇲🇽 🟤
+https://linear-357.frequency.stream/dist/vidaa/357/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sportsᴴᴰ 🇦🇷
+http://168.197.196.98:9981/stream/channelid/191278502?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sportsᴴᴰ 🇦🇷
+http://177.234.230.226:8010/play/a01m/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/ZiggoSport.svg",Ziggo Voetbal 🇳🇱
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1282763&extension=ts
-
 #EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/ZiggoSport.svg",Ziggo Voetbal 🇳🇱
 http://78.130.250.2:8023/play/a00f/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/ZiggoSport.svg",Ziggo Select 🇳🇱
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1282764&extension=ts
@@ -2179,8 +2334,6 @@ http://84.200.70.178:41142/bysid/31200
 http://54.39.17.6:8080/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1ᴴᴰ 🇵🇱🇺🇸
 http://89.187.179.242:1634
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1ᴴᴰ 🇵🇱🇺🇸
-https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1ᴴᴰ 🇪🇸 
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1ᴴᴰ 🇩🇪
@@ -2202,11 +2355,6 @@ https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Word Sports" tvg-logo="https://api.tv.init7.net/media/logos/Sport1_HD_wZS3gwG.png",Sport1ᴴᴰ 🇩🇪
 http://37.17.238.214:8080/udp/239.77.0.193:5000
-#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="" group-title="France" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",Sport en Franceᴴᴰ 🇫🇷 
-https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
-
-#EXTINF:-1 tvg-id="20240319T021844SQUARE" group-title="Word Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",Zona TUDN 🇲🇽 🟤
-https://linear-357.frequency.stream/dist/vidaa/357/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Word Sports" tvg-id="js1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png",J SPORTS 1 🇯🇵
