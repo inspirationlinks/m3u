@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/generate/Q2b03TZ2Nq.xml.gz" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/generate/Q2b03TZ2Nq.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" m3uautoload="1" refresh="24"
 
 
 
@@ -21,10 +21,10 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/banners/Inspirationlogo.png",t.me/inspirationfreetv/1 
-https://jerrymoz.wordpress.com
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/banners/Inspirationlogo.png",t.me/inspirationfreetv
+https://t.me/inspirationfreetv/
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Informação" tvg-logo="https://storage.ko-fi.com/cdn/kofi2.png",☕💰 ko-fi.com/inspirationlinks
-http://devimages.apple.com/
+https://ko-fi.com/inspirationlinks
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Informação" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/QR_Blog.png",™ BLOG jerrymoz.wordpress.com
 https://jerrymoz.wordpress.com/
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Informação" tvg-logo="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png",™ GITHUB github.com/inspirationlinks
@@ -34,52 +34,61 @@ https://github.com/inspirationlinks/
 
 
 
-🔰 🇵🇹 ᴘᴀcᴏᴛe cᴀɴᴀis 🇵🇹 🔰
+ 🔰  🇵🇹 ᴘᴀcᴏᴛe cᴀɴᴀis 🇵🇹 🔰
 
 
 
 
 
-
-#EXTINF:-1 tvg-id="RTP.Internacional.pt" tvg-name="RTP Internacional" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional" group-title="Portugal 🇵🇹" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
-#EXTINF:-1 tvg-id="RTP.Internacional.pt" tvg-name="RTP Internacional" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹
+#EXTINF:-1 tvg-id="RTPiAmerica.pt" tvg-name="RTP Internacional" group-title="Portugal 🇵🇹" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional America ѕᴅ 🇵🇹 ⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+#EXTVLCOPT:http-referrer=video02.logicahost.com.br
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlivetv.m3u8
-#EXTINF:-1 tvg-id="RTPiAmerica.pt" tvg-name="RTP Internacional" group-title="Portugal" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional ѕᴅ 🇵🇹 ⚽️
-http://37.17.238.214:8080/udp/239.77.4.11:5000
 
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP 1 HD (901).pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal",RTP 1ᴴᴰ 🇵🇹 
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP 1 HD (901).pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1ᴴᴰ 🇵🇹 
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP 2 HD (2).pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Portugal",RTP 2ᴴᴰ 🇵🇹 
+
+
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP 2 HD (2).pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Portugal 🇵🇹",RTP 2ᴴᴰ 🇵🇹 
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP 3 HD (6).pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="Portugal",RTP 3ᴴᴰ 🇵🇹
+
+
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP 3 HD (6).pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="Portugal 🇵🇹",RTP 3ᴴᴰ 🇵🇹
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP Memoria (17).pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-memoria-pt.png" group-title="Portugal",RTP Memoria ѕᴅ 🇵🇹 
+
+
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP Memoria (17).pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-memoria-pt.png" group-title="Portugal 🇵🇹",RTP Memoria ѕᴅ 🇵🇹 
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP Açores HD (175).pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-title="Portugal",RTP Açoresᴴᴰ 🇵🇹 
+
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="RTP Açores HD (175).pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-acores-pt.png" group-title="Portugal 🇵🇹",RTP Açoresᴴᴰ 🇵🇹 
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="RTP Madeira HD (174).pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-madeira-pt.png" group-title="Portugal",RTP Madeira ѕᴅ 🇵🇹 
+
+#EXTINF:-1 tvg-name="" tvg-id="RTP Madeira.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-madeira-pt.png" group-title="Portugal 🇵🇹",RTP Madeira ѕᴅ 🇵🇹 
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
-#EXTINF:-1 tvg-name="RTP Africa" tvg-id="RTP Africa (177).pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-africa-pt.png" group-title="Portugal",RTP África ѕᴅ 🇵🇹
+
+#EXTINF:-1 tvg-name="RTP Africa" tvg-id="RTP África.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-africa-pt.png" group-title="Portugal 🇵🇹",RTP África ѕᴅ 🇵🇹
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="ARTV.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ARTV.png",ARTVᴴᴰ 🇵🇹 
+
+#EXTINF:-1 tvg-name="" tvg-id="Canal Parlamento (154).pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ARTV.png",ARTVᴴᴰ 🇵🇹 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
@@ -91,31 +100,33 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="SIC" tvg-id="SIC HD (3).pt" group-title="Portugal" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",SIC ᴴᴰ 🇵🇹 
+
+#EXTINF:-1 tvg-name="SIC" tvg-id="SIC HD (3).pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",SIC ᶠᴴᴰ 🇵🇹
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-name="SIC" tvg-id="SIC HD (3).pt" group-title="Portugal" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",SIC ᶠᴴᴰ 🇵🇹
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-name="SIC" tvg-id="SIC HD (3).pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",SICᶠᴴᴰ 🇵🇹 
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="SIC Notícias HD (5).pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias ᶠᴴᴰ 🇵🇹 (Geoblocked)
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="SIC Notícias HD (5).pt" group-title="Portugal 🇵🇹" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias ᶠᴴᴰ 🇵🇹 (Geoblocked)
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="SIC Notícias HD (5).pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticiasᴴᴰ 🇵🇹 (Geoblocked)
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_3.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="SIC Notícias HD (5).pt" group-title="Portugal 🇵🇹" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias ᶠᴴᴰ 🇵🇹 (Geoblocked)
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
 
 
-#EXTINF:-1 tvg-id="SICReplay.pt" tvg-name="SIC Replay" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICReplay.png",SIC Replayᴴᴰ 🇵🇹
+
+
+
+#EXTINF:-1 tvg-id="SICReplay.pt" tvg-name="SIC Replay" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICReplay.png",SIC Replayᴴᴰ 🇵🇹
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC Alta Definição" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICAltaDefinicao.png",SIC Alta Definiçãoᴴᴰ 🇵🇹
+#EXTINF:-1 tvg-id="SIC Alta Definição" tvg-name="SIC Alta Definição" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICAltaDefinicao.png",SIC Alta Definiçãoᴴᴰ 🇵🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 tvg-name="SIC Novelas" tvg-id="SICNovelas.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelas ᶠᴴᴰ 🇵🇹
+#EXTINF:-1 tvg-name="SIC Novelas" tvg-id="SICNovelas.pt" group-title="Portugal 🇵🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelas ᶠᴴᴰ 🇵🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal" tvg-logo="",SIC Testesᴴᴰ 🇵🇹
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
 
 
@@ -124,20 +135,26 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 
 
 
-#EXTINF:-1 tvg-name="TVI Internacional" tvg-id="TVI.Internacional.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional ᶠᴴᴰ 🇵🇹
+
+#EXTINF:-1 tvg-name="TVI Internacional" tvg-id="TVIInternacional.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional ᶠᴴᴰ 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="TVI HD (4).pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi.png",TVI ᴴᴰ 🇵🇹
+
+
+#EXTINF:-1 tvg-name="" tvg-id="TVI HD (4).pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi.png",TVIᴴᴰ 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="CNN Portugal" tvg-id="CNN Portugal HD (7).pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CNNPortugal.png",CNN Portugal ᴴᴰ 🇵🇹 
-https://bit.ly/41Pufgt?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="CNN Portugal" tvg-id="CNN Portugal HD (7).pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CNNPortugal.png",CNN Portugal ᴴᴰ 🇵🇹 
+
+
+#EXTINF:-1 tvg-chno="" tvg-name="CNN Portugal" tvg-id="CNN Portugal HD (7).pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CNNPortugal.png",CNN Portugalᴴᴰ 🇵🇹 
+https://bit.ly/41Pufgt?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="CNN Portugal" tvg-id="CNN Portugal HD (7).pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CNNPortugal.png",CNN Portugalᴴᴰ 🇵🇹 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="TVIFiccao.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI Ficção ᴴᴰ 🇵🇹 
-https://bit.ly/3gejKxf?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-name="RTP África" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África ѕᴅ 🇵🇹
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+
+#EXTINF:-1 tvg-name="" tvg-id="TVI Ficção (12).pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI Ficçãoᴴᴰ 🇵🇹 
+https://bit.ly/3gejKxf?profile=inspirationlivetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África ѕᴅ 🇵🇹
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="TVI Reality (131).pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviReality.png",TVI Realityᴴᴰ 🇵🇹
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="655f30c19d5ac4000816e9b3"  tvg-name="" tvg-id="" group-title="Portugal" tvg-logo="https://images.pluto.tv/channels/655f30c19d5ac4000816e9b3/colorLogoPNG.png",Big Brotherᴴᴰ 🇨🇦 🟤
@@ -151,7 +168,7 @@ https://d3c70waf14qui9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="" tvg-id="PORTOC HD (13).pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canal ᴴᴰ 🇵🇹 
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="EuronewsPortuguese.fr" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/EuroNews.png",Euronewsᴴᴰ 🇵🇹 🟤
+#EXTINF:-1 tvg-name="" tvg-id="Euronews (157).pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/EuroNews.png",Euronewsᴴᴰ 🇵🇹 🟤
 https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Famatv.png",FamaTVᴴᴰ
@@ -167,7 +184,7 @@ https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Fuel TV HD (47).pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png",Fuel tvᴴᴰ 🇵🇹 🟤
 https://bit.ly/3vCaVZr?profile=inspirationFreeTV.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="Bike.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Bike_%28TV_channel%29_logo.png",Bikeᴴᴰ 🇮🇹
+#EXTINF:-1 group-title="Portugal" tvg-id="BIKE.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Bike_%28TV_channel%29_logo.png",Bikeᴴᴰ 🇮🇹
 https://65f5123e69e3b.streamlock.net/bikechannel/ngrp:bikechannel_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Nautical Channel (46).pt" group-title="Portugal" tvg-logo="https://nauticalchannel.com/img/ico/LOGO%20nautical%20WHITE.svg",Nautical Channelᴴᴰ 🇺🇸 
 http://78.130.250.2:7023/play/a02x/index.m3u8
@@ -225,38 +242,23 @@ https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 http://tkosportz.live:25461/swilder2023/6063815781/99361
 #EXTINF:-1 tvg-id="GolTVUSA.us" group-title="Liga Bwin" tvg-logo="https://github.com/serviciovodflex/nxt-guide/raw/main/img/deportes/gol-tv.png",Goltv 🇺🇸 🟡
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:A5:EE:CF&stream=91896&extension=ts
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇺🇾
+#EXTINF:-1 tvg-id="GOL TV HD.pe" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇺🇾
 http://143.255.35.223:8000/play/a01g
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇺🇾
+#EXTINF:-1 tvg-id="GOL TV HD.pe" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇺🇾
 http://45.179.164.30:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
+#EXTINF:-1 tvg-id="GOL TV HD.pe" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
 http://redima.pro:8880/VALLE1402/VALLE1402/570
-#EXTINF:-1 group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
+#EXTINF:-1 tvg-id="GOL TV HD.pe" group-title="Liga Bwin" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
 https://nxt.plus:8443/live/olmos/1234guz/213160.ts
 
 
-
-#EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",Spor Klub 1 🇧🇦
-http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/2069
-
-#EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",Spor Klub 2 🇧🇦
-http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/2070
-
-#EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",Spor Klub 3 🇧🇦
-http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/2071
-
-#EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",Spor Klub 4 🇧🇦
-http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/2151
-
-#EXTINF:-1 tvg-id=" group-title="Liga Bwin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",Spor Klub 5 🇧🇦
-http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/2173
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Старт" group-title="Liga Bwin" tvg-logo="https://start.ru/static/images/favicon/apple-touch-icon.png",Старт 🇷🇺
 https://strm.yandex.ru/kal/start/start0.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Liga Bwin" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 2 🇵🇱
+#EXTINF:-1 tvg-id="Eleven Sports 2 HD.pl" group-title="Liga Bwin" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 2 🇵🇱
 http://cdnx1.plusx.tv:8880/270/mono.m3u8?token=0e318668ba9b1d41dd3333
 
 
@@ -310,7 +312,7 @@ https://srv3.zcast.com.br/universo3/universo3/chunklist_w1940630211.m3u8
 https://bit.ly/3qY2y4m?profile=inspirationFreetv.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg",Clan 🇪🇸 🟤
+#EXTINF:-1 tvg-id="Clan TVE" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg",Clan 🇪🇸 🟤
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg",Adult Swim 🇧🇷
@@ -900,117 +902,130 @@ https://bit.ly/masterchefBR?profile=inspirationFreetv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png",Trailersᴴᴰ 🇪🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png",Trailersᴴᴰ 🇪🇸 🟤
 https://bit.ly/3WChqoj?/chunklist_b1290000_slpt.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/AXN.png",AXNᴴᴰ 🇪🇸
-http://170.254.18.106/AXN/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="AMC" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png", AMCᴴᴰ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="Atreseries" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Atreseries.png",A3Seriesᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="Warner TV" group-title="Espanha 🇪🇸" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png",Warner Tvᴴᴰ 🇪🇸
+http://168.197.196.98:9981/stream/channelid/757968981?profile=pass
+
+
+#EXTINF:-1 tvg-name="" tvg-id="Atreseries.es" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Atreseries.png",AtreSeries Internacionalᴴᴰ 🇪🇸
+http://191.97.58.41:8001/play/a00l
+#EXTINF:-1 tvg-name="" tvg-id="Atreseries" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Atreseries.png",AtreSeriesᴴᴰ 🇪🇸
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Multicineᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Multicineᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Clasicosᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Clasicosᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Comediaᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Comediaᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Mentes Inquietasᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Mentes Inquietasᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Equipo Investigacionᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Equipo Investigacionᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Star TVE" tvg-name="Star TVE" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star tveᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="Star TVE" tvg-name="Star TVE" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star tveᴴᴰ 🇪🇸
 http://168.181.122.234:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",tve Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",tve Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸 🟤
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸 🟤
-https://bit.ly/48Xf5t6?profile=freetv.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1 Catalunyaᴴᴰ 🇪🇸
-https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸 🟤
-https://bit.ly/3u1GriR?profile=freetv.m3u8
 
-#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h 🇪🇸 🟤
+
+#EXTINF:-1 tvg-id="TVE Internacional (182).pt" tvg-name="TVE" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",tve Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸 🟤
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸 🟤
+https://bit.ly/48Xf5t6?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1 Catalunyaᴴᴰ 🇪🇸
+https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
+
+
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸 🟤
+https://bit.ly/3u1GriR?profile=inspirationlivetv.m3u8
+
+
+#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h 🇪🇸 🟤
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
-#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h 🇪🇸
+#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h Canarias 🇪🇸
+#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h Canarias 🇪🇸
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h Catalunya 
+#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h Catalunya 
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
-#EXTINF:-1 tvg-id="TV3 Cat" tvg-name="" group-title="Espanha" tvg-logo="https://statics.ccma.cat/img/logos/tvi_colorBgNegre.svg",TV3CATᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="TV3 Cat" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://statics.ccma.cat/img/logos/tvi_colorBgNegre.svg",TV3CATᴴᴰ 🇪🇸
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-name="3/24" tvg-id="3 24" group-title="Espanha" tvg-logo="https://www.ccma.cat/_resources/logos/3cat_color.svg?v=1.2312.1",3/24 🇪🇸
+#EXTINF:-1 tvg-name="3/24" tvg-id="3 24" group-title="Espanha 🇪🇸" tvg-logo="https://www.ccma.cat/_resources/logos/3cat_color.svg?v=1.2312.1",3 24 🇪🇸
 https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-name="Antena3Internacional" tvg-id="Antena 3" group-title="Espanha 🇪🇸" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 Internacional ᴴᴰ 🇪🇸
+http://magmas5.com:8000/live/VictorRey/2DM9UKZTHW/2786.ts
+#EXTINF:-1 tvg-name="Antena3.es" tvg-id="Antena3.es" group-title="Espanha 🇪🇸" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 Internacional ᴴᴰ 🇪🇸
+http://177.234.230.226:8010/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-name="LaSexta" tvg-id="La Sexta" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Sexta.png",La Sextaᴴᴰ 🇪🇸
-https://bit.ly/3NbhtVf?profile=freetv.m3u8
-#EXTINF:-1 tvg-name="Energy" tvg-id="Energy" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg",Energyᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00l
+#EXTINF:-1 tvg-name="Telecinco" tvg-id="Telecinco" group-title="Espanha 🇪🇸" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecincoᴴᴰ 🇪🇸 🟡
+http://77.228.160.100:61800/play/a00k
+#EXTINF:-1 tvg-name="LaSexta" tvg-id="La Sexta" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Sexta.png",La Sextaᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00b
+#EXTINF:-1 tvg-name="Energy" tvg-id="Energy" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg",Energyᴴᴰ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-name="fdf" tvg-id="FDF" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdfᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría de Ficción" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdfᴴᴰ 🇪🇸
 http://77.228.160.100:61800/play/a00i
-#EXTINF:-1 tvg-name="Neox" tvg-id="Neox" group-title="Espanha" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neoxᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-name="Neox" tvg-id="Neox" group-title="Espanha 🇪🇸" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neoxᴴᴰ 🇪🇸
 http://77.228.160.100:61800/play/a00c
-#EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS" group-title="Espanha" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",DKissᴴᴰ 🇪🇸
-https://bit.ly/3WDi0Cc?profile=freetv.m3u8
-#EXTINF:-1 tvg-name="Divinity" tvg-id="Divinity" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png",Divinityᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS" group-title="Espanha 🇪🇸" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",DKissᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00z
+#EXTINF:-1 tvg-name="Divinity" tvg-id="Divinity" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png",Divinityᴴᴰ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX" group-title="Espanha" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAXᴴᴰ 🇪🇸
-https://bit.ly/42cQ7Ch?profile=freetv.m3u8
-#EXTINF:-1 tvg-name="Nova" tvg-id="Nova" group-title="Espanha" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Novaᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX" group-title="Espanha 🇪🇸" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAXᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00g
+#EXTINF:-1 tvg-name="Nova" tvg-id="Nova" group-title="Espanha 🇪🇸" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Novaᴴᴰ 🇪🇸
 http://77.228.160.100:61800/play/a00d
-#EXTINF:-1 tvg-name="Mega" tvg-id="Mega" group-title="Espanha" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Megaᴴᴰ 🇪🇸
-http://live.sethtv.xyz:8080/falequepachelu/ioD4zVePjS/81
-#EXTINF:-1 tvg-name="BE MAD" tvg-id="BE MAD" group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png",Bmadᴴᴰ 🇪🇸
-https://bit.ly/3N0q2Sx?profile=freetv.m3u8
+#EXTINF:-1 tvg-name="Mega" tvg-id="Mega" group-title="Espanha 🇪🇸" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Megaᴴᴰ 🇪🇸
+http://5.188.182.226:8080/nacho/jkkmS8WhMMLN/45
+#EXTINF:-1 tvg-name="BE MAD" tvg-id="BE MAD" group-title="Espanha 🇪🇸" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png",Bmadᴴᴰ 🇪🇸 ❌
+#
 
-
-#EXTINF:-1 tvg-id="Betevé" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/betev%C3%A9.png",betevéᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="Betevé" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/betev%C3%A9.png",betevéᴴᴰ 🇪🇸
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 tvg-name="Extremadura" tvg-id="Canal Extremadura" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/125px-CEXMA_new.png",Canal Extremaduraᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-name="Extremadura" tvg-id="Canal Extremadura" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/125px-CEXMA_new.png",Canal Extremaduraᴴᴰ 🇪🇸
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:34_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="La Otra" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Otra.png",La Otra sᴅ 🇪🇸
+#EXTINF:-1 tvg-id="La Otra" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Otra.png",La Otra sᴅ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="La Otra" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Otra.png",La Otra sᴅ 🇪🇸
+#EXTINF:-1 tvg-id="La Otra" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Otra.png",La Otra sᴅ 🇪🇸
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="TVG -TV Galicia" tvg-name="" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg",Galicia Americaᴴᴰ 🇪🇸 ❌
-#http://america-crtvg.flumotion.com:80/crtvg/america_high/chunks.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-name="" tvg-id="TVG Europa" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg",Galicia Europaᴴᴰ 🇪🇸 ❌
-#http://europa-crtvg.flumotion.com:80/crtvg/europa_high/chunks.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="CGTN Español" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN%20Espa%C3%B1ol.png",CGTN Espanhol sᴅ 🇪🇸
+
+#EXTINF:-1 tvg-name="" tvg-id="TVG Europa" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg",Galicia Europaᴴᴰ 🇪🇸
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="TVG Europa" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg",Galicia Europaᴴᴰ 🇪🇸
+https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1 tvg-id="TVG -TV Galicia" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg",Galiciaᴴᴰ 🇪🇸 ▶️
+https://livestream.zazerconer.workers.dev/channel/UCz46p3cffUXUSGUtcnw_Ouw.m3u8
+
+#EXTINF:-1 tvg-id="TVG 2" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Xabarin_TV_%281%29.png",TVG Xabarinᴴᴰ 🇪🇸 
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN Español" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN%20Espa%C3%B1ol.png",CGTN Espanhol sᴅ 🇪🇸
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="Aragón TV Int" tvg-name="" group-title="Espanha" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png",Aragon tv Internacionalᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="Aragón TV Int" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png",Aragon tv Internacionalᴴᴰ 🇪🇸
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Espanha" tvg-logo="https://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png",8 La Marina sᴅ 🇪🇸
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png",8 La Marina sᴅ 🇪🇸
 https://streaming005.gestec-video.com/hls/canal24.m3u8
-#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="Telemadrid" group-title="Espanha" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",TeleMadrid Internacional 🇪🇸
+#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="Telemadrid" group-title="Espanha 🇪🇸" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",TeleMadrid Internacional 🇪🇸
 https://new-international-23-secure2.akamaized.net/index.m3u8
-#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="Telemadrid" group-title="Espanha" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",TeleMadrid Internacional 🇪🇸
-http://live.sethtv.xyz:8080/falequepachelu/ioD4zVePjS/1740
-#EXTINF:-1 tvg-id="Canal Sur" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Telesur.png",Canal Surᴴᴰ 🇪🇸
-http://live.sethtv.xyz:8080/falequepachelu/ioD4zVePjS/5808
-#EXTINF:-1 tvg-id="Telesur.ve"  group-title="Espanha" tvg-logo="https://i.imgur.com/P50VjRX.png",Telesurᴴᴰ 🇻🇪
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Telesur.png",Canal Sur Andalucíaᴴᴰ 🇪🇸
+https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve"  group-title="Espanha 🇪🇸" tvg-logo="https://i.imgur.com/P50VjRX.png",Telesurᴴᴰ 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Canaria" tvg-name="" group-title="Espanha" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",Televisión Canariaᴴᴰ 🇪🇸 ▶️
-https://ythls.armelin.one/video/6LlZXt8nk4s.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/mundonautica.png",Mundo Náuticaᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="Telesur.ve"  group-title="Espanha 🇪🇸" tvg-logo="https://i.imgur.com/P50VjRX.png",Telesurᴴᴰ 🇻🇪🇬🇧
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Espanha 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/mundonautica.png",Mundo Náuticaᴴᴰ 🇪🇸
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+#EXTINF:-1 tvg-id="TV Canaria" tvg-name="" group-title="Espanha 🇪🇸" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",Televisión Canariaᴴᴰ 🇪🇸 ▶️
+https://ythls.armelin.one/video/6LlZXt8nk4s.m3u8
 
 
 
@@ -1027,20 +1042,14 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8$OPT:http-referrer=https://teveo.cu/
 
 
- 🔰  ʜɪsᴘᴀɴɪᴄᴏs  🔰 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Universo_2017.svg",NBC Universo 🇲🇽 ⚽️
+#EXTINF:-1 tvg-id="NBCEast.us" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Universo_2017.svg",NBC Universo 🇲🇽 ⚽️
 http://s1.ix.tc:81/play/live.php?mac=00:1A:79:42:bb:38&stream=32034&extension=ts
 
 
-#EXTINF:-1 tvg-id="HBOPLUS.us" group-title="Espanha" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",HBO+ᴴᴰ 🇺🇸🇲🇽
+#EXTINF:-1 tvg-id="HBO PLUS ESTE HD.pe" group-title="Espanha" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",HBO+ᴴᴰ 🇺🇸🇲🇽
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2ᴴᴰ 🇺🇸🇲🇽
+#EXTINF:-1 tvg-id="HBO 2 HDTV (East)" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2ᴴᴰ 🇺🇸🇲🇽
 http://170.254.18.106/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbofamily.png",HBO Familyᴴᴰ 🇺🇸🇲🇽
