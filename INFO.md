@@ -33,7 +33,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # 📝 INDICE | LEGENDAS 📝 
 
 
-📌 Se encontrar à frente do nome do canal, <b>[ᴴᴰ] ou [ѕᴅ]</b>. Significa a qualidade de resolução, (imagem) de um determinado canal.
+📌 Se encontrar à frente do nome do canal este símbolo, <b>(υsᴇ ᴠᴘɴ)</b>. Significa que o canal em principio sõ funciona com o VPN  <b>funciona com o VPN</b>.
 
 📌 Se encontrar à frente do nome do canal a <b>flag de um País</b>, exemplo: <b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do (áudio e legendas) que possua um determinado canal.
 
@@ -42,8 +42,6 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔵</b>. Significa que o canal <b>não abre no simpletv</b>, mas <b>abre no OTTNavigator</b> e noutros players também...
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só <b>abre no simpletv</b>.
-
-📌 Se encontrar à frente do nome do canal este símbolo destas core, <b>🔴</b>. Significa que o canal é <b>Acestream</b>.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de <b>teste e temporário</b>. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
 
