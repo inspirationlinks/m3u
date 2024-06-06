@@ -88,9 +88,9 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ✨ MLB 🇺🇸 (LIVETV)
 
-✨ NFL (LIVETV)
+✨ NFL 🇺🇸 (LIVETV)
 
-✨ NHL (LIVETV)
+✨ NHL 🇺🇸 (LIVETV)
 
 ✨ +18 [Pacote Completo + Extras] (LIVETV)
 
