@@ -33,23 +33,21 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 # 📝 INDICE | LEGENDAS 📝 
 
 
-📌 Se encontrar à frente do nome do canal este símbolo, <b>(υsᴇ ᴠᴘɴ)</b>. Significa que o canal em principio sõ funciona com o VPN  <b>funciona com o VPN</b>.
+📌 Se verificar que um determinado canal não abre utilize uma VPN, <b>(υsᴇ ᴠᴘɴ)</b>. Existem canais que em determinados Países, como Portugal e não só... <b>Bloqueiam geograficamente, (Geoblocked)</b> um determinado canal. Se usarem uma <b>VPN</b> de outro Pais diferente, existe fortes possibilidades de conseguirem aceder a esse canal em questão.
 
-📌 Se encontrar à frente do nome do canal a <b>flag de um País</b>, exemplo: <b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar qual o idioma do (áudio e legendas) que possua um determinado canal.
+📌 Se encontrar à frente do nome do canal a <b>flag de um País</b>, EXEMPLO: <b>(🇵🇹,🇧🇷,🇪🇸,🇺🇸)</b>. Significa a origem e nacionalidade do canal, como também pode significar quais os idiomas  disponíveis de <b>(áudio e legendas)</b>.
 
 📌 Se encontrar à frente do nome do canal a abreviatura, (<b>[Leg]</b>). Significa que o canal não faz parte do pacote canais de Portugal, mas é legendado em (<b>🇵🇹🇧🇷</b>).
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🔵</b>. Significa que o canal <b>não abre no simpletv</b>, mas <b>abre no OTTNavigator</b> e noutros players também...
+📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>direto eventos desportivos</b>.
 
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só <b>abre no simpletv</b>.
-
-📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de <b>teste e temporário</b>. Significa que a estabilidade do canal pode ser instável e pode ficar offline a qualquer momento.
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟡</b>. Significa que o canal é de <b>teste ou temporário</b>. Significa que a estabilidade do canal pode sofrer alterações de estabilidade, dependente do fluxo de utilização dessa fonte, OU, poder ter ficar offline sem aviso prévio.
 
 📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟤</b>. Significa que o canal é oriundo de um serviço de streaming gratuito. Exemplo: <b>(Plutotv, Samsungtv, plex, roku, etc...)</b>
 
-📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do <b>(Youtube, Dailymotion, etc...)</b>
+📌 Se encontrar à frente do nome do canal este símbolo desta cor, <b>🟢</b>. Significa que o canal só <b>abre no simpletv</b>.
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>direto eventos desportivos</b>.
+📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do <b>(Youtube, Dailymotion, etc...)</b>
 
 📌 Se encontrar à frente do nome do canal este símbolo <b>❌</b>. Significa que o canal está <b>indisponível</b> de momento.
 
@@ -65,80 +63,107 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de <b>800 canais</b> de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
 
 
-✨ Poʀᴛᴜɢᴀʟ
+✔️ CATEGORIAS PRINCIPAIS DA LISTA (LIVETV)
 
-✨ Bʀᴀzɪʟ
 
-✨ Esᴘᴀɴʜᴀ
+✨ Portugal 🇵🇹 [Pacote Completo] (LIVETV)
 
-✨ Eɴɢʟᴀɴᴅ
+✨ Cinema 🇵🇹 [Pacote Completo] (LIVETV)
 
-✨ Usᴀ
+✨ Infantil 🇵🇹 [Pacote Completo] (LIVETV)
 
-✨ Fʀᴀɴcᴇ
+✨ Documentários 🇵🇹 [Pacote Completo] (LIVETV)
 
-✨ Iᴛᴀʟy
+✨ Caça & Pesca 🇵🇹 [Pacote Completo + Extras] (LIVETV)
 
-✨ Tʀᴀvᴇʟ
+✨ Desporto 🇵🇹 [Pacote Completo] (LIVETV)
 
-✨ Cᴇʟᴇʙʀɪᴛɪᴇs
+✨ Iᴛᴀʟy 🇮🇹 (LIVETV)
 
-✨ Lɪғᴇsᴛʏʟᴇ
+✨ Pʀᴇᴍɪuᴍ Sᴘoʀᴛs 🇧🇷 🇬🇧 🇺🇸 🇪🇸 🇫🇷 (LIVETV)
 
-✨ Pᴀɪɴᴛɪɴɢ
+✨ F1 & MOTOGP 🇬🇧 🇪🇸 🇮🇹 (LIVETV)
 
-✨ Gᴀsᴛʀᴏɴoᴍɪᴀ
+✨ Nʙᴀ 🇵🇹 🇺🇸 (LIVETV)
 
-✨ Pᴇᴛs
+✨ MLB 🇺🇸 (LIVETV)
 
-✨ Tᴇʀʀoʀ
+✨ NFL (LIVETV)
 
-✨ Docuᴍᴇɴᴛᴀʀɪos
+✨ NHL (LIVETV)
 
-✨ Pᴀʀᴀɴoʀᴍᴀʟ
+✨ +18 [Pacote Completo + Extras] (LIVETV)
 
-✨ Wɪʟᴅ Lɪғᴇ
 
-✨ Mᴇᴛᴇoʀoʟoɢɪᴀ
+✔️ CATEGORIAS DA LISTA (FREETV) & (LIVETV)
 
-✨ Nᴇws
 
-✨ Iɴғᴀɴᴛɪʟ
+✨ Poʀᴛᴜɢᴀʟ [Canais de sinal Aberto] (FREETV)
 
-✨ Gᴀᴍɪɴɢ
+✨ Bʀᴀzɪʟ (FREETV) and (LIVETV)
 
-✨ Fᴀɴɴʏ vɪᴅᴇos
+✨ Esᴘᴀɴʜᴀ (FREETV) and (LIVETV)
 
-✨ Sᴘoʀᴛ Huɴᴛɪɴɢ
+✨ Eɴɢʟᴀɴᴅ (FREETV) and (LIVETV)
 
-✨ Lɪɢᴀ Bwɪɴ
+✨ Usᴀ (FREETV) and (LIVETV)
 
-✨ Pʀᴇᴍɪuᴍ Sᴘoʀᴛs
+✨ Fʀᴀɴcᴇ (FREETV) and (LIVETV)
 
-✨ Nʙᴀ
+✨ Tʀᴀvᴇʟ [🟤 Streamings Gratuitos] (FREETV)
 
-✨ F1
+✨ Cᴇʟᴇʙʀɪᴛɪᴇs [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Tᴇɴɴɪs
+✨ Lɪғᴇsᴛʏʟᴇ [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Goʟғ
+✨ Pᴀɪɴᴛɪɴɢ [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Woʀʟᴅ Sᴘoʀᴛs
+✨ Gᴀsᴛʀᴏɴoᴍɪᴀ [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Pokᴇʀ
+✨ Pᴇᴛs [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Bɪʟʟнᴀʀ
+✨ Tᴇʀʀoʀ [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Moᴛoʀs Sᴘoʀᴛs
+✨ Docuᴍᴇɴᴛᴀʀɪos [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Exᴛʀᴇmᴇ Sᴘoʀᴛs
+✨ Pᴀʀᴀɴoʀᴍᴀʟ [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Coᴍʙᴀᴛ
+✨ Wɪʟᴅ Lɪғᴇ [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Mυsɪc
+✨ Mᴇᴛᴇoʀoʟoɢɪᴀ [🟤 Streamings Gratuitos] (FREETV)
 
-✨ Rᴀᴅɪos
+✨ Nᴇws [🟤 Streamings Gratuitos] (FREETV)
 
-✨ +18
+✨ Iɴғᴀɴᴛɪʟ [🟤 Streamings Gratuitos] (FREETV) 
+
+✨ Gᴀᴍɪɴɢ [🟤 Streamings Gratuitos] (FREETV)
+
+✨ Fᴀɴɴʏ vɪᴅᴇos [🟤 Streamings Gratuitos] (FREETV)
+
+✨ Sᴘoʀᴛ Huɴᴛɪɴɢ [🟤 Streamings Gratuitos] (FREETV)
+
+✨ Lɪɢᴀ Bwɪɴ (FREETV) and (LIVETV)
+
+✨ Tᴇɴɴɪs (FREETV)
+
+✨ Goʟғ (FREETV)
+
+✨ Woʀʟᴅ Sᴘoʀᴛs (FREETV)
+
+✨ Pokᴇʀ [🟤 Streamings Gratuitos] (FREETV)
+
+✨ Bɪʟʟнᴀʀ [🟤 Streamings Gratuitos] (FREETV)
+
+✨ Moᴛoʀs Sᴘoʀᴛs [🟤 Streamings Gratuitos] (FREETV)
+
+✨ Exᴛʀᴇmᴇ Sᴘoʀᴛs [🟤 Streamings Gratuitos] (FREETV)
+
+✨ Coᴍʙᴀᴛ [🟤 Streamings Gratuitos] (FREETV)
+
+✨ Mυsɪc (FREETV) and (LIVETV)
+
+✨ Rᴀᴅɪos (FREETV) and (LIVETV)
+
+✨ +18 [Pacote Básico] (FREETV)
 
 Inspi[я]ation ʟɪvᴇ ᴛv © 2024 All rights reserved
