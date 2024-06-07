@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/generate/Q2b03TZ2Nq.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/generate/Q2b03TZ2Nq.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" m3uautoload="1" refresh="24"
 
 
 
@@ -652,6 +652,8 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31278
 https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMCᴴᴰ 🇧🇷🇺🇸
+http://200.194.238.229:8000/udp/225.1.1.19:1234
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMCᴴᴰ 🇧🇷
 http://148.113.160.49:14009/AMC
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png",AMCᴴᴰ 🇧🇷
@@ -684,6 +686,8 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31305
 https://brflu.walk-tv.com/5882/index.m3u8
 
 
+#EXTINF:-1 tvg-name="TNT Series" tvg-id="TNT Séries.br" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series ᴴᴰ 🇧🇷🇺🇸 
+http://200.194.238.229:8000/udp/225.1.1.23:1234
 #EXTINF:-1 tvg-name="TNT Series" tvg-id="TNTSeries.br" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series ᴴᴰ 🇧🇷 🟡
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31301
 #EXTINF:-1 tvg-name="TNT Series" tvg-id="TNTSeries.br" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series ᴴᴰ 🇧🇷
@@ -693,6 +697,8 @@ https://brflu.walk-tv.com/5904/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TNT Novelas" tvg-id="TNTNOVELAS" group-title="Brazil" tvg-logo="http://i.imgur.com/wBvHWB7.png",TNT Novelasᴴᴰ 🇧🇷
 https://brflu.walk-tv.com/5836/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="FX.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FXᴴᴰ 🇧🇷🇺🇸 
+http://200.194.238.229:8000/udp/225.1.1.8:1234
 #EXTINF:-1 tvg-id="FX.br" tvg-name="FX.br" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX 🇧🇷
 https://brflu.walk-tv.com/5855/index.m3u8
 
@@ -709,6 +715,10 @@ http://148.113.160.49:14113/CineMax
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31292
 #EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Studio_Universal.svg",Studio Universalᴴᴰ 🇧🇷 
 https://brflu.walk-tv.com/5834/index.m3u8
+
+
+#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/star-channel-pt.png",Star Channelᴴᴰ 🇧🇷
+http://200.194.238.229:8000/udp/225.1.1.4:1234
 
 
 #EXTINF:-1 tvg-id="Lifetime.br" group-title="Brazil" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetime 🇧🇷
@@ -738,7 +748,8 @@ https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 #EXTINF:-1 tvg-name="GLOBO" tvg-id="TVGloboRiodeJaneiro.br" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo ʀᴊ ᶠᴴᴰ 🇧🇷 ⚽️
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32170
-
+#EXTINF:-1 tvg-name="GLOBO" tvg-id="TVGloboSaoPaulo.br" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo sᴘ ᶠᴴᴰ 🇧🇷 ⚽️
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="TVGloboSaoPaulo.br" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Globo sᴘ ᶠᴴᴰ 🇧🇷 ⚽️
 http://15.235.15.230:14488/GLOBOSP
@@ -750,6 +761,8 @@ https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" group-title="Brazil" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT Interiorᴴᴰ 🇧🇷
+https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" group-title="Brazil" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT Interiorᴴᴰ 🇧🇷
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT" group-title="Brazil" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT sᴅ 🇧🇷
@@ -775,7 +788,7 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 https://bit.ly/48lKogj?profile=freetv.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV ᴘʀᴴᴰ 🇧🇷 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV ᴘʀᴴᴰ 🇧🇷
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV ᴘʀᴴᴰ 🇧🇷
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV!ᴴᴰ 🇧🇷
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
@@ -802,7 +815,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-id="Record News.br" tvg-name="" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg",Record Newsᴴᴰ 🇧🇷 🟤
 https://bit.ly/3W0rqcE?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="Record News.br" tvg-name="" group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg",Record Newsᴴᴰ 🇧🇷
-https://r-br.nxtv.com.br/rnw/rn/rnw_rn.m3u8
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/CNN_Brasil.svg",CNN Brasilᴴᴰ 🇧🇷
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
@@ -1087,6 +1100,7 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FXᴴᴰ 🇲🇽 
 http://170.254.18.106/FX/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q",Lifetimeᴴᴰ 🇲🇽
@@ -2027,7 +2041,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1ᴴᴰ 🇧🇷 
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="" group-title="Word Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1ᴴᴰ 🇧🇷 🟡
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31169
+http://xcui.vitvabc.xyz:8880/live/laok300/8pEZjdeMPad7/31169.m3u8
 
 
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="" group-title="Word Sports" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png",Sportv 2ᴴᴰ 🇧🇷
