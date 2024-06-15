@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://www.bevy.be/generate/Q2b03TZ2Nq.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/generate/Q2b03TZ2Nq.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" m3uautoload="1" refresh="3600"
+
 
 
 
@@ -170,6 +171,9 @@ https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/64158
 
 #EXTINF:-1 tvg-name="" tvg-id="Euronews (157).pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/EuroNews.png",Euronewsᴴᴰ 🇵🇹 🟤
 https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 group-title="Portugal 🇵🇹" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Famatv.png",FamaTVᴴᴰ
+https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
 
 
 
