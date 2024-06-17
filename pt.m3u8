@@ -3,17 +3,25 @@
 
 
 
-# (🇬🇧) -  It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, etc...)
-
-
 # (🇵🇹) - Atenção que a lista IPTV (Inspiration Links), estão configuradas para 2 Players específicos. Para (Android), OTTNAVIGATOR e TELEVIZO. Para (Windows) SIMPLETV e VLC. Recomendamos usar as nossas listas nestes players. Porém, as listas estão configuradas para funcionar em qualquer player que suporte M3U, mas... Existe a hipótese de alguns canais não abrirem.
 
 
-# (🇬🇧) - Please note that the IPTV list (Inspiration Lins) is configured for 2 specific Players. For (Android), OTTNAVIGATOR, and for (Windows) SIMPLETV. We recommend using our lists on these players. However, the lists are configured to work on any player that supports M3U, but... There is a chance that some channels will not open.
+# (🇬🇧) -  It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, etc...)
+
+
+# (🇵🇹) - Atenção que a lista IPTV (Inspiration Links) está configurada para 3 Players específicos. Para (Android), OTTNAVIGATOR e TELEVIZO. Para (Windows) recomendamos o (SIMPLETV). Porém, as listas estão configuradas para funcionar em qualquer player que suporte (M3U), mas... Existe a possibilidade de alguns canais não abrirem.
+
+# (🇬🇧) - Please note that the IPTV list (Inspiration Links) is configured for 3 specific Players. For (Android), OTTNAVIGATOR and TELEVIZO. For (Windows) we recommend (SIMPLETV). However, the lists are configured to work on any player that supports (M3U), but... There is a possibility that some channels will not open.
+
+
+# (🇵🇹) - Aconselhamos os uso de uma VPN para a sua própria proteção e manter o anonimato. Alem disso existem canais que só Funcionam com o VPN ligado em determinados momentos.
+
+
+# (🇬🇧) - We recommend using a VPN for your own protection and to maintain anonymity. Furthermore, there are channels that only work with the VPN turned on at certain times.
 
 
 
-
+---
 
 
 
@@ -44,8 +52,12 @@ https://github.com/inspirationlinks/
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://is.gd/Jhr1ev",Learn English 🇬🇧  ▶️
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://is.gd/Jhr1ev",Learn English 🇬🇧 ▶️
 https://livestream.zazerconer.workers.dev/channel/UCeTVoczn9NOZA9blls3YgUg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://is.gd/Jhr1ev",Learn English 🇬🇧 ▶️
+https://www.youtube.com/watch?v=rKn4EQ3-Ns0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://is.gd/Jhr1ev",Learn English 🇬🇧 ▶️
+https://www.youtube.com/@EnglishClass101
 
 #EXTINF:-1 tvg-id="RTPiAmerica.pt" tvg-name="RTP Internacional" group-title="Portugal 🇵🇹" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional Brasilᴴᴰ 🇵🇹 ⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
