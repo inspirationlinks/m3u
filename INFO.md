@@ -49,7 +49,7 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do <b>(Youtube, Dailymotion, etc...)</b>
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>❌</b>. Significa que o canal está <b>indisponível</b> de momento.
+📌 Se encontrar à frente do nome do canal este símbolo <b>[ᴠᴘɴ]</b>. Significa que o canal so abre usando uma VPN.
 
 
 <b>📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)</b>
