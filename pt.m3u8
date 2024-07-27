@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/MeoM3Upt,https://bit.ly/Brazilepg,https://bit.ly/EPGPlutoAll,https://bit.ly/SamsungEPG,https://bit.ly/EPGPlex"
+#EXTM3U url-tvg="https://bit.ly/MeoM3Upt,https://bit.ly/Brazilepg,https://bit.ly/EPGPlutoAll,https://bit.ly/SamsungEPG,https://bit.ly/EPGPlex,https://bit.ly/StirrEPG,https://bit.ly/allepgMjh"
 
 
 
@@ -1040,10 +1040,6 @@ https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Sony Movies Channel 🇺🇸 🟤
 https://bit.ly/4858KeF?profile=inspirationFreetv.m3u8
-#EXTINF:-1 group-title="Usa 🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",REELZ Famous & Infamousᴴᴰ 🇺🇸 🟤
-https://bit.ly/3u2C9Ys?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="CABC5200022N1" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/homefull.png",HomeFulᴴᴰ 🇺🇸 🟤
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="CHBA330002991" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieDome.jpg",MovieDome 🇺🇸 🟤
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/popcornflix.png",Popcorn Flixᴴᴰ 🇺🇸 🟤
@@ -1068,11 +1064,16 @@ https://bit.ly/41RusiQ?USBC24000223S.m3u8
 https://bit.ly/ParamountMovie_m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ActionHollywoodMovies.png",Action Hollywood Movies 🇺🇸 🟤
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/rakutenviki.png",Rakuten vikiᴴᴰ 🇺🇸🇰🇷 🟤
 https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="USBB3200001MG" group-title="Usa 🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",REELZ Famous & Infamousᴴᴰ 🇺🇸 🟤
+https://bit.ly/3u2C9Ys?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="USAJ22000130U" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png",MHz Nowᴴᴰ 🇺🇸 🟤
 https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_MHz/playlist.m3u8
+#EXTINF:-1 tvg-id="CABC5200022N1" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/homefull.png",HomeFulᴴᴰ 🇺🇸 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="62e949f0cec1e60007f03314" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png",More NCISᴴᴰ 🇺🇸 🟤
 https://bit.ly/421jtVE?profile=inspirationFreetv.m3u8
@@ -1085,7 +1086,7 @@ https://bit.ly/csi_inspiration_m3u8
 https://bit.ly/3S4gU0t?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ConanOBrientv.png",Conan O'Brienᴴᴰ 🇺🇸 🟤
 https://d24v9m320tzx28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-27int6lgebk67/playlist.m3u8
-#EXTINF:-1 tvg-id="62e91da1f07afa0007ffccfc" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://images.pluto.tv/channels/62e91da1f07afa0007ffccfc/colorLogoPNG.png", The Ed Sullivan Show 🇧🇷🇺🇸 🟤
+#EXTINF:-1 tvg-id="62e91da1f07afa0007ffccfc" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://images.pluto.tv/channels/62e91da1f07afa0007ffccfc/colorLogoPNG.png",The Ed Sullivan Show 🇧🇷🇺🇸 🟤
 https://sck.pm/yF/2?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/johnnycarsontv.webp",Johnny Carson TVᴴᴰ 🇺🇸 🟤
 https://bit.ly/3Gh85eh?profile=inspirationFreetv.m3u8
@@ -1474,7 +1475,7 @@ https://bit.ly/3mkCLQQ?profile=inspirationFreetv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="654930a8346f420008d3b0b8" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png", Oxygen True Crime Archivesᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="654930a8346f420008d3b0b8" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png",Oxygen True Crime Archivesᴴᴰ 🇺🇸 🟤
 https://sck.pm/9hkh?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Crime%20%26%20Punishment.png",Crime & Punishmentᴴᴰ 🇺🇸 🟤
 https://bit.ly/48Rb5dx?profile=inspirationFreetv.m3u8
@@ -1583,6 +1584,9 @@ https://weathernation-1-us.roku.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
 
 
+
+
+
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="" group-title="News 📰" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CNN%20International.png",CNN 🇺🇸 🟤
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="" group-title="News 📰" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CNN%20International.png",CNN 🇺🇸 🟤
@@ -1604,6 +1608,8 @@ https://ythls.armelin.one/video/Z-Nwo-ypKtM.m3u8
 #https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="News 📰" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-a.svg",Fox News Nowᴴᴰ 🇺🇸 🟤
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="62310f66d5888f0007534342" tvg-name="CBS News" group-title="News 📰" tvg-logo="https://images.pluto.tv/channels/62310f66d5888f0007534342/colorLogoPNG.png",CBS News 🇺🇸 🟤
+https://is.gd/zo8ugs?62310f66d5888f0007534342.m3u8
 #EXTINF:-1 tvg-id="BBC World News (161).pt" tvg-name="" group-title="News 📰" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0e/BBC_World_News_%282019-.n.v.%29.png/revision/latest?cb=20190715171938",BBC News 🇬🇧  🟤
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-name="" tvg-id="dw.it.pt" group-title="News 📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW 🇺🇸
@@ -2675,7 +2681,7 @@ http://168.181.122.234:8000/play/a027/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Informação 📢" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/iconFreetv.png",  ✯ Lista de IPTV em formato M3U otimizada com conteúdo de canais de sinal aberto,com canais de 📺 e estações de 📻. A lista contem canais de várias Nacionalidades: 🇵🇹🇧🇷🇪🇸🇬🇧🇵🇱🇫🇷🇩🇪🇹🇭🇺🇸🇧🇦🇨🇳. ✯
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Informação 📢" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/iconFreetv.png", ✯ Lista de IPTV em formato M3U otimizada com conteúdo de canais de sinal aberto,com canais de 📺 e estações de 📻. A lista contem canais de várias Nacionalidades: 🇵🇹🇧🇷🇪🇸🇬🇧🇵🇱🇫🇷🇩🇪🇹🇭🇺🇸🇧🇦🇨🇳. ✯
 https://github.com/inspirationlinks/m3u/raw/live/Logos/iconFreetv.png/
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Informação 📢" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/iconFreetv.png",Todo o conteúdo está disponível em busca livre na Internet, não alojo em nenhum servidor conteúdos do género. Limito me apenas a juntar um Index de canais. A utilização fica à responsabilidade do próprio.
