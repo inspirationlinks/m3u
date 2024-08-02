@@ -212,8 +212,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovbrazil-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphereᴴᴰ 🇵🇹🇧🇷 🟤
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Portugal 🇵🇹" tvg-logo="https://bravi.tv/wp-content/uploads/2016/12/europa-filmes-214x214.png",Europa Play Filmes Nacionaisᴴᴰ 🇧🇷
-https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="053140e08adc29e3eac61eb05ff12f51" group-title="Portugal 🇵🇹" tvg-logo="https://is.gd/FACEsI",Europa+ᴴᴰ 🇧🇷
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/hi_mid.m3u8
 
 
 
@@ -516,11 +516,14 @@ https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="WARNERCHANNEL" group-title="Brazil 🇧🇷" tvg-logo="http://i.imgur.com/qOWul1m.png",Warner Channelᴴᴰ 🇧🇷 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/320
 
-#EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series ᴴᴰ 🇧🇷🇺🇸 
-https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
 
+#EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT ᴴᴰ 🇧🇷🇺🇸 
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-1 tvg-name="TNTSERIES" tvg-id="TNT Séries.br" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series ᴴᴰ 🇧🇷
+https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 #EXTINF:-1 tvg-name="TNTNOVELAS" tvg-id="TNTNOVELAS" group-title="Brazil 🇧🇷" tvg-logo="http://i.imgur.com/wBvHWB7.png",TNT Novelasᴴᴰ 🇧🇷
-https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
+https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FX" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FXᴴᴰ 🇧🇷🇺🇸 
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/244
@@ -982,7 +985,9 @@ https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
 
 
  🔰 🇺🇸 Canais 🇺🇸  🔰 
- 
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://is.gd/Jhr1ev",Learn English 🇬🇧 ▶️
@@ -991,6 +996,9 @@ https://livestream.zazerconer.workers.dev/channel/UCeTVoczn9NOZA9blls3YgUg.m3u8
 https://sck.pm/2BsU?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="ESBC1700004PX" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png",Trailersᴴᴰ 🇺🇸 🟤
 https://bit.ly/3RzVB7W?profile=inspirationFreetv.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="TBSEast.us" group-title="Usa 🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS Eastᴴᴰ 🇺🇸
 http://143.244.60.30/TBS/index.m3u8
@@ -1038,11 +1046,14 @@ https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 
 
 
+
  🔰 🇺🇸 PLATAFORMAS DE FREE STREAMING  🔰
 
 
 
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec" group-title="Usa 🇺🇸" tvg-logo="https://is.gd/2EqqV2",Miramax Movies Cnannel 🇺🇸 🟤
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Sony Movies Channel 🇺🇸 🟤
 https://bit.ly/4858KeF?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="CHBA330002991" tvg-name="" group-title="Usa 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieDome.jpg",MovieDome 🇺🇸 🟤
@@ -1507,7 +1518,11 @@ https://bit.ly/34t4Ws5?profile=inspirationFreetv.m3u8
 
 
 
+
+
  🔰  Vida selvagem 🐅  🔰 
+
+
 
 
 
@@ -1827,6 +1842,8 @@ https://jmp2.uk/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports ⚽️🏀🏐🏈" tvg-logo="https://play-lh.googleusercontent.com/cpWdFlXAmAfzx6XC7m3BPJ4g-5epEcJvAQqKzQsG1gCBYoVZgMbdKyV7Srv4RnIwRQ=w240-h480-rw",Futsalmafer.tvᴴᴰ 🇪🇸 🟤
 https://cloudvideo.servers10.com:8081/8184/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports ⚽️🏀🏐🏈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",Zona TUDN 🇲🇽
+http://181.78.105.146:8800/play/a07e
 #EXTINF:-1 tvg-id="" group-title="Sports ⚽️🏀🏐🏈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",Zona TUDN 🇲🇽
 http://190.185.121.102:58092/play/a00m
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports ⚽️🏀🏐🏈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",Zona TUDN 🇲🇽 🟤
