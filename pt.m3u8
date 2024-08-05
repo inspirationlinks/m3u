@@ -799,6 +799,9 @@ https://livestream.zazerconer.workers.dev/channel/UCz46p3cffUXUSGUtcnw_Ouw.m3u8
 #EXTINF:-1 tvg-id="TVG2.TV" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Xabarin_TV_%281%29.png",TVG Xabarinᴴᴰ 🇪🇸 
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200",El Toro TV 🇪🇸
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN%20Espa%C3%B1ol.png",CGTN Espanhol sᴅ 🇪🇸
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="AragonTV.TV" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png",Aragon tv Internacionalᴴᴰ 🇪🇸
@@ -811,6 +814,11 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 https://livestream.zazerconer.workers.dev/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8
 #EXTINF:-1 tvg-id="TV Canaria" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",Televisión Canariaᴴᴰ 🇪🇸 ▶️
 https://ythls.armelin.one/video/6LlZXt8nk4s.m3u8
+#EXTINF:-1 tvg-id="HuelvaTV.TV" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://graph.facebook.com/Huelvatv/picture?width=200&height=200",Huelva TVᴴᴰ 🇪🇸
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="MarbellaTV.TV" tvg-name="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200",Marbella TVᴴᴰ 🇪🇸
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+
 
 #EXTINF:-1 tvg-id="Telesur.ve"  group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://i.imgur.com/P50VjRX.png",Telesurᴴᴰ 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -819,6 +827,7 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/mundonautica.png",Mundo Náuticaᴴᴰ 🇪🇸
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 
 
 
@@ -830,12 +839,12 @@ https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
 
 
-#EXTINF:-1 group-title="" tvg-id="CubavisionInternacional.cu" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png",Cubavisión Internacionalᴴᴰ 🇨🇺
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png",Cubavisión Internacionalᴴᴰ 🇨🇺
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="CubavisionInternacional.cu" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png",Cubavisión Internacionalᴴᴰ 🇨🇺 (VLC Codec)
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png",Cubavisión Internacionalᴴᴰ 🇨🇺 (VLC Codec)
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
