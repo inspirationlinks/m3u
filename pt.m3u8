@@ -152,8 +152,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNNPortugal.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CNNPortugal.png",CNN Portugalᴴᴰ 🇵🇹 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TVIFiccao.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI Ficçãoᴴᴰ 🇵🇹 
-https://bit.ly/3gejKxf?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-name="" group-title="Portugal 🇵🇹" tvg-id="VmaisTVI.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/v%2Btvi.png",V+ TVI 🇵🇹
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="TVI Ficção HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/v%2Btvi.png",V+ TVI 🇵🇹 
+https://bit.ly/3gejKxf?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África ѕᴅ 🇵🇹
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
@@ -182,6 +184,11 @@ https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
 
 
 
+
+#EXTINF:-1 tvg-name="" tvg-id="FTVHD" group-title="Portugal 🇵🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Parisᴴᴰ 🇺🇸
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Midnightᴴᴰ 🇺🇸
+https://bit.ly/3WlaQCx?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="6144d088516ea8000739076" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png",Fuel tvᴴᴰ 🇵🇹 🟤
 https://bit.ly/3vCaVZr?profile=inspirationFreeTV.m3u8
 #EXTINF:-1 tvg-id="Motorvision HD.pt" tvg-name="Motorvision" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/motor_vision.png",Motorvision 🇵🇹🇺🇸 🟤
@@ -280,8 +287,7 @@ http://45.65.112.49:8000/play/a02s
 http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=0e318668ba9b1d41dd3333
 
 
-
-#EXTINF:-1 tvg-id="" group-title="Liga Bwin ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢
+#EXTINF:-1 tvg-id="" group-title="Liga Bwin ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/SilkSports.png",Silk Sports 3 🇬🇪 🟢 (Only Open Simpletv)
 https://aquagm.qarva.info:8074/CHANNEL634/bitrates.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
 
 
@@ -1322,11 +1328,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://cdn.moviefone.com/legacy/assets/moviefone-website-logo.png",MovieFone tvᴴᴰ 🇺🇸 
 https://bit.ly/48t1sBR?profile=inspirationFreetv.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="GBAJ4900002DE" group-title="Celebrities 🌟" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Parisᴴᴰ 🇺🇸
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Midnightᴴᴰ 🇺🇸
-https://bit.ly/3WlaQCx?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LifeMinute.png",Life Minute TV 🇺🇸 🟤
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lgau/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d6" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/popstartv.png",Popstar! TV 🇺🇸 🟤
@@ -1349,9 +1350,9 @@ https://bit.ly/3MrZW9C?profile=inspirationFreetv.m3u8
 https://bit.ly/4ablYZb?profile=USBC10000129R.m3u8
 
 #EXTINF:-1 tvg-name="Mas Chic" tvg-id="MasChicPanregional.ar" group-title="Celebrities 🌟" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png",MAS CHIC 🇦🇷
-http://200.115.120.1:8000/play/ca029/index.m3u8
-#EXTINF:-1 tvg-name="Mas Chic" tvg-id="MasChicPanregional.ar" group-title="Celebrities 🌟" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png",MAS CHIC 🇦🇷
 http://181.78.64.71:16123/play/ch33
+#EXTINF:-1 tvg-name="Mas Chic" tvg-id="MasChicPanregional.ar" group-title="Celebrities 🌟" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png",MAS CHIC 🇦🇷
+http://200.115.120.1:8000/play/ca021/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hola.jpg",¡Hola! tv 🇪🇸 
@@ -1360,9 +1361,9 @@ http://170.82.37.21:8000/play/a03d/index.m3u8
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBA1400008NE" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png",Hola Playᴴᴰ 🇪🇸 🟤
 https://bit.ly/3IBohsg?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/c509430d4b8cd272fec971908d8562bbaf644e09/GQ.svg",GQᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Gq-Logo-PNG-Image.png",GQᴴᴰ 🇺🇸 🟤
 https://amg00255-condenast-gq-localnow-5sme3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Celebrities 🌟" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/VOGUE_LOGO.svg/langfr-110px-VOGUE_LOGO.svg.png",Vogue 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" group-title="Celebrities 🌟" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Vogue-Logo.png",Vogue 🇺🇸 🟤
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
 
 
@@ -1923,9 +1924,12 @@ https://jmp2.uk/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MultiSports ⚽️🏀🏐🏈" tvg-logo="https://play-lh.googleusercontent.com/cpWdFlXAmAfzx6XC7m3BPJ4g-5epEcJvAQqKzQsG1gCBYoVZgMbdKyV7Srv4RnIwRQ=w240-h480-rw",Futsalmafer.tvᴴᴰ 🇪🇸 🟤
 https://cloudvideo.servers10.com:8081/8184/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MultiSports ⚽️🏀🏐🏈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",Zona TUDN 🇲🇽
+
+#EXTINF:-1 tvg-id="" group-title="MultiSports ⚽️🏀🏐🏈" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽🇺🇸
 http://181.78.105.146:8800/play/a07e
-#EXTINF:-1 tvg-id="" group-title="MultiSports ⚽️🏀🏐🏈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",Zona TUDN 🇲🇽
+#EXTINF:-1 tvg-id="" group-title="MultiSports ⚽️🏀🏐🏈" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽🇺🇸
+http://200.115.120.1:8000/play/ca039/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="MultiSports ⚽️🏀🏐🏈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",TUDN 🇲🇽
 http://190.185.121.102:58092/play/a00m
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="MultiSports ⚽️🏀🏐🏈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240319T021844SQUARE.png",Zona TUDN 🇲🇽 🟤
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
