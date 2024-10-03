@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/PTepg,https://bit.ly/Brazilepg,https://bit.ly/ESPepg,https://bit.ly/USA_epg,https://bit.ly/UK_epg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/RAKUTENepg,https://bit.ly/DISTRITOepg,https://bit.ly/Roku_gz"
+#EXTM3U url-tvg="https://bit.ly/PTepg,https://bit.ly/Brazilepg,https://bit.ly/ESPepg,https://bit.ly/USA_epg,https://bit.ly/UK_epg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/RAKUTENepg,https://bit.ly/DISTRITOepg,https://bit.ly/Roku_gz,https://bit.ly/epgnz"
 
 
 
@@ -1013,7 +1013,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASWEST&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-id="Galavision.HDTV.(East).(GALAH).us" group-title="📺 Espanha 🇪🇸🇲🇽" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision Miami 🇲🇽🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
-#EXTINF:-1 tvg-logo="I404.10222.zap2it.com" group-title="📺 Espanha 🇪🇸🇲🇽" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision West 🇲🇽🇺🇸
+#EXTINF:-1 tvg-logo="Galavision.HDTV.(East).(GALAH).us" group-title="📺 Espanha 🇪🇸🇲🇽" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png",Galavision West 🇲🇽🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
 
 
@@ -1506,7 +1506,7 @@ https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="62ba60f059624e000781c436" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",00S REPLAY 🇬🇧 🟤
 https://is.gd/vlpdjt?62ba60f059624e000781c436.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="I264.18332.zap2it.com" group-title="📺 Films&Series 🎬" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bbcAmerica.png",BBC América 🇺🇸
+#EXTINF:-1 tvg-name="" tvg-id="BBC.America.HDTV.(East).(BBC).us" group-title="📺 Films&Series 🎬" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bbcAmerica.png",BBC América 🇺🇸
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" group-title="📺 Films&Series 🎬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS East 🇺🇸
@@ -1515,7 +1515,7 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="AMC+.us" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AMCplus.webp",AMC+ 🇺🇸
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png",AMC 🇺🇸 🟤
+#EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-name="AMC.HDTV.(East).(AMCHD).us" group-title="📺 Films&Series 🎬" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png",AMC 🇺🇸 🟤
 https://bit.ly/3CmcVEq?profile=inspirationlivetv.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png",AMC Thrillers 🇺🇸 🟤
@@ -1603,10 +1603,10 @@ https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/rakutenviki.png",Rakuten viki 🇺🇸🇰🇷 🟤
 https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ActionHollywoodMovies.png",Action Hollywood Movies 🇺🇸 🟤
+#EXTINF:-1 tvg-id="mjh-ahm-FAST" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://i.mjh.nz/.images/ahm-FAST.png",Action Hollywood Movies 🇺🇸 🟤
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I256.12852.zap2it.com" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png",TCM 🇺🇸
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us" tvg-name="" group-title="📺 Films&Series 🎬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png",TCM 🇺🇸
 http://143.244.60.30/TCM/index.m3u8
 
 
@@ -1690,34 +1690,34 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/Dmax.m3u8
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 
 
-#EXTINF:-1 tvg-id="I70.19543.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇺🇸
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇺🇸
 https://github.com/openwindows037/sri-tv/raw/main/tlc.m3u8
-#EXTINF:-1 tvg-id="I70.19543.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇺🇸
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
-#EXTINF:-1 tvg-id="I52.11158.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇺🇸
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇺🇸
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 
 
-#EXTINF:-1 tvg-id="I229.14902.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇺🇸
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇺🇸
 https://mediapackage-hgtv-source.fullscreen.nz/index_4.m3u8
-#EXTINF:-1 tvg-id="I229.14902.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
 https://github.com/openwindows037/sri-tv/raw/main/hgtv.m3u8
-#EXTINF:-1 tvg-id="I229.14902.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
 https://dplus.gammacdn.workers.dev/videos/111.m3u8
-#EXTINF:-1 tvg-id="I229.14902.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/AGTV.m3u8
-#EXTINF:-1 tvg-id="I229.14902.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 
 
-#EXTINF:-1 tvg-id="I181.83573.schedulesdirect.org" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DiscoveryIndia.png",Discovery 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DiscoveryIndia.png",Discovery 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/Disc.m3u8
-#EXTINF:-1 tvg-id="I181.83573.schedulesdirect.org" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DiscoveryIndia.png",Discovery 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DiscoveryIndia.png",Discovery 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="I285.16615.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ID.png",IDiscovery 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ID.png",IDiscovery 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/DiscID.m3u8
-#EXTINF:-1 tvg-id="I285.16615.zap2it.com" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ID.png",IDiscovery 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ID.png",IDiscovery 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 
 
@@ -1728,7 +1728,7 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/DiscSci.m3u8
 #EXTINF:-1 tvg-id="I189.110960.schedulesdirect.org" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Discovery%20Science.png",Discovery Science 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 
-#EXTINF:-1 tvg-id="I319.113656.schedulesdirect.org" tvg-name="" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN-Documentary.png",CGTN Documentary 🇺🇸
+#EXTINF:-1 tvg-id="UK:.CGTN.Documentary.en" tvg-name="" group-title="📺 Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN-Documentary.png",CGTN Documentary 🇺🇸
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 
@@ -1860,13 +1860,13 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://is.gd/hjGipy?BBC_Earth.m3u8
 #EXTINF:-1 tvg-id="GBBD3200001E2" tvg-name="" group-title="📺 Wildlife 🐘"  tvg-logo="https://www.earthtouch.tv/media/1954995/logo-big.png",Earth Touch tv 🇺🇸 🟤
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="I282.57394.zap2it.com" group-title="📺 Wildlife 🐘"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" group-title="📺 Wildlife 🐘"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/AniPlanet.m3u8
-#EXTINF:-1 tvg-id="I282.57394.zap2it.com" group-title="📺 Wildlife 🐘"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" group-title="📺 Wildlife 🐘"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 tvg-id="I282.57394.zap2it.com" group-title="📺 Wildlife 🐘"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" group-title="📺 Wildlife 🐘"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
 https://kusnadipepenk.github.io/ntn/animal.m3u8
-#EXTINF:-1 tvg-id="I282.57394.zap2it.com" group-title="📺 Wildlife 🐘"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" group-title="📺 Wildlife 🐘"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
 
@@ -2172,9 +2172,9 @@ https://vdo.grupolimalive.com:3398/stream/play.m3u8
 https://cloudvideo.servers10.com:8081/8184/index.m3u8
 
 
-#EXTINF:-1 tvg-id="I464.75176.zap2it.com" group-title="📺 World Sports ⚽️" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽🇺🇸
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" group-title="📺 World Sports ⚽️" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽🇺🇸
 http://181.78.105.146:8800/play/a07e
-#EXTINF:-1 tvg-id="I464.75176.zap2it.com" group-title="📺 World Sports ⚽️" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽🇺🇸
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" group-title="📺 World Sports ⚽️" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽🇺🇸
 http://190.185.121.102:58092/play/a00m
 
 
@@ -2185,7 +2185,7 @@ http://daleplay.club:80/play/2p3uwDY9pFc-XmmGG51tc1sBxPFqKLu55n-lqf7b4G8/ts
 
 #EXTINF:-1 tvg-id="" group-title="📺 World Sports ⚽️" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TYC Sports Play
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-#EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="" group-title="📺 World Sports ⚽️" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sports 🇦🇷
+#EXTINF:-1 tvg-id="TYC.Sports.(TYCSPORTS).us" tvg-name="" group-title="📺 World Sports ⚽️" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sports 🇦🇷
 http://190.185.121.102:58092/play/a00p
 #EXTINF:-1 tvg-id="TYC.Sports.(TYCSPORTS).us" tvg-name="" group-title="📺 World Sports ⚽️" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sports 🇦🇷
 
