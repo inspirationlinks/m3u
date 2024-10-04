@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/PTepg,https://bit.ly/Brazilepg,https://bit.ly/ESPepg,https://bit.ly/USA_epg,https://bit.ly/UK_epg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/RAKUTENepg,https://bit.ly/DISTRITOepg,https://bit.ly/Roku_gz,https://bit.ly/epgnz"
+#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/PTepg,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/RAKUTENepg,https://bit.ly/Roku_gz,https://bit.ly/epgnz"
 
 
 
@@ -202,25 +202,24 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Documentaries" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RakutenDocu.jpeg",Rakuten Documentaries 🇵🇹🇧🇷 🟤
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-name="" group-title="📺 Portugal 🇵🇹" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png",Documentário 🇧🇷 🟤
-https://bit.ly/3uQwRzn?profile=inspirationFreeTV.m3u8
+https://bit.ly/3uQwRzn?5f1ef1a8cec6be00072a7ac9.m3u8
+
+#EXTINF:-1 group-title="📺 Portugal 🇵🇹" tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png",TV Filmes Nacionais 🇧🇷 🟤
+https://bit.ly/3O1z2ai?profile=5f5a545d0dbf7f0007c09408.m3u8
 #EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-name="" group-title="📺 Portugal 🇵🇹" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",Smithsonian Channel 🇵🇹🇧🇷 🟤
 https://bit.ly/3B2uidm?6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie network 🇵🇹🇧🇷 🟤
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie network 🇵🇹🇧🇷 🟤
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovbrazil-vidaa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MovieSphere" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphere 🇵🇹🇧🇷 🟤
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-name="MovieSphere" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphere 🇵🇹🇧🇷 🟤
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MovieSphere" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphere 🇵🇹🇧🇷 🟤
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="3fec3e5cac39a52b2132f9c66c83dae043dc17d4" tvg-name="" group-title="📺 Portugal 🇵🇹" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8430bfd1-b119-4f3d-8992-8921cad397e2/dark_matter_tv_logo_dark.png",Dark Matter 🇧🇷 🟤
+#EXTINF:-1 tvg-id="Dark.Matter.TV.distro" tvg-name="" group-title="📺 Portugal 🇵🇹" tvg-logo="https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png",Dark Matter 🇧🇷 🟤
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
-#EXTINF:-1 group-title="📺 Portugal 🇵🇹" tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png",TV Filmes Nacionais 🇧🇷 🟤
-https://bit.ly/3O1z2ai?profile=5f5a545d0dbf7f0007c09408.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="053140e08adc29e3eac61eb05ff12f51" group-title="📺 Portugal 🇵🇹" tvg-logo="https://is.gd/FACEsI",Europa+ 🇧🇷
 https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/hi_mid.m3u8
@@ -1318,7 +1317,7 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="4K.TRAVEL.TV.distro" tvg-name="" group-title="📺 Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/travel4k.webp",4k Travel tv 🇺🇸 🟤
 https://bit.ly/3NiZ1tp?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 tvg-id="GBAJ49000184K" tvg-name="" group-title="📺 Travel ✈️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png",Travelxp 🇺🇸 🟤
+#EXTINF:-1 tvg-id="GBAJ49000184K" tvg-name="" group-title="📺 Travel ✈️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travelxp 🇺🇸 🟤
 https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UK:.Travelxp.en" tvg-name="" group-title="📺 Travel ✈️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travelxp  🇺🇸
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
@@ -1363,9 +1362,6 @@ https://bit.ly/3QLfTvi?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 Lifestyle 🏡" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240",Fitmaxx TV 🇨🇱
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="📺 Lifestyle 🏡" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/OnTourChannel.png",On Tour Channel 🇨🇱
-https://marine2.miplay.cl/ontour/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="GBBC4300003XU" tvg-name="" group-title="📺 Lifestyle 🏡" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/reallife.webp",Real Life 🇺🇸 🟤
@@ -1699,9 +1695,9 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 
 
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇺🇸
+#EXTINF:-1 tvg-id="mjh-discovery-hgtv" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇺🇸
 https://mediapackage-hgtv-source.fullscreen.nz/index_4.m3u8
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="mjh-discovery-hgtv" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
 https://github.com/openwindows037/sri-tv/raw/main/hgtv.m3u8
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="📺 Documentaries 🏛️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV 🇮🇳🇺🇸
 https://dplus.gammacdn.workers.dev/videos/111.m3u8
