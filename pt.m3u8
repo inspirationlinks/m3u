@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/PTepg,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz"
+#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/PTepg,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz" refresh="3600"
 
 
 
@@ -1204,8 +1204,12 @@ http://iptv.prosto.tv:7000/ch206/video.m3u8
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="" group-title="📺 England 🇬🇧🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp",BBC One 🇬🇧 🟡
 http://95.214.235.96:8880/29ca12143n03/3rd32332/2950
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBCTwoHD.uk" group-title="📺 England 🇬🇧🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20Two.webp",BBC Two 🇬🇧 
+http://217.27.239.226:8888/play/41/index.m3u8
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBCTwoHD.uk" group-title="📺 England 🇬🇧🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20Two.webp",BBC Two 🇬🇧 🟡
 http://95.214.235.96:8880/29ca12143n03/3rd32332/2949
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBCTwoHD.uk" group-title="📺 England 🇬🇧🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20Two.webp",BBC Two 🇬🇧 
+http://217.27.239.226:8888/play/39/index.m3u8
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="" group-title="📺 England 🇬🇧🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20Three.webp",BBC Three 🇬🇧 🟡
 http://95.214.235.96:8880/29ca12143n03/3rd32332/2948
 
