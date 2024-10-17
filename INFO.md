@@ -1,24 +1,6 @@
 
 # 📺 💻 📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv 📺 💻 📱 
 
-☕💰 Pagar um café 💰☕
-
-🔗 https://ko-fi.com/R6R5SJ5L8
-
----
-
-✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou POR transferência bancaria.
-[O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
-
-✅ 🇬🇧 If you are interested, you can contribute through the link indicated above through KO-FI, or by MBWAY, or BY bank transfer.
-[IBAN OR MOBILE NUMBER will be provided by private message]
-Please help fund the bandwidth costs to provide frequent updates to m3u
-
-📌 🇵🇹 O teu apoio incentiva-me a dedicar mais tempo a este projeto que ja perdora a mais de 10 Anos. Precisamos de apoio e estimulo para continuar a trabalhar em prol de todos poderem usufruir de uma lista gratuita.
-
-📌 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
-
----
 
 # 📝 INDICE | LEGENDAS 📝 
 
