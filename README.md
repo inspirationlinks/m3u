@@ -98,10 +98,10 @@ Please help fund the bandwidth costs to provide frequent updates to m3u
 
 ---
 
-# ✅ Lista Inspiration Live TV M3U
-
-## **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
-(Basta copiar e colar)
+# ✅ Lista Inspiration Live TV M3U (Basta copiar e colar)
+```bash
+https://bit.ly/41B7IFk
+```
 
 ---
 
