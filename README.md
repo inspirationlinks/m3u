@@ -1,7 +1,12 @@
+## :euro: Donation por PayPal
+
+✅ 🇵🇹 Este projeto de IPTV gratuito foi projetado para economizar tempo e dinheiro, proporcionando uma experiência de streaming. Se achou este projeto e iniciativa útil... considere fazer uma doação através do PayPal. Qualquer contribuição, por menor que seja, é muito apreciada e ajuda a manter este projeto que já perdura a mais de uma década. Obrigado pelo seu apoio!
+
+✅ 🇬🇧 This free IPTV project is designed to save you time and money while providing a streaming experience. If you found this project and initiative useful... consider making a donation through PayPal. Any contribution, no matter how small, is greatly appreciated and helps maintain this project that has been going on for over a decade. Thank you for your support!
+
+[![Paypal](https://github.com/inspirationlinks/m3u/blob/live/LogosTv/donativoPaypal.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS)
+
 # 🚩 Siga nos
-
-
-<a href='https://ko-fi.com/R6R5SJ5L8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="github Inspiration" width="133" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="133" height="140" border="0" /></a><a href="https://t.me/inspirationfreetv/1" target="_blank" rel="noopener"><img class="alignleft" style="border: 0px; height: 133px;" src="https://github.com/inspirationlinks/m3u/raw/live/Logos/freetv.png?w=210" alt="Grupo Telegram" width="124" height="150" border="0" /></a></p>
 
