@@ -10,18 +10,6 @@
 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="github Inspiration" width="133" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="133" height="140" border="0" /></a><a href="https://t.me/inspirationfreetv/1" target="_blank" rel="noopener"><img class="alignleft" style="border: 0px; height: 133px;" src="https://github.com/inspirationlinks/m3u/raw/live/Logos/freetv.png?w=210" alt="Grupo Telegram" width="124" height="150" border="0" /></a></p>
 
-
-✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou Por transferência bancaria.
-[O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
-
-✅ 🇬🇧 If you are interested, you can contribute through the link indicated above through KO-FI, or by MBWAY, or BY bank transfer.
-[IBAN OR MOBILE NUMBER will be provided by private message]
-Please help fund the bandwidth costs to provide frequent updates to m3u
-
-✅ 🇵🇹 O teu apoio incentiva-me a dedicar mais tempo a este projeto que ja perdora a mais de 10 Anos. Precisamos de apoio e estimulo para continuar a trabalhar em prol de todos poderem usufruir de uma lista gratuita.
-
-✅ 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
-
 ---
 
 # 🎯 Purpose
