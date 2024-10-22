@@ -31,6 +31,12 @@
 
 ---
 
+# 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+
+## [📺 📋 Confira a Lista Completa Canais](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20LIVETV)
+
+---
+
 # 🔔 Indice da lista inspiration live tv
 * 👇 Para perceber como está organizada a lista m3u em termos de <u> Estrutura</u> , clique em <b>"INDICE"</b> 👇
 
@@ -42,40 +48,6 @@
 * 👇 Para perceber como está organizada a lista m3u em termos de <u> Grupos</u> , clique em <b>"CATEGORIAS"</b> 👇
 
 [🗃️ CATEGORIAS](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categorias-%EF%B8%8F)
-
----
-
-# 👍🏻 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv Recommended IPTV players
-
-
-## 🥇 Simpletv V12.8.14 x32 vlc3020 For Windows
-
-![SIMPLETV](/Logos/banners/simpletv.png "SIMPLETV IPTV")
-
-[👉 🖧 Download Simple tv](https://www.mediafire.com/file/qnjm91dlsdjwckl/simpleTV_InspirationFREE_B12.8.14_%2528x32_vlc3020%2529.7z/file)
-
-### ❗❗ INFO E VERSÃO DO SIMPLE TV: (v0.5.0 b12.8.14) 
-
-* <b>Lista M3U Inspiration FREETV Incluída</b> (Lista LiveTv só fazendo uma doaçao)
-
-* (Atualização automática e manual ativadas)
-
-* <b>TV SOURCES</b> (v3.86)
-
-* <b>Skins</b> (DarkMod - "modificada por ɪɴsᴘɪʀᴀᴛɪᴏɴ") 
-
-* <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [Idioma automático do Áudio Predefinido] - (eng,prt,bra,esp,ita)
-
-* <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [Idioma  automático de Legenda Predefinido] - (eng,prt,bra,esp,ita)
-
-* <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [EPG] - (Varias fontes de EPG adicionadas de varios Países (🇵🇹 🇧🇷 🇪🇸 🇫🇷 🇮🇹 🇲🇽 🇦🇷 🇺🇸 🇬🇧)
-
-* <b>Sistema Windows 32 bits</b> (funciona muito bem num sistema de 64 bits).
-
-* <b>VLC</b> (v3020)
-
-
-### [📢 🛠️ Configurações e Tutoriais do Simpletv](https://inspirationlinks.boards.net/board/16/simple-tv)
 
 ---
 
@@ -95,12 +67,6 @@
 ```bash
 https://bit.ly/41B7IFk
 ```
-
----
-
-# 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
-
-## [📺 📋 Confira a Lista Completa Canais](https://bit.ly/ListTotalCanais)
 
 ---
 
