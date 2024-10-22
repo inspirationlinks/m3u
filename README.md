@@ -62,14 +62,6 @@ https://bit.ly/41B7IFk
 
 ---
 
-# ✏️ 📋 Notas
-
-* ➾ RTP channels don't open in some players.
-* ➾ SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
-* ➾ Some streams the Acestream, only work on Simple tv.
-
----
-
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
 ## ⭐ GitHub stars
