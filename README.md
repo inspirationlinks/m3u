@@ -63,7 +63,7 @@
 
 ---
 
-# ✅ Lista Inspiration Live TV M3U (Basta copiar e colar)
+# ✅ Lista Inspiration Free TV (Basta copiar e colar)
 ```bash
 https://bit.ly/41B7IFk
 ```
@@ -78,7 +78,7 @@ https://bit.ly/41B7IFk
 
 ---
 
-<a href='https://ko-fi.com/R6R5SJ5L8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
 ## ⭐ GitHub stars
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
