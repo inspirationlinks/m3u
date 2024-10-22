@@ -31,28 +31,20 @@
 
 ---
 
-# 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+# 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-## [📺 📋 Confira a Lista Completa Canais](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20LIVETV)
+## [📺 📋 Confira a Lista Completa Canais](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20FREETV)
 
 ---
 
-# 🔔 Indice da lista inspiration live tv
+# 🔔 Indice da lista inspiration Free tv
 * 👇 Para perceber como está organizada a lista m3u em termos de <u> Estrutura</u> , clique em <b>"INDICE"</b> 👇
 
 [📝 INDICE](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
 ---
 
-# 🔔 Categorias da lista inspiration live tv
-* 👇 Para perceber como está organizada a lista m3u em termos de <u> Grupos</u> , clique em <b>"CATEGORIAS"</b> 👇
-
-[🗃️ CATEGORIAS](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categorias-%EF%B8%8F)
-
----
-
 ## 🥇 OTT Navigator IPTV 
-
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
